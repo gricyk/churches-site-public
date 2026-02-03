@@ -1004,6 +1004,28 @@ article h2 {
 }
 
 /* === УЛУЧШЕНИЕ ACCESSIBILITY === */
+
+/* Skip-link: скрыт по умолчанию, появляется при фокусе (Tab) */
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  background: #1976d2;
+  color: white !important;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  font-weight: 600;
+  z-index: 10000;
+  border-radius: 0 0 8px 0;
+  transition: top 0.2s;
+}
+
+.skip-link:focus {
+  top: 0;
+  outline: 3px solid #ff9800;
+  outline-offset: 2px;
+}
+
 /* Фокус для клавиатурной навигации */
 a:focus, button:focus {
   outline: 2px solid #3498db;
