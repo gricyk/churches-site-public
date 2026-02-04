@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 408
+Total churches: 407
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -342,19 +342,6 @@ Each church entry contains:
 
 
 - URL: https://spasenie.eu/churches/europe/belgium/antwerpen-filadelfia/
-
-
-
-
-#### Церква в Брюсселі (Кудренецький)
-- Description: Ukrainian Church Brussels
-
-- Coordinates: 50.8503, 4.3517
-- Phone: +32 472541138
-- Email: kudrinietskii@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/belgium/brussels-kudrenetskyy/
 
 
 
