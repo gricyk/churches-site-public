@@ -2569,7 +2569,7 @@ Each church entry contains:
 
 
 
-#### Церковь «Благодать» в Гданьске
+#### Церковь «Благодать» в Гданьске (ЕХБ)
 - Description: Grace Church Gdańsk
 - Address: Jana Kilińskiego 4, 80-266 Gdańsk, Poland
 - Coordinates: 54.352, 18.6466
