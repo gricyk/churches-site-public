@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 248
+Total churches: 398
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -28,6 +28,50 @@ Each church entry contains:
 
 
 ### EUROPE
+
+
+
+
+**Латвия / Latvia**
+
+
+#### Баптистская церковь «Трисвиенибас» – OGRE, LATVIA
+
+- Address: 15 Vidus prospekts, Ogre, Ogres novads LV-5001, Latvijas Republika
+- Coordinates: 56.8219423, 24.5883782
+- Phone: +371 65021415
+- Email: otbdraudze@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/latvia/ogre-trisvienibas/
+
+
+
+
+#### Библейская церковь Краслава
+- Description: Krāslavas baptistu draudze
+- Address: Rīgas iela 112, LV-5601 Krāslava, Latgale, Latvia
+- Coordinates: 55.9, 27.1667
+- Phone: +371 297 81183
+- Email: pastorslava@inbox.lv
+
+- Schedule: Воскресенье 14:00 (Воскресное богослужение); Четверг 10:00 (Служение);
+- URL: https://spasenie.eu/churches/europe/latvia/kraslava-biblijna/
+
+
+
+
+#### Церковь христиан-баптистов города Олайне
+- Description: Olaines baptistu draudze
+- Address: Zemgales 4a - 1, LV-2114 Olaine, Rīgas rajons, Latvia
+- Coordinates: 56.7833, 23.9333
+- Phone: +371 259 03425
+- Email: golos@inbox.lv
+
+- Schedule: Воскресенье 10:00 (Воскресное богослужение (на русском)); Воскресенье 12:00 (Исследование Библии (на русском));
+- URL: https://spasenie.eu/churches/europe/latvia/olaine-baptist/
+
+
 
 
 
@@ -1758,37 +1802,6 @@ Each church entry contains:
 
 - Schedule: Четверг 15:00 (Служение); Воскресенье 15:00 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/italy/firenze-slovo-zhizni/
-
-
-
-
-
-
-**Латвия / Latvia**
-
-
-#### Библейская церковь Краслава
-- Description: Krāslavas baptistu draudze
-- Address: Rīgas iela 112, LV-5601 Krāslava, Latgale, Latvia
-- Coordinates: 55.9, 27.1667
-- Phone: +371 297 81183
-- Email: pastorslava@inbox.lv
-
-- Schedule: Воскресенье 14:00 (Воскресное богослужение); Четверг 10:00 (Служение);
-- URL: https://spasenie.eu/churches/europe/latvia/kraslava-biblijna/
-
-
-
-
-#### Церковь христиан-баптистов города Олайне
-- Description: Olaines baptistu draudze
-- Address: Zemgales 4a - 1, LV-2114 Olaine, Rīgas rajons, Latvia
-- Coordinates: 56.7833, 23.9333
-- Phone: +371 259 03425
-- Email: golos@inbox.lv
-
-- Schedule: Воскресенье 10:00 (Воскресное богослужение (на русском)); Воскресенье 12:00 (Исследование Библии (на русском));
-- URL: https://spasenie.eu/churches/europe/latvia/olaine-baptist/
 
 
 
@@ -3994,6 +4007,58 @@ Each church entry contains:
 **Канада / Canada**
 
 
+#### Баптистская Церковь – Vancouver, BC
+
+- Address: 4850 Windsor St. Vancouver, BC V5V4R2 Canada
+- Coordinates: 49.24102449999999, -123.0837017
+- Phone: 604-418-0373
+- Email: bbychkov@hotmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/canada/vancouver-bc-church/
+
+
+
+
+#### Канадская Баптистская церковь Монреаля
+
+- Address: 1012 Ch Saint-Clare, Mont-Royal QC, Canada
+- Coordinates: 45.50637, -73.646686
+- Phone: +1 (514) 803-1989
+- Email: info@montrealchurch.com
+
+
+- URL: https://spasenie.eu/churches/north-america/canada/royal-qc-kanadskaya-monrealya/
+
+
+
+
+#### Церковь Надежда – Kelowna, BC
+
+- Address: 710 Lawson Ave. Kelowna, BC V1Y6S8 Canada
+- Coordinates: 49.8873508, -119.4884662
+- Phone: 250-300-4900
+
+
+
+- URL: https://spasenie.eu/churches/north-america/canada/kelowna-bc-nadezhda/
+
+
+
+
+#### Церковь Перекрёсток – Saskatoon, SK
+
+- Address: 107 McWillie Ave, Saskatoon, SK S7S 1B2, Canada
+- Coordinates: 52.156183, -106.596753
+- Phone: 1(306)717 4636
+- Email: intersection_@outlook.com
+
+
+- URL: https://spasenie.eu/churches/north-america/canada/saskatoon-sk-perekrestok/
+
+
+
+
 #### Русскоговорящая баптистская церковь «Источник жизни» в Эдмонтоне
 - Description: Source of Life Baptist Church Edmonton
 - Address: Parkview Park 9135 146 St NW, Edmonton, AB T5R 4L5, Canada
@@ -4003,6 +4068,1896 @@ Each church entry contains:
 
 - Schedule: Воскресенье 14:30 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/north-america/canada/edmonton-istochnik-zhizni/
+
+
+
+
+
+
+**США / United States**
+
+
+#### Bible Mission Global
+
+- Address: 5600 Wyoming Blvd. NE Suite 180 Albuquerque, NM 87109
+- Coordinates: 35.1436579, -106.55150100000003
+- Phone: 505-797-1950
+- Email: j.sandager@biblemissions.org
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/albuquerque-nm-bible-mission-global/
+
+
+
+
+#### Golgotha Slavic Baptist Church – Spartanburg, SC
+
+- Address: 897 S Pine St, Spartanburg, SC 29302
+
+
+- Email: golgotha.church.sc@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/spartanburg-sc-golgotha-slavic-baptist-church/
+
+
+
+
+#### Баптистская церковь – Bowling Green, KY
+
+- Address: 3219 Nashville Rd. Bowling Green, KY 42101
+- Coordinates: 36.9492082, -86.47801649999997
+- Phone: (270) 535-7072
+- Email: pasha181@yahoo.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/bowling-green-ky-church/
+
+
+
+
+#### Баптистская церковь Вифания – Los Angeles, CA
+
+- Address: 2960 East 8th Street, Los Angeles, CA 90023-2138
+- Coordinates: 34.0249432, -118.21293660000003
+- Phone: 919) 746-7372
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/los-angeles-ca-vifaniya/
+
+
+
+
+#### Баптистская Церковь Любви – Oregon City, OR
+
+- Address: 1010 9th Street Oregon City, OR 97045
+- Coordinates: 45.3558552, -122.5999569
+- Phone: 503-722-4478
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/oregon-city-or-lyubvi/
+
+
+
+
+#### Баптистская церковь Пилигрим –  Spokane, WA
+
+- Address: 212 S. Lincoln Street Spokane, WA 99201
+- Coordinates: 47.6541672, -117.4254045
+- Phone: 509-747-6460
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/spokane-wa-piligrim/
+
+
+
+
+#### Баптистская церковь Рок-ланд – Sacramento, CA
+
+- Address: 5132 Elkhorn Blvd, Sacramento, CA 95842-2505
+- Coordinates: 38.6844062, -121.3390821
+- Phone: (916) 600-4804
+- Email: office@rocklandchurch.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/sacramento-ca-rok-land/
+
+
+
+
+#### Баптистская церковь Спасение – Edgewood, WA
+
+- Address: 10622 8 Street East Edgewood, WA 98372
+- Coordinates: 47.2498446, -122.2875269
+- Phone: (253) 952-7163
+- Email: info@SalvationSBC.info
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/edgewood-wa-spasenie/
+
+
+
+
+#### Баптистская церковь, – Louisville, KY
+
+- Address: 5012 South Watterson Trail Louisville 40291
+- Coordinates: 38.1746646, -85.623532
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/louisville-ky-church/
+
+
+
+
+#### Библейская Славянская Миссия в США – Eagan, MN
+
+- Address: 1708 Meadow View Rd, Eagan, MN 55121
+- Coordinates: 44.844529688093, -93.186903249542
+- Phone: (952) 270-6279
+- Email: konstantin@biblemissions.org
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/eagan-mn-bibleyskaya-slavyanskaya-missi/
+
+
+
+
+#### Библейская церковь Истина – Tacoma, WA
+
+- Address: 1801 N. Pearl St., Tacoma, WA 98406
+- Coordinates: 47.2657539, -122.5150795
+- Phone: (253) 579-8018
+- Email: info@truthbc.org
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/tacoma-wa-bibleyskaya-tserkov-istina/
+
+
+
+
+#### Брат ТВ – Sacramento, CA
+
+- Address: Sacramento, CA
+- Coordinates: 38.5815719, -121.4943996
+- Phone: (916) 429-7635
+- Email: ibrattv@yahoo.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/sacramento-ca-brat-tv/
+
+
+
+
+#### Вторая баптистская церковь – North Highlands, CA
+
+- Address: 6601 Watt Ave, North Highlands, CA 95660
+- Coordinates: 38.6867136, -121.3837553
+- Phone: (916) 349-1383
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/north-highlands-ca-baptistskaya-tserkov/
+
+
+
+
+#### Газета Наши Дни – West Sacramento, CA
+
+- Address: 639 Welland Way, West Sacramento, CA 95605
+- Coordinates: 38.5922117, -121.5166186
+- Phone: (916) 457-2626
+- Email: ourdays@sbcglobal.net
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/west-sacramento-ca-gazeta-nashi-dni/
+
+
+
+
+#### Дом Молитвы – Green Bay, WI
+
+- Address: 1830 S Military Ave. Green Bay, WI 54304
+- Coordinates: 44.5061767, -88.06877550000002
+- Phone: 920-370-6816
+- Email: andreyokhman@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/green-bay-wi-dom-molitvy/
+
+
+
+
+#### Евангельская христианская церковь – Montebello, CA
+
+- Address: 2000 W. Olympic Blvd., Montebello, CA 90640
+- Coordinates: 34.0107732, -118.1236716
+
+- Email: info@slavicecc.org
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/montebello-ca-evangelskaya-hristianskaya-tse/
+
+
+
+
+#### Журнал Голос Истины – Spokane, WA
+
+- Address: Spokene, WA
+- Coordinates: 47.6587802, -117.4260465
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/spokane-wa-zhurnal-golos-istiny/
+
+
+
+
+#### Журнал Злачные Пажити – Spokane, WA
+
+- Address: 8913 N Nettleton Ln., Spokane, WA, 99208, USA
+- Coordinates: 47.73946797815994, -117.4461320410004
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/spokane-wa-zhurnal-zlachnye-pazhiti/
+
+
+
+
+#### Объединенная Баптистская церковь – Medina, OH
+
+- Address: 2920 Pearl Rd, Medina, OH 44256, United States
+- Coordinates: 41.195865, -81.847492
+- Phone: 330-421-0787
+- Email: MEDINAUBC@GMAIL.COM
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/medina-oh-obedinennaya/
+
+
+
+
+#### Объединенная церковь ЕХБ – Tacoma, WA
+
+- Address: 7435 South Madison St. Tacoma WA 98409
+- Coordinates: 47.188951, -122.48962560000001
+- Phone: 206-403-5517
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/tacoma-wa-obedinennaya-tserkov-ehb/
+
+
+
+
+#### Первая Баптистская Церковь – Harrisonburg, VA
+
+- Address: 784 Dinkel Ave, Mt Crawford, VA 22841
+- Coordinates: 38.3703112, -78.9488622
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/harrisonburg-va-church/
+
+
+
+
+#### Первая баптистская церковь – Lincoln, NE
+
+- Address: 3801 La Salle St, Lincoln, NE 68516
+- Coordinates: 40.765643, -96.665125
+- Phone: 402-802-1133
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/lincoln-ne-baptistskaya-tserkov/
+
+
+
+
+#### Первая Баптистская церковь – Saint Paul, MN
+
+- Address: 5 Ash St. Saint Paul, MN 55126
+- Coordinates: 45.125286, -93.142697
+- Phone: 763-222-7165
+- Email: aleksskrynnik@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/saint-paul-mn-church/
+
+
+
+
+#### Первая баптистская церковь – San Francisco, CA
+
+- Address: 1300 Balboa Street, San Francisco, CA 94118
+- Coordinates: 37.7770133, -122.472899
+- Phone: (415) 746-7926
+- Email: de.atbalboa@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/san-francisco-ca-baptistskaya-tserkov/
+
+
+
+
+#### Первая Баптистская церковь – Sedalia, MO
+
+- Address: 29636 S Grand Avе. Rd Sedalia, MO 65301
+- Coordinates: 38.6449615, -93.2426282
+- Phone: 660-281- 6253
+- Email: sergiubalkan@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/sedalia-mo-church/
+
+
+
+
+#### Первая Баптистская Церковь – Wheaton, IL
+
+- Address: 1900 Manchester Rd. Wheaton, IL 60187
+- Coordinates: 41.8640911, -88.13223949999997
+- Phone: (630) 774-6633
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/wheaton-il-church/
+
+
+
+
+#### Первая Русская Баптистская Церковь – Gorham, Maine
+
+- Address: 211 Mosher Rd, PO Box 695, Gorham, ME 04038, United States
+- Coordinates: 43.714668, -70.41646000000003
+- Phone: (207) 892-8324
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/gorham-me-russkaya/
+
+
+
+
+#### Первая Славянская Баптистская Церковь – Charlotte, NC
+
+- Address: 7600 Plott Rd Charlotte, NC 28215
+- Coordinates: 35.243423, -80.715877
+- Phone: 980-721-7541
+- Email: vasiliyyeremuk@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/charlotte-nc-slavyanskaya/
+
+
+
+
+#### Первая Славянская Баптистская Церковь – Sacramento, CA
+
+- Address: 7238 Cromwell Way, Sacramento, CA 95822, United States
+- Coordinates: 38.494554, -121.497148
+- Phone: (916) 421-2872
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/sacramento-ca-slavyanskaya/
+
+
+
+
+#### Первая Славянская церковь – Salem, OR
+
+- Address: 1746 Davis Rd S Salem, OR 97306
+- Coordinates: 44.8719233, -123.0689267
+- Phone: 503-566-7211
+- Email: thesvap@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/salem-or-slavyanskaya-tserkov/
+
+
+
+
+#### Первая Славянская Церковь – Tulsa, OK
+
+- Address: 8181 E 31st St, Tulsa, OK 74145
+- Coordinates: 36.119468927713, -95.882459878922
+- Phone: 918-899-8357
+- Email: vvalasiuk@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/tulsa-ok-slavyanskaya-tserkov/
+
+
+
+
+#### Первая украинская евангельская баптистская церковь – Minneapolis, MN
+
+- Address: 5450 W 41st St, Minneapolis, MN 55416
+- Coordinates: 44.9274222, -93.3492245
+- Phone: +1 6122818254
+- Email: melnii@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/minneapolis-mn-ukrainskaya-evangelskaya-bapti/
+
+
+
+
+#### Первая Украинская Евангельско-Баптастская Церковь – Roseville, CA
+
+- Address: 1038 Melody Ln Roseville, CA 95678
+- Coordinates: 38.7274225, -121.2912104
+- Phone: 916-334-1466
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/roseville-ca-ukrainskaya-evangelsko-baptast/
+
+
+
+
+#### Перша Українська Євангельсько-Баптистcька Церква – Philadelphia, PA
+
+- Address: 9610 Northeast Ave Philadelphia, PA 19115
+- Coordinates: 40.0920574, -75.0411647
+- Phone: 2676861420
+- Email: kalys9@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/philadelphia-pa-persha-ukrayinska-yevangelsko-/
+
+
+
+
+#### Радио Мир Вам – Port Republic, VA
+
+- Address: Port Republic, VA
+- Coordinates: 38.2962397, -78.8105803
+- Phone: (949)464-7826
+- Email: contact@mirvamradio.org
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/port-republic-va-radio-mir-vam/
+
+
+
+
+#### Радио На Пути – South Prairie, WA
+
+- Address: South Prairie, WA 98385
+- Coordinates: 47.1397414, -122.1001711
+- Phone: +1 (253) 952-7163
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/south-prairie-wa-radio-na-puti/
+
+
+
+
+#### Радио Пульс Веры – Minneapolis, MN
+
+- Address: Eagan, MN
+- Coordinates: 44.8041322, -93.1668858
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/minneapolis-mn-radio-puls-very/
+
+
+
+
+#### Радио Свет – Portland, OR
+
+- Address: 5110 SE Stark St Portland, Oregon
+- Coordinates: 45.5190453, -122.6101449
+- Phone: 1 (503) 972-1130
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/portland-or-radio-svet/
+
+
+
+
+#### Реабилитационный центр Дом Надежды – Kent, WA
+
+- Address: Kent, WA
+- Coordinates: 47.3809335, -122.2348432
+- Phone: (877) 627-8844
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/kent-wa-reabilitatsionnyy-tsentr-dom-n/
+
+
+
+
+#### Реб. Центр Возрождение – Sturgeon Lake, MN
+
+- Address: 10414 260th St Sturgeon Lake MN 55783
+- Coordinates: 46.390289, -93.062394
+- Phone: (612) 968-6130
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/sturgeon-lake-mn-reb-tsentr-vozrozhdenie/
+
+
+
+
+#### Русская баптистская церковь –  Lenexa, KS
+
+- Address: 15320 W 87th St Pkwy, Lenexa, KS 66219
+- Coordinates: 38.972093, -94.764373
+- Phone: 913-406-5408
+- Email: sdresvyannikov@inbox.ru
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/lenexa-ks-baptistskaya-tserkov/
+
+
+
+
+#### Русская баптистская церковь – Albany, NY
+
+- Address: 281 Washington Ave Albany, NY 12206
+- Coordinates: 42.6586154, -73.7662411
+- Phone: 518-253-9608
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/albany-ny-baptistskaya-tserkov/
+
+
+
+
+#### Русская Баптистская церковь – Brooklyn, NY
+
+- Address: 2929 West 20th Street Brooklyn, NY 11224
+- Coordinates: 40.575581, -73.986437
+- Phone: (347) 576-5059
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/brooklyn-ny-church/
+
+
+
+
+#### Русская баптистская церковь – Dearborn, MI
+
+- Address: 1400 N Prospect Rd Ypsilanti, MI 48198
+- Coordinates: 42.2595396, -83.6024542
+- Phone: (734) 395-0874
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/dearborn-mi-baptistskaya-tserkov/
+
+
+
+
+#### Русская Баптистская Церковь – Dublin, OH
+
+- Address: 5027 Avery Rd, Dublin, OH 43016
+- Coordinates: 40.061611, -83.162574
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/dublin-oh-church/
+
+
+
+
+#### Русская Баптистская церковь – Erie, PA
+
+- Address: 449 E. 9TH STREET ERIE, PA 16503
+- Coordinates: 42.1301309, -80.0728526
+- Phone: (814) 969-5422
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/erie-pa-church/
+
+
+
+
+#### Русская Баптистская церковь – Greenfield, MA
+
+- Address: 805 Bernardston Rd, Greenfield, MA 01301, United States
+- Coordinates: 42.624176, -72.574385
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/greenfield-ma-church/
+
+
+
+
+#### Русская Баптистская Церковь – State College, PA
+
+- Address: 3645 West College Avenue State College PA 16801 USA
+- Coordinates: 40.7538955, -77.8727254
+- Phone: (814) 359-2524
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/state-college-pa-church/
+
+
+
+
+#### Русская Баптистская церковь – Westfield, MA
+
+- Address: 866 North Rd, Westfield, MA 01085, United States
+- Coordinates: 42.17957, -72.7054324
+- Phone: (413) 572-0037
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/westfield-ma-church/
+
+
+
+
+#### Русская Баптистская церковь Брайт
+
+- Address: 1000 Sacramento Ave. West Sacramento, CA 95605
+- Coordinates: 38.58990059570483, -121.52770008220341
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/west-sacramento-ca-brayt/
+
+
+
+
+#### Русско-Украинская Баптистская церковь – Cleveland, OH
+
+- Address: 2071 W 11th St, Cleveland, OH 44113
+- Coordinates: 41.4839365, -81.68899679999998
+- Phone: 440-940-4030
+- Email: info@clevelandebchurch.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/cleveland-oh-church/
+
+
+
+
+#### Русско-Украинская баптистская церковь – Passaic NJ
+
+- Address: 19 Summer Street, Passaic NJ 07055
+- Coordinates: 40.8701449, -74.12892069999998
+- Phone: 9737771690
+- Email: svetaqt@yahoo.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/passaic-nj-baptistskaya-tserkov/
+
+
+
+
+#### Русско-Украинская Баптистская церковь – West Hartford, CT
+
+- Address: 1855 Albany Ave West Hartford, CT 06117
+- Coordinates: 41.7866604, -72.7166173
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/west-hartford-ct-church/
+
+
+
+
+#### Русско-Украинская церковь –  St louis, MO
+
+- Address: 9525 Eddie And Park, Crestwood, MO, 63126
+- Coordinates: 38.5530515, -90.3238269
+- Phone: 636-744-2660
+- Email: moyseyev@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/st-louis-mo-tserkov/
+
+
+
+
+#### Русско-Украинская церковь – Endicott, NY
+
+- Address: 751 Farm To Market Rd Endicott NY 13760
+- Coordinates: 42.1283421, -76.0240952
+- Phone: (607) 372-0164
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/endicott-ny-tserkov/
+
+
+
+
+#### Русско-Украинская церковь – Wilkes-Barre, PA
+
+- Address: 63 Hillside St Wilkes-Barre, PA 18702
+- Coordinates: 41.2355735, -75.8738766
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/barre-pa-tserkov/
+
+
+
+
+#### Славянская Баптистская церковь – Anaheim, CA
+
+- Address: 310 S Lemon St Anaheim, CA 92805
+- Coordinates: 33.832655, -117.9148538
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/anaheim-ca-church/
+
+
+
+
+#### Славянская Баптистская церковь – Bellingham, WA
+
+- Address: 1413 Broadway, Bellingham, WA 98225
+- Coordinates: 48.7590184, -122.49042480000003
+- Phone: 360-756-8338
+- Email: slavicbchurch@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/bellingham-wa-church/
+
+
+
+
+#### Славянская Баптистская Церковь – Brookhaven, PA
+
+- Address: 415 Edwards Drive, Brookhaven, 19015, Pennsylvania, USA
+- Coordinates: 39.8686336, -75.3900836
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/brookhaven-pa-church/
+
+
+
+
+#### Славянская баптистская церковь – Elkhart, In
+
+- Address: 420 South West Blvd Elkhart, IN 46514
+- Coordinates: 41.6809248, -85.99752569999998
+- Phone: 5742020298
+- Email: sbc.elkhart@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/south-west-blvd-elkhart-in-baptistskaya-tserkov/
+
+
+
+
+#### Славянская Баптистская церковь – Escondido, Ca
+
+- Address: 855 Brotherton Rd. Escondido, CA 92025
+- Coordinates: 33.0951348, -117.0819604
+- Phone: 1-760-273-4599
+- Email: SlavicEvangelicalChurch@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/escondido-ca-church/
+
+
+
+
+#### Славянская баптистская церковь – Harrisburg, PA
+
+- Address: 95 Maple Hill Dr, Goldsboro, PA 17319
+- Coordinates: 40.1401776, -76.79725329999997
+- Phone: (717) 575-6782
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/harrisburg-pa-baptistskaya-tserkov/
+
+
+
+
+#### Славянская Баптистская Церковь – Hemet, CA
+
+- Address: 26835 Columbia St Hemet, California 92544
+- Coordinates: 33.7319487, -116.94595229999999
+- Phone: (951) 303-4787
+- Email: slavicchurchofhemet@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/hemet-ca-church/
+
+
+
+
+#### Славянская Баптистская церковь – Londonderry, NH
+
+- Address: 7 Hall Rd. Londonderry NH 03053
+- Coordinates: 42.915646, -71.4031739
+- Phone: (603) 605-0501
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/londonderry-nh-church/
+
+
+
+
+#### Славянская баптистская церковь – Los Angeles, CA
+
+- Address: 545 N. Commonwealth Avenue, Los Angeles, CA 90004
+- Coordinates: 34.0807231, -118.2858932
+- Phone: (323) 666-5674
+- Email: pastor@sebchurch.org
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/los-angeles-ca-baptistskaya-tserkov/
+
+
+
+
+#### Славянская Баптистская Церковь – Manchester, NH
+
+- Address: 536 Union St, Manchester, NH 03104, United States
+- Coordinates: 42.9925124, -71.4578113
+- Phone: (603) 668-4709
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/manchester-nh-church/
+
+
+
+
+#### Славянская Баптистская Церковь – Manhattan, NY
+
+- Address: 236 West 72nd St New York, NY 10023
+- Coordinates: 40.7790229, -73.9833588
+- Phone: 917-733 2296
+- Email: info@russianchristiansny.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/manhattan-ny-church/
+
+
+
+
+#### Славянская Баптистская церковь – Palm Coast, FL
+
+- Address: 205 NORTH PINE STREET, BUNNELL, FL 32110
+- Coordinates: 29.4674567, -81.25797060000002
+- Phone: 386-383-7227
+- Email: churchofpc@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/palm-coast-fl-church/
+
+
+
+
+#### Славянская баптистская церковь – Peabody, MA
+
+- Address: 4 Coolidge Rd, Peabody, MA 01960
+- Coordinates: 42.5242663, -70.93071509999999
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/peabody-ma-baptistskaya-tserkov/
+
+
+
+
+#### Славянская Баптистская Церковь – Pittsburgh, PA
+
+- Address: 3100 Pioneer Ave Pittsburgh, PA 15226
+- Coordinates: 40.3955886, -80.0307093
+- Phone: 412-999-9878
+- Email: otkachuk@netzero.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/pittsburgh-pa-church/
+
+
+
+
+#### Славянская баптистская церковь – Rochester, NY
+
+- Address: 3200 St Paul Blvd Rochester, NY 14617
+- Coordinates: 43.2148358, -77.60762299999999
+- Phone: (585) 352-4964
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/rochester-ny-baptistskaya-tserkov/
+
+
+
+
+#### Славянская баптистская церковь – Rockford, IL
+
+- Address: 3046 16th St. Rockford, IL 611109
+- Coordinates: 42.2293017, -89.0620846
+- Phone: 815-621-4583
+- Email: asemenchyuk@yahoo.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/rockford-il-baptistskaya-tserkov/
+
+
+
+
+#### Славянская Баптистская церковь – Saint Petersburg, FL
+
+- Address: 3883 69th St N Saint Petersburg, FL 33709
+- Coordinates: 27.807018, -82.7338259
+- Phone: (727) 953-2524
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/saint-petersburg-fl-church/
+
+
+
+
+#### Славянская Баптистская Церковь – Shakopee, MN
+
+- Address: 1205 E. 10th Avenue, Shakopee, MN 55379
+- Coordinates: 44.78827700404219, -93.50950816247456
+
+- Email: secretary@evangelistmn.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/shakopee-mn-church/
+
+
+
+
+#### Славянская Баптистская Церковь – Stevens, PA
+
+- Address: 205 Gocley Rd Stevens, PA 17578
+- Coordinates: 40.2405676, -76.1876854
+- Phone: 7173361676
+- Email: bozhko.yuriy65@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/stevens-pa-church/
+
+
+
+
+#### Славянская Баптистская церковь – Syracuse, NY
+
+- Address: 4176 Split Rock Rd, Syracuse, NY 13031, United States
+- Coordinates: 43.022816, -76.22339799999997
+- Phone: (315) 488-6168
+- Email: sbcsyracuse@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/syracuse-ny-church/
+
+
+
+
+#### Славянская баптистская церковь – Vineland, NJ
+
+- Address: 5337 Chestnut Ave, Vineland, NJ 08360
+- Coordinates: 39.473774, -74.92630299999996
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/vineland-nj-baptistskaya-tserkov/
+
+
+
+
+#### Славянская баптистская церковь – West Sacramento
+
+- Address: 1716 Willow Avenue, West Sacramento, CA 95691
+- Coordinates: 38.5785655, -121.53097880000001
+- Phone: (916) 374-8806
+- Email: sbcws@mail.ru
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/west-sacramento-ca-baptistskaya-tserkov/
+
+
+
+
+#### Славянская баптистская церковь – Yuba City, CA
+
+- Address: 804 Cooper Avenue, Yuba City, CA 95991
+- Coordinates: 39.1370307, -121.6242542
+- Phone: (916) 402-8951
+- Email: gracefamilyyubacity@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/yuba-city-ca-baptistskaya-tserkov/
+
+
+
+
+#### Славянская Баптистская Церковь – На Горе
+
+- Address: 8913 N Nettleton Ln., Spokane, WA, 99208, USA
+- Coordinates: 47.74037976197, -117.44618529085
+- Phone: 509-465-8890
+- Email: sbaptistchurch1998@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/spokane-wa-na-gore/
+
+
+
+
+#### Славянская Баптистская церковь Ballwin, MO
+
+- Address: 900 Kehrs Mill Rd, Ballwin, MO 63011, United States
+- Coordinates: 38.6048991, -90.56370140000001
+- Phone: 636-230-6246
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/ballwin-mo-ballwin-mo/
+
+
+
+
+#### Славянская Баптистская Церковь Благодать – Jacksonville, FL
+
+- Address: 1901 Leonid Rd Jacksonville, FL 32218
+- Coordinates: 30.4302161, -81.6775279
+- Phone: 904-438-1542
+- Email: graceslavicbc@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/jacksonville-fl-blagodat/
+
+
+
+
+#### Славянская баптистская церковь города Сиэтла
+
+- Address: 17319 Larch Way, Lynnwood, WA 98037
+- Coordinates: 47.8411436, -122.2459331
+- Phone: (425) 743-0771
+- Email: lyubakulishov@comcast.net
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/lynnwood-wa-baptistskaya-tserkov-goroda-si/
+
+
+
+
+#### Славянская баптистская церковь Новый Путь – Reisterstown, MD
+
+- Address: 808 Berrymans Lane Reisterstown, MD 21136
+- Coordinates: 39.4365614, -76.8350349
+- Phone: 443-540-0046
+- Email: vpaliy@yahoo.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/reisterstown-md-baptistskaya-tserkov-novyy-put/
+
+
+
+
+#### Славянская евангельская церковь – Irvine, CA
+
+- Address: 6 Hughes #160, Irvine, CA 92618
+- Coordinates: 33.6516432, -117.7160049
+- Phone: (909) 856-8786
+- Email: yuriy.ovcharenko46@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/irvine-ca-evangelskaya-tserkov/
+
+
+
+
+#### Славянская церковь – Arvada, CO
+
+- Address: 12090 W 64th Avenue Arvada, CO 80004
+- Coordinates: 39.8123361, -105.13361609999998
+- Phone: (303) 422-6366
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/arvada-co-tserkov/
+
+
+
+
+#### Славянская церковь – Honolulu, HI
+
+- Address: 511 Main Street, Honolulu, HI 96818
+- Coordinates: 21.3417593, -157.9361081
+- Phone: (808) 294-5156
+- Email: honoluluslavicchurch@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/honolulu-hi-tserkov/
+
+
+
+
+#### Славянская церковь – Laguna Hills, CA
+
+- Address: 25382 MacKenzie, Laguna Hills, CA 92653
+- Coordinates: 33.5944133, -117.6800138
+- Phone: (949) 525-7325
+- Email: info@ocschurch.org
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/laguna-hills-ca-tserkov/
+
+
+
+
+#### Славянская Церковь – Миссия – Newark, DE
+
+- Address: Ogletown Baptist Church 316 Red Mill Rd Newark, DE 19713
+- Coordinates: 39.6806772, -75.697138
+- Phone: 610-513-8126
+- Email: kapranr@yahoo.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/newark-de-missiya/
+
+
+
+
+#### Славянская церковь Благодать – Eagan, MN
+
+- Address: 1985 Diffley Rd. Eagan, MN 55122
+- Coordinates: 44.8051789, -93.2068825
+- Phone: 651-356-0051
+- Email: pvlafanasiev@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/eagan-mn-blagodat/
+
+
+
+
+#### Славянская церковь Вефиль – Sacramento, CA
+
+- Address: 2600 Clay Street, Sacramento, CA 95815
+- Coordinates: 38.6131093, -121.43889059999998
+- Phone: (916) 996-6102
+- Email: vellark@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/sacramento-ca-vefil/
+
+
+
+
+#### Славянская церковь Кастро Вали – Hayward, CA
+
+- Address: 27787 Mission Blvd. Hayward, CA 94544
+- Coordinates: 37.6404913, -122.05920900000001
+- Phone: (510) 427-9037
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/hayward-ca-kastro-vali/
+
+
+
+
+#### Славянская церковь Эммануил – Vancouver, WA
+
+- Address: 14810 NE 28th Street Vancouver, WA 98682
+- Coordinates: 45.6434588, -122.51983940000002
+- Phone: 360-909-6855
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/vancouver-wa-emmanuil/
+
+
+
+
+#### Словянская Баптистская Церковь – Jacksonville, FL
+
+- Address: 1441 Hickman Rd Jacksonville, FL 32216
+- Coordinates: 30.2951225, -81.5991316
+- Phone: 904-502-8065
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/jacksonville-fl-slovyanskaya/
+
+
+
+
+#### Украинская Eвангельско-Баптистская Церковь – Vineland, NJ
+
+- Address: 1462 N. Brewster Rd. & Vine St. Vineland, NJ 08360
+- Coordinates: 39.505408, -74.974873
+- Phone: 6092027771
+- Email: sakhan5@verizon.net
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/vineland-nj-evangelsko/
+
+
+
+
+#### Украинская Баптистская церковь – Chicago, IL
+
+- Address: 6751 Riverside Drive | Berwyn, Illinois 60402
+- Coordinates: 41.8492276, -87.7929717
+- Phone: 7087880999
+- Email: info@ubcchicago.org
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/chicago-il-church/
+
+
+
+
+#### Украинская баптистская церковь – North Port, FL
+
+- Address: 3950 Wall Ln North Port FL 34287
+- Coordinates: 27.050644, -82.1982191
+- Phone: 9414836445
+- Email: achripczuk@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/north-port-fl-baptistskaya-tserkov/
+
+
+
+
+#### Украинская Баптистская Церковь Благодать – Warminster, PA
+
+- Address: 749 W County Line Rd Warminster, PA 18974
+- Coordinates: 40.1962697, -75.1125208
+- Phone: 610-658-0511
+- Email: ssauchuk@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/warminster-pa-blagodat/
+
+
+
+
+#### Украинская Евангельско-Баптистская церковь – Crum Lynne, PA
+
+- Address: 1110 Chester Pike Crum Lynne, PA
+- Coordinates: 39.869177, -75.334801
+- Phone: 610-357- 7966
+- Email: alexdina@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/crum-lynne-pa-church/
+
+
+
+
+#### Украинская Евангельско-Баптистская Церковь – Lancaster, PA
+
+- Address: 1460 Eden Rd Lancaster, PA 17601
+- Coordinates: 40.0707035, -76.276604
+- Phone: 717-283-9656
+- Email: leobliznyuk@hotmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/lancaster-pa-church/
+
+
+
+
+#### Українска Баптиська церква – Parma, OH
+
+- Address: 7840 STATE ROAD PARMA, OH 44134
+- Coordinates: 41.3531426, -81.72134340000002
+- Phone: (916) 365-1166
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/parma-oh-ukrayinska-baptiska-tserkva/
+
+
+
+
+#### Церковь  Дом На Камне – Omaha, NE
+
+- Address: 15050 W Dodge Rd Omaha, Nebraska 68154
+- Coordinates: 41.2638135, -96.1516786
+- Phone: (402) 281-3830
+- Email: domnakamne2018@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/omaha-ne-dom-na-kamne/
+
+
+
+
+#### Церковь Благая Весть – Tacoma, WA
+
+- Address: 2041 S 66th Street, Tacoma, WA 98409 9072
+- Coordinates: 47.197889, -122.4653433
+- Phone: (253) 214-7414
+- Email: info@gnctacoma.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/tacoma-wa-blagaya-vest/
+
+
+
+
+#### Церковь Благовестие – Des Moines, WA
+
+- Address: 1807 223rd Street Des Moines, WA 98198
+- Coordinates: 47.4011348, -122.3115978
+- Phone: 253-335-4871
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/des-moines-wa-blagovestie/
+
+
+
+
+#### Церковь благодати – North Highlands, CA
+
+- Address: 7031 Watt Ave., North Highlands, CA 95660
+- Coordinates: 38.695377, -121.3849836
+- Phone: (916) 481-1001
+- Email: info@gfchurch.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/north-highlands-ca-blagodati/
+
+
+
+
+#### Церковь Благодать
+
+- Address: 430 MOUNTAINBACK ROAD SPRING MILLS, PA 16875
+- Coordinates: 40.795436, -77.64403
+- Phone: (814)296-4304
+- Email: vladvovch74@comcast.net
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/mountainback-road-spring-mills-pa-blagodat/
+
+
+
+
+#### Церковь Благодать – Lakewood, WA
+
+- Address: 5602 112th Street SW Lakewood WA 98499
+- Coordinates: 47.1547575, -122.5117953
+- Phone: 253-353-4311
+- Email: skripnik_andrey@mail.ru
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/lakewood-wa-blagodat/
+
+
+
+
+#### Церковь Благодать – Meridian, ID
+
+- Address: 1021 W. 8th Street Meridian, ID 83642
+- Coordinates: 43.6133904, -116.4047009
+- Phone: 208-577-0548
+- Email: slavikpis83@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/meridian-id-blagodat/
+
+
+
+
+#### Церковь Благодать – Vancouver, WA
+
+- Address: 800 N Andresen Rd. Vancouver, WA 98661
+- Coordinates: 45.6275216, -122.6022045
+- Phone: 360-254-5649
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/vancouver-wa-blagodat/
+
+
+
+
+#### Церковь Благодать Христа – Evansville, IN
+
+- Address: 1014 S Harlen Ave, Evansville, IN 47710
+- Coordinates: 37.962122, -87.541668
+- Phone: 812-774-7149
+- Email: voroninviktor@hotmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/evansville-in-blagodat-hrista/
+
+
+
+
+#### Церковь Вефиль – East Wenatchee, WA
+
+- Address: 490 N June Ave East Wenatchee, WA 98802
+- Coordinates: 47.4127685, -120.2661429
+- Phone: 509-741-9662
+- Email: 2457har@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/east-wenatchee-wa-vefil/
+
+
+
+
+#### Церковь Вифания – Brooklyn Park, MN
+
+- Address: 2603 Brookdale Dr Brooklyn Park MN 55444
+- Coordinates: 45.09408879999999, -93.31603640000003
+- Phone: 612-532-4991
+- Email: vitalllichek@yahoo.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/brooklyn-park-mn-vifaniya/
+
+
+
+
+#### Церковь Вифания – Federal Way, WA
+
+- Address: 1829 South 308 St. Federal Way, WA 98003
+- Coordinates: 47.3263486, -122.3100101
+- Phone: 253-670-9740
+- Email: viktorzaytsev@yahoo.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/federal-way-wa-vifaniya/
+
+
+
+
+#### Церковь Возрождение
+
+- Address: 411 SE Chkalov Dr. Vancouver, WA 98683
+- Coordinates: 45.617947862212, -122.55291763989
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/vancouver-wa-vozrozhdenie/
+
+
+
+
+#### Церковь Возрождение – Apple Valley, MN
+
+- Address: 964 Garden View Dr. Apple Valley, MN 55124
+- Coordinates: 44.7300265, -93.23899719999997
+- Phone: 952-432-3151
+- Email: skochkol@yahoo.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/apple-valley-mn-vozrozhdenie/
+
+
+
+
+#### Церковь Возрождение – Federal Way, WA
+
+- Address: 37515 8th Ave S. Federal Way, WA 98003
+- Coordinates: 47.2661745, -122.3248357
+- Phone: 425-268-9969
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/federal-way-wa-vozrozhdenie/
+
+
+
+
+#### Церковь Возрождения – Levittown, PA
+
+- Address: 362 Levittown Prky Levittown, PA 19054
+- Coordinates: 40.155558, -74.829291
+- Phone: 215-828-1943
+- Email: ianustenko@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/levittown-pa-vozrozhdeniya/
+
+
+
+
+#### Церковь Гавань – Concord, CA
+
+- Address: 3578 Clayton Rd, Concord, CA 94519
+- Coordinates: 37.9698047, -122.0101831
+- Phone: (510) 688-8110
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/concord-ca-gavan/
+
+
+
+
+#### Церковь Голгофа – Vancouver, WA
+
+- Address: 7012 NE 58th Street Vancouver, WA 98661
+- Coordinates: 45.6646971, -122.6006461
+- Phone: 360-256-7747
+- Email: iserpevsky@aol.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/vancouver-wa-golgofa/
+
+
+
+
+#### Церковь Дом Евагелия – Richland, NJ
+
+- Address: 204 Sewell Ave Richland, NJ 08350
+- Coordinates: 39.4935668, -74.8690336
+- Phone: 8564051617
+- Email: uahouseofgospel@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/richland-nj-dom-evageliya/
+
+
+
+
+#### Церковь Дом Евангелия – Fresno, CA
+
+- Address: 3941 East Mono Avenue, Fresno, CA 93702-2360
+- Coordinates: 36.7372977, -119.75839280000002
+- Phone: (559) 255-3728
+- Email: o.sokolovskiy@yahoo.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/fresno-ca-dom-evangeliya/
+
+
+
+
+#### Церковь Дом Евангелия – North Port, FL
+
+- Address: 1229 Kingsland St. Port Charlotte, FL 33953
+- Coordinates: 27.0118474, -82.1681806
+- Phone: 941-258-4167
+- Email: domevangeliyainfo@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/north-port-fl-dom-evangeliya/
+
+
+
+
+#### Церковь Дом молитвы – West Sacramento, CA
+
+- Address: 937 Simon Terrace, West Sacramento, CA 95605
+- Coordinates: 38.590529, -121.529663
+- Phone: (916) 374-8806
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/west-sacramento-ca-dom-molitvy/
+
+
+
+
+#### Церковь Дорога благодати – Sacramento, CA
+
+- Address: 1425 Grace Avenue, Sacramento, CA 95838
+- Coordinates: 38.6522013, -121.4333641
+- Phone: (916) 925-1440
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/sacramento-ca-doroga-blagodati/
+
+
+
+
+#### Церковь Живые камни – Cordova, CA
+
+- Address: 10560 Coloma Road, Rancho Cordova, CA 95670-2394
+- Coordinates: 38.6072684, -121.29452129999999
+- Phone: (916) 225-3099
+- Email: akrasnov3460@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/cordova-ca-zhivye-kamni/
+
+
+
+
+#### Церковь Избери жизнь – Oceanside, CA
+
+- Address: 1106 Whaley Street, Oceanside, CA 92054
+- Coordinates: 33.1808428, -117.3591256
+- Phone: (760) 419-3897
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/oceanside-ca-izberi-zhizn/
+
+
+
+
+#### Церковь Источник Жизни – Mukilteo, WA
+
+- Address: 4711 116th St SW Mukilteo, Washington 98275
+- Coordinates: 47.8940668, -122.2972691
+- Phone: (425) 493-1602
+- Email: victoravdeev@yahoo.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/mukilteo-wa-istochnik-zhizni/
+
+
+
+
+#### Церковь Краеугольный камень – Sacramento, CA
+
+- Address: 6380 63rd st Sacramento CA 95824
+- Coordinates: 38.5108427, -121.4302844
+- Phone: (916) 813-0410
+- Email: sbcthecornerstone@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/sacramento-ca-kraeugolnyy-kamen/
+
+
+
+
+#### Церковь Маяк- Laurenceville, GA
+
+- Address: 165 S. CLAYTON ST, LAWRENCEVILLE, GA 30046
+- Coordinates: 33.9554006, -83.98740520000001
+- Phone: 678-779-9992
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/laurenceville-ga-mayak/
+
+
+
+
+#### Церковь Новая Жизнь – Glen Ellyn, IL
+
+- Address: 1 N, 450 Main St. Glen Ellyn, IL 60137
+- Coordinates: 41.8758822, -88.06671649999998
+- Phone: 630-280-0480
+- Email: verimeenko@mail.ru
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/glen-ellyn-il-novaya-zhizn/
+
+
+
+
+#### Церковь Новая Жизнь – Salem, OR
+
+- Address: 820 Jefferson St NE Salem, OR 97301
+- Coordinates: 44.95383959999999, -123.024202
+- Phone: 503-851-4558
+- Email: saukovb2000@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/salem-or-novaya-zhizn/
+
+
+
+
+#### Церковь Новая Жизнь – Sterling, VA
+
+- Address: 46611 Jefferson Dr, Sterling, VA 20165
+- Coordinates: 39.0369078, -77.3865864
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/sterling-va-novaya-zhizn/
+
+
+
+
+#### Церковь Новая Надежда – Charlotte, NC
+
+- Address: 8947 Albemarle Rd Charlotte, NC 28227 (at Cornerstone Baptist Church)
+- Coordinates: 35.2125119, -80.6927645
+- Phone: 704-453-9365
+- Email: vasilyrudnitsky@hotmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/charlotte-nc-novaya-nadezhda/
+
+
+
+
+#### Церковь Новая надежда – Cordova, CA
+
+- Address: 10720 Coloma Road, Rancho Cordova, CA 95670
+- Coordinates: 38.6129939, -121.2883988
+- Phone: (916) 945-8658
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/cordova-ca-novaya-nadezhda/
+
+
+
+
+#### Церковь Преображение – Minnetonka, MN
+
+- Address: 16625 Excelsior Boulevard, Minnetonka, MN 55345
+- Coordinates: 44.9040858, -93.4919365
+- Phone: (763) 639-6718
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/minnetonka-mn-preobrazhenie/
+
+
+
+
+#### Церковь Путь  Жизни – Philadelphia, PA
+
+- Address: 9554 Bustleton Ave Philadelphia, PA 19115
+- Coordinates: 40.0870202, -75.0361529
+- Phone: (215) 990 - 2648
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/philadelphia-pa-put-zhizni/
+
+
+
+
+#### Церковь Радостная Весть – Feasterville, PA
+
+- Address: 514 highland avenue Feasterville, PA 19053
+- Coordinates: 40.1451379, -75.001779
+- Phone: (215) 355-5884
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/feasterville-pa-radostnaya-vest/
+
+
+
+
+#### Церковь Свет Евангелия – Spokane, WA
+
+- Address: 5716 North Progress Rd. Spokane, WA 99216
+- Coordinates: 47.7111202, -117.20598359999997
+- Phone: 509-991-7838
+- Email: vsboyko@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/spokane-wa-svet-evangeliya/
+
+
+
+
+#### Церковь Свет Мира – Knoxville, TN
+
+- Address: 5364 N Broadway St, Knoxville, TN 37918
+- Coordinates: 36.0380733, -83.93069579999997
+- Phone: (865) 054-60672
+- Email: tanasov.pmr@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/knoxville-tn-svet-mira/
+
+
+
+
+#### Церковь Свет Надежды – East Providence, RI
+
+- Address: 80 Taunton Avenue East Providence, RI 02914
+- Coordinates: 41.819945, -71.379001
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/east-providence-ri-svet-nadezhdy/
+
+
+
+
+#### Церковь Свет спасения – Carmichael, CA
+
+- Address: 5709 Cypress Avenue, Carmichael, CA 95608
+- Coordinates: 38.6393941, -121.3317778
+
+- Email: nikolayvch@gmail.com
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/carmichael-ca-svet-spaseniya/
+
+
+
+
+#### Церковь Слово Жизни – Portland, OR
+
+- Address: 3505 NE Multnomah St Portland, OR 97232
+- Coordinates: 45.531971, -122.627082
+- Phone: +1 503 253 7774
+- Email: info@wordoflifePDX.org
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/portland-or-slovo-zhizni/
+
+
+
+
+#### Церковь Слово истины – Des Moines, WA
+
+- Address: 22975 24th AVE S, Des Moines, WA, 98198
+- Coordinates: 47.3964475, -122.3014469
+- Phone: (206) 859-1071
+- Email: info@slovoistini.org
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/des-moines-wa-slovo-istiny/
+
+
+
+
+#### Церковь Спасения – Charlotte, NC
+
+- Address: 1924 Marglyn Dr, Matthews, NC 28105, United States
+- Coordinates: 35.1135507, -80.6848629
+- Phone: 704-293-0100
+- Email: contact@churchofsalvation.org
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/charlotte-nc-spaseniya/
+
+
+
+
+#### Церковь Христа Спасителя – Erie, PA
+
+- Address: 3503 Schaper Ave Erie, PA
+- Coordinates: 42.0876395, -80.11507230000001
+- Phone: (814) 449-8715
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/erie-pa-hrista-spasitelya/
 
 
 
@@ -4100,11 +6055,6 @@ Each church entry contains:
 
 
 **Сент-Люсия / Saint Lucia**
-
-
-
-
-**США / United States**
 
 
 
