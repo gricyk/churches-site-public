@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 247
+Total churches: 248
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -1143,6 +1143,19 @@ Each church entry contains:
 
 - Schedule: Воскресенье 14:00 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/germany/rostock-baptist/
+
+
+
+
+#### Церковь евангельских христиан «Агапе» в Лейпциге
+- Description: Evangeliums-Christen Gemeinde Leipzig
+- Address: Roscherstr. 27, 04105 Leipzig, Germany
+- Coordinates: 51.3454, 12.3713
+- Phone: +49 177 2670474
+- Email: info@evcg-leipzig.de
+- Website: https://ru.evcg-leipzig.de
+
+- URL: https://spasenie.eu/churches/europe/germany/leipzig-agape/
 
 
 
