@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 398
+Total churches: 405
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -6144,6 +6144,102 @@ Each church entry contains:
 **Австралия / Australia**
 
 
+#### Brisbane Slavic Baptist Church
+- Description: Славянская Баптистская Церковь Брисбена / Brisbane Russian Church
+- Address: 346-348 Loganlea Rd, Meadowbrook QLD 4131
+- Coordinates: -27.6539, 153.1269
+
+- Email: brisbanerussianbaptist@gmail.com
+- Website: https://brisbanerussianchurch.com.au
+- Schedule: Воскресенье 09:30 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/oceania/australia/brisbane-slavic-baptist/
+
+
+
+
+#### EHB Hope - Melbourne Slavic Baptist Church
+- Description: Славянская Баптистская Церковь «Надежда» Мельбурн
+- Address: 65a Tooronga Rd, Malvern VIC 3144
+- Coordinates: -37.8605, 145.0384
+- Phone: +61 447 770 700
+
+- Website: https://ehbhope.com
+
+- URL: https://spasenie.eu/churches/oceania/australia/melbourne-ehb-hope/
+
+
+
+
+#### Russian Baptist Church Perth
+- Description: Русская Баптистская Церковь Перта
+- Address: 60 Armagh St, Victoria Park WA 6100
+- Coordinates: -31.9756, 115.8977
+- Phone: +61 8 9401 9103
+- Email: tambov@hotmail.com
+- Website: https://sbcperth.com.au
+
+- URL: https://spasenie.eu/churches/oceania/australia/perth-russian-baptist/
+
+
+
+
+#### Slavic Evangelical Baptist Church Adelaide
+- Description: Славянская Евангельская Баптистская Церковь Аделаиды
+- Address: 11 Broad Street, Queenstown SA 5014
+- Coordinates: -34.8608, 138.5204
+- Phone: +61 8 8240 3248
+
+- Website: https://sbchurchadelaide.com
+- Schedule: Воскресенье 10:00 (Воскресное богослужение (утро)); Воскресенье 18:00 (Воскресное богослужение (вечер));
+- URL: https://spasenie.eu/churches/oceania/australia/adelaide-slavic-baptist/
+
+
+
+
+#### Ukrainian Evangelical Baptist Church Brisbane
+- Description: Украинская Евангельская Баптистская Церковь Брисбена
+- Address: 6 Agnes St, Woolloongabba QLD 4102
+- Coordinates: -27.4895, 153.0345
+
+
+
+
+- URL: https://spasenie.eu/churches/oceania/australia/brisbane-ukrainian-baptist/
+
+
+
+
+#### Церковь «Благая Весть» Сидней
+- Description: Good News Fellowship of the Russian Speaking Slavic Evangelical Baptists
+- Address: 1-5 Ray Road, Epping NSW 2121
+- Coordinates: -33.7727, 151.0819
+- Phone: +61 404 424 260
+- Email: begenec@hotmail.com
+- Website: https://ssb.org.au
+- Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/oceania/australia/sydney-good-news/
+
+
+
+
+
+
+**Новая Зеландия / New Zealand**
+
+
+#### Церковь «Свет» Окленд
+- Description: Auckland Slavic Baptist Church Svet / Славянская Баптистская Церковь
+- Address: 96 Kupe Street, Orakei, Auckland
+- Coordinates: -36.8585, 174.812
+- Phone: +64 21 146 4498
+
+- Website: https://rusbaptist.nz
+- Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/oceania/new-zealand/auckland-svet/
+
+
+
+
 
 
 **Вануату / Vanuatu**
@@ -6167,11 +6263,6 @@ Each church entry contains:
 
 
 **Науру / Nauru**
-
-
-
-
-**Новая Зеландия / New Zealand**
 
 
 
