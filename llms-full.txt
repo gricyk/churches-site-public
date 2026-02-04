@@ -314,7 +314,7 @@ Each church entry contains:
 - Phone: +32 466 014795
 - Email: Kudrinietskii@gmail.com
 - Website: https://ibcbrussels.com/2024/02/04/християнська-церква-благодать-christian-church-grace/
-- Schedule: Воскресенье 14:00 (Воскресное богослужение); Пятница 18:30 (Домашняя группа);
+- Schedule: Воскресенье 14:00 (Воскресное богослужение); Пятница 18:30 (Домашняя группа); Среда  (Благовестие);
 - URL: https://spasenie.eu/churches/europe/belgium/brussels-blagodat/
 
 
@@ -487,19 +487,6 @@ Each church entry contains:
 - Website: https://gedison.de/
 
 - URL: https://spasenie.eu/churches/europe/germany/lage-baptist/
-
-
-
-
-#### Баптисты Nordhorn
-- Description: Baptisten Nordhorn
-- Address: Kleine Gartenstraße 11, 48529 Nordhorn, Germany
-- Coordinates: 52.4333, 7.0667
-- Phone: +49 176 21653804
-
-
-
-- URL: https://spasenie.eu/churches/europe/germany/nordhorn-baptist/
 
 
 
@@ -708,6 +695,19 @@ Each church entry contains:
 - Website: https://propovednik.my1.ru/
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Среда 18:00 (Молитвенное служение); Пятница 18:00 (Изучение Библии); Суббота 14:00 (Молодёжное общение);
 - URL: https://spasenie.eu/churches/europe/germany/dresden-ehb/
+
+
+
+
+#### ЕХБ Джерело Життя
+- Description: Baptisten Nordhorn
+- Address: Paul-Gerhardt str 2, Nordhorn
+- Coordinates: 52.4333, 7.0667
+- Phone: +49 176 21653804
+
+
+- Schedule: Воскресенье 15:00 (Воскресное богослужение); Воскресенье 17:30 (Молодёжка и подростковые);
+- URL: https://spasenie.eu/churches/europe/germany/nordhorn-baptist/
 
 
 
@@ -2950,7 +2950,7 @@ Each church entry contains:
 
 - Coordinates: 45.764, 4.8357
 - Phone: +33 766134805
-
+- Email: svsichov@ukr.net
 
 
 - URL: https://spasenie.eu/churches/europe/france/lyon-sichev/
