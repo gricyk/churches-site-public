@@ -2939,9 +2939,9 @@ Each church entry contains:
 - Description: Holy Joppa Church Paris
 - Address: 177 Avenue André Maginot, 94400 Vitry-sur-Seine, France
 - Coordinates: 48.7833, 2.4
-- Phone: +33 618 349 200
+- Phone: +33 7 69 59 25 12
 - Email: contact@ioppie.fr
-
+- Website: https://ioppie.fr/
 
 - URL: https://spasenie.eu/churches/europe/france/paris-svyataya-ioppia/
 
