@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 406
+Total churches: 408
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -204,6 +204,32 @@ Each church entry contains:
 
 
 **Россия / Russia**
+
+
+#### Церковь «Новый Завет» – Дзержинский
+- Description: Церковь евангельских христиан-баптистов
+- Address: ул. Зелёная 8а, г. Дзержинский, Московская область, Россия
+- Coordinates: 55.6295, 37.8528
+
+
+
+- Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/russia/dzerzhinskiy-novyy-zavet/
+
+
+
+
+#### Церковь большого города – Москва
+- Description: Церковь евангельских христиан-баптистов
+- Address: ул. 1-я Хуторская 5а, м. Дмитровская, Москва, Россия
+- Coordinates: 55.7968, 37.5856
+
+
+
+- Schedule: Суббота 18:00 (Субботнее богослужение (CMCHURCH)); Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/russia/moscow-bolshoy-gorod/
+
+
 
 
 #### Церковь ЕХБ «Дом молитвы» – Рыбинск
