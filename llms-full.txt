@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 407
+Total churches: 406
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -2872,7 +2872,7 @@ Each church entry contains:
 - Address: 44 Rue Paul Bert, 69200 Vénissieux, France
 - Coordinates: 45.7167, 4.8833
 - Phone: +33 766 134 805
-- Email: svsichov@nrc-ebf.com
+- Email: svsichov@ukr.net
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/france/lyon-mayak/
@@ -2941,19 +2941,6 @@ Each church entry contains:
 
 
 - URL: https://spasenie.eu/churches/europe/france/le-chambon-sur-lignon-ukr/
-
-
-
-
-#### Церква в Ліоні (Сичев)
-- Description: Church Lyon
-
-- Coordinates: 45.764, 4.8357
-- Phone: +33 766134805
-- Email: svsichov@ukr.net
-
-
-- URL: https://spasenie.eu/churches/europe/france/lyon-sichev/
 
 
 
