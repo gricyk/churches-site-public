@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 405
+Total churches: 408
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -28,6 +28,24 @@ Each church entry contains:
 
 
 ### EUROPE
+
+
+
+
+**Беларусь / Belarus**
+
+
+#### Церковь ЕХБ – Боровляны
+- Description: Церковь евангельских христиан-баптистов
+- Address: ул. Интернациональная, 15, Боровляны, Минский район, Беларусь
+- Coordinates: 53.9667, 27.65
+- Phone: +375 29 104-48-84
+- Email: mikhovichl@gmail.com
+
+- Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/belarus/borovlyany-ehb/
+
+
 
 
 
@@ -70,6 +88,133 @@ Each church entry contains:
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение (на русском)); Воскресенье 12:00 (Исследование Библии (на русском));
 - URL: https://spasenie.eu/churches/europe/latvia/olaine-baptist/
+
+
+
+
+
+
+**Португалия / Portugal**
+
+
+#### Евангельская церковь – Луреш, Лиссабон
+- Description: Igreja Evangélica / Евангельская церковь
+- Address: Alameda Salgueiro Maia, 15 A, 2660-329, Santo António de Cavaleiros, Loures, Portugal
+- Coordinates: 38.8167, -9.1667
+
+- Email: veriga28@gmail.com
+
+- Schedule: Воскресенье 10:30 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/portugal/lisbon-lures-evangelical/
+
+
+
+
+#### Евангельская Баптистская Церковь Порту
+- Description: Igreja Evangélica Baptista Cedofeita
+- Address: R. de Cedofeita 16, 94050-173 Porto, Portugal
+- Coordinates: 41.15, -8.6167
+- Phone: +351 969 922 170
+- Email: iebaptista.cedofeita@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/portugal/porto-ehb/
+
+
+
+
+#### Евангельская баптистская церковь Фару
+- Description: Evangelical Baptist Church Faro
+- Address: Estr. da Sra. da Saúde 8B, 8000-197 Faro, Portugal
+- Coordinates: 37.0167, -7.9333
+- Phone: +351 963 703 798
+
+
+- Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/portugal/faro-ehb/
+
+
+
+
+#### Евангельская Церковь Коимбра
+- Description: Evangelical Church Coimbra
+- Address: Av. Emídio Navarro 54, 3000-210 Coimbra, Portugal
+- Coordinates: 40.2167, -8.4333
+- Phone: +351 968 618 107
+
+
+
+- URL: https://spasenie.eu/churches/europe/portugal/coimbra-ehb/
+
+
+
+
+#### Посольство Христа Лиссабон
+- Description: Embassy of Christ Lisbon
+- Address: R. Portugal Durão 24, 1600-022 Lisboa, Portugal
+- Coordinates: 38.75, -9.1833
+- Phone: +351 969 797 077
+
+
+
+- URL: https://spasenie.eu/churches/europe/portugal/lisboa-posolstvo/
+
+
+
+
+#### Славянская евангельская церковь Albufeira
+- Description: Slavic Evangelical Church Albufeira
+- Address: R. Manuel Teixeira Gomes, 8200-291 Albufeira, Portugal
+- Coordinates: 37.0833, -8.2333
+- Phone: +351 960 460 577
+- Email: hlebinator2000@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/portugal/albufeira-slavyanska/
+
+
+
+
+#### Церква в Візеу
+- Description: Church Viseu
+- Address: R. Combatentes da Grande Guerra, Viseu, Portugal
+- Coordinates: 40.6564, -7.9126
+- Phone: +351 911090115
+- Email: colorlite1919@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/portugal/viseu-ukr/
+
+
+
+
+#### Церква в Келуші
+- Description: Church Queluz
+- Address: R. 9 de Abril 19A, 2745-155 Queluz, Portugal
+- Coordinates: 38.7514, -9.2589
+- Phone: +351 967545198
+- Email: colorlite1919@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/portugal/queluz-ukr/
+
+
+
+
+
+
+**Россия / Russia**
+
+
+#### Церковь ЕХБ «Дом молитвы» – Рыбинск
+- Description: Церковь евангельских христиан-баптистов
+- Address: ул. Ломоносова, д. 15А, г. Рыбинск, Ярославская область, Россия
+- Coordinates: 58.0455, 38.8578
+- Phone: +7 (909) 279-84-54
+- Email: kravtsov1003@gmail.com
+
+- Schedule: Воскресенье 10:00 (Воскресное богослужение); Четверг 18:00 (Молитвенное собрание);
+- URL: https://spasenie.eu/churches/europe/russia/rybinsk-dom-molitvy/
 
 
 
@@ -2478,102 +2623,6 @@ Each church entry contains:
 
 
 
-**Португалия / Portugal**
-
-
-#### Евангельская Баптистская Церковь Порту
-- Description: Igreja Evangélica Baptista Cedofeita
-- Address: R. de Cedofeita 16, 94050-173 Porto, Portugal
-- Coordinates: 41.15, -8.6167
-- Phone: +351 969 922 170
-- Email: iebaptista.cedofeita@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/portugal/porto-ehb/
-
-
-
-
-#### Евангельская баптистская церковь Фару
-- Description: Evangelical Baptist Church Faro
-- Address: Estr. da Sra. da Saúde 8B, 8000-197 Faro, Portugal
-- Coordinates: 37.0167, -7.9333
-- Phone: +351 963 703 798
-
-
-- Schedule: Воскресенье 14:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/portugal/faro-ehb/
-
-
-
-
-#### Евангельская Церковь Коимбра
-- Description: Evangelical Church Coimbra
-- Address: Av. Emídio Navarro 54, 3000-210 Coimbra, Portugal
-- Coordinates: 40.2167, -8.4333
-- Phone: +351 968 618 107
-
-
-
-- URL: https://spasenie.eu/churches/europe/portugal/coimbra-ehb/
-
-
-
-
-#### Посольство Христа Лиссабон
-- Description: Embassy of Christ Lisbon
-- Address: R. Portugal Durão 24, 1600-022 Lisboa, Portugal
-- Coordinates: 38.75, -9.1833
-- Phone: +351 969 797 077
-
-
-
-- URL: https://spasenie.eu/churches/europe/portugal/lisboa-posolstvo/
-
-
-
-
-#### Славянская евангельская церковь Albufeira
-- Description: Slavic Evangelical Church Albufeira
-- Address: R. Manuel Teixeira Gomes, 8200-291 Albufeira, Portugal
-- Coordinates: 37.0833, -8.2333
-- Phone: +351 960 460 577
-- Email: hlebinator2000@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/portugal/albufeira-slavyanska/
-
-
-
-
-#### Церква в Візеу
-- Description: Church Viseu
-- Address: R. Combatentes da Grande Guerra, Viseu, Portugal
-- Coordinates: 40.6564, -7.9126
-- Phone: +351 911090115
-- Email: colorlite1919@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/portugal/viseu-ukr/
-
-
-
-
-#### Церква в Келуші
-- Description: Church Queluz
-- Address: R. 9 de Abril 19A, 2745-155 Queluz, Portugal
-- Coordinates: 38.7514, -9.2589
-- Phone: +351 967545198
-- Email: colorlite1919@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/portugal/queluz-ukr/
-
-
-
-
-
-
 **Румыния / Romania**
 
 
@@ -3388,11 +3437,6 @@ Each church entry contains:
 
 
 
-**Беларусь / Belarus**
-
-
-
-
 **Болгария / Bulgaria**
 
 
@@ -3439,11 +3483,6 @@ Each church entry contains:
 
 
 **Монако / Monaco**
-
-
-
-
-**Россия / Russia**
 
 
 
