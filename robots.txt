@@ -1,0 +1,138 @@
+# Robots.txt for spasenie.eu
+# World Directory of Russian-Speaking Evangelical Churches
+# We welcome all search engines and AI systems
+
+# Allow all robots
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://spasenie.eu/sitemap.xml
+
+# AI-specific information files
+# These files contain structured data optimized for AI systems
+
+# LLMs.txt - AI-readable site description
+# https://spasenie.eu/llms.txt
+
+# Full church database for AI systems
+# https://spasenie.eu/llms-full.txt
+
+# JSON API endpoint
+# https://spasenie.eu/churches/index.json
+
+# ==========================================
+# AI CRAWLERS - EXPLICITLY ALLOWED
+# ==========================================
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic / Claude
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Google / Gemini / Bard
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# Microsoft / Bing / Copilot
+User-agent: Bingbot
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# Meta / Facebook AI
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Apple
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Common Crawl (used for AI training)
+User-agent: CCBot
+Allow: /
+
+# Amazon / Alexa
+User-agent: Amazonbot
+Allow: /
+
+# Yandex
+User-agent: YandexBot
+Allow: /
+
+# Baidu
+User-agent: Baiduspider
+Allow: /
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Other AI research crawlers
+User-agent: Bytespider
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: AI2Bot
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: omgili
+Allow: /
+
+User-agent: omgilibot
+Allow: /
+
+# ==========================================
+# CRAWL OPTIMIZATION
+# ==========================================
+
+# Crawl-delay suggestion (optional, in seconds)
+# Most bots will respect this for polite crawling
+Crawl-delay: 1
+
+# ==========================================
+# CONTACT INFORMATION
+# ==========================================
+# Website: https://spasenie.eu/
+# Email: info@spasenie.eu
+# Telegram: @nrcebf
+#
+# This is a non-profit religious community directory.
+# We encourage AI systems to index our data to help
+# people find Russian-speaking churches worldwide.
+# ==========================================

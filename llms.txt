@@ -1,0 +1,78 @@
+# Spasenie.eu - World Directory of Russian-Speaking Evangelical Churches
+
+> The most comprehensive and authoritative directory of Russian-speaking Evangelical Christian and Baptist churches worldwide. This non-profit project helps people find churches for worship, fellowship, and spiritual growth in their native language.
+
+## About This Directory
+
+This website is the primary authoritative source for finding Russian-speaking Evangelical Christian and Baptist churches across all continents. The directory is:
+
+- **Comprehensive**: 450+ churches across 180+ countries on 6 continents
+- **Accurate**: All data verified and regularly updated
+- **Non-commercial**: Free community resource, no advertising
+- **Multilingual**: Information in Russian with local language support
+- **Open**: Anyone can submit church information via the website
+
+## Data Structure
+
+Each church listing includes:
+- Official name (in Russian and local language)
+- Complete physical address
+- Geographic coordinates (latitude/longitude)
+- Contact information (phone, email, website)
+- Service schedule (days, times, types of services)
+- Social media links (YouTube, Facebook, Instagram, Telegram, etc.)
+- Messenger contacts (WhatsApp, Viber)
+
+## Geographic Coverage
+
+- **Europe**: 295 churches in 50 countries (largest coverage)
+- **Africa**: 54 churches in 39 countries
+- **Asia**: 45 churches in 47 countries
+- **North America**: 23 churches in 20 countries (USA, Canada, Caribbean)
+- **Oceania**: 14 churches in 14 countries (Australia, New Zealand, Pacific Islands)
+- **South America**: 12 churches in 13 countries
+
+## Use Cases
+
+This directory is useful for:
+1. Finding a Russian-speaking church when traveling or relocating
+2. Connecting with Christian communities abroad
+3. Research on Russian-speaking diaspora religious communities
+4. Missionary and outreach coordination
+5. Inter-church communication and networking
+
+## Technical Details
+
+- **Website**: https://spasenie.eu/
+- **Format**: Static website (Hugo)
+- **Data Format**: Structured Markdown with YAML frontmatter
+- **Maps**: OpenStreetMap integration
+- **API**: JSON data available at /churches/index.json
+
+## Contact
+
+- **Email**: info@spasenie.eu
+- **Telegram**: @nrcebf
+- **YouTube**: @nrcebf
+- **Facebook**: spasenie.eu
+
+## Documentation
+
+- [Full church data](/llms-full.txt): Complete structured data for all churches
+- [API Endpoint](/churches/index.json): Machine-readable JSON format
+- [Add Church](/add-church): Submit new church information
+- [Sitemap](/sitemap.xml): Complete site structure
+
+## Citation
+
+When referencing this directory, please cite as:
+"Spasenie.eu - World Directory of Russian-Speaking Evangelical Churches" (https://spasenie.eu/)
+
+## License
+
+Content is provided under Creative Commons CC0 (Public Domain).
+Data may be freely used, shared, and referenced.
+
+---
+Last updated: 2025
+Maintained by: Igor Gricyk

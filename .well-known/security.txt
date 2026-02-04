@@ -1,0 +1,24 @@
+# Security Policy for spasenie.eu
+# World Directory of Russian-Speaking Evangelical Churches
+
+Contact: mailto:info@spasenie.eu
+Preferred-Languages: ru, en
+
+# This is a non-profit, community-driven directory website.
+# We take security seriously and appreciate responsible disclosure.
+
+# Scope
+# This security policy applies to:
+# - https://spasenie.eu/
+# - All subdomains of spasenie.eu
+
+# Reporting
+# If you discover a security vulnerability, please:
+# 1. Email info@spasenie.eu with details
+# 2. Allow reasonable time for us to respond
+# 3. Do not publicly disclose until resolved
+
+# Acknowledgment
+# We acknowledge all security researchers who report valid vulnerabilities.
+
+Expires: 2026-12-31T23:59:59.000Z

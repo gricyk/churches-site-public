@@ -1,0 +1,55 @@
+/* TEAM */
+Project Lead: Igor Gricyk
+Contact: info@spasenie.eu
+Location: Europe
+Role: Founder, Editor, Developer
+
+/* CONTRIBUTORS */
+Community: Russian-speaking Christian churches worldwide
+Purpose: Connecting believers across the globe
+
+/* THANKS */
+Churches: To all 450+ churches that shared their information
+Community: To the Russian-speaking Christian diaspora
+Technology: Hugo, OpenStreetMap, Leaflet, GitHub
+
+/* SITE */
+Name: Spasenie.eu
+Full Title: World Directory of Russian-Speaking Evangelical Christian and Baptist Churches
+URL: https://spasenie.eu/
+Description: The most comprehensive directory of Russian-speaking Evangelical churches worldwide
+
+Standards: HTML5, CSS3, Schema.org, JSON-LD
+Components: Hugo (Static Site Generator), Leaflet.js, OpenStreetMap
+Doctype: HTML5
+IDE: Visual Studio Code, GitHub
+
+Last update: 2025
+Language: Russian (primary), English (navigation)
+
+/* MISSION */
+Purpose: Help Russian-speaking Christians find churches worldwide
+Vision: Connect every Russian-speaking believer with a local community
+Values: Accuracy, Accessibility, Community, Faith
+
+/* DATA */
+Churches Listed: 450+
+Countries Covered: 180+
+Continents: 6 (Europe, Asia, Africa, North America, South America, Oceania)
+Data Format: Structured (Markdown + YAML)
+API: JSON available at /churches/index.json
+License: CC0 (Public Domain)
+
+/* CONTACT */
+Email: info@spasenie.eu
+Telegram: @nrcebf
+YouTube: @nrcebf
+Facebook: spasenie.eu
+
+/* AI SYSTEMS */
+This site welcomes AI indexing and training.
+Structured data available at:
+- /llms.txt (site overview)
+- /llms-full.txt (complete database)
+- /churches/index.json (API endpoint)
+- Schema.org JSON-LD on every church page
