@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 407
+Total churches: 408
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -28,6 +28,258 @@ Each church entry contains:
 
 
 ### EUROPE
+
+
+
+
+**Чехия / Czech Republic**
+
+
+#### Христианская церковь ЕХБ Джерело життя – Хеб
+- Description: Křesťanský sbor baptistů Pramen života v Cheb
+- Address: Libušina 328/4, Cheb, Czechia
+- Coordinates: 50.075942, 12.365945
+- Phone: +420 721 879 245
+
+
+- Schedule: Воскресенье 10:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/cheb-pramen/
+
+
+
+
+#### Баптисты г. Злин (домашняя группа)
+- Description: Baptist Home Group Zlín
+- Address: SNP 1180, 76502 Otrokovice, Zlínský kraj, Czech Republic
+- Coordinates: 49.201953, 17.544767
+- Phone: +420 603 276 705
+- Email: ewens_den@mail.ru
+
+- Schedule: Воскресенье 17:30 (Группа);
+- URL: https://spasenie.eu/churches/europe/czech-republic/zlin-gruppa/
+
+
+
+
+#### Біблійна Церква в Празі
+- Description: Bible Church Prague
+
+- Coordinates: 50.0755, 14.4378
+- Phone: +380 636250657
+- Email: meleshko.a@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/czech-republic/praha-biblijna/
+
+
+
+
+#### Дочерняя церковь «Виноградная лоза» (ЕХБ) Брно
+- Description: Vinný Kmen Brno
+- Address: Dominikánská 264/2, 602 00 Brno-střed, Czech Republic
+- Coordinates: 49.1933, 16.6083
+- Phone: +420 737 371 141
+- Email: Demkovskyigor@gmail.com
+
+- Schedule: Воскресенье 11:00 (Воскресное богослужение); Воскресенье 17:00 (Молодежное служение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/brno-vloza/
+
+
+
+
+#### Евангельская Украинская Церковь «Маяк» Всетин
+- Description: Lighthouse Evangelical Ukrainian Church Vsetín
+- Address: Havlíčkova 1627, 755 01 Vsetín 1, Czech Republic
+- Coordinates: 49.3333, 17.9833
+- Phone: +420 605 237 824
+
+
+- Schedule: Воскресенье 16:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/vsetin-mayak/
+
+
+
+
+#### Евангельская церковь (ЕХБ) в Сланах
+- Description: Evangelical Baptist Church Slaný
+- Address: Vepřkova 1087/14, 274 01 Slaný 1, Czech Republic
+- Coordinates: 50.2333, 14.0833
+- Phone: +420 774 117 031
+
+
+- Schedule: Воскресенье 16:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/slany-ehb/
+
+
+
+
+#### Евангельская церковь (ЕХБ) Пардубице
+- Description: Evangelical Baptist Church Pardubice
+- Address: Sladkovského 521, 530 02 Pardubice, Czech Republic
+- Coordinates: 50.033271, 15.774483
+- Phone: +420 776 549 721
+
+
+- Schedule: Воскресенье 13:00 (Воскресное богослужение); Четверг 19:00 (Изучение Писания);
+- URL: https://spasenie.eu/churches/europe/czech-republic/pardubice-ehb/
+
+
+
+
+#### Международная Евангельская Церковь «Agape» (ЕХБ) Плзень
+- Description: International Evangelical Church Agape Plzeň
+- Address: Husova 314/1, 301 00 Plzeň 3-Jižní Předměstí, Czech Republic
+- Coordinates: 49.745066, 13.372096
+- Phone: +420 776 360 117
+- Email: preacherlev@mail.ru
+
+- Schedule: Воскресенье 16:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/plzen-agape/
+
+
+
+
+#### Международная евангельская церковь «Источник» (ЕХБ) Карловы Вары
+- Description: Source International Evangelical Church Karlovy Vary
+- Address: Závodu míru 42/112, 360 17 Karlovy Vary 17-Stará Role, Czech Republic
+- Coordinates: 50.2333, 12.8667
+- Phone: +420 731 618 116
+
+
+- Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/karlovy-vary-istochnik/
+
+
+
+
+#### Перша Церква ЄХБ в Празі
+- Description: First EHB Church Prague
+
+- Coordinates: 50.0755, 14.4378
+- Phone: +420 773784691
+- Email: rusnakov@seznam.cz
+- Website: www.sobraniepraha.cz
+- Schedule: Неділя 13:00 (Недільне богослужіння);
+- URL: https://spasenie.eu/churches/europe/czech-republic/praha-persha-ehb/
+
+
+
+
+#### Христианская церковь в городе Žatec
+- Description: Christian Church Žatec - Station of BJB XXI Století
+- Address: Lva Tolstého 1249, Žatec, Czech Republic
+- Coordinates: 50.320572, 13.548099
+- Phone: +420 734 640 052
+- Email: m.gricyk1@gmail.com
+
+- Schedule: Воскресенье 16:00 (Воскресное богослужение); Среда 17:00 (Изучение Библии);
+- URL: https://spasenie.eu/churches/europe/czech-republic/zatec-ehb/
+
+
+
+
+#### Церква «Нове Життя» Ліберець
+- Description: New Life Church Liberec
+- Address: Puchmajerova 359/4, 460 01 Liberec, Czech Republic
+- Coordinates: 50.769623, 15.04791
+- Phone: +420 731 177 801
+- Email: olekshanna@gmail.com
+
+- Schedule: Воскресенье 16:00 (Недільне богослужіння);
+- URL: https://spasenie.eu/churches/europe/czech-republic/liberec-nove-zhyttia/
+
+
+
+
+#### Церква в Лібереці (Кобзар)
+- Description: Church Liberec
+- Address: Puchmajerova 359/4, Liberec 46001, Czech Republic
+- Coordinates: 50.769623, 15.04791
+- Phone: +420 731177801
+
+
+
+- URL: https://spasenie.eu/churches/europe/czech-republic/liberec-kobzar/
+
+
+
+
+#### Церковь «XXI век» (ЕХБ) в Праге
+- Description: Sbor Bratrské jednoty baptistů v Praze církev XXI Století
+- Address: Holýšovská 4, Praha 13, 155 00, Czech Republic
+- Coordinates: 50.041115, 14.319854
+- Phone: +420 774 117 031
+- Email: eleos4u@gmail.com
+- Website: https://www.xxi.cz
+- Schedule: Воскресенье 10:00 (Воскресное богослужение на русском);
+- URL: https://spasenie.eu/churches/europe/czech-republic/praha-xxi-vek/
+
+
+
+
+#### Церковь Евангельских христиан (ЕХБ) Скала - Брно
+- Description: Sbor Bratrské jednoty baptistů v Brně - Scála
+- Address: Smetanova 20, 602 00 Brno, Czech Republic
+- Coordinates: 49.202969, 16.605148
+- Phone: +420 734 682 371
+- Email: skala.church.brno@gmail.com
+- Website: https://www.skalachurchbrno.cz
+- Schedule: Воскресенье 12:30 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/brno-ehb/
+
+
+
+
+#### Церковь ЕХБ «Спасение» Ческе-Будеевице
+- Description: Salvation Baptist Church České Budějovice
+- Address: Fráni Šrámka 1353/34, 370 01 České Budějovice, Czech Republic
+- Coordinates: 48.981636, 14.4786
+- Phone: +420 775 913 803
+- Email: agavrilov.cb@gmail.com
+
+- Schedule: Воскресенье 10:00 (Воскресное богослужение); Пятница 17:00 (Изучение Писания);
+- URL: https://spasenie.eu/churches/europe/czech-republic/ceske-budejovice-spasenie/
+
+
+
+
+#### Церковь ЕХБ Прага (Soukenická)
+- Description: Baptist Church Prague Soukenická
+- Address: Soukenická 15, 110 00 Praha, Czech Republic
+- Coordinates: 50.091219, 14.43004
+- Phone: +420 773 784 691
+- Email: rusnakov@seznam.cz
+
+- Schedule: Воскресенье 13:00 (Воскресное богослужение); Понедельник 19:30 (Молодежное общение); Среда 19:00 (Изучение Библии); Пятница 19:00 (Хоровая спевка); Суббота 19:00 (Молитвенная группа);
+- URL: https://spasenie.eu/churches/europe/czech-republic/praha-ehb-soukenicka/
+
+
+
+
+#### Церковь «Виноградная Лоза» в Праге
+- Description: Sbor Bratrské jednoty baptistů v Praze — Vinný Kmen
+- Address: Peroutkova 2482/57, Praha 5 - Smíchov, 150 00, Чехия
+- Coordinates: 50.062203, 14.384085
+- Phone: +420 776 866 385
+- Email: ggracengv@gmail.com
+- Website: https://vloza.eu
+- Schedule: Воскресенье 16:00 (Воскресное богослужение); Понедельник 19:30 (Общая молитва); Воскресенье 14:30 (Подготовка к крещению);
+- URL: https://spasenie.eu/churches/europe/czech-republic/prague-vloza/
+
+
+
+
+#### Церковь Евангельских христиан баптистов в Кладно
+- Description: Sbor Bratrské jednoty baptistů v Kladně
+- Address: Osvoboz.pol.věznů 341, Kladno 27201, Чехия
+- Coordinates: 50.145081, 14.099776
+- Phone: +420 602 171 613
+- Email: info@sborkladno.cz
+- Website: https://sborkladno.cz
+- Schedule: Воскресенье 11:00 (Воскресное богослужение); Четверг 18:00 (Изучение Библии и молитва); Суббота 17:00 (Молодежное служение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/kladno/
+
+
 
 
 
@@ -3141,245 +3393,6 @@ Each church entry contains:
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Суббота 12:00 (Детское служение); Среда 12:00 (Разбор Библии);
 - URL: https://spasenie.eu/churches/europe/montenegro/budva-hve/
-
-
-
-
-
-
-**Чехия / Czech Republic**
-
-
-#### Баптисты г. Злин (домашняя группа)
-- Description: Baptist Home Group Zlín
-- Address: SNP 1180, 76502 Otrokovice, Zlínský kraj, Czech Republic
-- Coordinates: 49.201953, 17.544767
-- Phone: +420 603 276 705
-- Email: ewens_den@mail.ru
-
-- Schedule: Воскресенье 17:30 (Группа);
-- URL: https://spasenie.eu/churches/europe/czech-republic/zlin-gruppa/
-
-
-
-
-#### Біблійна Церква в Празі
-- Description: Bible Church Prague
-
-- Coordinates: 50.0755, 14.4378
-- Phone: +380 636250657
-- Email: meleshko.a@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/czech-republic/praha-biblijna/
-
-
-
-
-#### Дочерняя церковь «Виноградная лоза» (ЕХБ) Брно
-- Description: Vinný Kmen Brno
-- Address: Dominikánská 264/2, 602 00 Brno-střed, Czech Republic
-- Coordinates: 49.1933, 16.6083
-- Phone: +420 737 371 141
-- Email: Demkovskyigor@gmail.com
-
-- Schedule: Воскресенье 11:00 (Воскресное богослужение); Воскресенье 17:00 (Молодежное служение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/brno-vloza/
-
-
-
-
-#### Евангельская Украинская Церковь «Маяк» Всетин
-- Description: Lighthouse Evangelical Ukrainian Church Vsetín
-- Address: Havlíčkova 1627, 755 01 Vsetín 1, Czech Republic
-- Coordinates: 49.3333, 17.9833
-- Phone: +420 605 237 824
-
-
-- Schedule: Воскресенье 16:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/vsetin-mayak/
-
-
-
-
-#### Евангельская церковь (ЕХБ) в Сланах
-- Description: Evangelical Baptist Church Slaný
-- Address: Vepřkova 1087/14, 274 01 Slaný 1, Czech Republic
-- Coordinates: 50.2333, 14.0833
-- Phone: +420 774 117 031
-
-
-- Schedule: Воскресенье 16:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/slany-ehb/
-
-
-
-
-#### Евангельская церковь (ЕХБ) Пардубице
-- Description: Evangelical Baptist Church Pardubice
-- Address: Sladkovského 521, 530 02 Pardubice, Czech Republic
-- Coordinates: 50.033271, 15.774483
-- Phone: +420 776 549 721
-
-
-- Schedule: Воскресенье 13:00 (Воскресное богослужение); Четверг 19:00 (Изучение Писания);
-- URL: https://spasenie.eu/churches/europe/czech-republic/pardubice-ehb/
-
-
-
-
-#### Международная Евангельская Церковь «Agape» (ЕХБ) Плзень
-- Description: International Evangelical Church Agape Plzeň
-- Address: Husova 314/1, 301 00 Plzeň 3-Jižní Předměstí, Czech Republic
-- Coordinates: 49.745066, 13.372096
-- Phone: +420 776 360 117
-- Email: preacherlev@mail.ru
-
-- Schedule: Воскресенье 16:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/plzen-agape/
-
-
-
-
-#### Международная евангельская церковь «Источник» (ЕХБ) Карловы Вары
-- Description: Source International Evangelical Church Karlovy Vary
-- Address: Závodu míru 42/112, 360 17 Karlovy Vary 17-Stará Role, Czech Republic
-- Coordinates: 50.2333, 12.8667
-- Phone: +420 731 618 116
-
-
-- Schedule: Воскресенье 14:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/karlovy-vary-istochnik/
-
-
-
-
-#### Перша Церква ЄХБ в Празі
-- Description: First EHB Church Prague
-
-- Coordinates: 50.0755, 14.4378
-- Phone: +420 773784691
-- Email: rusnakov@seznam.cz
-- Website: www.sobraniepraha.cz
-- Schedule: Неділя 13:00 (Недільне богослужіння);
-- URL: https://spasenie.eu/churches/europe/czech-republic/praha-persha-ehb/
-
-
-
-
-#### Христианская церковь в городе Žatec
-- Description: Christian Church Žatec - Station of BJB XXI Století
-- Address: Lva Tolstého 1249, Žatec, Czech Republic
-- Coordinates: 50.320572, 13.548099
-- Phone: +420 734 640 052
-- Email: m.gricyk1@gmail.com
-
-- Schedule: Воскресенье 16:00 (Воскресное богослужение); Среда 17:00 (Изучение Библии);
-- URL: https://spasenie.eu/churches/europe/czech-republic/zatec-ehb/
-
-
-
-
-#### Церква «Нове Життя» Ліберець
-- Description: New Life Church Liberec
-- Address: Puchmajerova 359/4, 460 01 Liberec, Czech Republic
-- Coordinates: 50.769623, 15.04791
-- Phone: +420 731 177 801
-- Email: olekshanna@gmail.com
-
-- Schedule: Воскресенье 16:00 (Недільне богослужіння);
-- URL: https://spasenie.eu/churches/europe/czech-republic/liberec-nove-zhyttia/
-
-
-
-
-#### Церква в Лібереці (Кобзар)
-- Description: Church Liberec
-- Address: Puchmajerova 359/4, Liberec 46001, Czech Republic
-- Coordinates: 50.769623, 15.04791
-- Phone: +420 731177801
-
-
-
-- URL: https://spasenie.eu/churches/europe/czech-republic/liberec-kobzar/
-
-
-
-
-#### Церковь «XXI век» (ЕХБ) в Праге
-- Description: Sbor Bratrské jednoty baptistů v Praze církev XXI Století
-- Address: Holýšovská 4, Praha 13, 155 00, Czech Republic
-- Coordinates: 50.041115, 14.319854
-- Phone: +420 774 117 031
-- Email: eleos4u@gmail.com
-- Website: https://www.xxi.cz
-- Schedule: Воскресенье 10:00 (Воскресное богослужение на русском);
-- URL: https://spasenie.eu/churches/europe/czech-republic/praha-xxi-vek/
-
-
-
-
-#### Церковь Евангельских христиан (ЕХБ) Скала - Брно
-- Description: Sbor Bratrské jednoty baptistů v Brně - Scála
-- Address: Smetanova 20, 602 00 Brno, Czech Republic
-- Coordinates: 49.202969, 16.605148
-- Phone: +420 734 682 371
-- Email: skala.church.brno@gmail.com
-- Website: https://www.skalachurchbrno.cz
-- Schedule: Воскресенье 12:30 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/brno-ehb/
-
-
-
-
-#### Церковь ЕХБ «Спасение» Ческе-Будеевице
-- Description: Salvation Baptist Church České Budějovice
-- Address: Fráni Šrámka 1353/34, 370 01 České Budějovice, Czech Republic
-- Coordinates: 48.981636, 14.4786
-- Phone: +420 775 913 803
-- Email: agavrilov.cb@gmail.com
-
-- Schedule: Воскресенье 10:00 (Воскресное богослужение); Пятница 17:00 (Изучение Писания);
-- URL: https://spasenie.eu/churches/europe/czech-republic/ceske-budejovice-spasenie/
-
-
-
-
-#### Церковь ЕХБ Прага (Soukenická)
-- Description: Baptist Church Prague Soukenická
-- Address: Soukenická 15, 110 00 Praha, Czech Republic
-- Coordinates: 50.091219, 14.43004
-- Phone: +420 773 784 691
-- Email: rusnakov@seznam.cz
-
-- Schedule: Воскресенье 13:00 (Воскресное богослужение); Понедельник 19:30 (Молодежное общение); Среда 19:00 (Изучение Библии); Пятница 19:00 (Хоровая спевка); Суббота 19:00 (Молитвенная группа);
-- URL: https://spasenie.eu/churches/europe/czech-republic/praha-ehb-soukenicka/
-
-
-
-
-#### Церковь «Виноградная Лоза» в Праге
-- Description: Sbor Bratrské jednoty baptistů v Praze — Vinný Kmen
-- Address: Peroutkova 2482/57, Praha 5 - Smíchov, 150 00, Чехия
-- Coordinates: 50.062203, 14.384085
-- Phone: +420 776 866 385
-- Email: ggracengv@gmail.com
-- Website: https://vloza.eu
-- Schedule: Воскресенье 16:00 (Воскресное богослужение); Понедельник 19:30 (Общая молитва); Воскресенье 14:30 (Подготовка к крещению);
-- URL: https://spasenie.eu/churches/europe/czech-republic/prague-vloza/
-
-
-
-
-#### Церковь Евангельских христиан баптистов в Кладно
-- Description: Sbor Bratrské jednoty baptistů v Kladně
-- Address: Osvoboz.pol.věznů 341, Kladno 27201, Чехия
-- Coordinates: 50.145081, 14.099776
-- Phone: +420 602 171 613
-- Email: info@sborkladno.cz
-- Website: https://sborkladno.cz
-- Schedule: Воскресенье 11:00 (Воскресное богослужение); Четверг 18:00 (Изучение Библии и молитва); Суббота 17:00 (Молодежное служение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/kladno/
 
 
 
