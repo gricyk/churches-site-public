@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 407
+Total churches: 406
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -1493,7 +1493,7 @@ Each church entry contains:
 - Description: Christliche Kirche Quelle Düsseldorf
 - Address: Eisenstr. 75, 40227 Düsseldorf, Germany
 - Coordinates: 51.216823, 6.799425
-- Phone: +43 676 513 8262
+- Phone: 492112605207
 - Email: info@istotschnik.org
 - Website: https://www.istotschnik.org/
 - Schedule: Воскресенье 13:00 (Воскресное богослужение); Вторник 17:30 (Служение); Четверг 18:00 (Служение); Суббота 14:30 (Братское общение);
@@ -2435,7 +2435,7 @@ Each church entry contains:
 - Description: Baptist Church Østfold
 - Address: Solbakken 3C, 1640 Råde, Norway
 - Coordinates: 59.365646, 10.810226
-- Phone: +371 297 81183
+
 - Email: ruslan_kr@inbox.lv
 
 - Schedule: Воскресенье 16:00 (Воскресное богослужение);
@@ -2588,19 +2588,6 @@ Each church entry contains:
 
 
 - URL: https://spasenie.eu/churches/europe/poland/warszawa-baloga/
-
-
-
-
-#### Церква в Варшаві (Іллін)
-- Description: Ukrainian Church Warsaw
-
-- Coordinates: 52.2297, 21.0122
-- Phone: +48 886320979
-- Email: Illin.slw@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-illin/
 
 
 
