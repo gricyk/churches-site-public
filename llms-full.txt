@@ -69,7 +69,7 @@ Each church entry contains:
 #### Библейская церковь Краслава
 - Description: Krāslavas baptistu draudze
 - Address: Rīgas iela 112, LV-5601 Krāslava, Latgale, Latvia
-- Coordinates: 55.9, 27.1667
+- Coordinates: 55.935497, 26.542843
 - Phone: +371 297 81183
 - Email: pastorslava@inbox.lv
 
@@ -82,7 +82,7 @@ Each church entry contains:
 #### Церковь христиан-баптистов города Олайне
 - Description: Olaines baptistu draudze
 - Address: Zemgales 4a - 1, LV-2114 Olaine, Rīgas rajons, Latvia
-- Coordinates: 56.7833, 23.9333
+- Coordinates: 56.948036, 24.044116
 - Phone: +371 259 03425
 - Email: golos@inbox.lv
 
@@ -165,7 +165,7 @@ Each church entry contains:
 #### Славянская евангельская церковь Albufeira
 - Description: Slavic Evangelical Church Albufeira
 - Address: R. Manuel Teixeira Gomes, 8200-291 Albufeira, Portugal
-- Coordinates: 37.0833, -8.2333
+- Coordinates: 37.102399, -8.226314
 - Phone: +351 960 460 577
 - Email: hlebinator2000@gmail.com
 
@@ -191,7 +191,7 @@ Each church entry contains:
 #### Церква в Келуші
 - Description: Church Queluz
 - Address: R. 9 de Abril 19A, 2745-155 Queluz, Portugal
-- Coordinates: 38.7514, -9.2589
+- Coordinates: 38.756584, -9.254523
 - Phone: +351 967545198
 - Email: colorlite1919@gmail.com
 
@@ -209,7 +209,7 @@ Each church entry contains:
 #### Церковь «Новый Завет» – Дзержинский
 - Description: Церковь Христиан Веры Евангельской (ХВЕ)
 - Address: ул. Зелёная 8а, г. Дзержинский, Московская область, Россия
-- Coordinates: 55.6295, 37.8528
+- Coordinates: 55.504316, 38.035393
 
 
 
@@ -222,7 +222,7 @@ Each church entry contains:
 #### Церковь большого города – Москва
 - Description: Церковь Христиан Веры Евангельской (ХВЕ)
 - Address: ул. 1-я Хуторская 5а, м. Дмитровская, Москва, Россия
-- Coordinates: 55.7968, 37.5856
+- Coordinates: 55.625578, 37.606392
 
 
 
@@ -393,7 +393,7 @@ Each church entry contains:
 #### Евангельская Церковь «Новая Жизнь» — Blackburn
 - Description: New Life Church Blackburn
 - Address: Bethesda Chapel, Shakespeare Way, BB2 1XL, UK
-- Coordinates: 53.75, -2.4833
+- Coordinates: 53.74169, -2.49499
 - Phone: +44 7975732648
 - Email: jurigb@hotmail.com
 
@@ -406,7 +406,7 @@ Each church entry contains:
 #### Славянская христианская Церковь Лондона
 - Description: Slavic Christian Fellowship London
 - Address: St. John's Chelsea, 461-463 King's Rd, London SW10 0LU, UK
-- Coordinates: 51.4833, -0.1833
+- Coordinates: 51.500021, -0.192442
 - Phone: +44 7577 671021
 - Email: slavic.christian.uk@gmail.com
 
@@ -424,7 +424,7 @@ Each church entry contains:
 #### Библейская церковь «Новая жизнь» Будапешт
 - Description: Új Élet Biblia Gyülekezet Budapest / New Life Bible Church Budapest
 - Address: Paulay Ede utca 22-24, Forum, 1061 Budapest, Hungary
-- Coordinates: 47.5, 19.0667
+- Coordinates: 47.486771, 19.086497
 - Phone: +36 709 428 406
 - Email: sasha.tsyfrynets@gmail.com
 
@@ -949,7 +949,7 @@ Each church entry contains:
 #### Украинская церковь в Дитцхёльцтале
 - Description: Ukrainian Church Dietzhölztal
 - Address: FBG Dillenburg, Obere Industriestraße 1, 35684 Frohnhausen, Germany
-- Coordinates: 50.75, 8.3333
+- Coordinates: 50.782979, 8.299349
 - Phone: +49 15172839606
 
 
@@ -1461,7 +1461,7 @@ Each church entry contains:
 #### Афины Церковь Евангельских христиан (ЕХБ)
 - Description: Evangelical Baptist Church Athens
 - Address: Chelntrech 37, 11745 Athina, Greece
-- Coordinates: 37.9667, 23.7167
+- Coordinates: 37.975565, 23.734832
 - Phone: +30 699 5735025
 - Email: info@baptists.gr
 
@@ -1487,7 +1487,7 @@ Each church entry contains:
 #### Фессалоники Христианская Евангельская Церковь (ЕХБ)
 - Description: Χριστιανική Διακονία Thessaloniki
 - Address: Afroditis 6, Vardari, 54629 Thessaloníki, Greece
-- Coordinates: 40.6333, 22.95
+- Coordinates: 40.640317, 22.935272
 - Phone: +30 694 7620106
 - Email: georgiosrw@mail.ru
 
@@ -1505,7 +1505,7 @@ Each church entry contains:
 #### Евангельская Баптистская церковь Грузии, Тбилиси
 - Description: Evangelical Baptist Church of Georgia
 - Address: Peace Cathedral 6 Kedia St, 0159 Tbilisi, Georgia
-- Coordinates: 41.7167, 44.7833
+- Coordinates: 41.693459, 44.801449
 - Phone: +995 599 574 017
 - Email: merab.gaprindashvili@gmail.com
 
@@ -1572,7 +1572,7 @@ Each church entry contains:
 #### Евангельская Церковь «Благая Весть» (ХВЕ) в Мадриде
 - Description: Good News Evangelical Church Madrid
 - Address: Calle Astillero 10, Villaverde, 28021 Madrid, Spain
-- Coordinates: 40.35, -3.6833
+- Coordinates: 40.416782, -3.703507
 - Phone: +34 610 361 897
 - Email: blagayavest.es@gmail.com
 
@@ -1585,7 +1585,7 @@ Each church entry contains:
 #### Евангельская церковь «Источник Жизни» (ЕХБ) в Барселоне
 - Description: Source of Life Evangelical Church Barcelona
 - Address: Carrer de la Font d'en Canyelles 106, Barcelona, Spain
-- Coordinates: 41.4333, 2.1667
+- Coordinates: 41.441364, 2.174226
 - Phone: +34 642 112 864
 
 - Website: https://istok.life
@@ -1728,7 +1728,7 @@ Each church entry contains:
 #### Церковь евангельских христиан баптистов в Мурсии
 - Description: Evangelical Baptist Church Murcia
 - Address: Paseo científico Gabriel Ciscar, local 22F, 30007 Murcia, Spain
-- Coordinates: 37.9833, -1.1333
+- Coordinates: 37.996315, -1.122261
 - Phone: +34 606 040 105
 - Email: alexandr-kindcat@mail.ru
 
@@ -1785,7 +1785,7 @@ Each church entry contains:
 #### Баптистская церковь «Слово Жизни» (ЕХБ) Римини
 - Description: Word of Life Baptist Church Rimini
 - Address: Via dei Forzieri 45, 47922 Rimini, Italy
-- Coordinates: 44.0633, 12.57
+- Coordinates: 44.065212, 12.564332
 - Phone: +39 351 518 5695
 - Email: viorel11470@gmail.com
 
@@ -1889,7 +1889,7 @@ Each church entry contains:
 #### Евангельская церковь (ЕХБ) Аверса
 - Description: Evangelical Baptist Church Aversa
 - Address: Via Raffael Musto 117, 81031 Aversa, Italy
-- Coordinates: 40.9733, 14.2067
+- Coordinates: 40.969957, 14.204987
 - Phone: +39 329 225 3360
 - Email: splisov@gmail.com
 
@@ -1959,7 +1959,7 @@ Each church entry contains:
 #### Баптистская церковь «Пилигрим» в Вильнюсе
 - Description: Pilgrim Baptist Church Vilnius
 - Address: Verkių g. 22, Vilniaus m. sav., 08219 Vilnius, Lithuania
-- Coordinates: 54.7167, 25.2833
+- Coordinates: 54.687046, 25.282911
 - Phone: +370 682 01178
 - Email: fandorin3584755@gmail.com
 - Website: https://evangelie.lt/
@@ -1972,7 +1972,7 @@ Each church entry contains:
 #### Церковь «Божьей милости» г. Паневежис
 - Description: God's Mercy Church Panevėžys
 - Address: A. Mackevičiaus g. 5, Panevėžio m. sav., 35169 Panevėžys, Lithuania
-- Coordinates: 55.7333, 24.35
+- Coordinates: 55.734499, 24.357806
 - Phone: +370 673 10058
 - Email: narnijec@yandex.ru
 
@@ -1985,7 +1985,7 @@ Each church entry contains:
 #### Церковь евангельских баптистов г. Илакяй
 - Description: Evangelical Baptist Church Ylakiai
 - Address: Dariaus ir Girėno g. 38, Skuodo r. sav., 98353 Ylakiai, Lithuania
-- Coordinates: 56.0667, 21.3333
+- Coordinates: 56.279394, 21.849389
 - Phone: +370 46 341478
 - Email: solvita_siksne@yahoo.com
 
@@ -2011,7 +2011,7 @@ Each church entry contains:
 #### Церковь евангельских христиан баптистов г. Висагинас
 - Description: Evangelical Baptist Church Visaginas
 - Address: Jaunystės g. 21-1, Visagino sav., 31230 Visaginas, Lithuania
-- Coordinates: 55.6, 26.4333
+- Coordinates: 55.59966, 26.437007
 - Phone: +370 386 72192
 - Email: vladis_n@dkd.lt
 
@@ -2037,7 +2037,7 @@ Each church entry contains:
 #### Церковь евангельских христиан баптистов г. Мажейкяй
 - Description: Evangelical Baptist Church Mažeikiai
 - Address: Tirkšlių g. 3, Mažeikių r. sav., 89235 Mažeikiai, Lithuania
-- Coordinates: 56.3167, 22.3333
+- Coordinates: 56.311048, 22.348472
 - Phone: +370 612 40554
 - Email: antanas52@gmail.com
 
@@ -2050,7 +2050,7 @@ Each church entry contains:
 #### Церковь Нового Завета г. Вильнюс
 - Description: New Testament Church Vilnius
 - Address: Algirdo g. 48, Vilniaus m. sav., 03209 Vilnius, Lithuania
-- Coordinates: 54.6833, 25.2833
+- Coordinates: 54.687046, 25.282911
 - Phone: +370 5 2336869
 - Email: vilnius@baptist.lt
 
@@ -2120,7 +2120,7 @@ Each church entry contains:
 #### Церква Давид в Синт-Маартенсдику
 - Description: David Church Sint-Maartensdijk
 - Address: Markt 5, 4695 CE Sint-Maartensdijk, Netherlands
-- Coordinates: 51.5333, 4.0667
+- Coordinates: 51.548799, 4.078299
 - Phone: +380 931274211
 - Email: kuzmin4ukdavid@gmail.com
 
@@ -2221,7 +2221,7 @@ Each church entry contains:
 #### Баптистська церква в Гданську
 - Description: Baptist Church Gdańsk
 - Address: ul. Dąbrowskiego 11, 80-153 Gdańsk, Poland
-- Coordinates: 54.352, 18.6466
+- Coordinates: 54.35418, 18.633788
 - Phone: +48 570253151
 
 - Website: https://baptist-gdansk.pl/
@@ -2286,7 +2286,7 @@ Each church entry contains:
 #### Христианская Церковь «Спасение» в Варшаве
 - Description: Salvation Church Warsaw / Kościół Chrześcijan Baptystów w RP
 - Address: ul. Mińska 48, 03-193 Warszawa, Poland
-- Coordinates: 52.25, 21.0833
+- Coordinates: 52.249323, 21.06505
 - Phone: +48 794 309 158
 - Email: spasenie.wawa@gmail.com
 - Website: https://spasenie.pl/
@@ -2299,7 +2299,7 @@ Each church entry contains:
 #### Христианская церковь (ХВЕП) в Варшаве «Дом Божий»
 - Description: House of God Pentecostal Church Warsaw
 - Address: ул. Клопотовскего 11, Варшава, Poland
-- Coordinates: 52.25, 21
+- Coordinates: 52.233374, 21.071149
 - Phone: +48 575 701 718
 - Email: viktor11-75@mail.ru
 
@@ -2312,7 +2312,7 @@ Each church entry contains:
 #### Христианская церковь в Быдгощи
 - Description: Christian Church Bydgoszcz
 - Address: ul. Unii Lubelskiej 8, Bydgoszcz, Poland
-- Coordinates: 53.1333, 18
+- Coordinates: 53.133734, 17.994264
 - Phone: +48 516 721 112
 - Email: glavnikk@gmail.com
 
@@ -2429,7 +2429,7 @@ Each church entry contains:
 #### Церква в Лодзі
 - Description: Ukrainian Church Łódź
 - Address: Navrot 27, Łódź, Poland
-- Coordinates: 51.7592, 19.456
+- Coordinates: 51.768732, 19.456991
 - Phone: +380 536071432
 - Email: bogunbogdan579@gmail.com
 
@@ -2533,7 +2533,7 @@ Each church entry contains:
 #### Церква Логос в Варшаві
 - Description: Logos Church Warsaw
 - Address: ul.Goździków 29/31, 04-231 Warszawa, Poland
-- Coordinates: 52.2297, 21.0122
+- Coordinates: 52.238589, 21.1372
 - Phone: +48 577773391
 - Email: logoswarszawa010418@gmail.com
 
@@ -2585,7 +2585,7 @@ Each church entry contains:
 #### Церковь «Причал» ЕХБ в Гдыне
 - Description: Pier Baptist Church Gdynia
 - Address: Ul. Oficerska 15, Gdynia, Poland
-- Coordinates: 54.5167, 18.5333
+- Coordinates: 54.476134, 18.541712
 - Phone: +48 575 077 680
 - Email: kozubovsky.uets@gmail.com
 
@@ -2611,7 +2611,7 @@ Each church entry contains:
 #### Четвёртая баптистская церковь Гданьска
 - Description: Fourth Baptist Church Gdańsk
 - Address: ul. Dąbrowskiego 11, 80-153 Gdańsk, Poland
-- Coordinates: 54.35, 18.65
+- Coordinates: 54.35418, 18.633788
 - Phone: +48 570 253 151
 
 
@@ -2922,7 +2922,7 @@ Each church entry contains:
 #### Українська Церква ЄХБ «НАДІЯ» / «ESPERANCE» Париж
 - Description: Ukrainian Baptist Church Hope Paris
 - Address: 17 Voie de Wissous, Le Centre les Cedres, 91300 Massy, France
-- Coordinates: 48.7333, 2.2833
+- Coordinates: 49.690211, 1.399492
 - Phone: +33 6 37 38 27 76
 - Email: viktor19650909@gmail.com
 
@@ -3026,7 +3026,7 @@ Each church entry contains:
 #### Церковь ЕХБ «Добрая Весть» во Фрежюсе
 - Description: Good News Baptist Church Fréjus
 - Address: 102 Impasse Thomas Edison Z.A., La Palud, 83600 Fréjus, France
-- Coordinates: 43.4333, 6.7333
+- Coordinates: 43.433031, 6.736018
 - Phone: +33 744 773 517
 - Email: baptistfrejus@gmail.com
 
@@ -3083,7 +3083,7 @@ Each church entry contains:
 #### Бар – Балканская Евангельская Церковь
 - Description: Balkanian Evangelical Church Bar
 - Address: Гипермаркет Воли на кольце, Bar, Montenegro
-- Coordinates: 42.0833, 19.1
+- Coordinates: 42.097974, 19.095453
 - Phone: +382 67 452 678
 - Email: olek.velychko@gmail.com
 
@@ -3135,7 +3135,7 @@ Each church entry contains:
 #### Церковь христиан веры евангельской в Будве (ХВЕ)
 - Description: Evangelical Christian Church Budva
 - Address: 13. Jula 1, 85310 Budva, Montenegro
-- Coordinates: 42.2833, 18.8333
+- Coordinates: 42.288566, 18.84195
 - Phone: +382 68 344694
 
 
@@ -3521,7 +3521,7 @@ Each church entry contains:
 #### Христианская Церковь в Турции, Мерсин
 - Description: Christian Church Mersin Turkey
 - Address: Deniz, 49268. Sk. NO: 11A, Mavi event organizasyon, 33000 Mezitli, Mersin, Turkey
-- Coordinates: 36.8, 34.6333
+- Coordinates: 36.797838, 34.629839
 - Phone: +90 506 248 19 26
 
 
