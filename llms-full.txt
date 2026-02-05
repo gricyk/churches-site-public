@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 409
+Total churches: 408
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -171,14 +171,14 @@ Each church entry contains:
 
 
 #### Перша Церква ЄХБ в Празі
-- Description: First EHB Church Prague
-
-- Coordinates: 50.0755, 14.4378
-- Phone: +420 773784691
+- Description: 1st Baptist Church Prague
+- Address: Soukenická 15, 110 00 Praha, Czech Republic
+- Coordinates: 50.091219, 14.43004
+- Phone: +420 773 784 691
 - Email: rusnakov@seznam.cz
-- Website: www.sobraniepraha.cz
-- Schedule: Неділя 13:00 (Недільне богослужіння);
-- URL: https://spasenie.eu/churches/europe/czech-republic/praha-persha-ehb/
+- Website: https://www.sobraniepraha.cz
+- Schedule: Воскресенье 13:00 (Воскресное богослужение); Понедельник 19:00 (Молодежное общение); Среда 19:00 (Изучение Библии); Пятница 19:00 (Хоровая спевка); Суббота 19:00 (Молитвенная группа);
+- URL: https://spasenie.eu/churches/europe/czech-republic/praha-ehb-soukenicka/
 
 
 
@@ -257,19 +257,6 @@ Each church entry contains:
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Пятница 17:00 (Изучение Писания);
 - URL: https://spasenie.eu/churches/europe/czech-republic/ceske-budejovice-spasenie/
-
-
-
-
-#### Церковь ЕХБ Прага (Soukenická)
-- Description: Baptist Church Prague Soukenická
-- Address: Soukenická 15, 110 00 Praha, Czech Republic
-- Coordinates: 50.091219, 14.43004
-- Phone: +420 773 784 691
-- Email: rusnakov@seznam.cz
-
-- Schedule: Воскресенье 13:00 (Воскресное богослужение); Понедельник 19:30 (Молодежное общение); Среда 19:00 (Изучение Библии); Пятница 19:00 (Хоровая спевка); Суббота 19:00 (Молитвенная группа);
-- URL: https://spasenie.eu/churches/europe/czech-republic/praha-ehb-soukenicka/
 
 
 
