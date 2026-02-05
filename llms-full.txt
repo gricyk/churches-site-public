@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 406
+Total churches: 388
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -53,6 +53,19 @@ Each church entry contains:
 **Чехия / Czech Republic**
 
 
+#### Украинская Библейская Церковь – Прага
+- Description: Ukrainian Bible Church in Prague
+- Address: Korunovační 103/6, Praha 7, Czechia
+- Coordinates: 50.100381, 14.420547
+- Phone: +420 736 693 501
+- Email: meleshko.a@gmail.com
+
+- Schedule: Воскресенье 13:00 (Богослужение на украинском);
+- URL: https://spasenie.eu/churches/europe/czech-republic/prague-ubc/
+
+
+
+
 #### Христианская церковь ЕХБ Джерело життя – Хеб
 - Description: Křesťanský sbor baptistů Pramen života v Cheb
 - Address: Libušina 328/4, Cheb, Czechia
@@ -75,19 +88,6 @@ Each church entry contains:
 
 - Schedule: Воскресенье 17:30 (Группа);
 - URL: https://spasenie.eu/churches/europe/czech-republic/zlin-gruppa/
-
-
-
-
-#### Біблійна Церква в Празі
-- Description: Bible Church Prague
-
-- Coordinates: 50.0755, 14.4378
-- Phone: +380 636250657
-- Email: meleshko.a@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/czech-republic/praha-biblijna/
 
 
 
@@ -205,19 +205,6 @@ Each church entry contains:
 
 - Schedule: Воскресенье 16:00 (Недільне богослужіння);
 - URL: https://spasenie.eu/churches/europe/czech-republic/liberec-nove-zhyttia/
-
-
-
-
-#### Церква в Лібереці (Кобзар)
-- Description: Church Liberec
-- Address: Puchmajerova 359/4, Liberec 46001, Czech Republic
-- Coordinates: 50.769623, 15.04791
-- Phone: +420 731177801
-
-
-
-- URL: https://spasenie.eu/churches/europe/czech-republic/liberec-kobzar/
 
 
 
@@ -1878,45 +1865,6 @@ Each church entry contains:
 
 
 
-#### Церква в Барселоні (Зеленський)
-- Description: Church Barcelona
-
-- Coordinates: 41.3851, 2.1734
-- Phone: +34 642112864
-- Email: aleksitali@hotmail.com
-
-- Schedule: Неділя 11:00 (Недільне богослужіння);
-- URL: https://spasenie.eu/churches/europe/spain/barcelona-zelenskyy/
-
-
-
-
-#### Церква в Барселоні (Сіделєв)
-- Description: Church Barcelona
-
-- Coordinates: 41.3851, 2.1734
-- Phone: +34 643437955
-
-
-
-- URL: https://spasenie.eu/churches/europe/spain/barcelona-sidelev/
-
-
-
-
-#### Церква в Валенсії (Шипук)
-- Description: Church Valencia
-
-- Coordinates: 39.4699, -0.3763
-- Phone: +34 635391590
-
-
-
-- URL: https://spasenie.eu/churches/europe/spain/valencia-shipuk/
-
-
-
-
 #### Церква в Дароці
 - Description: Church Daroca
 
@@ -2475,19 +2423,6 @@ Each church entry contains:
 
 
 
-#### Баптистська церква в Гданську
-- Description: Baptist Church Gdańsk
-- Address: ul. Dąbrowskiego 11, 80-153 Gdańsk, Poland
-- Coordinates: 54.35418, 18.633788
-- Phone: +48 570253151
-
-- Website: https://baptist-gdansk.pl/
-- Schedule: Неділя 14:00 (Недільне богослужіння);
-- URL: https://spasenie.eu/churches/europe/poland/gdansk-baptist/
-
-
-
-
 #### Баптистська церква в Любліні
 - Description: Baptist Church Lublin
 
@@ -2579,45 +2514,6 @@ Each church entry contains:
 
 
 
-#### Церква в Варшаві (Балога)
-- Description: Ukrainian Church Warsaw
-
-- Coordinates: 52.2297, 21.0122
-- Phone: +48 502760777
-- Email: maikelbaloga@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-baloga/
-
-
-
-
-#### Церква в Варшаві (Ковальчук)
-- Description: Ukrainian Church Warsaw
-
-- Coordinates: 52.2297, 21.0122
-- Phone: +48 729525879
-- Email: vladislav.20010115@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-kovalchuk/
-
-
-
-
-#### Церква в Варшаві (Нерода)
-- Description: Ukrainian Church Warsaw
-
-- Coordinates: 52.2297, 21.0122
-- Phone: +48 794309158
-- Email: alex.nera@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-neroda/
-
-
-
-
 #### Церква в Катовіце (Давидюк)
 - Description: Ukrainian Church Katowice
 
@@ -2705,32 +2601,6 @@ Each church entry contains:
 
 
 - URL: https://spasenie.eu/churches/europe/poland/radzyn-ukr/
-
-
-
-
-#### Церква в Сосновці (Метіль)
-- Description: Ukrainian Church Sosnowiec
-
-- Coordinates: 50.2863, 19.1042
-- Phone: +48 576385240
-- Email: metilalex@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/sosnowiec-metil/
-
-
-
-
-#### Церква в Сосновці (Яцко)
-- Description: Ukrainian Church Sosnowiec
-
-- Coordinates: 50.2863, 19.1042
-- Phone: +380 958298824
-- Email: fedor.yatsko@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/sosnowiec-yatsko/
 
 
 
@@ -2879,115 +2749,6 @@ Each church entry contains:
 
 
 - URL: https://spasenie.eu/churches/europe/romania/danes-ukr/
-
-
-
-
-
-
-**Сербия / Serbia**
-
-
-#### International Christian Fellowship (ICF) Белград
-- Description: International Christian Fellowship Belgrade
-
-- Coordinates: 44.8176, 20.4633
-
-
-
-
-- URL: https://spasenie.eu/churches/europe/serbia/belgrad-icf/
-
-
-
-
-#### New Territory Нови-Сад
-- Description: New Territory Novi Sad
-
-- Coordinates: 45.25, 19.8333
-
-
-
-
-- URL: https://spasenie.eu/churches/europe/serbia/novi-sad-new-territory/
-
-
-
-
-#### Protestantska Hrišćanska zajednica Нови-Сад
-- Description: Protestant Christian Community Novi Sad
-
-- Coordinates: 45.25, 19.8333
-
-
-
-
-- URL: https://spasenie.eu/churches/europe/serbia/novi-sad-protestantska/
-
-
-
-
-#### Русскоязычная церковь г. Нови-Сад
-- Description: Russian-speaking Church Novi Sad
-- Address: Velje Ribara 12, 21124 Novi Sad, Serbia
-- Coordinates: 45.234679, 19.77452
-- Phone: +381 61 2281573
-- Email: igmarrk@gmail.com
-
-- Schedule: Воскресенье 11:00 (Воскресное богослужение); Пятница 19:00 (Общение);
-- URL: https://spasenie.eu/churches/europe/serbia/novi-sad-ehb/
-
-
-
-
-#### Храм Св. Марка Белград
-- Description: St. Mark's Church Belgrade
-
-- Coordinates: 44.8176, 20.4633
-
-
-
-
-- URL: https://spasenie.eu/churches/europe/serbia/belgrad-svmarka/
-
-
-
-
-#### Хришћанска баптистичка црква Белград
-- Description: Christian Baptist Church Belgrade
-
-- Coordinates: 44.8176, 20.4633
-
-
-
-
-- URL: https://spasenie.eu/churches/europe/serbia/belgrad-baptisticka/
-
-
-
-
-#### Центар Црква Белград
-- Description: Centar Crkva Belgrade
-
-- Coordinates: 44.8176, 20.4633
-
-
-
-
-- URL: https://spasenie.eu/churches/europe/serbia/belgrad-centar-crkva/
-
-
-
-
-#### Церковь Назарянина Белград
-- Description: Church of the Nazarene Belgrade
-
-- Coordinates: 44.8176, 20.4633
-
-
-
-
-- URL: https://spasenie.eu/churches/europe/serbia/belgrad-nazaryanina/
 
 
 
@@ -3472,6 +3233,11 @@ Each church entry contains:
 
 
 **Северная Македония / North Macedonia**
+
+
+
+
+**Сербия / Serbia**
 
 
 
