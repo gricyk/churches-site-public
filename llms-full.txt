@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 408
+Total churches: 407
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -51,19 +51,6 @@ Each church entry contains:
 
 
 **Чехия / Czech Republic**
-
-
-#### Рафаэль – Кладно
-- Description: Rafael
-- Address: kladno, hřebečská 2676, Czechia
-- Coordinates: 50.132398, 14.137124
-- Phone: 754545652
-- Email: gfa@mail.ru
-- Website: rafael.com
-- Schedule: Четверг 9:00 (сплю);
-- URL: https://spasenie.eu/churches/europe/czech-republic/kladno-rafael/
-
-
 
 
 #### Христианская церковь ЕХБ Джерело життя – Хеб
