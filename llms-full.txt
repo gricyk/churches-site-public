@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 388
+Total churches: 391
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -53,6 +53,19 @@ Each church entry contains:
 **Чехия / Czech Republic**
 
 
+#### Группа Евангельских Христиан Баптистов – Колин
+- Description: Baptist group at Kolin
+- Address: Královská cesta 226, 280 02 Kolín IV, Czechia
+- Coordinates: 50.019838, 15.21074
+- Phone: +420 774 074 796
+
+
+- Schedule: Четверг 19:00 (Изучение Библии);
+- URL: https://spasenie.eu/churches/europe/czech-republic/kolin-baptist/
+
+
+
+
 #### Украинская Библейская Церковь – Прага
 - Description: Ukrainian Bible Church in Prague
 - Address: Korunovační 103/6, Praha 7, Czechia
@@ -75,6 +88,32 @@ Each church entry contains:
 
 - Schedule: Воскресенье 10:00 (Богослужение);
 - URL: https://spasenie.eu/churches/europe/czech-republic/cheb-pramen/
+
+
+
+
+#### Церковь Евангельских Христиан Баптистов (МСЦ) – Прага
+- Description: Baptist Church in Prague (MSC)
+- Address: U pošty 1098/6, Praha 8, Czechia
+- Coordinates: 50.102487, 14.47741
+- Phone: +420 771 241 711
+
+
+- Schedule: Воскресенье 13:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/prague-msc/
+
+
+
+
+#### Церковь Евангельских Христиан Баптистов (Фриденштимме) – Прага
+- Description: Baptist Church in Prague (Friedensstimme)
+- Address: Žateckých 1169/11, Praha, Czechia
+- Coordinates: 50.061234, 14.434766
+- Phone: +420 775 213 159
+
+- Website: https://www.baptist-praha.info
+- Schedule: Воскресенье 12:00 (Богослужение); Воскресенье 13:00 (Детские часы); Пятница 19:00 (Молитвенное собрание и библейский час); Суббота 19:00 (Молодежное общение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/prague-baptist-fs/
 
 
 
