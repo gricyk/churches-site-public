@@ -3,7 +3,7 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-02-04
+# Generated: 2026-02-05
 
 ## OVERVIEW
 
@@ -2324,12 +2324,12 @@ Each church entry contains:
 
 #### Христианская церковь в Быдгощи
 - Description: Christian Church Bydgoszcz
-- Address: ul. Zduny 10а, Bydgoszcz, Poland
+- Address: ul. Unii Lubelskiej 8, Bydgoszcz, Poland
 - Coordinates: 53.1333, 18
 - Phone: +48 516 721 112
 - Email: glavnikk@gmail.com
 
-- Schedule: Воскресенье 12:30 (Воскресное богослужение);
+- Schedule: Воскресенье 13:00 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/poland/bydgoszcz-ehb/
 
 
