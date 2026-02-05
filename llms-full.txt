@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 408
+Total churches: 407
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -207,7 +207,7 @@ Each church entry contains:
 
 
 #### Церковь «Новый Завет» – Дзержинский
-- Description: Церковь евангельских христиан-баптистов
+- Description: Церковь Христиан Веры Евангельской (ХВЕ)
 - Address: ул. Зелёная 8а, г. Дзержинский, Московская область, Россия
 - Coordinates: 55.6295, 37.8528
 
@@ -220,7 +220,7 @@ Each church entry contains:
 
 
 #### Церковь большого города – Москва
-- Description: Церковь евангельских христиан-баптистов
+- Description: Церковь Христиан Веры Евангельской (ХВЕ)
 - Address: ул. 1-я Хуторская 5а, м. Дмитровская, Москва, Россия
 - Coordinates: 55.7968, 37.5856
 
@@ -228,19 +228,6 @@ Each church entry contains:
 
 - Schedule: Суббота 18:00 (Субботнее богослужение (CMCHURCH)); Воскресенье 14:00 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/russia/moscow-bolshoy-gorod/
-
-
-
-
-#### Церковь ЕХБ «Дом молитвы» – Рыбинск
-- Description: Церковь евангельских христиан-баптистов
-- Address: ул. Ломоносова, д. 15А, г. Рыбинск, Ярославская область, Россия
-- Coordinates: 58.0455, 38.8578
-- Phone: +7 (909) 279-84-54
-- Email: kravtsov1003@gmail.com
-
-- Schedule: Воскресенье 10:00 (Воскресное богослужение); Четверг 18:00 (Молитвенное собрание);
-- URL: https://spasenie.eu/churches/europe/russia/rybinsk-dom-molitvy/
 
 
 
@@ -263,7 +250,7 @@ Each church entry contains:
 
 
 
-#### Евангельская Церковь и Международная Миссия (ХВЕ)
+#### Евангельская Церковь и Международная Миссия (ХВЕ) г. Вена
 - Description: GWP Vienna - Христиане Веры Евангельской
 - Address: Am Heidjöchl 6, 1220 Wien, Austria
 - Coordinates: 48.25, 16.4667
@@ -302,7 +289,7 @@ Each church entry contains:
 
 
 
-#### Церковь Христиан Веры Евангельской «Елим» (ХВЕ)
+#### Церковь Христиан Веры Евангельской «Елим» (ХВЕ) г. Вена
 - Description: Собрание всех неизменно любящих Господа
 - Address: Maculangasse 9, 1220 Wien, Austria
 - Coordinates: 48.2333, 16.45
@@ -403,7 +390,7 @@ Each church entry contains:
 
 
 
-#### Евангельская Церковь «Новая Жизнь» — New Life
+#### Евангельская Церковь «Новая Жизнь» — Blackburn
 - Description: New Life Church Blackburn
 - Address: Bethesda Chapel, Shakespeare Way, BB2 1XL, UK
 - Coordinates: 53.75, -2.4833
@@ -452,7 +439,7 @@ Each church entry contains:
 **Германия / Germany**
 
 
-#### «Вифания» — Дом молитвы для всех народов
+#### «Вифания» — Дом молитвы для всех народов, Ганновер
 - Description: Bethania Hannover
 - Address: Thönser Straße 22, 30629 Hannover, Germany
 - Coordinates: 52.4, 9.8167
@@ -725,7 +712,7 @@ Each church entry contains:
 
 
 
-#### ЕХБ Джерело Життя
+#### ЕХБ Джерело Життя Нордхорн
 - Description: Baptisten Nordhorn
 - Address: Paul-Gerhardt str 2, Nordhorn
 - Coordinates: 52.4333, 7.0667
@@ -1219,7 +1206,7 @@ Each church entry contains:
 
 
 
-#### Українська Біблійна Церква «Рема»
+#### Українська Біблійна Церква «Рема» Ландштуль
 - Description: Ukrainian Bible Church Rema Landstuhl
 - Address: Ludwigstraße 1, 66849 Landstuhl, Germany
 - Coordinates: 49.4106, 7.5706
@@ -1245,7 +1232,7 @@ Each church entry contains:
 
 
 
-#### Христианская Церковь «Источник»
+#### Христианская Церковь «Источник» Дюссельдорф
 - Description: Christliche Kirche Quelle Düsseldorf
 - Address: Eisenstr. 75, 40227 Düsseldorf, Germany
 - Coordinates: 51.2117, 6.79
@@ -1258,7 +1245,7 @@ Each church entry contains:
 
 
 
-#### Христианская Церковь «Невеста Христа» (ХВЕ)
+#### Христианская Церковь «Невеста Христа» (ХВЕ) Нюрнберг
 - Description: Braut Christi Nürnberg
 - Address: Schweinauer Hauptstraße 14A, 90441 Nürnberg, Germany
 - Coordinates: 49.4333, 11.0833
@@ -1271,7 +1258,7 @@ Each church entry contains:
 
 
 
-#### Христианский Центр «Агапе» (ХВЕ-BFP)
+#### Христианский Центр «Агапе» (ХВЕ-BFP) Лар
 - Description: Gemeindezentrum Agape Lahr/Schwarzwald
 - Address: Schwarzwaldstr. 82, 77933 Lahr, Germany
 - Coordinates: 48.3333, 7.8667
@@ -1284,7 +1271,7 @@ Each church entry contains:
 
 
 
-#### Христианский центр «Источник жизни» (ХВЕ)
+#### Христианский центр «Источник жизни» (ХВЕ) Фрайбург
 - Description: IF Church Freiburg
 - Address: Ziegelhofstraße 200, 79110 Freiburg-Lehen, Germany
 - Coordinates: 48, 7.85
@@ -1515,7 +1502,7 @@ Each church entry contains:
 **Грузия / Georgia**
 
 
-#### Евангельская Баптистская церковь Грузии
+#### Евангельская Баптистская церковь Грузии, Тбилиси
 - Description: Evangelical Baptist Church of Georgia
 - Address: Peace Cathedral 6 Kedia St, 0159 Tbilisi, Georgia
 - Coordinates: 41.7167, 44.7833
@@ -2657,7 +2644,7 @@ Each church entry contains:
 **Сербия / Serbia**
 
 
-#### International Christian Fellowship (ICF)
+#### International Christian Fellowship (ICF) Белград
 - Description: International Christian Fellowship Belgrade
 
 - Coordinates: 44.8176, 20.4633
@@ -2670,7 +2657,7 @@ Each church entry contains:
 
 
 
-#### New Territory
+#### New Territory Нови-Сад
 - Description: New Territory Novi Sad
 
 - Coordinates: 45.25, 19.8333
@@ -2683,7 +2670,7 @@ Each church entry contains:
 
 
 
-#### Protestantska Hrišćanska zajednica
+#### Protestantska Hrišćanska zajednica Нови-Сад
 - Description: Protestant Christian Community Novi Sad
 
 - Coordinates: 45.25, 19.8333
@@ -2709,7 +2696,7 @@ Each church entry contains:
 
 
 
-#### Храм Св. Марка
+#### Храм Св. Марка Белград
 - Description: St. Mark's Church Belgrade
 
 - Coordinates: 44.8176, 20.4633
@@ -2722,7 +2709,7 @@ Each church entry contains:
 
 
 
-#### Хришћанска баптистичка црква
+#### Хришћанска баптистичка црква Белград
 - Description: Christian Baptist Church Belgrade
 
 - Coordinates: 44.8176, 20.4633
@@ -2735,7 +2722,7 @@ Each church entry contains:
 
 
 
-#### Центар Црква
+#### Центар Црква Белград
 - Description: Centar Crkva Belgrade
 
 - Coordinates: 44.8176, 20.4633
@@ -2748,7 +2735,7 @@ Each church entry contains:
 
 
 
-#### Церковь Назарянина
+#### Церковь Назарянина Белград
 - Description: Church of the Nazarene Belgrade
 
 - Coordinates: 44.8176, 20.4633
@@ -3119,7 +3106,7 @@ Each church entry contains:
 
 
 
-#### Мозаик
+#### Церковь «Мозаик» Бар
 - Description: Mozaik Church Bar
 
 - Coordinates: 42.0833, 19.1
@@ -3132,7 +3119,7 @@ Each church entry contains:
 
 
 
-#### Слово Божие
+#### Церковь «Слово Божие» Будва
 - Description: Word of God Church Budva
 
 - Coordinates: 42.2864, 18.84
@@ -4116,7 +4103,7 @@ Each church entry contains:
 **США / United States**
 
 
-#### Bible Mission Global
+#### Bible Mission Global – Albuquerque, NM
 
 - Address: 5600 Wyoming Blvd. NE Suite 180 Albuquerque, NM 87109
 - Coordinates: 35.1436579, -106.55150100000003
@@ -4753,7 +4740,7 @@ Each church entry contains:
 
 
 
-#### Русская Баптистская церковь Брайт
+#### Русская Баптистская церковь Брайт – West Sacramento, CA
 
 - Address: 1000 Sacramento Ave. West Sacramento, CA 95605
 - Coordinates: 38.58990059570483, -121.52770008220341
@@ -5143,7 +5130,7 @@ Each church entry contains:
 
 
 
-#### Славянская Баптистская Церковь – На Горе
+#### Славянская Баптистская Церковь «На Горе» – Spokane, WA
 
 - Address: 8913 N Nettleton Ln., Spokane, WA, 99208, USA
 - Coordinates: 47.74037976197, -117.44618529085
@@ -5481,19 +5468,6 @@ Each church entry contains:
 
 
 
-#### Церковь Благодать
-
-- Address: 430 MOUNTAINBACK ROAD SPRING MILLS, PA 16875
-- Coordinates: 40.795436, -77.64403
-- Phone: (814)296-4304
-- Email: vladvovch74@comcast.net
-
-
-- URL: https://spasenie.eu/churches/north-america/united-states/mountainback-road-spring-mills-pa-blagodat/
-
-
-
-
 #### Церковь Благодать – Lakewood, WA
 
 - Address: 5602 112th Street SW Lakewood WA 98499
@@ -5516,6 +5490,19 @@ Each church entry contains:
 
 
 - URL: https://spasenie.eu/churches/north-america/united-states/meridian-id-blagodat/
+
+
+
+
+#### Церковь Благодать – Spring Mills, PA
+
+- Address: 430 MOUNTAINBACK ROAD SPRING MILLS, PA 16875
+- Coordinates: 40.795436, -77.64403
+- Phone: (814)296-4304
+- Email: vladvovch74@comcast.net
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/mountainback-road-spring-mills-pa-blagodat/
 
 
 
@@ -5585,19 +5572,6 @@ Each church entry contains:
 
 
 
-#### Церковь Возрождение
-
-- Address: 411 SE Chkalov Dr. Vancouver, WA 98683
-- Coordinates: 45.617947862212, -122.55291763989
-
-
-
-
-- URL: https://spasenie.eu/churches/north-america/united-states/vancouver-wa-vozrozhdenie/
-
-
-
-
 #### Церковь Возрождение – Apple Valley, MN
 
 - Address: 964 Garden View Dr. Apple Valley, MN 55124
@@ -5620,6 +5594,19 @@ Each church entry contains:
 
 
 - URL: https://spasenie.eu/churches/north-america/united-states/federal-way-wa-vozrozhdenie/
+
+
+
+
+#### Церковь Возрождение – Vancouver, WA
+
+- Address: 411 SE Chkalov Dr. Vancouver, WA 98683
+- Coordinates: 45.617947862212, -122.55291763989
+
+
+
+
+- URL: https://spasenie.eu/churches/north-america/united-states/vancouver-wa-vozrozhdenie/
 
 
 
