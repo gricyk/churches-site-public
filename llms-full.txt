@@ -3322,7 +3322,7 @@ Each church entry contains:
 #### Церковь Евангельских христиан (ЕХБ) Скала - Брно
 - Description: Sbor Bratrské jednoty baptistů v Brně - Scála
 - Address: Smetanova 20, 602 00 Brno, Czech Republic
-- Coordinates: 49.195, 16.61
+- Coordinates: 49.202969, 16.605148
 - Phone: +420 734 682 371
 - Email: cheff71@gmail.com
 
