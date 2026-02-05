@@ -3319,12 +3319,12 @@ Each church entry contains:
 
 
 
-#### Церковь Евангельских христиан (ЕХБ) Брно
-- Description: Evangelical Baptist Church Brno
-- Address: Smetanova 20, 602 00 Brno-střed, Czech Republic
+#### Церковь Евангельских христиан (ЕХБ) Скала - Брно
+- Description: Sbor Bratrské jednoty baptistů v Brně - Scála
+- Address: Smetanova 20, 602 00 Brno, Czech Republic
 - Coordinates: 49.195, 16.61
 - Phone: +420 734 682 371
-- Email: chef71@mail.ru
+- Email: cheff71@gmail.com
 
 - Schedule: Воскресенье 12:30 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/czech-republic/brno-ehb/
