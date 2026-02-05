@@ -3324,7 +3324,7 @@ Each church entry contains:
 - Address: Smetanova 20, 602 00 Brno, Czech Republic
 - Coordinates: 49.202969, 16.605148
 - Phone: +420 734 682 371
-- Email: cheff71@gmail.com
+- Email: skala.church.brno@gmail.com
 
 - Schedule: Воскресенье 12:30 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/czech-republic/brno-ehb/
