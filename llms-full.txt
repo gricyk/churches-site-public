@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 408
+Total churches: 409
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -28,6 +28,24 @@ Each church entry contains:
 
 
 ### EUROPE
+
+
+
+
+**Украина / Ukraine**
+
+
+#### Церква Євангельських християн Любов Христа – Одесса
+- Description: Ebangelical Christian Church Love of Christ in Odessa
+- Address: Ukraine, Odesa, Stepova 23/25
+- Coordinates: 46.462097, 30.713911
+
+- Email: dev@lc.org.ua
+- Website: lc.org.ua
+- Schedule: Неділя 11:00 (Богослужение); Понеділок 18:00 (для братів); Середа 18:00 (Богослужение); П'ятниця 18:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/ukraine/odesa-love-christ/
+
+
 
 
 
@@ -3498,11 +3516,6 @@ Each church entry contains:
 
 
 **Словения / Slovenia**
-
-
-
-
-**Украина / Ukraine**
 
 
 
