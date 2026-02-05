@@ -2885,7 +2885,7 @@ Each church entry contains:
 - Address: 44 Rue Paul Bert, 69200 Vénissieux, France
 - Coordinates: 45.701093, 4.890088
 - Phone: +33 766 134 805
-- Email: svsichov@ukr.net
+- Email: lyonchurchfr@gmail.com
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/france/lyon-mayak/
