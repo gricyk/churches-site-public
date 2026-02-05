@@ -53,6 +53,19 @@ Each church entry contains:
 **Чехия / Czech Republic**
 
 
+#### Рафаэль – Кладно
+- Description: Rafael
+- Address: kladno, hřebečská 2676, Czechia
+- Coordinates: 50.132398, 14.137124
+- Phone: 754545652
+- Email: gfa@mail.ru
+- Website: rafael.com
+- Schedule: Четверг 9:00 (сплю);
+- URL: https://spasenie.eu/churches/europe/czech-republic/kladno-rafael/
+
+
+
+
 #### Христианская церковь ЕХБ Джерело життя – Хеб
 - Description: Křesťanský sbor baptistů Pramen života v Cheb
 - Address: Libušina 328/4, Cheb, Czechia
@@ -3224,19 +3237,6 @@ Each church entry contains:
 
 
 - URL: https://spasenie.eu/churches/europe/france/marseille-ukr/
-
-
-
-
-#### Церква ЄХБ Віфанія в Масі
-- Description: EHB Church Vifania Massy
-- Address: 36 rue de la Division Leclerc 91300 Massy, France
-- Coordinates: 48.730175, 2.274298
-- Phone: +33 780541378
-- Email: mastahok74@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/france/massy-vifaniya/
 
 
 
