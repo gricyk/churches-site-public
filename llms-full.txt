@@ -3325,7 +3325,7 @@ Each church entry contains:
 - Coordinates: 49.202969, 16.605148
 - Phone: +420 734 682 371
 - Email: skala.church.brno@gmail.com
-
+- Website: https://www.skalachurchbrno.cz
 - Schedule: Воскресенье 12:30 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/czech-republic/brno-ehb/
 
