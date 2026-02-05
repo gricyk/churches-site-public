@@ -38,7 +38,7 @@ Each church entry contains:
 #### Церковь ЕХБ – Боровляны
 - Description: Церковь евангельских христиан-баптистов
 - Address: ул. Интернациональная, 15, Боровляны, Минский район, Беларусь
-- Coordinates: 53.9667, 27.65
+- Coordinates: 53.983685, 27.660685
 - Phone: +375 29 104-48-84
 - Email: mikhovichl@gmail.com
 
@@ -56,7 +56,7 @@ Each church entry contains:
 #### Баптистская церковь «Трисвиенибас» – OGRE, LATVIA
 
 - Address: 15 Vidus prospekts, Ogre, Ogres novads LV-5001, Latvijas Republika
-- Coordinates: 56.8219423, 24.5883782
+- Coordinates: 56.822024, 24.588194
 - Phone: +371 65021415
 - Email: otbdraudze@gmail.com
 
@@ -100,7 +100,7 @@ Each church entry contains:
 #### Евангельская церковь – Луреш, Лиссабон
 - Description: Igreja Evangélica / Евангельская церковь
 - Address: Alameda Salgueiro Maia, 15 A, 2660-329, Santo António de Cavaleiros, Loures, Portugal
-- Coordinates: 38.8167, -9.1667
+- Coordinates: 38.807932, -9.157569
 
 - Email: veriga28@gmail.com
 
@@ -113,7 +113,7 @@ Each church entry contains:
 #### Евангельская Баптистская Церковь Порту
 - Description: Igreja Evangélica Baptista Cedofeita
 - Address: R. de Cedofeita 16, 94050-173 Porto, Portugal
-- Coordinates: 41.15, -8.6167
+- Coordinates: 41.149051, -8.616267
 - Phone: +351 969 922 170
 - Email: iebaptista.cedofeita@gmail.com
 
@@ -126,7 +126,7 @@ Each church entry contains:
 #### Евангельская баптистская церковь Фару
 - Description: Evangelical Baptist Church Faro
 - Address: Estr. da Sra. da Saúde 8B, 8000-197 Faro, Portugal
-- Coordinates: 37.0167, -7.9333
+- Coordinates: 37.038925, -7.939825
 - Phone: +351 963 703 798
 
 
@@ -139,7 +139,7 @@ Each church entry contains:
 #### Евангельская Церковь Коимбра
 - Description: Evangelical Church Coimbra
 - Address: Av. Emídio Navarro 54, 3000-210 Coimbra, Portugal
-- Coordinates: 40.2167, -8.4333
+- Coordinates: 40.206424, -8.428587
 - Phone: +351 968 618 107
 
 
@@ -152,7 +152,7 @@ Each church entry contains:
 #### Посольство Христа Лиссабон
 - Description: Embassy of Christ Lisbon
 - Address: R. Portugal Durão 24, 1600-022 Lisboa, Portugal
-- Coordinates: 38.75, -9.1833
+- Coordinates: 38.743344, -9.158395
 - Phone: +351 969 797 077
 
 
@@ -178,7 +178,7 @@ Each church entry contains:
 #### Церква в Візеу
 - Description: Church Viseu
 - Address: R. Combatentes da Grande Guerra, Viseu, Portugal
-- Coordinates: 40.6564, -7.9126
+- Coordinates: 40.656961, -7.912433
 - Phone: +351 911090115
 - Email: colorlite1919@gmail.com
 
@@ -240,7 +240,7 @@ Each church entry contains:
 #### Библейская церковь (ЕХБ) в Линце
 - Description: Biblische Gemeinde Linz
 - Address: Im Haidland 3, 4030 Linz, Austria
-- Coordinates: 48.2833, 14.2833
+- Coordinates: 48.258093, 14.29376
 - Phone: +43 699 115 50775
 - Email: fam.schmidt@mail.ru
 - Website: https://nrc-ebf.eu/
@@ -253,7 +253,7 @@ Each church entry contains:
 #### Евангельская Церковь и Международная Миссия (ХВЕ) г. Вена
 - Description: GWP Vienna - Христиане Веры Евангельской
 - Address: Am Heidjöchl 6, 1220 Wien, Austria
-- Coordinates: 48.25, 16.4667
+- Coordinates: 48.23791, 16.485172
 - Phone: +43 664 926 1048
 - Email: gwp.vienna@gmail.com
 - Website: https://www.gwprovide.org/
@@ -266,7 +266,7 @@ Each church entry contains:
 #### Путь Жизни — Евангельская Церковь Вены
 - Description: Союз Евангельских церквей Австрии - BEG, Евангельские Христиане и ЕХБ
 - Address: Gertrude-Wondrack-Platz 4, 1120 Wien, Austria
-- Coordinates: 48.185, 16.3364
+- Coordinates: 48.166092, 16.325835
 - Phone: +43 650 461 4312
 - Email: info@evangelie.at
 - Website: http://www.evangelie.at
@@ -279,7 +279,7 @@ Each church entry contains:
 #### Церковь Ekklesia ЕХБ г. Вена
 - Description: EKKLESIA Wien Bibel Gemeinde
 - Address: Mollardgasse 35, 1060 Wien, Austria
-- Coordinates: 48.192, 16.348
+- Coordinates: 48.192807, 16.35261
 - Phone: +43 676 513 8262
 - Email: info@sobranie.at
 - Website: https://www.sobranie.at
@@ -292,7 +292,7 @@ Each church entry contains:
 #### Церковь Христиан Веры Евангельской «Елим» (ХВЕ) г. Вена
 - Description: Собрание всех неизменно любящих Господа
 - Address: Maculangasse 9, 1220 Wien, Austria
-- Coordinates: 48.2333, 16.45
+- Coordinates: 48.26248, 16.453608
 - Phone: +43 699 102 97940
 - Email: elim.chvew@gmail.com
 
@@ -310,7 +310,7 @@ Each church entry contains:
 #### Брюссель — Украинская баптистская церковь «Слово Життя»
 - Description: Word of Life Baptist Church Brussels
 - Address: Rue Pierre Decoster 77, 1190 Forest, Belgium
-- Coordinates: 50.8167, 4.3333
+- Coordinates: 50.823396, 4.328917
 - Phone: +32 473 195105
 - Email: slovo.zhyttia.be@gmail.com
 
@@ -323,7 +323,7 @@ Each church entry contains:
 #### Брюссель — Церква ЕХБ «Благодать»
 - Description: Christian Church Grace Brussels
 - Address: Lange Eikstraat 78, 1970 Wezembeek-Oppem, Belgium
-- Coordinates: 50.8667, 4.4833
+- Coordinates: 50.853567, 4.494919
 - Phone: +32 466 014795
 - Email: Kudrinietskii@gmail.com
 - Website: https://ibcbrussels.com/2024/02/04/християнська-церква-благодать-christian-church-grace/
@@ -336,7 +336,7 @@ Each church entry contains:
 #### Христианская церковь «Дом Божий» Гент
 - Description: Dom Boga Gent (ХВЕ)
 - Address: Afrikalaan 180, 9000 Gent, Belgium
-- Coordinates: 51.0667, 3.75
+- Coordinates: 51.063389, 3.739123
 - Phone: +32 484 121 750
 - Email: domboga.be@outlook.com
 
@@ -349,7 +349,7 @@ Each church entry contains:
 #### Христианская церковь «Филадельфия» Антверпен
 - Description: Christelijke Kerk Philadelphia Antwerpen
 - Address: Sint Bernardsesteenweg 505, 2660 Antwerpen, Belgium
-- Coordinates: 51.1833, 4.4
+- Coordinates: 51.178793, 4.369874
 - Phone: +32 484 156452
 - Email: dimadianaarslan@hotmail.com
 
@@ -362,7 +362,7 @@ Each church entry contains:
 #### Церковь «Город Истины» Кортрик
 - Description: Stad van Waarheid Kortrijk (ХВЕ)
 - Address: Hoevestraat 17, 8500 Kortrijk, Belgium
-- Coordinates: 50.8333, 3.2667
+- Coordinates: 50.831587, 3.290794
 - Phone: +32 488 813538
 - Email: stadvanwaarheid@gmail.com
 
@@ -380,7 +380,7 @@ Each church entry contains:
 #### Библейская церковь Лондона
 - Description: London Bible Church (ЕХБ)
 - Address: Burdett Road, Bow, London E3 4TU, UK
-- Coordinates: 51.525, -0.03
+- Coordinates: 51.518299, -0.030187
 - Phone: +44 7717495269
 - Email: starmihail@gmail.com
 
@@ -442,7 +442,7 @@ Each church entry contains:
 #### «Вифания» — Дом молитвы для всех народов, Ганновер
 - Description: Bethania Hannover
 - Address: Thönser Straße 22, 30629 Hannover, Germany
-- Coordinates: 52.4, 9.8167
+- Coordinates: 52.387834, 9.852292
 
 - Email: info@ev-aktuell.de
 
@@ -455,7 +455,7 @@ Each church entry contains:
 #### FEC Aachen
 - Description: FEC Church Aachen
 - Address: Beeckstraße 36, 52062 Aachen, Germany
-- Coordinates: 50.7753, 6.0839
+- Coordinates: 50.772684, 6.092758
 
 - Email: Info@fec-aachen.com
 
@@ -481,7 +481,7 @@ Each church entry contains:
 #### Oxygenkirche Köln
 - Description: Oxygenkirche Köln
 - Address: Im Weidenbruch 4, 51061 Köln, Germany
-- Coordinates: 50.9375, 6.9603
+- Coordinates: 50.979744, 7.023352
 - Phone: +49 163 6790724
 - Email: maxim2293@yahoo.com
 
@@ -494,7 +494,7 @@ Each church entry contains:
 #### Баптистская церковь в Лаге (Gedison)
 - Description: Fr.ev. Baptistengemeinde Lage
 - Address: Lage, Germany
-- Coordinates: 51.9833, 8.7833
+- Coordinates: 51.991408, 8.791958
 - Phone: +49 157 58448674
 - Email: rudiguse66@gmail.com
 - Website: https://gedison.de/
@@ -507,7 +507,7 @@ Each church entry contains:
 #### Библейская церковь г. Брауншвайг
 - Description: Bibelgemeinde Braunschweig e.V.
 - Address: Dresden str. 134, 38124 Braunschweig, Germany
-- Coordinates: 52.2689, 10.5268
+- Coordinates: 52.232242, 10.539896
 
 - Email: bibelgemeinde.bs@gmail.com
 
@@ -520,7 +520,7 @@ Each church entry contains:
 #### Библейская церковь христиан баптистов Гамбург
 - Description: Bibel Baptisten Gemeinde Hamburg
 - Address: Kronsaalsweg 70, 22525 Hamburg-Stellingen, Germany
-- Coordinates: 53.5833, 9.9167
+- Coordinates: 53.597681, 9.916239
 - Phone: +49 40 552 66 80
 - Email: bbghamburg@gmail.com
 
@@ -533,7 +533,7 @@ Each church entry contains:
 #### Группа по изучению Библии на русском в Реклингхаузене
 - Description: Evangeliums-Christen Gemeinde Recklinghausen e.V.
 - Address: Hirtenstraße 37, 45665 Recklinghausen, Germany
-- Coordinates: 51.6167, 7.2
+- Coordinates: 51.599501, 7.213163
 - Phone: +49 2361 81476
 - Email: info@ecg-re.de
 - Website: https://ecg-re.de/
@@ -546,7 +546,7 @@ Each church entry contains:
 #### Евангельская свободная церковь в Зигбурге
 - Description: Evangelische Freikirche Siegburg
 - Address: Wahnbachtalstraße 18, 53721 Siegburg, Germany
-- Coordinates: 50.8, 7.2
+- Coordinates: 50.789693, 7.226264
 - Phone: +49 2241 969 87 30
 - Email: info@ef-siegburg.de
 
@@ -559,7 +559,7 @@ Each church entry contains:
 #### Евангельская свободная церковь в Кёльне Хорвайлер
 - Description: Evangelische Freikirche Köln Chorweiler e.V.
 - Address: Stallagsbergweg 2, 50769 Köln, Germany
-- Coordinates: 51.0167, 6.9
+- Coordinates: 51.019355, 6.91912
 - Phone: +49 221 84589773
 - Email: a.ackermann@freikirche.koeln
 
@@ -572,7 +572,7 @@ Each church entry contains:
 #### Евангельская христианская церковь в Дортмунде
 - Description: Freie Evangeliumschristen Gemeinde (FECG) Dortmund
 - Address: Gildenstr. 60, 44263 Dortmund, Germany
-- Coordinates: 51.4833, 7.45
+- Coordinates: 51.483546, 7.495708
 - Phone: +49 231 2413754
 
 
@@ -585,7 +585,7 @@ Each church entry contains:
 #### Евангельская церковь (ЕХБ) Kehl
 - Description: Evangelische Kirche Kehl
 - Address: Ohmstrasse 7, 77694 Kehl, Germany
-- Coordinates: 48.5667, 7.8167
+- Coordinates: 48.553911, 7.841462
 - Phone: +49 176 84553167
 
 
@@ -598,7 +598,7 @@ Each church entry contains:
 #### Евангельская церковь в Андернахе (ЕХБ)
 - Description: Evangelische Freikirche Andernach
 - Address: Füllscheuerweg 44, 56626 Andernach, Germany
-- Coordinates: 50.44, 7.4
+- Coordinates: 50.434742, 7.414511
 - Phone: +49 2632 493465
 - Email: info@evangelischefreikirche.de
 
@@ -611,7 +611,7 @@ Each church entry contains:
 #### Евангельская Церковь в городе Дуйсбург
 - Description: Evangelische Kirche Duisburg
 - Address: Sandmüllersweg 33, 47259 Duisburg, Germany
-- Coordinates: 51.4333, 6.7667
+- Coordinates: 51.357674, 6.730411
 - Phone: +49 176 36369690
 
 
@@ -624,7 +624,7 @@ Each church entry contains:
 #### Евангельская церковь в Эверсбахе
 - Description: FEG Ewersbach
 - Address: Hauptstraße 131, 35716 Dietzhölztal, Germany
-- Coordinates: 50.85, 8.3
+- Coordinates: 50.831947, 8.316224
 - Phone: +49 160 587 86 99
 - Email: pastor@feg-ewersbach.de
 - Website: https://fegewersbach.de/
@@ -637,7 +637,7 @@ Each church entry contains:
 #### Евангельские христиане баптисты Eisenhüttenstadt
 - Description: ECG Eisenhüttenstadt
 - Address: Bahnhofstr. 12, 15890 Eisenhüttenstadt, Germany
-- Coordinates: 52.15, 14.65
+- Coordinates: 52.144515, 14.669841
 - Phone: +49 152 028 66 586
 - Email: info@ecg-eisenhuettenstadt.de
 
@@ -650,7 +650,7 @@ Each church entry contains:
 #### Евангельские Христиане Берлин-Вартенберг
 - Description: ECG Berlin-Wartenberg
 - Address: Wustrower Str. 52, 13051 Berlin, Germany
-- Coordinates: 52.5667, 13.5
+- Coordinates: 52.571595, 13.502791
 - Phone: +49 179 530 6388
 - Email: wartenberg@ecg-berlin.de
 
@@ -663,7 +663,7 @@ Each church entry contains:
 #### Евангельские Христиане Берлин-Лихтенберг (баптисты)
 - Description: ECG Berlin-Lichtenberg
 - Address: Rudolf-Seiffert-Str. 53, 10369 Berlin, Germany
-- Coordinates: 52.5333, 13.4667
+- Coordinates: 52.525295, 13.471503
 - Phone: +49 30 97603545
 - Email: lichtenberg@ecg-berlin.de
 - Website: https://lichtenberg.ecg-berlin.de/
@@ -676,7 +676,7 @@ Each church entry contains:
 #### Евангельские Христиане Берлин-Хеллерсдорф
 - Description: ECG Berlin-Hellersdorf e.V.
 - Address: Havelländer Ring 40, 12629 Berlin, Germany
-- Coordinates: 52.5333, 13.6167
+- Coordinates: 52.541547, 13.595618
 - Phone: +49 30 99279606
 - Email: info@ecg.berlin
 - Website: https://ecg.berlin
@@ -689,7 +689,7 @@ Each church entry contains:
 #### Евангельские Христиане Берлин-Шпандау
 - Description: ECG Berlin-Spandau
 - Address: Germersheimer Weg 27, 13583 Berlin, Germany
-- Coordinates: 52.5333, 13.2
+- Coordinates: 52.543624, 13.185317
 - Phone: +49 30 76216002
 - Email: ra@ecg-berlin.de
 - Website: https://spandau.ecg-berlin.de/
@@ -702,7 +702,7 @@ Each church entry contains:
 #### Евангельские Христиане-баптисты, город Дрезден
 - Description: Freie Evangeliums-Christen-Gemeinde Dresden e.V.
 - Address: Altenberger Strasse 87, 01279 Dresden, Germany
-- Coordinates: 51.05, 13.75
+- Coordinates: 51.029953, 13.809026
 - Phone: +49 351 253 04 03
 - Email: info@propovednik.my1.ru
 - Website: https://propovednik.my1.ru/
@@ -715,7 +715,7 @@ Each church entry contains:
 #### ЕХБ Джерело Життя Нордхорн
 - Description: Baptisten Nordhorn
 - Address: Paul-Gerhardt str 2, Nordhorn
-- Coordinates: 52.4333, 7.0667
+- Coordinates: 52.432642, 7.059646
 - Phone: +49 176 21653804
 
 
@@ -728,7 +728,7 @@ Each church entry contains:
 #### ЕХБ церковь «Свет этого мира» в Биркенфельде
 - Description: Evangelisch Freikirchliche Gemeinde «Licht dieser Welt»
 - Address: Feckweilerhaide 19, 55765 Birkenfeld, Germany
-- Coordinates: 49.65, 7.1667
+- Coordinates: 49.654819, 7.16071
 - Phone: +49 6784 903742
 - Email: info@lichtdieserwelt.de
 
@@ -741,7 +741,7 @@ Each church entry contains:
 #### Мессианская община «Алеф» в Берлине
 - Description: Magen Israel Berlin
 - Address: Seestraße 101, 13353 Berlin, Germany
-- Coordinates: 52.55, 13.35
+- Coordinates: 52.549632, 13.348913
 - Phone: +49 176 55728435
 
 
@@ -754,7 +754,7 @@ Each church entry contains:
 #### Русскоязычная свободная евангельская община Кобленц-Нойендорф
 - Description: Russischsprachige freie evangelische Gemeinde Koblenz-Neuendorf
 - Address: Brenderweg 125, 56070 Koblenz, Germany
-- Coordinates: 50.3667, 7.6
+- Coordinates: 50.366676, 7.594935
 - Phone: +49 176 74752492
 - Email: kirche-koblenz@t-online.de
 
@@ -767,7 +767,7 @@ Each church entry contains:
 #### Славянская Церковь ЕХБ г. Мюнхен
 - Description: EHB München
 - Address: Drygalski-Allee 33/C, 81477 München, Germany
-- Coordinates: 48.0833, 11.5167
+- Coordinates: 48.082185, 11.50367
 - Phone: +49 157 37552701
 - Email: info@ehb-munich.de
 
@@ -780,7 +780,7 @@ Each church entry contains:
 #### Украинская Евангельская Церковь в Морсбахе
 - Description: Ukrainisch Frei Evangelisch Gemeinde Morsbach
 - Address: Flurstraße 12, 51597 Morsbach, Germany
-- Coordinates: 50.8667, 7.7333
+- Coordinates: 50.868638, 7.718541
 - Phone: +49 160 96266037
 - Email: denysschvets@gmail.com
 
@@ -793,7 +793,7 @@ Each church entry contains:
 #### Украинская Христианская Церковь ЕХБ Salzwedel
 - Description: Ukrainische Christliche Kirche Salzwedel
 - Address: Neutorstraße 14, 29410 Salzwedel, Germany
-- Coordinates: 52.85, 11.15
+- Coordinates: 52.848539, 11.151061
 - Phone: +49 1512 0479432
 
 
@@ -806,7 +806,7 @@ Each church entry contains:
 #### Украинская церковь в Аттендорне
 - Description: Ukrainian Church Attendorn
 - Address: Schmiedestraße 6, 57432 Attendorn, Germany
-- Coordinates: 51.1264, 7.9031
+- Coordinates: 51.132402, 7.912232
 - Phone: +380633119332
 
 
@@ -819,7 +819,7 @@ Each church entry contains:
 #### Украинская церковь в Бебре
 - Description: Ukrainian Church Bebra
 - Address: Friedrichstraße 34, 36179 Bebra, Germany
-- Coordinates: 50.9722, 9.79
+- Coordinates: 50.966923, 9.794064
 - Phone: +49 1792027341
 - Email: surdoperevod77777@gmail.com
 
@@ -832,7 +832,7 @@ Each church entry contains:
 #### Украинская церковь в Билефельде
 - Description: Ukrainian Church Bielefeld
 - Address: Kuckucksweg 71, 33607 Bielefeld, Germany
-- Coordinates: 52.0211, 8.5347
+- Coordinates: 52.018676, 8.582497
 - Phone: +49 15156550346
 - Email: igor187@ukr.net
 
@@ -845,7 +845,7 @@ Each church entry contains:
 #### Украинская церковь в Бонне
 - Description: Ukrainian Church Bonn
 - Address: Elisabethstraße 18, 53177 Bonn, Germany
-- Coordinates: 50.7374, 7.0982
+- Coordinates: 50.67525, 7.14859
 - Phone: +49 1601231676
 - Email: ukr-evanfrkr@ukr.net
 
@@ -858,7 +858,7 @@ Each church entry contains:
 #### Украинская церковь в Вальдорфе
 - Description: Ukrainian Church Walldorf
 - Address: Hauptstraße 22, 69190 Walldorf, Germany
-- Coordinates: 49.3064, 8.6428
+- Coordinates: 49.302598, 8.640451
 - Phone: +380992479790
 - Email: sgerezhenko1907@gmail.com
 
@@ -871,7 +871,7 @@ Each church entry contains:
 #### Украинская церковь в Виссене
 - Description: Ukrainian Church Wissen
 - Address: Schloßstraße 37, 57537 Wissen, Germany
-- Coordinates: 50.7778, 7.7356
+- Coordinates: 50.779123, 7.745322
 - Phone: +380986543111
 - Email: fbokoc@gmail.com
 
@@ -897,7 +897,7 @@ Each church entry contains:
 #### Украинская церковь в Гамбурге
 - Description: Ukrainian Church Hamburg
 - Address: Osterrade 7a, 21031 Hamburg, Germany
-- Coordinates: 53.5488, 9.9872
+- Coordinates: 53.509502, 10.183371
 - Phone: +49 1639277136
 - Email: igorreger@icloud.com
 
@@ -910,7 +910,7 @@ Each church entry contains:
 #### Украинская церковь в Ганновере
 - Description: Ukrainian Church Hannover
 - Address: Thönser Straße 22, 30629 Hannover, Germany
-- Coordinates: 52.3759, 9.732
+- Coordinates: 52.387834, 9.852292
 - Phone: +49 15210727624
 
 
@@ -923,7 +923,7 @@ Each church entry contains:
 #### Украинская церковь в Гензингене
 - Description: Ukrainian Church Gensingen
 - Address: Alzeyer Straße 31, 55457 Gensingen, Germany
-- Coordinates: 49.9081, 7.9528
+- Coordinates: 49.891309, 7.92791
 - Phone: +49 15125050789
 - Email: pasha1histov@gmail.com
 
@@ -936,7 +936,7 @@ Each church entry contains:
 #### Украинская церковь в Гуммерсбахе
 - Description: Ukrainian Church Gummersbach
 - Address: Theodor-Heuss-Straße 10, 51645 Gummersbach, Germany
-- Coordinates: 51.0261, 7.5648
+- Coordinates: 51.005148, 7.571008
 - Phone: +380939595604
 - Email: almaz.mission@gmail.com
 
@@ -962,7 +962,7 @@ Each church entry contains:
 #### Украинская церковь в Дюрене
 - Description: Ukrainian Church Düren
 - Address: Paradiesbenden 1, 52349 Düren, Germany
-- Coordinates: 50.805, 6.4828
+- Coordinates: 50.807218, 6.475233
 - Phone: +380679147145
 
 
@@ -975,7 +975,7 @@ Each church entry contains:
 #### Украинская церковь в Зенде
 - Description: Ukrainian Church Sehnde
 - Address: Steinweg 1, 31319 Sehnde, Germany
-- Coordinates: 52.3153, 9.9656
+- Coordinates: 52.317622, 9.966788
 - Phone: +380979193670
 
 
@@ -988,7 +988,7 @@ Each church entry contains:
 #### Украинская церковь в Зингене
 - Description: Ukrainian Church Singen
 - Address: Rielasinger 23, 78224 Singen, Germany
-- Coordinates: 47.7597, 8.8403
+- Coordinates: 47.755449, 8.839377
 - Phone: +41 764554484
 - Email: kornuta81@icloud.com
 
@@ -1001,7 +1001,7 @@ Each church entry contains:
 #### Украинская церковь в Карлсруэ
 - Description: Ukrainian Church Karlsruhe
 - Address: Ohiostraße 17, 76149 Karlsruhe, Germany
-- Coordinates: 49.0069, 8.4037
+- Coordinates: 49.033231, 8.393495
 - Phone: +380666509821
 
 
@@ -1014,7 +1014,7 @@ Each church entry contains:
 #### Украинская церковь в Кемптене
 - Description: Ukrainian Church Kempten
 - Address: Untere Eicher Str. 11, 87435 Kempten, Germany
-- Coordinates: 47.7267, 10.3168
+- Coordinates: 47.709514, 10.320759
 - Phone: +49 1708340924
 - Email: Romanoliinykgerm@gmail.com
 
@@ -1027,7 +1027,7 @@ Each church entry contains:
 #### Украинская церковь в Кобленце
 - Description: Ukrainian Church Koblenz
 - Address: Brenderweg 125, 56070 Koblenz, Germany
-- Coordinates: 50.3569, 7.589
+- Coordinates: 50.366676, 7.594935
 - Phone: +380680784065
 
 
@@ -1040,7 +1040,7 @@ Each church entry contains:
 #### Украинская церковь в Лаге
 - Description: Ukrainian Church Lage
 - Address: Feldstraße 53, 32791 Lage, Germany
-- Coordinates: 51.9833, 8.7833
+- Coordinates: 51.991239, 8.807712
 - Phone: +380968113453
 - Email: lajoriv.micha@gmail.com
 
@@ -1053,7 +1053,7 @@ Each church entry contains:
 #### Украинская церковь в Мюнстере
 - Description: Ukrainian Church Münster (Dieburg)
 - Address: Auf der Beune 1a, 64839 Münster, Germany
-- Coordinates: 49.9308, 8.8436
+- Coordinates: 49.927594, 8.870007
 - Phone: +380507551050
 - Email: srsroman80@gmail.com
 
@@ -1066,7 +1066,7 @@ Each church entry contains:
 #### Украинская церковь в Мюнхене
 - Description: Ukrainian Church Munich
 - Address: Emil-Geis-Straße 39, 81379 München, Germany
-- Coordinates: 48.1051, 11.535
+- Coordinates: 48.100792, 11.544512
 - Phone: +49 1605969757
 
 
@@ -1079,7 +1079,7 @@ Each church entry contains:
 #### Украинская церковь в Нюртингене
 - Description: Ukrainian Church Nürtingen
 - Address: Schlosserstraße 4A, 72622 Nürtingen, Germany
-- Coordinates: 48.6253, 9.3381
+- Coordinates: 48.639043, 9.343398
 - Phone: +380687823872
 - Email: yriy.redkin@gmail.com
 
@@ -1092,7 +1092,7 @@ Each church entry contains:
 #### Украинская церковь в Оффенбурге
 - Description: Ukrainian Church Offenburg
 - Address: Okenstraße 25a, 77652 Offenburg, Germany
-- Coordinates: 48.4731, 7.9408
+- Coordinates: 48.474639, 7.942121
 - Phone: +49 17684553167
 - Email: tim260376@gmail.com
 
@@ -1105,7 +1105,7 @@ Each church entry contains:
 #### Украинская церковь в Ренгсдорфе
 - Description: Ukrainian Church Rengsdorf
 - Address: Westerwaldstraße 60, 56579 Rengsdorf, Germany
-- Coordinates: 50.5069, 7.4614
+- Coordinates: 50.504318, 7.493606
 - Phone: +49 17680832145
 
 
@@ -1118,7 +1118,7 @@ Each church entry contains:
 #### Украинская церковь в Трире
 - Description: Ukrainian Church Trier
 - Address: Johannisstrasse 1, 54290 Trier, Germany
-- Coordinates: 49.7596, 6.6439
+- Coordinates: 49.75436, 6.635299
 - Phone: +380964068105
 
 
@@ -1144,7 +1144,7 @@ Each church entry contains:
 #### Украинская церковь в Херфорде
 - Description: Ukrainian Church Herford
 - Address: Kiebitzstraße 30, 32051 Herford, Germany
-- Coordinates: 52.1147, 8.6736
+- Coordinates: 52.127839, 8.65071
 - Phone: +49 15161584259
 - Email: nstashko@gmail.com
 
@@ -1170,7 +1170,7 @@ Each church entry contains:
 #### Украинская церковь в Эссене
 - Description: Ukrainian Church Essen
 - Address: Weidkamp 21, 45355 Essen, Germany
-- Coordinates: 51.4556, 7.0116
+- Coordinates: 51.474068, 6.948834
 - Phone: +380935797314
 - Email: fireoffriendship@gmail.com
 
@@ -1183,7 +1183,7 @@ Each church entry contains:
 #### Украинская церковь во Фрайбурге
 - Description: Ukrainian Church Freiburg
 - Address: Kronenmattenstraße 5, 79100 Freiburg im Breisgau, Germany
-- Coordinates: 47.9959, 7.8494
+- Coordinates: 47.988115, 7.839359
 - Phone: +49 1701237237
 - Email: morgunserg1@gmail.com
 
@@ -1196,7 +1196,7 @@ Each church entry contains:
 #### Украинские встречи в Ганновере
 - Description: Ukrainian Meetings Hannover
 - Address: Herrenstraße 10, 30453 Hannover, Germany
-- Coordinates: 52.3759, 9.732
+- Coordinates: 52.378092, 9.735027
 - Phone: +49 1748756396
 - Email: marianna.bondarkova@gmail.com
 
@@ -1209,7 +1209,7 @@ Each church entry contains:
 #### Українська Біблійна Церква «Рема» Ландштуль
 - Description: Ukrainian Bible Church Rema Landstuhl
 - Address: Ludwigstraße 1, 66849 Landstuhl, Germany
-- Coordinates: 49.4106, 7.5706
+- Coordinates: 49.411977, 7.568685
 - Phone: +49 15125366801
 
 
@@ -1222,7 +1222,7 @@ Each church entry contains:
 #### Христианская община в Регенсбурге
 - Description: Christliche Gemeinde Regensburg
 - Address: Adalbert-Stifterstr. 33b, 93051 Regensburg, Germany
-- Coordinates: 49.0167, 12.1
+- Coordinates: 48.998152, 12.082849
 - Phone: +49 941 5681336
 - Email: christ.gem.Rgbg@mail.ru
 
@@ -1235,7 +1235,7 @@ Each church entry contains:
 #### Христианская Церковь «Источник» Дюссельдорф
 - Description: Christliche Kirche Quelle Düsseldorf
 - Address: Eisenstr. 75, 40227 Düsseldorf, Germany
-- Coordinates: 51.2117, 6.79
+- Coordinates: 51.216823, 6.799425
 - Phone: +43 676 513 8262
 - Email: info@istotschnik.org
 - Website: https://www.istotschnik.org/
@@ -1248,7 +1248,7 @@ Each church entry contains:
 #### Христианская Церковь «Невеста Христа» (ХВЕ) Нюрнберг
 - Description: Braut Christi Nürnberg
 - Address: Schweinauer Hauptstraße 14A, 90441 Nürnberg, Germany
-- Coordinates: 49.4333, 11.0833
+- Coordinates: 49.434361, 11.048217
 - Phone: +49 179 7777755
 - Email: brautchristi@yahoo.com
 
@@ -1261,7 +1261,7 @@ Each church entry contains:
 #### Христианский Центр «Агапе» (ХВЕ-BFP) Лар
 - Description: Gemeindezentrum Agape Lahr/Schwarzwald
 - Address: Schwarzwaldstr. 82, 77933 Lahr, Germany
-- Coordinates: 48.3333, 7.8667
+- Coordinates: 48.339566, 7.841237
 - Phone: +49 176 82473068
 - Email: g.dinkel@gz-agape.de
 
@@ -1274,7 +1274,7 @@ Each church entry contains:
 #### Христианский центр «Источник жизни» (ХВЕ) Фрайбург
 - Description: IF Church Freiburg
 - Address: Ziegelhofstraße 200, 79110 Freiburg-Lehen, Germany
-- Coordinates: 48, 7.85
+- Coordinates: 48.024209, 7.794829
 - Phone: +49 7644 927 927
 - Email: pastor@ifchurch.de
 
@@ -1287,7 +1287,7 @@ Each church entry contains:
 #### Церковь «Новая Жизнь» Aachen
 - Description: Internationale christliche Gemeinde Neues Leben
 - Address: Hüttenstrasse 73, 52068 Aachen, Germany
-- Coordinates: 50.7833, 6.0833
+- Coordinates: 50.777382, 6.136296
 - Phone: +49 241 47595097
 - Email: info@nl-ac.de
 - Website: https://www.nl-ac.de/ru/
@@ -1300,7 +1300,7 @@ Each church entry contains:
 #### Церковь «Новая Жизнь» Freudenstadt
 - Description: Neues Leben Freudenstadt
 - Address: Ringstraße 27, 72250 Freudenstadt, Germany
-- Coordinates: 48.4667, 8.4167
+- Coordinates: 48.466754, 8.411799
 - Phone: +49 151 59048393
 - Email: newlifechurchfds@gmail.com
 
@@ -1313,7 +1313,7 @@ Each church entry contains:
 #### Церковь «Слово Истины» Гамбург (баптисты)
 - Description: Frei evangelische Gemeinde «Wort der Wahrheit»
 - Address: Osterrade 7a, 21031 Hamburg-Lohbrügge, Germany
-- Coordinates: 53.4833, 10.1833
+- Coordinates: 53.509502, 10.183371
 - Phone: +49 163 9277136
 - Email: gwortderwahrheit@gmail.com
 
@@ -1326,7 +1326,7 @@ Each church entry contains:
 #### Церковь баптистов Росток
 - Description: Baptist Church Rostock
 - Address: Robert-Schumann-Str. 25, 18069 Rostock, Germany
-- Coordinates: 54.0833, 12.1333
+- Coordinates: 54.091461, 12.085893
 - Phone: +49 176 43285383
 
 
@@ -1339,7 +1339,7 @@ Each church entry contains:
 #### Церковь евангельских христиан «Агапе» в Лейпциге
 - Description: Evangeliums-Christen Gemeinde Leipzig
 - Address: Roscherstr. 27, 04105 Leipzig, Germany
-- Coordinates: 51.3454, 12.3713
+- Coordinates: 51.353553, 12.381459
 - Phone: +49 177 2670474
 - Email: info@evcg-leipzig.de
 - Website: https://ru.evcg-leipzig.de
@@ -1352,7 +1352,7 @@ Each church entry contains:
 #### Церковь Евангельских Христиан Баптистов во Франкфурте на Майне
 - Description: Evangeliums-Christen-Baptisten Gemeinde in Frankfurt am Main e.V.
 - Address: Eschborner Landstraße 99, 60489 Frankfurt, Germany
-- Coordinates: 50.1333, 8.6167
+- Coordinates: 50.128294, 8.597936
 - Phone: +49 69 3087771
 - Email: info@christen-frankfurt.de
 - Website: https://www.christen-frankfurt.de/ru/
@@ -1365,7 +1365,7 @@ Each church entry contains:
 #### Церковь евангельских христиан в Дипхольце (ЕХБ)
 - Description: Frei Christliche Gemeinde Diepholz
 - Address: Lüderstrasse 59 A, 49356 Diepholz, Germany
-- Coordinates: 52.6, 8.3667
+- Coordinates: 52.600134, 8.362928
 - Phone: +49 5441 926098
 - Email: juri-seifert@gmx.de
 
@@ -1378,7 +1378,7 @@ Each church entry contains:
 #### Церковь евангельских христиан в Дортмунде «Evangeliumslicht»
 - Description: Evangeliums-Christen Gemeinde Evangeliumslicht Dortmund
 - Address: Wiscelusweg 12 A, 44319 Dortmund, Germany
-- Coordinates: 51.5167, 7.4667
+- Coordinates: 51.524794, 7.584139
 - Phone: +49 176 24489428
 - Email: evangeliumslicht@gmail.com
 
@@ -1404,7 +1404,7 @@ Each church entry contains:
 #### Церковь евангельских христиан в Эркрате (ЕХБ)
 - Description: Freie Evangeliumschristen Gemeinde Erkrath
 - Address: Wagnerstrasse 18, 40699 Erkrath, Germany
-- Coordinates: 51.2167, 6.9167
+- Coordinates: 51.223959, 6.914482
 - Phone: +49 152 02908008
 - Email: j.Moros@gmx.de
 
@@ -1417,7 +1417,7 @@ Each church entry contains:
 #### Церковь ЕХБ «Божия Благодать» Гамбург
 - Description: Christliche Gemeinde Gottes Gnade Hamburg
 - Address: Schulenbrooksweg 2a, 21029 Hamburg, Germany
-- Coordinates: 53.4833, 10.2167
+- Coordinates: 53.486428, 10.21806
 - Phone: +49 178 166 14 31
 - Email: Jugend.bergedorf@gmail.com
 - Website: https://www.christliche-gemeinde-hamburg.de/
@@ -1430,7 +1430,7 @@ Each church entry contains:
 #### Церковь ЕХБ в Динслакене
 - Description: Frei Evangelische Baptistengemeinde Dinslaken
 - Address: Drei Eichen 5, 46539 Dinslaken, Germany
-- Coordinates: 51.5667, 6.7333
+- Coordinates: 51.554228, 6.745889
 - Phone: +49 176 20151665
 
 
@@ -1443,7 +1443,7 @@ Each church entry contains:
 #### Церковь Христа Спасителя Schwedt
 - Description: Evangelisch-Freikirchliche Gemeinde Schwedt
 - Address: Berkholzer Allee 10, 16303 Schwedt/Oder, Germany
-- Coordinates: 53.0667, 14.2833
+- Coordinates: 53.060195, 14.257153
 - Phone: +49 171 351 72 74
 - Email: ich.glaube@christen-schwedt.de
 - Website: https://christen-schwedt.de
@@ -1474,7 +1474,7 @@ Each church entry contains:
 #### Афины, Библейская Церковь «Благодать»
 - Description: Grace Bible Church Athens
 - Address: 10557 Athina, Greece
-- Coordinates: 37.975, 23.725
+- Coordinates: 37.978709, 23.7335
 - Phone: +30 985 078308
 - Email: fominworld@gmail.com
 
@@ -1523,7 +1523,7 @@ Each church entry contains:
 #### Церква в Тюне
 - Description: Ukrainian Church Tune
 - Address: Tune Center, 4030 Tune, Denmark
-- Coordinates: 55.5833, 12.05
+- Coordinates: 55.5957, 12.178334
 - Phone: +45 52729017
 - Email: anohinaludmila82@gmail.com
 
@@ -1559,7 +1559,7 @@ Each church entry contains:
 #### Баптистская церковь Торревьеха
 - Description: Baptist Church of Torrevieja
 - Address: Calle Los Gases 34, 03182 Torrevieja (Alicante), Spain
-- Coordinates: 37.9833, -0.6833
+- Coordinates: 37.981752, -0.674241
 - Phone: +34 611 270 755
 
 
@@ -1598,7 +1598,7 @@ Each church entry contains:
 #### МСЦ ЕХБ в Барселоне
 - Description: MSC EHB Barcelona
 - Address: Carrer de Verdi 191, Gràcia, 08012 Barcelona, Spain
-- Coordinates: 41.4, 2.15
+- Coordinates: 41.405908, 2.154711
 - Phone: +34 615 423 358
 - Email: dommolitvibcn@gmail.com
 
@@ -1611,7 +1611,7 @@ Each church entry contains:
 #### Христианская евангельская группа Жирона
 - Description: Christian Evangelical Group Girona
 - Address: Lloret de Mar, 17310 Girona, Spain
-- Coordinates: 41.7, 2.85
+- Coordinates: 41.69735, 2.839239
 - Phone: +34 671 433 729
 - Email: shelss@mail.ru
 
@@ -1689,7 +1689,7 @@ Each church entry contains:
 #### Церковь «Слово Жизни» Барселона
 - Description: Palabra de la Vida Barcelona / Word of Life Barcelona
 - Address: Passatge dels Alps, 08940 Cornellà de Llobregat, Barcelona, Spain
-- Coordinates: 41.35, 2.0833
+- Coordinates: 41.356002, 2.081065
 - Phone: +34 633 164 905
 - Email: pdvbarcelona@gmail.com
 
@@ -1702,7 +1702,7 @@ Each church entry contains:
 #### Церковь «Спасіння Боже» (ХВЕ) Памплона
 - Description: Salvacion de Dios Pamplona
 - Address: Calle Iruñalde 1, Berriozar, 31013 Pamplona, Spain
-- Coordinates: 42.8333, -1.65
+- Coordinates: 42.836684, -1.675116
 - Phone: +34 642 776 142
 - Email: pamplona.salvacion.de.dios@gmail.com
 
@@ -1715,7 +1715,7 @@ Each church entry contains:
 #### Церковь Евангельских Христиан Баптистов в Валенсии
 - Description: Evangelical Baptist Church Valencia
 - Address: Maximiliano Thous 48, 46009 Valencia, Spain
-- Coordinates: 39.4833, -0.3667
+- Coordinates: 39.488108, -0.376201
 - Phone: +34 635 391 590
 - Email: vlcerkov@gmail.com
 
@@ -1741,7 +1741,7 @@ Each church entry contains:
 #### Церковь ЕХБ «Вефиль» Барселона
 - Description: Bethel Baptist Church Barcelona
 - Address: Carrer de Badosa 42, 08016 Barcelona, Spain
-- Coordinates: 41.4167, 2.1667
+- Coordinates: 41.441589, 2.181327
 - Phone: +34 632 956 154
 - Email: iglesiavefil@gmail.com
 
@@ -1754,7 +1754,7 @@ Each church entry contains:
 #### Церковь ЕХБ в Мурсии (2)
 - Description: Baptist Church Murcia
 - Address: Enrique Tierno Galvan 1, 30100 Murcia, Spain
-- Coordinates: 37.99, -1.13
+- Coordinates: 38.008613, -1.16107
 - Phone: +34 636 362 984
 - Email: bsa21992@gmail.com
 
@@ -1767,7 +1767,7 @@ Each church entry contains:
 #### Церковь Христиан Веры Евангельской пятидесятников (ХВЕ) в Мадриде
 - Description: Pentecostal Church Madrid
 - Address: Av. de Pablo Neruda 91, Puente de Vallecas, 28018 Madrid, Spain
-- Coordinates: 40.3833, -3.65
+- Coordinates: 40.381186, -3.663091
 - Phone: +34 678 292 970
 - Email: salvaciondedios2005@hotmail.com
 
@@ -1798,7 +1798,7 @@ Each church entry contains:
 #### Библейская церковь «Слово Правды» Брешиа
 - Description: Word of Truth Bible Church Brescia
 - Address: Via Cipro 62, 25124 Brescia, Italy
-- Coordinates: 45.5333, 10.2167
+- Coordinates: 45.525572, 10.211354
 - Phone: +39 388 785 8461
 - Email: chiesacristianadibrescia@gmail.com
 
@@ -1811,7 +1811,7 @@ Each church entry contains:
 #### Домашняя група Piacenza
 - Description: Home Group Piacenza
 - Address: Piacenza, Italy
-- Coordinates: 45.05, 9.7
+- Coordinates: 44.847635, 9.666531
 - Phone: +39 339 331 3946
 
 
@@ -1824,7 +1824,7 @@ Each church entry contains:
 #### Евангельская баптистская церковь «Слово Жизни» (ЕХБ) в Неаполе
 - Description: Word of Life Baptist Church Naples
 - Address: Via Foria 93, 80137 Napoli, Italy
-- Coordinates: 40.8567, 14.26
+- Coordinates: 40.856584, 14.258352
 - Phone: +39 388 588 6711
 
 
@@ -1837,7 +1837,7 @@ Each church entry contains:
 #### Евангельская церковь «Благодать Христова» Перуджа
 - Description: Grace of Christ Church Perugia
 - Address: Via Cino da Pistoia 46, 06126 Perugia, Italy
-- Coordinates: 43.11, 12.39
+- Coordinates: 43.096233, 12.387685
 - Phone: +39 329 181 2707
 - Email: proshakroman@live.it
 
@@ -1850,7 +1850,7 @@ Each church entry contains:
 #### Евангельская Церковь «Слово Веры» (ХВЕ) Бергамо
 - Description: Word of Faith Church Bergamo
 - Address: Via Carlo Serassi 6B, 24125 Bergamo, Italy
-- Coordinates: 45.695, 9.67
+- Coordinates: 45.696771, 9.686303
 - Phone: +39 327 222 90 54
 - Email: pastorbergamo@gmail.com
 
@@ -1863,7 +1863,7 @@ Each church entry contains:
 #### Евангельская церковь «Слово Жизни» (ЕХБ) в Риме
 - Description: Word of Life Baptist Church Rome
 - Address: Via del Teatro Valle 27, 00186 Roma, Italy
-- Coordinates: 41.8983, 12.4733
+- Coordinates: 41.897623, 12.475085
 - Phone: +39 370 720 8510
 
 - Website: https://www.slavicebc.org/ru/
@@ -1876,7 +1876,7 @@ Each church entry contains:
 #### Евангельская церковь (ЕХБ) «Слово жизни» Милан
 - Description: Word of Life Baptist Church Milan
 - Address: Via Monte Nero 1C, 20098 San Giuliano Milanese (Milan), Italy
-- Coordinates: 45.4, 9.2833
+- Coordinates: 45.394994, 9.294058
 - Phone: +39 327 118 8993
 
 
@@ -1902,7 +1902,7 @@ Each church entry contains:
 #### Евангельская церковь Bologna
 - Description: Evangelical Church Bologna
 - Address: Via del Pallone 4, 40126 Bologna, Italy
-- Coordinates: 44.495, 11.3467
+- Coordinates: 44.501227, 11.347546
 - Phone: +39 380 435 2559
 
 
@@ -1915,7 +1915,7 @@ Each church entry contains:
 #### Церковь «Преображение» Генуя
 - Description: Transfiguration Church Genova
 - Address: Via Ettore Vernazza 14, 16121 Genova, Italy
-- Coordinates: 44.4117, 8.93
+- Coordinates: 44.406986, 8.936937
 - Phone: +39 328 956 9316
 - Email: kiyash.v.m@mail.ru
 
@@ -1928,7 +1928,7 @@ Each church entry contains:
 #### Церковь ЕХБ «Слово Жизни» в Сан Ремо
 - Description: Word of Life Baptist Church San Remo
 - Address: Via Roma 14, 18038 San Remo, Italy
-- Coordinates: 43.8167, 7.7667
+- Coordinates: 43.816533, 7.777347
 - Phone: +39 346 390 6640
 - Email: battistasanremo@gmail.com
 
@@ -1941,7 +1941,7 @@ Each church entry contains:
 #### Церковь ЕХБ «Слово жизни» Флоренция
 - Description: Word of Life Baptist Church Florence
 - Address: Via Aleardo Aleardi 13, 50018 Scandicci, Italy
-- Coordinates: 43.7567, 11.1333
+- Coordinates: 43.754774, 11.188364
 - Phone: +39 320 935 9997
 
 
@@ -1998,7 +1998,7 @@ Each church entry contains:
 #### Церковь евангельских баптистов г. Клайпеда
 - Description: Evangelical Baptist Church Klaipėda
 - Address: Vytauto g. 38, Klaipėdos m., 92127 Klaipėda, Lithuania
-- Coordinates: 55.7167, 21.1333
+- Coordinates: 55.711416, 21.128113
 - Phone: +370 652 89139
 - Email: klaipeda@baptist.lt
 
@@ -2024,7 +2024,7 @@ Each church entry contains:
 #### Церковь евангельских христиан баптистов г. Каунас
 - Description: Evangelical Baptist Church Kaunas
 - Address: Kranto 2-oji g. 5, Kauno m., 45264 Kaunas, Lithuania
-- Coordinates: 54.8983, 23.9033
+- Coordinates: 55.286336, 23.981903
 - Phone: +370 37 342426
 - Email: krantobbb@takas.lt
 
@@ -2068,7 +2068,7 @@ Each church entry contains:
 #### Українська Біблійна Церква у Нідерландах
 - Description: Ukrainian Bible Church Netherlands
 - Address: Gasthuisstraat 5, 3771 HE Barneveld, Netherlands
-- Coordinates: 52.1333, 5.5833
+- Coordinates: 52.141406, 5.584372
 - Phone: +380 938 768826
 - Email: valery.kiba@gmail.com
 
@@ -2081,7 +2081,7 @@ Each church entry contains:
 #### Церква «Дім Отця» (Father's house) Waddinxveen
 - Description: Father's House Ukrainian Church Netherlands
 - Address: Esdoornlaan 2, 2742 XG Waddinxveen, Netherlands
-- Coordinates: 52.05, 4.6333
+- Coordinates: 52.043757, 4.643418
 - Phone: +380 668 336852
 
 
@@ -2094,7 +2094,7 @@ Each church entry contains:
 #### Церква в Гендрік-Ідо-Амбахт
 - Description: Ukrainian Church Hendrik-Ido-Ambacht
 - Address: P.C. Hooftsingel 73, 3341 TC Hendrik-Ido-Ambacht, Netherlands
-- Coordinates: 51.8333, 4.6333
+- Coordinates: 51.845107, 4.641922
 - Phone: +380 958001148
 
 
@@ -2177,7 +2177,7 @@ Each church entry contains:
 #### Церковь ЕХБ Østfold
 - Description: Baptist Church Østfold
 - Address: Solbakken 3C, 1640 Råde, Norway
-- Coordinates: 59.3333, 10.8333
+- Coordinates: 59.365646, 10.810226
 - Phone: +371 297 81183
 - Email: ruslan_kr@inbox.lv
 
@@ -2195,7 +2195,7 @@ Each church entry contains:
 #### Biblijny Zbór KChB в Кракові
 - Description: Bible Church Kraków
 - Address: Biezanowska 23 E, 30-812 Kraków, Poland
-- Coordinates: 50.0647, 19.945
+- Coordinates: 50.02565, 19.985024
 - Phone: +48 787 760 020
 - Email: biblijnyzbor5@op.pl
 
@@ -2208,7 +2208,7 @@ Each church entry contains:
 #### Баптистская церковь «Божья благодать» Варшава
 - Description: God's Grace Baptist Church Warsaw
 - Address: Stanisławowska 14, 03-832 Warszawa, Poland
-- Coordinates: 52.2667, 21.05
+- Coordinates: 52.250627, 21.069275
 - Phone: +48 886 320 979
 - Email: illin.slw@gmail.com
 
@@ -2247,7 +2247,7 @@ Each church entry contains:
 #### Библейская церковь в Варшаве
 - Description: Bible Church Warsaw
 - Address: Grzybowska 32, 00-863 Warszawa, Poland
-- Coordinates: 52.2333, 20.9833
+- Coordinates: 52.235936, 20.994868
 
 - Email: baptistpl.info@gmail.com
 - Website: https://www.baptist.pl/
@@ -2260,7 +2260,7 @@ Each church entry contains:
 #### Вторая Баптистская Церковь в Гожуве-Велькопольском
 - Description: Drugi Zbór Kościoła Chrześcijan Baptystów w Gorzowie Wielkopolskim
 - Address: Kosynierów Gdyńskich 64, Gorzów Wielkopolski, Poland
-- Coordinates: 52.7333, 15.25
+- Coordinates: 52.739842, 15.228507
 - Phone: +48 579 113 995
 
 
@@ -2273,7 +2273,7 @@ Each church entry contains:
 #### Українська Біблійна Церква в Познані
 - Description: Ukrainian Bible Church Poznań
 - Address: Osiedle Polan 100, 61-253 Poznań, Poland
-- Coordinates: 52.4064, 16.9252
+- Coordinates: 52.383783, 16.960103
 - Phone: +48 694 013 519
 - Email: bidaoleg1982@gmail.com
 
@@ -2416,7 +2416,7 @@ Each church entry contains:
 #### Церква в Кракові (Зубенко)
 - Description: Ukrainian Church Kraków
 - Address: Wyspianskiego 4, Krakow, Poland
-- Coordinates: 50.0647, 19.945
+- Coordinates: 50.072211, 19.924801
 - Phone: +48 727417176
 
 
@@ -2442,7 +2442,7 @@ Each church entry contains:
 #### Церква в Олаві
 - Description: Ukrainian Church Oława
 - Address: Oławska 46, 55-220 Jelcz-Laskowice, Poland
-- Coordinates: 50.9449, 17.292
+- Coordinates: 51.030915, 17.337131
 - Phone: +48 729365582
 - Email: machalex@ukr.net
 
@@ -2572,7 +2572,7 @@ Each church entry contains:
 #### Церковь «Благодать» в Гданьске (ЕХБ)
 - Description: Grace Church Gdańsk
 - Address: Jana Kilińskiego 4, 80-266 Gdańsk, Poland
-- Coordinates: 54.352, 18.6466
+- Coordinates: 54.382831, 18.605218
 - Phone: +48 883 039 708
 - Email: alex.kostiuk79@gmail.com
 - Website: https://grace-church.pl
@@ -2598,7 +2598,7 @@ Each church entry contains:
 #### Церковь ЕХБ «Новая жизнь» г. Щецин
 - Description: New Life Baptist Church Szczecin
 - Address: Wita Stwosza 1A, 71-173 Szczecin, Poland
-- Coordinates: 53.4333, 14.55
+- Coordinates: 53.436414, 14.505831
 - Phone: +48 516 834 860
 
 
@@ -2686,7 +2686,7 @@ Each church entry contains:
 #### Русскоязычная церковь г. Нови-Сад
 - Description: Russian-speaking Church Novi Sad
 - Address: Velje Ribara 12, 21124 Novi Sad, Serbia
-- Coordinates: 45.25, 19.8333
+- Coordinates: 45.234679, 19.77452
 - Phone: +381 61 2281573
 - Email: igmarrk@gmail.com
 
@@ -2756,7 +2756,7 @@ Each church entry contains:
 #### Украинская церковь евангельских христиан-баптистов «Надежда» Братислава
 - Description: Hope Ukrainian Baptist Church Bratislava
 - Address: Palisády 27a, 811 06 Bratislava, Slovakia
-- Coordinates: 48.15, 17.1167
+- Coordinates: 48.147138, 17.099512
 - Phone: +421 919 285654
 
 
@@ -2769,7 +2769,7 @@ Each church entry contains:
 #### Церква в Братиславі (Маркобородов)
 - Description: Church Bratislava
 - Address: Trnavska 67, Bratislava, Slovakia
-- Coordinates: 48.1486, 17.1077
+- Coordinates: 48.16525, 17.159871
 - Phone: +421 950 456 967
 - Email: markoborodovartem75@gmail.com
 
@@ -2782,7 +2782,7 @@ Each church entry contains:
 #### Церковь ХВЕ в Братиславе
 - Description: Pentecostal Church Bratislava
 - Address: Tajovského 3347/32, 811 04 Bratislava, Slovakia
-- Coordinates: 48.145, 17.12
+- Coordinates: 48.160823, 17.096768
 - Phone: +43 699 102 97940
 
 
@@ -2800,7 +2800,7 @@ Each church entry contains:
 #### Церква в Йоенсуу
 - Description: Ukrainian Church Joensuu
 - Address: Leinikkitie 1B, Joensuu, Finland
-- Coordinates: 62.601, 29.7636
+- Coordinates: 62.611164, 29.761374
 - Phone: +358 465808156
 - Email: voevoda62@gmail.com
 
@@ -2826,7 +2826,7 @@ Each church entry contains:
 #### Церковь «Вифания» Хельсинки
 - Description: Bethany Church Helsinki
 - Address: Annankatu 1, 00120 Helsinki, Finland
-- Coordinates: 60.1667, 24.9333
+- Coordinates: 60.162917, 24.942615
 - Phone: +358 457 8391851
 - Email: info@vifania.fi
 
@@ -2839,7 +2839,7 @@ Each church entry contains:
 #### Церковь Евангельских Христиан-баптистов «Путь, Истина и Жизнь» г. Лаппеенранта
 - Description: Way, Truth and Life Baptist Church Lappeenranta
 - Address: Hallituskatu 35, 53300 Lappeenranta, Finland
-- Coordinates: 61.0667, 28.1833
+- Coordinates: 61.072292, 28.263582
 - Phone: +358 44 5551738
 - Email: 1istina@mail.com
 
@@ -2852,7 +2852,7 @@ Each church entry contains:
 #### Церковь ЕХБ «Новая Жизнь» г. Пори
 - Description: New Life Baptist Church Pori
 - Address: Satakunnankatu 32, 28130 Pori, Finland
-- Coordinates: 61.4833, 21.8
+- Coordinates: 61.472867, 21.799729
 - Phone: +358 46 5593683
 
 
@@ -2870,7 +2870,7 @@ Each church entry contains:
 #### Евангельская баптистская церковь г. Перигё
 - Description: Eglise evangelique baptiste de Périgueux
 - Address: 42 Cours Saint-Georges, 24660 Périgueux, Dordogne, France
-- Coordinates: 45.1833, 0.7167
+- Coordinates: 45.177662, 0.729456
 - Phone: +33 651 006 778
 - Email: bbcentre24@gmail.com
 
@@ -2883,7 +2883,7 @@ Each church entry contains:
 #### Евангельские христиане баптисты в Лионе — церковь «Маяк надежды»
 - Description: Lighthouse of Hope Baptist Church Lyon
 - Address: 44 Rue Paul Bert, 69200 Vénissieux, France
-- Coordinates: 45.7167, 4.8833
+- Coordinates: 45.701093, 4.890088
 - Phone: +33 766 134 805
 - Email: svsichov@ukr.net
 
@@ -2896,7 +2896,7 @@ Each church entry contains:
 #### Русскоязычная Евангельская церковь (ХВЕ) в Ницце
 - Description: Russian-speaking Evangelical Church Nice
 - Address: 8 Bd de Cimiez, 06000 Nice, France
-- Coordinates: 43.7167, 7.2667
+- Coordinates: 43.706699, 7.269907
 - Phone: +33 629 365 429
 - Email: nice.bonne.nouvelle@gmail.com
 
@@ -2935,7 +2935,7 @@ Each church entry contains:
 #### Христианская Евангельская церковь «Для всех народов» Страсбург
 - Description: For All Nations Christian Evangelical Church Strasbourg
 - Address: 32 Rue du Languedoc, 67100 Strasbourg, France
-- Coordinates: 48.5667, 7.75
+- Coordinates: 48.547251, 7.746345
 - Phone: +49 152 27289358
 - Email: s.babich@allianzmission.de
 
@@ -2974,7 +2974,7 @@ Each church entry contains:
 #### Церква ЄХБ Віфанія в Масі
 - Description: EHB Church Vifania Massy
 - Address: 36 rue de la Division Leclerc 91300 Massy, France
-- Coordinates: 48.7306, 2.2714
+- Coordinates: 48.730175, 2.274298
 - Phone: +33 780541378
 - Email: mastahok74@gmail.com
 
@@ -2987,7 +2987,7 @@ Each church entry contains:
 #### Церковь «Благая Весть» в Лиле (ХВЕ)
 - Description: Good News Church Lille
 - Address: 166 Rue de Lannoy, 59650 Villeneuve-d'Ascq, France
-- Coordinates: 50.6333, 3.15
+- Coordinates: 50.647356, 3.160245
 - Phone: +33 629 365 429
 
 
@@ -3000,7 +3000,7 @@ Each church entry contains:
 #### Церковь «Святая Иоппия» в Париже (ХВЕ)
 - Description: Holy Joppa Church Paris
 - Address: 177 Avenue André Maginot, 94400 Vitry-sur-Seine, France
-- Coordinates: 48.7833, 2.4
+- Coordinates: 48.794146, 2.397027
 - Phone: +33 7 69 59 25 12
 - Email: contact@ioppie.fr
 - Website: https://ioppie.fr/
@@ -3013,7 +3013,7 @@ Each church entry contains:
 #### Церковь ЕХБ «Вифания» Париж
 - Description: Bethany Baptist Church Paris
 - Address: 36 Rue de la Division Leclerc, 91300 Massy, France
-- Coordinates: 48.7333, 2.2667
+- Coordinates: 48.730175, 2.274298
 - Phone: +33 780 541 378
 - Email: mastahok74@gmail.com
 
@@ -3039,7 +3039,7 @@ Each church entry contains:
 #### Церковь ЕХБ «Живые Камни» Париж
 - Description: Living Stones Baptist Church Paris
 - Address: 12 Rue Guérin, 94220 Charenton-le-Pont, France
-- Coordinates: 48.8167, 2.4167
+- Coordinates: 48.823633, 2.416011
 - Phone: +33 605 521 997
 - Email: abucatari@gmail.com
 
@@ -3052,7 +3052,7 @@ Each church entry contains:
 #### Церковь ЕХБ «Слово Жизни» в Ницце
 - Description: Word of Life Baptist Church Nice
 - Address: 32 Rue de l'Hôtel des Postes, 06000 Nice, France
-- Coordinates: 43.7, 7.27
+- Coordinates: 43.699344, 7.270463
 - Phone: +39 346 390 6640
 - Email: bibliquebaptistenice@gmail.com
 
@@ -3065,7 +3065,7 @@ Each church entry contains:
 #### Церковь ХВЕ «Виноградная лоза» г. Бордо
 - Description: Vine Branch Church Bordeaux
 - Address: 14 Rue Soubiras, 33200 Bordeaux, France
-- Coordinates: 44.85, -0.5833
+- Coordinates: 44.860243, -0.619317
 - Phone: +33 7 80 27 99 69
 - Email: brancheua@gmail.com
 
@@ -3096,7 +3096,7 @@ Each church entry contains:
 #### Будва SPE Lovchen Family
 - Description: SPE Lovchen Community Center Budva
 - Address: Mainski put 58, Budva, Montenegro
-- Coordinates: 42.29, 18.84
+- Coordinates: 42.293055, 18.843579
 - Phone: +382 68 616 636
 
 
@@ -3153,7 +3153,7 @@ Each church entry contains:
 #### Баптисты г. Злин (домашняя группа)
 - Description: Baptist Home Group Zlín
 - Address: SNP 1180, 76502 Otrokovice, Zlínský kraj, Czech Republic
-- Coordinates: 49.2167, 17.5333
+- Coordinates: 49.201953, 17.544767
 - Phone: +420 603 276 705
 - Email: ewens_den@mail.ru
 
@@ -3218,7 +3218,7 @@ Each church entry contains:
 #### Евангельская церковь (ЕХБ) Пардубице
 - Description: Evangelical Baptist Church Pardubice
 - Address: Sladkovského 521, 530 02 Pardubice, Czech Republic
-- Coordinates: 50.0333, 15.7833
+- Coordinates: 50.033271, 15.774483
 - Phone: +420 776 549 721
 
 
@@ -3231,7 +3231,7 @@ Each church entry contains:
 #### Международная Евангельская Церковь «Agape» (ЕХБ) Плзень
 - Description: International Evangelical Church Agape Plzeň
 - Address: Husova 314/1, 301 00 Plzeň 3-Jižní Předměstí, Czech Republic
-- Coordinates: 49.75, 13.3833
+- Coordinates: 49.745066, 13.372096
 - Phone: +420 776 360 117
 - Email: preacherlev@mail.ru
 
@@ -3270,7 +3270,7 @@ Each church entry contains:
 #### Христианская церковь в городе Žatec
 - Description: Christian Church Žatec - Station of BJB XXI Století
 - Address: Lva Tolstého 1249, Žatec, Czech Republic
-- Coordinates: 50.3333, 13.5333
+- Coordinates: 50.320572, 13.548099
 - Phone: +420 734 640 052
 - Email: m.gricyk1@gmail.com
 
@@ -3283,7 +3283,7 @@ Each church entry contains:
 #### Церква «Нове Життя» Ліберець
 - Description: New Life Church Liberec
 - Address: Puchmajerova 359/4, 460 01 Liberec, Czech Republic
-- Coordinates: 50.7667, 15.05
+- Coordinates: 50.769623, 15.04791
 - Phone: +420 731 177 801
 - Email: olekshanna@gmail.com
 
@@ -3296,7 +3296,7 @@ Each church entry contains:
 #### Церква в Лібереці (Кобзар)
 - Description: Church Liberec
 - Address: Puchmajerova 359/4, Liberec 46001, Czech Republic
-- Coordinates: 50.7671, 15.0562
+- Coordinates: 50.769623, 15.04791
 - Phone: +420 731177801
 
 
@@ -3309,7 +3309,7 @@ Each church entry contains:
 #### Церковь «XXI век» (ЕХБ) в Праге
 - Description: Sbor Bratrské jednoty baptistů v Praze církev XXI Století
 - Address: Holýšovská 4, Praha 13, 155 00, Czech Republic
-- Coordinates: 50.05, 14.3333
+- Coordinates: 50.041115, 14.319854
 - Phone: +420 774 117 031
 - Email: eleos4u@gmail.com
 - Website: https://www.xxi.cz
@@ -3335,7 +3335,7 @@ Each church entry contains:
 #### Церковь ЕХБ «Спасение» Ческе-Будеевице
 - Description: Salvation Baptist Church České Budějovice
 - Address: Fráni Šrámka 1353/34, 370 01 České Budějovice, Czech Republic
-- Coordinates: 48.975, 14.4667
+- Coordinates: 48.981636, 14.4786
 - Phone: +420 775 913 803
 - Email: agavrilov.cb@gmail.com
 
@@ -3348,7 +3348,7 @@ Each church entry contains:
 #### Церковь ЕХБ Прага (Soukenická)
 - Description: Baptist Church Prague Soukenická
 - Address: Soukenická 15, 110 00 Praha, Czech Republic
-- Coordinates: 50.0917, 14.4333
+- Coordinates: 50.091219, 14.43004
 - Phone: +420 773 784 691
 - Email: rusnakov@seznam.cz
 
@@ -3361,7 +3361,7 @@ Each church entry contains:
 #### Церковь «Виноградная Лоза» в Праге
 - Description: Sbor Bratrské jednoty baptistů v Praze — Vinný Kmen
 - Address: Peroutkova 2482/57, Praha 5 - Smíchov, 150 00, Чехия
-- Coordinates: 50.0622028, 14.3840846
+- Coordinates: 50.062203, 14.384085
 - Phone: +420 776 866 385
 - Email: ggracengv@gmail.com
 - Website: https://vloza.eu
@@ -3374,7 +3374,7 @@ Each church entry contains:
 #### Церковь Евангельских христиан баптистов в Кладно
 - Description: Sbor Bratrské jednoty baptistů v Kladně
 - Address: Osvoboz.pol.věznů 341, Kladno 27201, Чехия
-- Coordinates: 50.145081, 14.0997756
+- Coordinates: 50.145081, 14.099776
 - Phone: +420 602 171 613
 - Email: info@sborkladno.cz
 - Website: https://sborkladno.cz
@@ -3392,7 +3392,7 @@ Each church entry contains:
 #### Церковь «Надежда» г. Валга
 - Description: Valga EKBK Lootus
 - Address: Aia 13, 68204 Valga, Estonia
-- Coordinates: 57.7833, 26.05
+- Coordinates: 57.775466, 26.03674
 - Phone: +372 546 29436
 - Email: rraud@narod.ru
 
@@ -4036,7 +4036,7 @@ Each church entry contains:
 #### Баптистская Церковь – Vancouver, BC
 
 - Address: 4850 Windsor St. Vancouver, BC V5V4R2 Canada
-- Coordinates: 49.24102449999999, -123.0837017
+- Coordinates: 49.239275, -123.084632
 - Phone: 604-418-0373
 - Email: bbychkov@hotmail.com
 
@@ -4049,7 +4049,7 @@ Each church entry contains:
 #### Канадская Баптистская церковь Монреаля
 
 - Address: 1012 Ch Saint-Clare, Mont-Royal QC, Canada
-- Coordinates: 45.50637, -73.646686
+- Coordinates: 45.511375, -73.658825
 - Phone: +1 (514) 803-1989
 - Email: info@montrealchurch.com
 
@@ -4062,7 +4062,7 @@ Each church entry contains:
 #### Церковь Надежда – Kelowna, BC
 
 - Address: 710 Lawson Ave. Kelowna, BC V1Y6S8 Canada
-- Coordinates: 49.8873508, -119.4884662
+- Coordinates: 49.88743, -119.488188
 - Phone: 250-300-4900
 
 
@@ -4075,7 +4075,7 @@ Each church entry contains:
 #### Церковь Перекрёсток – Saskatoon, SK
 
 - Address: 107 McWillie Ave, Saskatoon, SK S7S 1B2, Canada
-- Coordinates: 52.156183, -106.596753
+- Coordinates: 52.157008, -106.596565
 - Phone: 1(306)717 4636
 - Email: intersection_@outlook.com
 
@@ -4088,7 +4088,7 @@ Each church entry contains:
 #### Русскоговорящая баптистская церковь «Источник жизни» в Эдмонтоне
 - Description: Source of Life Baptist Church Edmonton
 - Address: Parkview Park 9135 146 St NW, Edmonton, AB T5R 4L5, Canada
-- Coordinates: 53.5167, -113.5667
+- Coordinates: 53.525663, -113.569939
 - Phone: +1 780 222 8558
 
 
@@ -6173,7 +6173,7 @@ Each church entry contains:
 #### Brisbane Slavic Baptist Church
 - Description: Славянская Баптистская Церковь Брисбена / Brisbane Russian Church
 - Address: 346-348 Loganlea Rd, Meadowbrook QLD 4131
-- Coordinates: -27.6539, 153.1269
+- Coordinates: -27.670143, 153.139162
 
 - Email: brisbanerussianbaptist@gmail.com
 - Website: https://brisbanerussianchurch.com.au
@@ -6186,7 +6186,7 @@ Each church entry contains:
 #### EHB Hope - Melbourne Slavic Baptist Church
 - Description: Славянская Баптистская Церковь «Надежда» Мельбурн
 - Address: 65a Tooronga Rd, Malvern VIC 3144
-- Coordinates: -37.8605, 145.0384
+- Coordinates: -37.866775, 145.039377
 - Phone: +61 447 770 700
 
 - Website: https://ehbhope.com
@@ -6199,7 +6199,7 @@ Each church entry contains:
 #### Russian Baptist Church Perth
 - Description: Русская Баптистская Церковь Перта
 - Address: 60 Armagh St, Victoria Park WA 6100
-- Coordinates: -31.9756, 115.8977
+- Coordinates: -31.974566, 115.883919
 - Phone: +61 8 9401 9103
 - Email: tambov@hotmail.com
 - Website: https://sbcperth.com.au
@@ -6212,7 +6212,7 @@ Each church entry contains:
 #### Slavic Evangelical Baptist Church Adelaide
 - Description: Славянская Евангельская Баптистская Церковь Аделаиды
 - Address: 11 Broad Street, Queenstown SA 5014
-- Coordinates: -34.8608, 138.5204
+- Coordinates: -34.862684, 138.510044
 - Phone: +61 8 8240 3248
 
 - Website: https://sbchurchadelaide.com
@@ -6225,7 +6225,7 @@ Each church entry contains:
 #### Ukrainian Evangelical Baptist Church Brisbane
 - Description: Украинская Евангельская Баптистская Церковь Брисбена
 - Address: 6 Agnes St, Woolloongabba QLD 4102
-- Coordinates: -27.4895, 153.0345
+- Coordinates: -27.495498, 153.035583
 
 
 
@@ -6238,7 +6238,7 @@ Each church entry contains:
 #### Церковь «Благая Весть» Сидней
 - Description: Good News Fellowship of the Russian Speaking Slavic Evangelical Baptists
 - Address: 1-5 Ray Road, Epping NSW 2121
-- Coordinates: -33.7727, 151.0819
+- Coordinates: -33.768468, 151.07945
 - Phone: +61 404 424 260
 - Email: begenec@hotmail.com
 - Website: https://ssb.org.au
@@ -6256,7 +6256,7 @@ Each church entry contains:
 #### Церковь «Свет» Окленд
 - Description: Auckland Slavic Baptist Church Svet / Славянская Баптистская Церковь
 - Address: 96 Kupe Street, Orakei, Auckland
-- Coordinates: -36.8585, 174.812
+- Coordinates: -36.856911, 174.823493
 - Phone: +64 21 146 4498
 
 - Website: https://rusbaptist.nz
