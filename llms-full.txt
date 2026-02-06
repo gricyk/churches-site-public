@@ -3,13 +3,13 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-02-05
+# Generated: 2026-02-06
 
 ## OVERVIEW
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 391
+Total churches: 394
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -32,25 +32,46 @@ Each church entry contains:
 
 
 
-**Украина / Ukraine**
-
-
-#### Церква Євангельських християн Любов Христа – Одесса
-- Description: Ebangelical Christian Church Love of Christ in Odessa
-- Address: Ukraine, Odesa, Stepova 23/25
-- Coordinates: 46.462097, 30.713911
-
-- Email: dev@lc.org.ua
-- Website: lc.org.ua
-- Schedule: Неділя 11:00 (Богослужение); Понеділок 18:00 (для братів); Середа 18:00 (Богослужение); П'ятниця 18:00 (Богослужение);
-- URL: https://spasenie.eu/churches/europe/ukraine/odesa-love-christ/
-
-
-
-
-
-
 **Чехия / Czech Republic**
+
+
+#### Церковь Евангельских Христиан Баптистов – Пльзень
+- Description: Baptist Church in Pilsen
+- Address: Sladkovského 28, Plzeň, Czechia
+- Coordinates: 49.738559, 13.390586
+- Phone: +420 725 848 888
+
+- Website: https://www.sobranieplzen.cz/
+- Schedule: Воскресенье 10:00 (Богослужение); Воскресенье 9:00 (Молитвенная группа); Вторник 19:00 (Молодежное служение); Пятница 19:00 (Разбор Библии);
+- URL: https://spasenie.eu/churches/europe/czech-republic/plzen-baptist/
+
+
+
+
+#### Церковь ЕХБ – Dolní Dvůr
+- Description: Baptist church in Dolni Dvur
+- Address: Dolní dvůr 78, 543 42, Czechia
+- Coordinates: 50.65249, 15.655276
+- Phone: +420 776 789 119
+
+
+- Schedule: Воскресенье 9:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/dolni-dvur-baptist/
+
+
+
+
+#### Церковь ЕХБ Виноградная Лоза – Млада-Болеслав
+- Description: Stanice sboru Vinný Kmen Mladá Boleslav
+- Address: Dukelská 1443/31, Mladá Boleslav, Czechia
+- Coordinates: 50.414345, 14.915934
+- Phone: +420 730 585 743
+
+
+- Schedule: Воскресенье 13:30 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/mlada-boleslav-vloza/
+
+
 
 
 #### Группа Евангельских Христиан Баптистов – Колин
@@ -309,6 +330,24 @@ Each church entry contains:
 - Website: https://sborkladno.cz
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Четверг 18:00 (Изучение Библии и молитва); Суббота 17:00 (Молодежное служение);
 - URL: https://spasenie.eu/churches/europe/czech-republic/kladno/
+
+
+
+
+
+
+**Украина / Ukraine**
+
+
+#### Церква Євангельських християн Любов Христа – Одесса
+- Description: Ebangelical Christian Church Love of Christ in Odessa
+- Address: Ukraine, Odesa, Stepova 23/25
+- Coordinates: 46.462097, 30.713911
+
+- Email: dev@lc.org.ua
+- Website: lc.org.ua
+- Schedule: Неділя 11:00 (Богослужение); Понеділок 18:00 (для братів); Середа 18:00 (Богослужение); П'ятниця 18:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/ukraine/odesa-love-christ/
 
 
 
