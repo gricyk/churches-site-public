@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 394
+Total churches: 395
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -28,6 +28,50 @@ Each church entry contains:
 
 
 ### EUROPE
+
+
+
+
+**Россия / Russia**
+
+
+#### Церковь ЕХБ Свобода
+- Description: Baptist church Freedom in Moskow
+- Address: Москва, Россия
+- Coordinates: 55.625578, 37.606392
+- Phone: +7 916 175 1163
+- Email: vitaliyzanin@gmail.com
+- Website: https://church.moscow/
+
+- URL: https://spasenie.eu/churches/europe/russia/moscow-freedom/
+
+
+
+
+#### Церковь «Новый Завет» – Дзержинский
+- Description: Церковь Христиан Веры Евангельской (ХВЕ)
+- Address: ул. Зелёная 8а, г. Дзержинский, Московская область, Россия
+- Coordinates: 55.504316, 38.035393
+
+
+
+- Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/russia/dzerzhinskiy-novyy-zavet/
+
+
+
+
+#### Церковь большого города – Москва
+- Description: Церковь Христиан Веры Евангельской (ХВЕ)
+- Address: ул. 1-я Хуторская 5а, м. Дмитровская, Москва, Россия
+- Coordinates: 55.625578, 37.606392
+
+
+
+- Schedule: Суббота 18:00 (Субботнее богослужение (CMCHURCH)); Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/russia/moscow-bolshoy-gorod/
+
+
 
 
 
@@ -519,37 +563,6 @@ Each church entry contains:
 
 
 - URL: https://spasenie.eu/churches/europe/portugal/queluz-ukr/
-
-
-
-
-
-
-**Россия / Russia**
-
-
-#### Церковь «Новый Завет» – Дзержинский
-- Description: Церковь Христиан Веры Евангельской (ХВЕ)
-- Address: ул. Зелёная 8а, г. Дзержинский, Московская область, Россия
-- Coordinates: 55.504316, 38.035393
-
-
-
-- Schedule: Воскресенье 11:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/russia/dzerzhinskiy-novyy-zavet/
-
-
-
-
-#### Церковь большого города – Москва
-- Description: Церковь Христиан Веры Евангельской (ХВЕ)
-- Address: ул. 1-я Хуторская 5а, м. Дмитровская, Москва, Россия
-- Coordinates: 55.625578, 37.606392
-
-
-
-- Schedule: Суббота 18:00 (Субботнее богослужение (CMCHURCH)); Воскресенье 14:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/russia/moscow-bolshoy-gorod/
 
 
 
