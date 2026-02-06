@@ -36,7 +36,7 @@ Each church entry contains:
 
 
 #### Церковь ЕХБ Свобода - Москва
-- Description: Baptist church Freedom in Mosсow
+- Description: Baptist church Freedom in Moscow
 - Address: Москва, Россия
 - Coordinates: 55.625578, 37.606392
 - Phone: +7 916 175 1163
