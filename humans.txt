@@ -5,31 +5,31 @@ Location: Europe
 Role: Founder, Editor, Developer
 
 /* CONTRIBUTORS */
-Community: Russian-speaking Christian churches worldwide
+Community: Russian-speaking and Ukrainian-speaking Christian churches worldwide
 Purpose: Connecting believers across the globe
 
 /* THANKS */
 Churches: To all 450+ churches that shared their information
-Community: To the Russian-speaking Christian diaspora
+Community: To the Russian-speaking and Ukrainian-speaking Christian diaspora
 Technology: Hugo, OpenStreetMap, Leaflet, GitHub
 
 /* SITE */
 Name: Spasenie.eu
-Full Title: World Directory of Russian-Speaking Evangelical Christian and Baptist Churches
+Full Title: World Directory of Russian-Speaking and Ukrainian-speaking Evangelical Christian and Baptist Churches
 URL: https://spasenie.eu/
-Description: The most comprehensive directory of Russian-speaking Evangelical churches worldwide
+Description: The most comprehensive directory of Russian-speaking and Ukrainian-speaking Evangelical churches worldwide
 
 Standards: HTML5, CSS3, Schema.org, JSON-LD
 Components: Hugo (Static Site Generator), Leaflet.js, OpenStreetMap
 Doctype: HTML5
 IDE: Visual Studio Code, GitHub
 
-Last update: 2025
+Last update: 2026
 Language: Russian (primary), English (navigation)
 
 /* MISSION */
-Purpose: Help Russian-speaking Christians find churches worldwide
-Vision: Connect every Russian-speaking believer with a local community
+Purpose: Help Russian-speaking and Ukrainian-speaking Christians find churches worldwide
+Vision: Connect every Russian-speaking and Ukrainian-speaking believer with a local community
 Values: Accuracy, Accessibility, Community, Faith
 
 /* DATA */
@@ -42,7 +42,7 @@ License: CC0 (Public Domain)
 
 /* CONTACT */
 Email: info@spasenie.eu
-Telegram: @nrcebf
+Telegram: @gricyk
 YouTube: @nrcebf
 Facebook: spasenie.eu
 

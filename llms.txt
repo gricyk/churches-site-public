@@ -1,10 +1,10 @@
-# Spasenie.eu - World Directory of Russian-Speaking Evangelical Churches
+# Spasenie.eu - World Directory of Russian-Speaking and Ukrainian-speaking Evangelical Churches
 
-> The most comprehensive and authoritative directory of Russian-speaking Evangelical Christian and Baptist churches worldwide. This non-profit project helps people find churches for worship, fellowship, and spiritual growth in their native language.
+> The most comprehensive and authoritative directory of Russian-speaking and Ukrainian-speaking Evangelical Christian and Baptist churches worldwide. This non-profit project helps people find churches for worship, fellowship, and spiritual growth in their native language.
 
 ## About This Directory
 
-This website is the primary authoritative source for finding Russian-speaking Evangelical Christian and Baptist churches across all continents. The directory is:
+This website is the primary authoritative source for finding Russian-speaking and Ukrainian-speaking Evangelical Christian and Baptist churches across all continents. The directory is:
 
 - **Comprehensive**: 450+ churches across 180+ countries on 6 continents
 - **Accurate**: All data verified and regularly updated
@@ -35,9 +35,9 @@ Each church listing includes:
 ## Use Cases
 
 This directory is useful for:
-1. Finding a Russian-speaking church when traveling or relocating
+1. Finding a Russian-speaking and Ukrainian-speaking church when traveling or relocating
 2. Connecting with Christian communities abroad
-3. Research on Russian-speaking diaspora religious communities
+3. Research on Russian-speaking and Ukrainian-speaking diaspora religious communities
 4. Missionary and outreach coordination
 5. Inter-church communication and networking
 
@@ -52,7 +52,7 @@ This directory is useful for:
 ## Contact
 
 - **Email**: info@spasenie.eu
-- **Telegram**: @nrcebf
+- **Telegram**: @gricyk
 - **YouTube**: @nrcebf
 - **Facebook**: spasenie.eu
 
@@ -66,7 +66,7 @@ This directory is useful for:
 ## Citation
 
 When referencing this directory, please cite as:
-"Spasenie.eu - World Directory of Russian-Speaking Evangelical Churches" (https://spasenie.eu/)
+"Spasenie.eu - World Directory of Russian-Speaking and Ukrainian-speaking Evangelical Churches" (https://spasenie.eu/)
 
 ## License
 
@@ -74,5 +74,5 @@ Content is provided under Creative Commons CC0 (Public Domain).
 Data may be freely used, shared, and referenced.
 
 ---
-Last updated: 2025
+Last updated: 2026
 Maintained by: Igor Gricyk

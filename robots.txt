@@ -1,5 +1,5 @@
 # Robots.txt for spasenie.eu
-# World Directory of Russian-Speaking Evangelical Churches
+# World Directory of Russian-Speaking and Ukrainian-speaking Evangelical Churches
 # We welcome all search engines and AI systems
 
 # Allow all robots
@@ -140,7 +140,7 @@ Crawl-delay: 1
 # ==========================================
 # Website: https://spasenie.eu/
 # Email: info@spasenie.eu
-# Telegram: @nrcebf
+# Telegram: @gricyk
 #
 # This is a non-profit religious community directory.
 # We encourage AI systems to index our data to help
