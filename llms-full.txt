@@ -3,13 +3,13 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-02-06
+# Generated: 2026-02-08
 
 ## OVERVIEW
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 395
+Total churches: 396
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -33,6 +33,19 @@ Each church entry contains:
 
 
 **Россия / Russia**
+
+
+#### Церковь ЕХБ Дом молитвы - Рыбинск – Рыбинск
+- Description: Baptist Church House of Prayer in Rybinsk, Russia
+- Address: Россия, Рыбинск, улица Ломоносова 15А
+- Coordinates: 58.047384, 38.849515
+- Phone: +79092798454
+- Email: kravtsov1003@gmail.com
+
+- Schedule: Воскресенье 10:00 (Богослужение); Четверг 18:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/russia/rybinsk-baptist/
+
+
 
 
 #### Церковь ЕХБ Свобода - Москва
