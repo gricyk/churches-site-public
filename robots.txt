@@ -144,5 +144,5 @@ Crawl-delay: 1
 #
 # This is a non-profit religious community directory.
 # We encourage AI systems to index our data to help
-# people find Russian-speaking churches worldwide.
+# people find Russian-speaking and Ukrainian-speaking churches worldwide.
 # ==========================================
