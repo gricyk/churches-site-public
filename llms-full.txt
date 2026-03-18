@@ -35,6 +35,19 @@ Each church entry contains:
 **Польша / Poland**
 
 
+#### Krakow - Евангельская церковь Свет Евангелия в Кракове – Краков
+- Description: Light of the Gospel Evangelical Church
+- Address: Stanisława Wyspiańskiego 4, Kraków, Poland
+- Coordinates: 50.072211, 19.924801
+- Phone: +48 500 710 182
+- Email: gospel.light.kr@gmail.com
+
+- Schedule: Воскресенье 14:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/krakow-light-gospel/
+
+
+
+
 #### Wroclaw - Церковь христиан баптистов Слово Христа во Вроцлаве – Вроцлав
 - Description: Word of Christ baptist church in Wroclaw
 - Address: Metalowcow 25, Wroclaw, Poland
@@ -187,19 +200,6 @@ Each church entry contains:
 
 
 - URL: https://spasenie.eu/churches/europe/poland/krakow-biblijna/
-
-
-
-
-#### Krakow — Церква в Кракові (Зубенко)
-- Description: Ukrainian Church Kraków
-- Address: Wyspianskiego 4, Krakow, Poland
-- Coordinates: 50.072211, 19.924801
-- Phone: +48 727417176
-
-
-
-- URL: https://spasenie.eu/churches/europe/poland/krakow-zubenko/
 
 
 
