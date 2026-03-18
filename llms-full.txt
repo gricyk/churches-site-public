@@ -3,13 +3,13 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-02-11
+# Generated: 2026-03-18
 
 ## OVERVIEW
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 396
+Total churches: 397
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -28,6 +28,362 @@ Each church entry contains:
 
 
 ### EUROPE
+
+
+
+
+**Польша / Poland**
+
+
+#### Церковь христиан баптистов Слово Христа во Вроцлаве – Вроцлав
+- Description: Word of Christ baptist church in Wroclaw
+- Address: Metalowcow 25, Wroclaw, Poland
+- Coordinates: 51.127997, 16.953464
+- Phone: +48 699 862 727
+- Email: contact@slovochrista.pl
+- Website: https://slovochrista.pl/
+- Schedule: Воскресенье 12:00 (Богослужение); Суббота 18:00 (Молодежка); Четверг Время в телеграм (Домашнаяя группа);
+- URL: https://spasenie.eu/churches/europe/poland/wroclaw-slovochrista/
+
+
+
+
+#### Bydgoszcz — Христианская церковь в Быдгощи
+- Description: Christian Church Bydgoszcz
+- Address: ul. Unii Lubelskiej 8, Bydgoszcz, Poland
+- Coordinates: 53.133734, 17.994264
+- Phone: +48 516 721 112
+- Email: glavnikk@gmail.com
+
+- Schedule: Воскресенье 13:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/bydgoszcz-ehb/
+
+
+
+
+#### Chociwel — Церква в Хоцівелі
+- Description: Ukrainian Church Chociwel
+
+- Coordinates: 53.4667, 15.3167
+- Phone: +48 725365809
+- Email: suleymanov.aleksey77@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/chociwel-ukr/
+
+
+
+
+#### Chrzanow — Церква в Хшануві
+- Description: Ukrainian Church Chrzanów
+
+- Coordinates: 50.1356, 19.4025
+- Phone: +48 786485343
+
+
+
+- URL: https://spasenie.eu/churches/europe/poland/chrzanow-ukr/
+
+
+
+
+#### Gdansk — Церковь «Благодать» в Гданьске (ЕХБ)
+- Description: Grace Church Gdańsk
+- Address: Jana Kilińskiego 4, 80-266 Gdańsk, Poland
+- Coordinates: 54.382831, 18.605218
+- Phone: +48 883 039 708
+- Email: alex.kostiuk79@gmail.com
+- Website: https://grace-church.pl
+- Schedule: Воскресенье 15:00 (Воскресное богослужение); Четверг 19:00 (Малая группа); Суббота 19:00 (Молодёжное служение);
+- URL: https://spasenie.eu/churches/europe/poland/gdansk-blagodat/
+
+
+
+
+#### Gdansk — Четвёртая баптистская церковь Гданьска
+- Description: Fourth Baptist Church Gdańsk
+- Address: ul. Dąbrowskiego 11, 80-153 Gdańsk, Poland
+- Coordinates: 54.35418, 18.633788
+- Phone: +48 570 253 151
+
+
+- Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/gdansk-chetvertaya/
+
+
+
+
+#### Gdynia — Церковь «Причал» ЕХБ в Гдыне
+- Description: Pier Baptist Church Gdynia
+- Address: Ul. Oficerska 15, Gdynia, Poland
+- Coordinates: 54.476134, 18.541712
+- Phone: +48 575 077 680
+- Email: kozubovsky.uets@gmail.com
+
+- Schedule: Воскресенье 16:00 (Недільні богослужіння);
+- URL: https://spasenie.eu/churches/europe/poland/gdynia-prichal/
+
+
+
+
+#### Gorzow — Вторая Баптистская Церковь в Гожуве-Велькопольском
+- Description: Drugi Zbór Kościoła Chrześcijan Baptystów w Gorzowie Wielkopolskim
+- Address: Kosynierów Gdyńskich 64, Gorzów Wielkopolski, Poland
+- Coordinates: 52.739842, 15.228507
+- Phone: +48 579 113 995
+
+
+- Schedule: Воскресенье 13:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/gorzow-vtoraya/
+
+
+
+
+#### Katowice — Церква в Катовіце (Давидюк)
+- Description: Ukrainian Church Katowice
+
+- Coordinates: 50.2649, 19.0238
+- Phone: +380 967478948
+- Email: Yu.Davidyuk@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/katowice-davidyuk/
+
+
+
+
+#### Katowice — Церква в Катовіце (Куценко)
+- Description: Ukrainian Church Katowice
+
+- Coordinates: 50.2649, 19.0238
+- Phone: +48 799984586
+- Email: taras.kutsenko@hotmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/katowice-kutsenko/
+
+
+
+
+#### Klodzko — Церква в Клодзко
+- Description: Ukrainian Church Kłodzko
+
+- Coordinates: 50.4352, 16.6598
+- Phone: +420 776509727
+
+
+
+- URL: https://spasenie.eu/churches/europe/poland/klodzko-ukr/
+
+
+
+
+#### Krakow — Biblijny Zbór KChB в Кракові
+- Description: Bible Church Kraków
+- Address: Biezanowska 23 E, 30-812 Kraków, Poland
+- Coordinates: 50.02565, 19.985024
+- Phone: +48 787 760 020
+- Email: biblijnyzbor5@op.pl
+
+
+- URL: https://spasenie.eu/churches/europe/poland/krakow-biblijna/
+
+
+
+
+#### Krakow — Церква в Кракові (Зубенко)
+- Description: Ukrainian Church Kraków
+- Address: Wyspianskiego 4, Krakow, Poland
+- Coordinates: 50.072211, 19.924801
+- Phone: +48 727417176
+
+
+
+- URL: https://spasenie.eu/churches/europe/poland/krakow-zubenko/
+
+
+
+
+#### Lodz — Церква в Лодзі
+- Description: Ukrainian Church Łódź
+- Address: Navrot 27, Łódź, Poland
+- Coordinates: 51.768732, 19.456991
+- Phone: +380 536071432
+- Email: bogunbogdan579@gmail.com
+
+- Schedule: Неділя 14:00-16:00 (Богослужіння);
+- URL: https://spasenie.eu/churches/europe/poland/lodz-ukr/
+
+
+
+
+#### Lublin — Баптистська церква в Любліні
+- Description: Baptist Church Lublin
+
+- Coordinates: 51.2465, 22.5684
+- Phone: +48 665 074 583
+- Email: baptysci.lublin@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/lublin-baptist/
+
+
+
+
+#### Olawa — Церква в Олаві
+- Description: Ukrainian Church Oława
+- Address: Oławska 46, 55-220 Jelcz-Laskowice, Poland
+- Coordinates: 51.030915, 17.337131
+- Phone: +48 729365582
+- Email: machalex@ukr.net
+
+
+- URL: https://spasenie.eu/churches/europe/poland/olawa-ukr/
+
+
+
+
+#### Poznan — Українська Біблійна Церква в Познані
+- Description: Ukrainian Bible Church Poznań
+- Address: Osiedle Polan 100, 61-253 Poznań, Poland
+- Coordinates: 52.383783, 16.960103
+- Phone: +48 694 013 519
+- Email: bidaoleg1982@gmail.com
+
+- Schedule: Неділя 14:00 (Недільне богослужіння);
+- URL: https://spasenie.eu/churches/europe/poland/poznan-biblijna/
+
+
+
+
+#### Radzyn — Церква в Радині
+- Description: Ukrainian Church Radzyń
+
+- Coordinates: 51.7833, 22.6167
+- Phone: +380 977417299
+- Email: volodia.tkachuk@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/radzyn-ukr/
+
+
+
+
+#### Szczecin — Церковь ЕХБ «Новая жизнь» г. Щецин
+- Description: New Life Baptist Church Szczecin
+- Address: Wita Stwosza 1A, 71-173 Szczecin, Poland
+- Coordinates: 53.436414, 14.505831
+- Phone: +48 516 834 860
+
+
+- Schedule: Воскресенье 15:00 (Воскресное богослужение); Среда 19:00 (Молитвенное служение);
+- URL: https://spasenie.eu/churches/europe/poland/szczecin-novaya-zhizn/
+
+
+
+
+#### Tomaszow — Церква в Томашуві-Мазовецькому
+- Description: Ukrainian Church Tomaszów Mazowiecki
+
+- Coordinates: 51.5308, 20.0083
+- Phone: +47 88427959
+- Email: matseyka@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/tomaszow-mazowiecki-ukr/
+
+
+
+
+#### Warszawa — Баптистская церковь «Божья благодать» Варшава
+- Description: God's Grace Baptist Church Warsaw
+- Address: Stanisławowska 14, 03-832 Warszawa, Poland
+- Coordinates: 52.250627, 21.069275
+- Phone: +48 886 320 979
+- Email: illin.slw@gmail.com
+
+- Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/warszawa-bozhya-blagodat/
+
+
+
+
+#### Warszawa — Библейская церковь в Варшаве
+- Description: Bible Church Warsaw
+- Address: Grzybowska 32, 00-863 Warszawa, Poland
+- Coordinates: 52.235936, 20.994868
+
+- Email: baptistpl.info@gmail.com
+- Website: https://www.baptist.pl/
+- Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/warszawa-biblijna/
+
+
+
+
+#### Warszawa — Христианская Церковь «Спасение» в Варшаве
+- Description: Salvation Church Warsaw / Kościół Chrześcijan Baptystów w RP
+- Address: ul. Mińska 48, 03-193 Warszawa, Poland
+- Coordinates: 52.249323, 21.06505
+- Phone: +48 794 309 158
+- Email: spasenie.wawa@gmail.com
+- Website: https://spasenie.pl/
+- Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/warszawa-spasenie/
+
+
+
+
+#### Warszawa — Христианская церковь (ХВЕП) в Варшаве «Дом Божий»
+- Description: House of God Pentecostal Church Warsaw
+- Address: ул. Клопотовскего 11, Варшава, Poland
+- Coordinates: 52.233374, 21.071149
+- Phone: +48 575 701 718
+- Email: viktor11-75@mail.ru
+
+- Schedule: Воскресенье 14:00 (Воскресное служение); Суббота 18:00 (Молодежное служение); Среда 19:00 (Молитвенное собрание);
+- URL: https://spasenie.eu/churches/europe/poland/warszawa-dom-bozhiy/
+
+
+
+
+#### Warszawa — Церква Логос в Варшаві
+- Description: Logos Church Warsaw
+- Address: ul.Goździków 29/31, 04-231 Warszawa, Poland
+- Coordinates: 52.238589, 21.1372
+- Phone: +48 577773391
+- Email: logoswarszawa010418@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/warszawa-logos/
+
+
+
+
+#### Wroclaw — Церква у Вроцлаві (Сепита)
+- Description: Ukrainian Church Wrocław
+
+- Coordinates: 51.1079, 17.0385
+- Phone: +48 730160969
+- Email: sepita2015@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/wroclaw-sepita/
+
+
+
+
+#### Wroclaw — Церква у Вроцлаві (Харибін)
+- Description: Ukrainian Church Wrocław
+
+- Coordinates: 51.1079, 17.0385
+- Phone: +380 956807047
+- Email: dimaharibin@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/wroclaw-haribin/
+
+
 
 
 
@@ -2492,349 +2848,6 @@ Each church entry contains:
 
 - Schedule: Воскресенье 16:00 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/norway/ostfold-ehb/
-
-
-
-
-
-
-**Польша / Poland**
-
-
-#### Bydgoszcz — Христианская церковь в Быдгощи
-- Description: Christian Church Bydgoszcz
-- Address: ul. Unii Lubelskiej 8, Bydgoszcz, Poland
-- Coordinates: 53.133734, 17.994264
-- Phone: +48 516 721 112
-- Email: glavnikk@gmail.com
-
-- Schedule: Воскресенье 13:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/poland/bydgoszcz-ehb/
-
-
-
-
-#### Chociwel — Церква в Хоцівелі
-- Description: Ukrainian Church Chociwel
-
-- Coordinates: 53.4667, 15.3167
-- Phone: +48 725365809
-- Email: suleymanov.aleksey77@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/chociwel-ukr/
-
-
-
-
-#### Chrzanow — Церква в Хшануві
-- Description: Ukrainian Church Chrzanów
-
-- Coordinates: 50.1356, 19.4025
-- Phone: +48 786485343
-
-
-
-- URL: https://spasenie.eu/churches/europe/poland/chrzanow-ukr/
-
-
-
-
-#### Gdansk — Церковь «Благодать» в Гданьске (ЕХБ)
-- Description: Grace Church Gdańsk
-- Address: Jana Kilińskiego 4, 80-266 Gdańsk, Poland
-- Coordinates: 54.382831, 18.605218
-- Phone: +48 883 039 708
-- Email: alex.kostiuk79@gmail.com
-- Website: https://grace-church.pl
-- Schedule: Воскресенье 15:00 (Воскресное богослужение); Четверг 19:00 (Малая группа); Суббота 19:00 (Молодёжное служение);
-- URL: https://spasenie.eu/churches/europe/poland/gdansk-blagodat/
-
-
-
-
-#### Gdansk — Четвёртая баптистская церковь Гданьска
-- Description: Fourth Baptist Church Gdańsk
-- Address: ul. Dąbrowskiego 11, 80-153 Gdańsk, Poland
-- Coordinates: 54.35418, 18.633788
-- Phone: +48 570 253 151
-
-
-- Schedule: Воскресенье 14:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/poland/gdansk-chetvertaya/
-
-
-
-
-#### Gdynia — Церковь «Причал» ЕХБ в Гдыне
-- Description: Pier Baptist Church Gdynia
-- Address: Ul. Oficerska 15, Gdynia, Poland
-- Coordinates: 54.476134, 18.541712
-- Phone: +48 575 077 680
-- Email: kozubovsky.uets@gmail.com
-
-- Schedule: Воскресенье 16:00 (Недільні богослужіння);
-- URL: https://spasenie.eu/churches/europe/poland/gdynia-prichal/
-
-
-
-
-#### Gorzow — Вторая Баптистская Церковь в Гожуве-Велькопольском
-- Description: Drugi Zbór Kościoła Chrześcijan Baptystów w Gorzowie Wielkopolskim
-- Address: Kosynierów Gdyńskich 64, Gorzów Wielkopolski, Poland
-- Coordinates: 52.739842, 15.228507
-- Phone: +48 579 113 995
-
-
-- Schedule: Воскресенье 13:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/poland/gorzow-vtoraya/
-
-
-
-
-#### Katowice — Церква в Катовіце (Давидюк)
-- Description: Ukrainian Church Katowice
-
-- Coordinates: 50.2649, 19.0238
-- Phone: +380 967478948
-- Email: Yu.Davidyuk@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/katowice-davidyuk/
-
-
-
-
-#### Katowice — Церква в Катовіце (Куценко)
-- Description: Ukrainian Church Katowice
-
-- Coordinates: 50.2649, 19.0238
-- Phone: +48 799984586
-- Email: taras.kutsenko@hotmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/katowice-kutsenko/
-
-
-
-
-#### Klodzko — Церква в Клодзко
-- Description: Ukrainian Church Kłodzko
-
-- Coordinates: 50.4352, 16.6598
-- Phone: +420 776509727
-
-
-
-- URL: https://spasenie.eu/churches/europe/poland/klodzko-ukr/
-
-
-
-
-#### Krakow — Biblijny Zbór KChB в Кракові
-- Description: Bible Church Kraków
-- Address: Biezanowska 23 E, 30-812 Kraków, Poland
-- Coordinates: 50.02565, 19.985024
-- Phone: +48 787 760 020
-- Email: biblijnyzbor5@op.pl
-
-
-- URL: https://spasenie.eu/churches/europe/poland/krakow-biblijna/
-
-
-
-
-#### Krakow — Церква в Кракові (Зубенко)
-- Description: Ukrainian Church Kraków
-- Address: Wyspianskiego 4, Krakow, Poland
-- Coordinates: 50.072211, 19.924801
-- Phone: +48 727417176
-
-
-
-- URL: https://spasenie.eu/churches/europe/poland/krakow-zubenko/
-
-
-
-
-#### Lodz — Церква в Лодзі
-- Description: Ukrainian Church Łódź
-- Address: Navrot 27, Łódź, Poland
-- Coordinates: 51.768732, 19.456991
-- Phone: +380 536071432
-- Email: bogunbogdan579@gmail.com
-
-- Schedule: Неділя 14:00-16:00 (Богослужіння);
-- URL: https://spasenie.eu/churches/europe/poland/lodz-ukr/
-
-
-
-
-#### Lublin — Баптистська церква в Любліні
-- Description: Baptist Church Lublin
-
-- Coordinates: 51.2465, 22.5684
-- Phone: +48 665 074 583
-- Email: baptysci.lublin@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/lublin-baptist/
-
-
-
-
-#### Olawa — Церква в Олаві
-- Description: Ukrainian Church Oława
-- Address: Oławska 46, 55-220 Jelcz-Laskowice, Poland
-- Coordinates: 51.030915, 17.337131
-- Phone: +48 729365582
-- Email: machalex@ukr.net
-
-
-- URL: https://spasenie.eu/churches/europe/poland/olawa-ukr/
-
-
-
-
-#### Poznan — Українська Біблійна Церква в Познані
-- Description: Ukrainian Bible Church Poznań
-- Address: Osiedle Polan 100, 61-253 Poznań, Poland
-- Coordinates: 52.383783, 16.960103
-- Phone: +48 694 013 519
-- Email: bidaoleg1982@gmail.com
-
-- Schedule: Неділя 14:00 (Недільне богослужіння);
-- URL: https://spasenie.eu/churches/europe/poland/poznan-biblijna/
-
-
-
-
-#### Radzyn — Церква в Радині
-- Description: Ukrainian Church Radzyń
-
-- Coordinates: 51.7833, 22.6167
-- Phone: +380 977417299
-- Email: volodia.tkachuk@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/radzyn-ukr/
-
-
-
-
-#### Szczecin — Церковь ЕХБ «Новая жизнь» г. Щецин
-- Description: New Life Baptist Church Szczecin
-- Address: Wita Stwosza 1A, 71-173 Szczecin, Poland
-- Coordinates: 53.436414, 14.505831
-- Phone: +48 516 834 860
-
-
-- Schedule: Воскресенье 15:00 (Воскресное богослужение); Среда 19:00 (Молитвенное служение);
-- URL: https://spasenie.eu/churches/europe/poland/szczecin-novaya-zhizn/
-
-
-
-
-#### Tomaszow — Церква в Томашуві-Мазовецькому
-- Description: Ukrainian Church Tomaszów Mazowiecki
-
-- Coordinates: 51.5308, 20.0083
-- Phone: +47 88427959
-- Email: matseyka@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/tomaszow-mazowiecki-ukr/
-
-
-
-
-#### Warszawa — Баптистская церковь «Божья благодать» Варшава
-- Description: God's Grace Baptist Church Warsaw
-- Address: Stanisławowska 14, 03-832 Warszawa, Poland
-- Coordinates: 52.250627, 21.069275
-- Phone: +48 886 320 979
-- Email: illin.slw@gmail.com
-
-- Schedule: Воскресенье 14:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-bozhya-blagodat/
-
-
-
-
-#### Warszawa — Библейская церковь в Варшаве
-- Description: Bible Church Warsaw
-- Address: Grzybowska 32, 00-863 Warszawa, Poland
-- Coordinates: 52.235936, 20.994868
-
-- Email: baptistpl.info@gmail.com
-- Website: https://www.baptist.pl/
-- Schedule: Воскресенье 11:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-biblijna/
-
-
-
-
-#### Warszawa — Христианская Церковь «Спасение» в Варшаве
-- Description: Salvation Church Warsaw / Kościół Chrześcijan Baptystów w RP
-- Address: ul. Mińska 48, 03-193 Warszawa, Poland
-- Coordinates: 52.249323, 21.06505
-- Phone: +48 794 309 158
-- Email: spasenie.wawa@gmail.com
-- Website: https://spasenie.pl/
-- Schedule: Воскресенье 11:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-spasenie/
-
-
-
-
-#### Warszawa — Христианская церковь (ХВЕП) в Варшаве «Дом Божий»
-- Description: House of God Pentecostal Church Warsaw
-- Address: ул. Клопотовскего 11, Варшава, Poland
-- Coordinates: 52.233374, 21.071149
-- Phone: +48 575 701 718
-- Email: viktor11-75@mail.ru
-
-- Schedule: Воскресенье 14:00 (Воскресное служение); Суббота 18:00 (Молодежное служение); Среда 19:00 (Молитвенное собрание);
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-dom-bozhiy/
-
-
-
-
-#### Warszawa — Церква Логос в Варшаві
-- Description: Logos Church Warsaw
-- Address: ul.Goździków 29/31, 04-231 Warszawa, Poland
-- Coordinates: 52.238589, 21.1372
-- Phone: +48 577773391
-- Email: logoswarszawa010418@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-logos/
-
-
-
-
-#### Wroclaw — Церква у Вроцлаві (Сепита)
-- Description: Ukrainian Church Wrocław
-
-- Coordinates: 51.1079, 17.0385
-- Phone: +48 730160969
-- Email: sepita2015@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/wroclaw-sepita/
-
-
-
-
-#### Wroclaw — Церква у Вроцлаві (Харибін)
-- Description: Ukrainian Church Wrocław
-
-- Coordinates: 51.1079, 17.0385
-- Phone: +380 956807047
-- Email: dimaharibin@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/wroclaw-haribin/
 
 
 
