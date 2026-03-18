@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 397
+Total churches: 396
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -35,7 +35,7 @@ Each church entry contains:
 **Польша / Poland**
 
 
-#### Церковь христиан баптистов Слово Христа во Вроцлаве – Вроцлав
+#### Wroclaw - Церковь христиан баптистов Слово Христа во Вроцлаве – Вроцлав
 - Description: Word of Christ baptist church in Wroclaw
 - Address: Metalowcow 25, Wroclaw, Poland
 - Coordinates: 51.127997, 16.953464
@@ -356,19 +356,6 @@ Each church entry contains:
 
 
 - URL: https://spasenie.eu/churches/europe/poland/warszawa-logos/
-
-
-
-
-#### Wroclaw — Церква у Вроцлаві (Сепита)
-- Description: Ukrainian Church Wrocław
-
-- Coordinates: 51.1079, 17.0385
-- Phone: +48 730160969
-- Email: sepita2015@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/wroclaw-sepita/
 
 
 
