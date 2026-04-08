@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 396
+Total churches: 397
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -44,6 +44,19 @@ Each church entry contains:
 
 - Schedule: Воскресенье 10:00 (Богослужение);
 - URL: https://spasenie.eu/churches/europe/italy/brescia-slovo-zhizni/
+
+
+
+
+#### Venezia - Церковь ЕХБ «Слово Жизни» в Венеции
+- Description: Word of Life Baptist Church in Venezia
+- Address: venezia
+- Coordinates: 45.404617, 12.310523
+- Phone: +393271188993
+
+
+
+- URL: https://spasenie.eu/churches/europe/italy/venice-slovo-zhizni/
 
 
 
