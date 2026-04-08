@@ -3,13 +3,13 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-03-18
+# Generated: 2026-04-08
 
 ## OVERVIEW
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 396
+Total churches: 395
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -2469,19 +2469,6 @@ Each church entry contains:
 
 - Schedule: Воскресенье 14:30 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/italy/bologna-ehb/
-
-
-
-
-#### Brescia — Библейская церковь «Слово Правды» Брешиа
-- Description: Word of Truth Bible Church Brescia
-- Address: Via Cipro 62, 25124 Brescia, Italy
-- Coordinates: 45.525572, 10.211354
-- Phone: +39 388 785 8461
-- Email: chiesacristianadibrescia@gmail.com
-
-- Schedule: Воскресенье 10:00 (Воскресное богослужение); Пятница 19:30 (Домашняя группа);
-- URL: https://spasenie.eu/churches/europe/italy/brescia-slovo-pravdy/
 
 
 
