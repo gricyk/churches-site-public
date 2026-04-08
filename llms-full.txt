@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 395
+Total churches: 396
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -28,6 +28,180 @@ Each church entry contains:
 
 
 ### EUROPE
+
+
+
+
+**Италия / Italy**
+
+
+#### Brescia - Церковь ЕХБ «Слово Жизни» в Брешия – Бреша
+- Description: Word of Life Baptist Church in Brescia
+- Address: Via della Volta 44, Brescia, Italy
+- Coordinates: 45.515335, 10.224643
+- Phone: +39 329 295 0548
+
+
+- Schedule: Воскресенье 10:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/brescia-slovo-zhizni/
+
+
+
+
+#### Aversa — Евангельская церковь (ЕХБ) Аверса
+- Description: Evangelical Baptist Church Aversa
+- Address: Via Raffael Musto 117, 81031 Aversa, Italy
+- Coordinates: 40.969957, 14.204987
+- Phone: +39 329 225 3360
+- Email: splisov@gmail.com
+
+- Schedule: Воскресенье 10:00 (Воскресное богослужение); Среда 19:30 (Изучение Библии);
+- URL: https://spasenie.eu/churches/europe/italy/aversa-ehb/
+
+
+
+
+#### Bergamo — Евангельская Церковь «Слово Веры» (ХВЕ) Бергамо
+- Description: Word of Faith Church Bergamo
+- Address: Via Carlo Serassi 6B, 24125 Bergamo, Italy
+- Coordinates: 45.696771, 9.686303
+- Phone: +39 327 222 90 54
+- Email: pastorbergamo@gmail.com
+
+- Schedule: Воскресенье 14:00 (Воскресное богослужение); Среда 19:00 (Служение);
+- URL: https://spasenie.eu/churches/europe/italy/bergamo-slovo-very/
+
+
+
+
+#### Bologna — Евангельская церковь Bologna
+- Description: Evangelical Church Bologna
+- Address: Via del Pallone 4, 40126 Bologna, Italy
+- Coordinates: 44.501227, 11.347546
+- Phone: +39 380 435 2559
+
+
+- Schedule: Воскресенье 14:30 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/bologna-ehb/
+
+
+
+
+#### Firenze — Церковь ЕХБ «Слово жизни» Флоренция
+- Description: Word of Life Baptist Church Florence
+- Address: Via Aleardo Aleardi 13, 50018 Scandicci, Italy
+- Coordinates: 43.754774, 11.188364
+- Phone: +39 320 935 9997
+
+
+- Schedule: Четверг 15:00 (Служение); Воскресенье 15:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/firenze-slovo-zhizni/
+
+
+
+
+#### Genova — Церковь «Преображение» Генуя
+- Description: Transfiguration Church Genova
+- Address: Via Ettore Vernazza 14, 16121 Genova, Italy
+- Coordinates: 44.406986, 8.936937
+- Phone: +39 328 956 9316
+- Email: kiyash.v.m@mail.ru
+
+- Schedule: Воскресенье 13:00 (Воскресное богослужение); Четверг 17:00 (Разбор слова);
+- URL: https://spasenie.eu/churches/europe/italy/genova-preobrazhenie/
+
+
+
+
+#### Milano — Евангельская церковь (ЕХБ) «Слово жизни» Милан
+- Description: Word of Life Baptist Church Milan
+- Address: Via Monte Nero 1C, 20098 San Giuliano Milanese (Milan), Italy
+- Coordinates: 45.394994, 9.294058
+- Phone: +39 327 118 8993
+
+
+- Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/milano-slovo-zhizni/
+
+
+
+
+#### Napoli — Евангельская баптистская церковь «Слово Жизни» (ЕХБ) в Неаполе
+- Description: Word of Life Baptist Church Naples
+- Address: Via Foria 93, 80137 Napoli, Italy
+- Coordinates: 40.856584, 14.258352
+- Phone: +39 388 588 6711
+
+
+- Schedule: Четверг 17:00 (Служение); Воскресенье 15:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/napoli-slovo-zhizni/
+
+
+
+
+#### Perugia — Евангельская церковь «Благодать Христова» Перуджа
+- Description: Grace of Christ Church Perugia
+- Address: Via Cino da Pistoia 46, 06126 Perugia, Italy
+- Coordinates: 43.096233, 12.387685
+- Phone: +39 329 181 2707
+- Email: proshakroman@live.it
+
+- Schedule: Воскресенье 15:00 (Воскресное богослужение); Суббота 15:30 (Разбор слова);
+- URL: https://spasenie.eu/churches/europe/italy/perugia-blagodat/
+
+
+
+
+#### Piacenza — Домашняя група Piacenza
+- Description: Home Group Piacenza
+- Address: Piacenza, Italy
+- Coordinates: 44.847635, 9.666531
+- Phone: +39 339 331 3946
+
+
+- Schedule: Пятница 18:30 (Группа);
+- URL: https://spasenie.eu/churches/europe/italy/piacenza-gruppa/
+
+
+
+
+#### Rimini — Баптистская церковь «Слово Жизни» (ЕХБ) Римини
+- Description: Word of Life Baptist Church Rimini
+- Address: Via dei Forzieri 45, 47922 Rimini, Italy
+- Coordinates: 44.065212, 12.564332
+- Phone: +39 351 518 5695
+- Email: viorel11470@gmail.com
+
+- Schedule: Воскресенье 15:30 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/rimini-slovo-zhizni/
+
+
+
+
+#### Roma — Евангельская церковь «Слово Жизни» (ЕХБ) в Риме
+- Description: Word of Life Baptist Church Rome
+- Address: Via del Teatro Valle 27, 00186 Roma, Italy
+- Coordinates: 41.897623, 12.475085
+- Phone: +39 370 720 8510
+
+- Website: https://www.slavicebc.org/ru/
+- Schedule: Четверг 17:00 (Служение); Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/roma-slovo-zhizni/
+
+
+
+
+#### Sanremo — Церковь ЕХБ «Слово Жизни» в Сан Ремо
+- Description: Word of Life Baptist Church San Remo
+- Address: Via Roma 14, 18038 San Remo, Italy
+- Coordinates: 43.816533, 7.777347
+- Phone: +39 346 390 6640
+- Email: battistasanremo@gmail.com
+
+- Schedule: Воскресенье 11:00 (Воскресное богослужение); Вторник 20:00 (Библейский урок); Среда 20:00 (Молитвенное); Суббота 12:00 (Детская школа «Премудрости»);
+- URL: https://spasenie.eu/churches/europe/italy/sanremo-slovo-zhizni/
+
+
 
 
 
@@ -2425,167 +2599,6 @@ Each church entry contains:
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/spain/valencia-ehb/
-
-
-
-
-
-
-**Италия / Italy**
-
-
-#### Aversa — Евангельская церковь (ЕХБ) Аверса
-- Description: Evangelical Baptist Church Aversa
-- Address: Via Raffael Musto 117, 81031 Aversa, Italy
-- Coordinates: 40.969957, 14.204987
-- Phone: +39 329 225 3360
-- Email: splisov@gmail.com
-
-- Schedule: Воскресенье 10:00 (Воскресное богослужение); Среда 19:30 (Изучение Библии);
-- URL: https://spasenie.eu/churches/europe/italy/aversa-ehb/
-
-
-
-
-#### Bergamo — Евангельская Церковь «Слово Веры» (ХВЕ) Бергамо
-- Description: Word of Faith Church Bergamo
-- Address: Via Carlo Serassi 6B, 24125 Bergamo, Italy
-- Coordinates: 45.696771, 9.686303
-- Phone: +39 327 222 90 54
-- Email: pastorbergamo@gmail.com
-
-- Schedule: Воскресенье 14:00 (Воскресное богослужение); Среда 19:00 (Служение);
-- URL: https://spasenie.eu/churches/europe/italy/bergamo-slovo-very/
-
-
-
-
-#### Bologna — Евангельская церковь Bologna
-- Description: Evangelical Church Bologna
-- Address: Via del Pallone 4, 40126 Bologna, Italy
-- Coordinates: 44.501227, 11.347546
-- Phone: +39 380 435 2559
-
-
-- Schedule: Воскресенье 14:30 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/italy/bologna-ehb/
-
-
-
-
-#### Firenze — Церковь ЕХБ «Слово жизни» Флоренция
-- Description: Word of Life Baptist Church Florence
-- Address: Via Aleardo Aleardi 13, 50018 Scandicci, Italy
-- Coordinates: 43.754774, 11.188364
-- Phone: +39 320 935 9997
-
-
-- Schedule: Четверг 15:00 (Служение); Воскресенье 15:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/italy/firenze-slovo-zhizni/
-
-
-
-
-#### Genova — Церковь «Преображение» Генуя
-- Description: Transfiguration Church Genova
-- Address: Via Ettore Vernazza 14, 16121 Genova, Italy
-- Coordinates: 44.406986, 8.936937
-- Phone: +39 328 956 9316
-- Email: kiyash.v.m@mail.ru
-
-- Schedule: Воскресенье 13:00 (Воскресное богослужение); Четверг 17:00 (Разбор слова);
-- URL: https://spasenie.eu/churches/europe/italy/genova-preobrazhenie/
-
-
-
-
-#### Milano — Евангельская церковь (ЕХБ) «Слово жизни» Милан
-- Description: Word of Life Baptist Church Milan
-- Address: Via Monte Nero 1C, 20098 San Giuliano Milanese (Milan), Italy
-- Coordinates: 45.394994, 9.294058
-- Phone: +39 327 118 8993
-
-
-- Schedule: Воскресенье 11:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/italy/milano-slovo-zhizni/
-
-
-
-
-#### Napoli — Евангельская баптистская церковь «Слово Жизни» (ЕХБ) в Неаполе
-- Description: Word of Life Baptist Church Naples
-- Address: Via Foria 93, 80137 Napoli, Italy
-- Coordinates: 40.856584, 14.258352
-- Phone: +39 388 588 6711
-
-
-- Schedule: Четверг 17:00 (Служение); Воскресенье 15:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/italy/napoli-slovo-zhizni/
-
-
-
-
-#### Perugia — Евангельская церковь «Благодать Христова» Перуджа
-- Description: Grace of Christ Church Perugia
-- Address: Via Cino da Pistoia 46, 06126 Perugia, Italy
-- Coordinates: 43.096233, 12.387685
-- Phone: +39 329 181 2707
-- Email: proshakroman@live.it
-
-- Schedule: Воскресенье 15:00 (Воскресное богослужение); Суббота 15:30 (Разбор слова);
-- URL: https://spasenie.eu/churches/europe/italy/perugia-blagodat/
-
-
-
-
-#### Piacenza — Домашняя група Piacenza
-- Description: Home Group Piacenza
-- Address: Piacenza, Italy
-- Coordinates: 44.847635, 9.666531
-- Phone: +39 339 331 3946
-
-
-- Schedule: Пятница 18:30 (Группа);
-- URL: https://spasenie.eu/churches/europe/italy/piacenza-gruppa/
-
-
-
-
-#### Rimini — Баптистская церковь «Слово Жизни» (ЕХБ) Римини
-- Description: Word of Life Baptist Church Rimini
-- Address: Via dei Forzieri 45, 47922 Rimini, Italy
-- Coordinates: 44.065212, 12.564332
-- Phone: +39 351 518 5695
-- Email: viorel11470@gmail.com
-
-- Schedule: Воскресенье 15:30 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/italy/rimini-slovo-zhizni/
-
-
-
-
-#### Roma — Евангельская церковь «Слово Жизни» (ЕХБ) в Риме
-- Description: Word of Life Baptist Church Rome
-- Address: Via del Teatro Valle 27, 00186 Roma, Italy
-- Coordinates: 41.897623, 12.475085
-- Phone: +39 370 720 8510
-
-- Website: https://www.slavicebc.org/ru/
-- Schedule: Четверг 17:00 (Служение); Воскресенье 14:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/italy/roma-slovo-zhizni/
-
-
-
-
-#### Sanremo — Церковь ЕХБ «Слово Жизни» в Сан Ремо
-- Description: Word of Life Baptist Church San Remo
-- Address: Via Roma 14, 18038 San Remo, Italy
-- Coordinates: 43.816533, 7.777347
-- Phone: +39 346 390 6640
-- Email: battistasanremo@gmail.com
-
-- Schedule: Воскресенье 11:00 (Воскресное богослужение); Вторник 20:00 (Библейский урок); Среда 20:00 (Молитвенное); Суббота 12:00 (Детская школа «Премудрости»);
-- URL: https://spasenie.eu/churches/europe/italy/sanremo-slovo-zhizni/
 
 
 
