@@ -35,7 +35,7 @@ Each church entry contains:
 **Евангельские церкви в Италии — адреса и расписание**
 
 
-#### Brescia - Церковь ЕХБ «Слово Жизни» в Брешия – Бреша
+#### Brescia - Церковь ЕХБ «Слово Жизни» в Брешия
 - Description: Word of Life Baptist Church in Brescia
 - Address: Via della Volta 44, Brescia, Italy
 - Coordinates: 45.515335, 10.224643
