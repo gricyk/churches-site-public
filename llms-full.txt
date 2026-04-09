@@ -2340,7 +2340,7 @@ Each church entry contains:
 - Description: Evangelical Baptist Church Athens
 - Address: Chelntrech 37, 11745 Athina, Greece
 - Coordinates: 37.975565, 23.734832
-- Phone: 306997513038
+- Phone: 00306997513038
 - Email: ecg.athen@gmail.com
 - Website: https://baptists.gr
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
