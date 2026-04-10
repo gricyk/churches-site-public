@@ -3,19 +3,88 @@
    Использует встроенное мобильное меню темы Alpha Church
    ==================================== */
 
+/* === ACCESSIBILITY: SKIP LINK === */
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1976d2;
+  color: #fff !important;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  font-weight: 600;
+  z-index: 10000;
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  transition: top 0.2s ease;
+}
+
+.skip-link:focus {
+  top: 0;
+  outline: 3px solid #fff;
+  outline-offset: 2px;
+}
+
+/* === ACCESSIBILITY: УЛУЧШЕННЫЙ КОНТРАСТ === */
+/* Серый текст #999 на белом фоне не проходит WCAG AA (3.0:1 вместо 4.5:1) */
+/* Заменяем на #666 (5.7:1) */
+.continent-church-count.empty,
+.country-church-count.empty {
+  color: #666; /* WCAG AA compliant */
+}
+
+/* Улучшаем контраст для breadcrumb separator */
+.breadcrumb-item:not(:last-child)::after {
+  color: #555; /* Было #6c757d */
+}
+
+/* Улучшаем контраст для мета-информации */
+.church-footer .church-meta {
+  color: #666; /* Было #888 */
+}
+
+/* Улучшаем контраст для schedule-note */
+.schedule-note {
+  color: #666; /* Было #888 */
+}
+
+/* === ACCESSIBILITY: SCREEN READER ONLY === */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 /* === ХЛЕБНЫЕ КРОШКИ / BREADCRUMBS === */
 .breadcrumbs {
-  padding: 1rem;
+  padding: 0.75rem 1rem;
   margin: 0 auto;
   max-width: 1200px;
   background: #f8f9fa;
   border-radius: 8px;
   margin-bottom: 1.5rem;
+  overflow-x: auto;
+  /* Плавная прокрутка на мобильных */
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Скрываем scrollbar в WebKit браузерах (Safari, Chrome) */
+.breadcrumbs::-webkit-scrollbar {
+  display: none;
 }
 
 @media (min-width: 768px) {
   .breadcrumbs {
     padding: 1.5rem 2rem;
+    overflow-x: visible;
   }
 }
 
@@ -24,34 +93,71 @@
   padding: 0;
   margin: 0;
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap; /* Не переносить на мобильных - прокручивать */
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.25rem;
+  /* Минимальная ширина для горизонтальной прокрутки */
+  min-width: min-content;
+}
+
+@media (min-width: 768px) {
+  .breadcrumb-list {
+    flex-wrap: wrap; /* На десктопе можно переносить */
+    gap: 0.5rem;
+  }
 }
 
 .breadcrumb-item {
   display: inline-flex;
   align-items: center;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
+  white-space: nowrap; /* Не переносить текст внутри элемента */
+  flex-shrink: 0; /* Не сжимать элементы */
 }
 
 @media (min-width: 768px) {
   .breadcrumb-item {
     font-size: 1rem;
+    white-space: normal;
   }
 }
 
 .breadcrumb-item:not(:last-child)::after {
   content: "›";
-  margin-left: 0.5rem;
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
   color: #6c757d;
   font-weight: bold;
+  flex-shrink: 0;
+}
+
+@media (min-width: 768px) {
+  .breadcrumb-item:not(:last-child)::after {
+    margin-left: 0.5rem;
+    margin-right: 0;
+  }
 }
 
 .breadcrumb-item a {
   color: #007bff;
   text-decoration: none;
   transition: color 0.2s;
+  /* Ограничиваем длину на очень маленьких экранах */
+  max-width: 150px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (min-width: 480px) {
+  .breadcrumb-item a {
+    max-width: 200px;
+  }
+}
+
+@media (min-width: 768px) {
+  .breadcrumb-item a {
+    max-width: none;
+  }
 }
 
 .breadcrumb-item a:hover {
@@ -62,6 +168,22 @@
 .breadcrumb-item.active {
   color: #6c757d;
   font-weight: 500;
+  /* Ограничиваем длину активного элемента */
+  max-width: 180px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (min-width: 480px) {
+  .breadcrumb-item.active {
+    max-width: 250px;
+  }
+}
+
+@media (min-width: 768px) {
+  .breadcrumb-item.active {
+    max-width: none;
+  }
 }
 
 /* === СЧЁТЧИКИ ЦЕРКВЕЙ === */
@@ -1004,28 +1126,6 @@ article h2 {
 }
 
 /* === УЛУЧШЕНИЕ ACCESSIBILITY === */
-
-/* Skip-link: скрыт по умолчанию, появляется при фокусе (Tab) */
-.skip-link {
-  position: absolute;
-  top: -100px;
-  left: 0;
-  background: #1976d2;
-  color: white !important;
-  padding: 0.75rem 1.5rem;
-  text-decoration: none;
-  font-weight: 600;
-  z-index: 10000;
-  border-radius: 0 0 8px 0;
-  transition: top 0.2s;
-}
-
-.skip-link:focus {
-  top: 0;
-  outline: 3px solid #ff9800;
-  outline-offset: 2px;
-}
-
 /* Фокус для клавиатурной навигации */
 a:focus, button:focus {
   outline: 2px solid #3498db;
@@ -1036,4 +1136,250 @@ a:focus, button:focus {
 a:focus:not(:focus-visible),
 button:focus:not(:focus-visible) {
   outline: none;
+}
+
+/* === МОБИЛЬНАЯ ШАПКА === */
+.mobile-header {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .mobile-header {
+    display: block;
+    background-color: #1a5276;
+    color: #ffffff;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 600;
+    padding: 12px 16px;
+    width: 100%;
+  }
+}
+
+/* ====================================================================== */
+/* === МОБИЛЬНАЯ И ПЛАНШЕТНАЯ ШАПКА САЙТА (≤1024px) ===================== */
+/* ---------------------------------------------------------------------- */
+/* Переопределяем поведение темы alpha-church: на ≤840px тема полностью   */
+/* прячет #header и показывает полупрозрачный серый гамбургер сверху.     */
+/* Нам нужна тёмная шапка с центрированным белым заголовком (как на       */
+/* десктопе) и кнопкой гамбургера отдельной полосой ПОД шапкой.           */
+/* ---------------------------------------------------------------------- */
+@media (max-width: 1024px) {
+
+  /* --- Шапка: фиксированная тёмная полоса сверху --------------------- */
+  #header {
+    display: block !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    height: 50px !important;
+    line-height: 50px !important;
+    background: #444 !important;
+    color: #ffffff !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    z-index: 10000 !important;
+    animation: none !important;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  /* --- Заголовок сайта: по центру, белый ----------------------------- */
+  #header h1 {
+    position: static !important;
+    display: block !important;
+    width: 100% !important;
+    height: 50px !important;
+    line-height: 50px !important;
+    padding: 0 16px !important;
+    margin: 0 !important;
+    left: auto !important;
+    top: auto !important;
+    font-size: 17px !important;
+    text-align: center !important;
+    color: #ffffff !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+  }
+
+  /* Короткое имя на мобильном вместо длинного site.Params.title */
+  #header h1 a {
+    font-size: 0 !important;
+    color: #ffffff !important;
+    text-decoration: none !important;
+    border: 0 !important;
+    font-weight: 600 !important;
+    line-height: 50px !important;
+    display: inline-block !important;
+    vertical-align: middle !important;
+  }
+
+  #header h1 a::before {
+    content: "Каталог церквей в мире" !important;
+    font-size: 17px !important;
+    color: #ffffff !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.2px !important;
+  }
+
+  /* --- Скрыть горизонтальное меню темы внутри шапки ------------------ */
+  #header > nav,
+  #header #nav {
+    display: none !important;
+  }
+
+  /* --- Кнопка гамбургера: отдельная полоса ПОД шапкой ---------------- */
+  #navButton {
+    display: block !important;
+    position: fixed !important;
+    top: 50px !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    height: 46px !important;
+    background: #333 !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.08) !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.35) !important;
+    transform: none !important;
+    z-index: 9999 !important;
+  }
+
+  #navButton .toggle {
+    display: block !important;
+    position: relative !important;
+    width: 100% !important;
+    height: 100% !important;
+    left: auto !important;
+    top: auto !important;
+    border: 0 !important;
+    outline: 0 !important;
+    background: transparent !important;
+    text-align: left !important;
+  }
+
+  #navButton .toggle::before {
+    content: "\f0c9" !important; /* fa-bars */
+    font-family: "Font Awesome 5 Free", "FontAwesome", sans-serif !important;
+    font-weight: 900 !important;
+    color: #ffffff !important;
+    background: transparent !important;
+    border-radius: 0 !important;
+    font-size: 20px !important;
+    position: absolute !important;
+    top: 50% !important;
+    left: 20px !important;
+    transform: translateY(-50%) !important;
+    height: auto !important;
+    width: auto !important;
+    line-height: 1 !important;
+    text-align: left !important;
+  }
+
+  #navButton .toggle::after {
+    content: "Меню" !important;
+    position: absolute !important;
+    top: 50% !important;
+    left: 56px !important;
+    transform: translateY(-50%) !important;
+    color: #ffffff !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.8px !important;
+    text-transform: uppercase !important;
+  }
+
+  /* --- Сдвинуть контент вниз: под шапку (50) + гамбургер (46) = 96px - */
+  #page-wrapper,
+  body.landing #page-wrapper {
+    padding-top: 96px !important;
+  }
+
+  /* Отменить негативный отступ темы на главной */
+  body.landing #main {
+    margin-top: 0 !important;
+  }
+
+  /* --- Выпадающее меню: дропдаун под кнопкой ------------------------- */
+  /* Тема рендерит #navPanel как боковую панель слева — переопределяем */
+  /* на обычный выпадающий список под гамбургером.                     */
+  #navPanel {
+    display: block !important;
+    position: fixed !important;
+    top: 96px !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: auto !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: 0 !important;
+    overflow: hidden !important;
+    background: #2a2a2a !important;
+    color: #ffffff !important;
+    transform: none !important;
+    transition: max-height 0.3s ease !important;
+    z-index: 9998 !important;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.35) !important;
+  }
+
+  body.navPanel-visible #navPanel {
+    max-height: calc(100vh - 96px) !important;
+    overflow-y: auto !important;
+  }
+
+  /* Ссылки внутри выпадающего меню */
+  #navPanel .link {
+    display: block !important;
+    color: #ffffff !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+    border-bottom: 0 !important;
+    padding: 14px 20px !important;
+    height: auto !important;
+    line-height: 1.4 !important;
+    text-decoration: none !important;
+    font-size: 15px !important;
+  }
+
+  #navPanel .link:first-child {
+    border-top: 0 !important;
+  }
+
+  #navPanel .link.depth-0 {
+    color: #ffffff !important;
+    font-weight: 600 !important;
+  }
+
+  #navPanel .link:hover,
+  #navPanel .link:active,
+  #navPanel .link:focus {
+    background: rgba(255, 255, 255, 0.08) !important;
+  }
+
+  /* Отменить slide-эффект темы: не сдвигать страницу при открытии меню */
+  body.navPanel-visible #page-wrapper {
+    transform: none !important;
+  }
+
+  body.navPanel-visible #navButton {
+    transform: none !important;
+  }
+
+  /* Скрыть дублирующий .mobile-header из index.html — его роль теперь */
+  /* выполняет сама шапка сайта.                                       */
+  .mobile-header {
+    display: none !important;
+  }
+}
+
+/* На очень узких экранах (iPhone SE и уже) чуть меньше шрифт заголовка */
+@media (max-width: 380px) {
+  #header h1 a::before {
+    font-size: 15px !important;
+    letter-spacing: 0 !important;
+  }
+  #navButton .toggle::after {
+    font-size: 13px !important;
+    left: 52px !important;
+  }
 }
