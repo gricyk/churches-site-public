@@ -1300,7 +1300,7 @@ button:focus:not(:focus-visible) {
   }
 
   body.navPanel-visible #navPanel {
-    max-height: calc(100vh - 96px) !important;
+    max-height: 600px !important; /* фиксированное значение: Safari анимирует 0→px, избегаем 100vh-бага iOS */
     overflow-y: auto !important;
   }
 
