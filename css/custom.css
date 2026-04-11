@@ -1510,10 +1510,11 @@ button:focus:not(:focus-visible) {
   }
 }
 .blog-post-lead {
-  color: #222;
-  font-size: 1.05rem;
-  line-height: 1.6;
-  margin: 0 0 1rem 0;
+  color: #1a1a1a;
+  font-size: 1.08rem;
+  font-weight: 500;           /* Добавили жирность */
+  line-height: 1.65;
+  margin: 0 0 1.5rem 0;
 }
 .blog-post-meta {
   color: #333;
