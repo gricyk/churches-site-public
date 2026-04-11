@@ -1602,24 +1602,37 @@ button:focus:not(:focus-visible) {
 body.landing #page-wrapper {
   padding-top: 3.25em;
 }
+
 .blog-announcement {
-  background: #1a5276;
+  background: linear-gradient(90deg, #1a3a5c 0%, #1a5276 50%, #1a3a5c 100%);
   color: #fff;
   text-align: center;
-  padding: 8px 16px;
+  padding: 10px 20px;
   font-size: 0.95em;
   margin: 0;
   position: relative;
   z-index: 1;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
 }
+
 .blog-announcement__label {
-  font-weight: 600;
-  margin-right: 6px;
+  font-weight: 700;
+  margin-right: 8px;
+  text-transform: uppercase;
+  font-size: 0.8em;
+  letter-spacing: 0.05em;
+  opacity: 0.85;
 }
+
 .blog-announcement a {
   color: #aed6f1;
-  text-decoration: underline;
+  text-decoration: none;
+  font-weight: 600;
+  border-bottom: 1px solid rgba(174, 214, 241, 0.4);
+  transition: color 0.2s, border-color 0.2s;
 }
+
 .blog-announcement a:hover {
   color: #fff;
+  border-bottom-color: rgba(255,255,255,0.8);
 }
