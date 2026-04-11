@@ -1595,12 +1595,22 @@ button:focus:not(:focus-visible) {
 }
 
 /* ====== BLOG ANNOUNCEMENT ====== */
+/* Override theme's `body.landing #page-wrapper { padding-top: 0 }` so that  */
+/* the .blog-announcement strip at the top of <main> isn't hidden by the     */
+/* fixed #header (height 3.25em, z-index: 10000). On mobile (≤1024px) the    */
+/* `padding-top: 96px !important` override above wins via !important.        */
+body.landing #page-wrapper {
+  padding-top: 3.25em;
+}
 .blog-announcement {
   background: #1a5276;
   color: #fff;
   text-align: center;
   padding: 8px 16px;
   font-size: 0.95em;
+  margin: 0;
+  position: relative;
+  z-index: 1;
 }
 .blog-announcement__label {
   font-weight: 600;
