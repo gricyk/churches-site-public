@@ -1593,3 +1593,23 @@ button:focus:not(:focus-visible) {
   margin-right: 0.35rem;
   font-size: 0.85em;
 }
+
+/* ====== BLOG ANNOUNCEMENT ====== */
+.blog-announcement {
+  background: #1a5276;
+  color: #fff;
+  text-align: center;
+  padding: 8px 16px;
+  font-size: 0.95em;
+}
+.blog-announcement__label {
+  font-weight: 600;
+  margin-right: 6px;
+}
+.blog-announcement a {
+  color: #aed6f1;
+  text-decoration: underline;
+}
+.blog-announcement a:hover {
+  color: #fff;
+}
