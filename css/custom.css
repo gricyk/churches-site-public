@@ -1377,15 +1377,16 @@ button:focus:not(:focus-visible) {
   margin: 0 0 0.5rem 0;
   font-size: 1.75rem;
   line-height: 1.25;
-  color: #1a1a1a;
+  color: #111;
 }
 @media (min-width: 768px) {
   .blog-list-header h1 {
     font-size: 2.2rem;
   }
 }
+
 .blog-list-description {
-  color: #555;
+  color: #222;
   font-size: 1rem;
   line-height: 1.55;
   margin: 0;
@@ -1393,7 +1394,7 @@ button:focus:not(:focus-visible) {
 
 .blog-list-intro {
   margin-bottom: 2rem;
-  color: #333;
+  color: #1a1a1a;
   line-height: 1.65;
 }
 .blog-list-intro p {
@@ -1431,12 +1432,12 @@ button:focus:not(:focus-visible) {
   line-height: 1.3;
 }
 .blog-post-card-title a {
-  color: #1a5276;
+  color: #0f3a5f;
   text-decoration: none;
   border: none;
 }
 .blog-post-card-title a:hover {
-  color: #2874a6;
+  color: #1a5276;
   text-decoration: underline;
 }
 @media (min-width: 768px) {
@@ -1446,7 +1447,7 @@ button:focus:not(:focus-visible) {
 }
 
 .blog-post-card-meta {
-  color: #777;
+  color: #444;
   font-size: 0.85rem;
   margin-bottom: 0.75rem;
   display: flex;
@@ -1455,11 +1456,11 @@ button:focus:not(:focus-visible) {
 }
 .blog-post-card-meta i {
   margin-right: 0.25rem;
-  color: #999;
+  color: #777;
 }
 
 .blog-post-card-description {
-  color: #333;
+  color: #222;
   line-height: 1.6;
   margin: 0 0 0.75rem 0;
 }
@@ -1469,13 +1470,13 @@ button:focus:not(:focus-visible) {
 }
 .blog-post-card-link {
   display: inline-block;
-  color: #1a5276;
+  color: #0f3a5f;
   text-decoration: none;
   font-weight: 600;
   border: none;
 }
 .blog-post-card-link:hover {
-  color: #2874a6;
+  color: #1a5276;
   text-decoration: underline;
 }
 .blog-post-card-link i {
@@ -1484,7 +1485,7 @@ button:focus:not(:focus-visible) {
 }
 
 .blog-list-empty {
-  color: #666;
+  color: #333;
   font-style: italic;
   padding: 1rem;
   background: #f8f9fa;
@@ -1501,7 +1502,7 @@ button:focus:not(:focus-visible) {
   margin: 0 0 0.75rem 0;
   font-size: 1.8rem;
   line-height: 1.2;
-  color: #1a1a1a;
+  color: #111;
 }
 @media (min-width: 768px) {
   .blog-post-title {
@@ -1509,13 +1510,13 @@ button:focus:not(:focus-visible) {
   }
 }
 .blog-post-lead {
-  color: #555;
+  color: #222;
   font-size: 1.05rem;
   line-height: 1.6;
   margin: 0 0 1rem 0;
 }
 .blog-post-meta {
-  color: #777;
+  color: #444;
   font-size: 0.85rem;
   display: flex;
   flex-wrap: wrap;
@@ -1523,55 +1524,55 @@ button:focus:not(:focus-visible) {
 }
 .blog-post-meta i {
   margin-right: 0.25rem;
-  color: #999;
+  color: #777;
 }
 
 .blog-post-content {
-  color: #222;
-  font-size: 1rem;
-  line-height: 1.75;
+  color: #1a1a1a;
+  font-size: 1.05rem;
+  line-height: 1.8;
 }
 .blog-post-content h2 {
-  margin-top: 2rem;
-  margin-bottom: 0.75rem;
-  font-size: 1.4rem;
-  color: #1a5276;
-  line-height: 1.3;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.45rem;
+  color: #0f2a4a;
+  line-height: 1.35;
 }
 .blog-post-content h3 {
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
-  font-size: 1.15rem;
-  color: #1a5276;
+  margin-top: 1.8rem;
+  margin-bottom: 0.6rem;
+  font-size: 1.2rem;
+  color: #0f2a4a;
 }
 .blog-post-content p {
-  margin: 0 0 1rem 0;
+  margin: 0 0 1.1rem 0;
 }
 .blog-post-content ul,
 .blog-post-content ol {
-  margin: 0 0 1rem 1.5rem;
+  margin: 0 0 1.1rem 1.6rem;
   padding: 0;
 }
 .blog-post-content li {
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.4rem;
 }
 .blog-post-content a {
-  color: #1a5276;
+  color: #0f3a5f;
   text-decoration: underline;
 }
 .blog-post-content a:hover {
-  color: #2874a6;
+  color: #1a5276;
 }
 .blog-post-content blockquote {
-  border-left: 3px solid #1a5276;
-  margin: 1rem 0;
-  padding: 0.5rem 1rem;
-  color: #555;
+  border-left: 4px solid #0f3a5f;
+  margin: 1.5rem 0;
+  padding: 0.8rem 1.2rem;
+  color: #222;
   background: #f8f9fa;
   font-style: italic;
 }
 .blog-post-content strong {
-  color: #1a1a1a;
+  color: #111;
 }
 
 .blog-post-footer {
@@ -1581,12 +1582,12 @@ button:focus:not(:focus-visible) {
 }
 .blog-back-link {
   display: inline-block;
-  color: #1a5276;
+  color: #0f3a5f;
   text-decoration: none;
   font-weight: 600;
 }
 .blog-back-link:hover {
-  color: #2874a6;
+  color: #1a5276;
   text-decoration: underline;
 }
 .blog-back-link i {
@@ -1594,15 +1595,40 @@ button:focus:not(:focus-visible) {
   font-size: 0.85em;
 }
 
+/* === РЕСПОНСИВНЫЕ ИЗОБРАЖЕНИЯ В СТАТЬЯХ === */
+.blog-post-content img {
+  max-width: 100% !important;     /* Основное правило - подстраивается под ширину текста */
+  height: auto !important;        /* Сохраняет пропорции */
+  width: auto !important;         /* Не растягивает принудительно */
+  display: block !important;      /* Убирает лишние отступы снизу */
+  margin: 1.5rem auto !important; /* Отступы сверху/снизу + центрирование */
+  border-radius: 8px;             /* Красивые закругленные углы */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* Легкая тень для красоты */
+}
+
+/* Если картинка в фигуре (figure) — тоже делаем responsive */
+.blog-post-content figure {
+  margin: 1.8rem 0;
+  max-width: 100%;
+}
+
+.blog-post-content figure img {
+  margin: 0 auto;
+}
+
+/* Подписи под картинками */
+.blog-post-content figcaption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.6rem;
+  font-style: italic;
+}
+
 /* ====== BLOG ANNOUNCEMENT ====== */
-/* Override theme's `body.landing #page-wrapper { padding-top: 0 }` so that  */
-/* the .blog-announcement strip at the top of <main> isn't hidden by the     */
-/* fixed #header (height 3.25em, z-index: 10000). On mobile (≤1024px) the    */
-/* `padding-top: 96px !important` override above wins via !important.        */
 body.landing #page-wrapper {
   padding-top: 3.25em;
 }
-
 .blog-announcement {
   background: linear-gradient(90deg, #1a3a5c 0%, #1a5276 50%, #1a3a5c 100%);
   color: #fff;
@@ -1614,7 +1640,6 @@ body.landing #page-wrapper {
   z-index: 1;
   border-bottom: 1px solid rgba(255,255,255,0.15);
 }
-
 .blog-announcement__label {
   font-weight: 700;
   margin-right: 8px;
@@ -1623,7 +1648,6 @@ body.landing #page-wrapper {
   letter-spacing: 0.05em;
   opacity: 0.85;
 }
-
 .blog-announcement a {
   color: #aed6f1;
   text-decoration: none;
@@ -1631,7 +1655,6 @@ body.landing #page-wrapper {
   border-bottom: 1px solid rgba(174, 214, 241, 0.4);
   transition: color 0.2s, border-color 0.2s;
 }
-
 .blog-announcement a:hover {
   color: #fff;
   border-bottom-color: rgba(255,255,255,0.8);
