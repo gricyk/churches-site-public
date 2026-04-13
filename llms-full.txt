@@ -32,1086 +32,6 @@ Each church entry contains:
 
 
 
-**Евангельские церкви в Италии — адреса и расписание**
-
-
-#### Brescia - Церковь ЕХБ «Слово Жизни» в Брешия
-- Description: Word of Life Baptist Church in Brescia
-- Address: Via della Volta 44, Brescia, Italy
-- Coordinates: 45.515335, 10.224643
-- Phone: +39 329 295 0548
-
-
-- Schedule: Воскресенье 10:00 (Богослужение);
-- URL: https://spasenie.eu/churches/europe/italy/brescia-slovo-zhizni/
-
-
-
-
-#### Venezia - Церковь ЕХБ «Слово Жизни» в Венеции
-- Description: Word of Life Baptist Church in Venezia
-- Address: venezia
-- Coordinates: 45.404617, 12.310523
-- Phone: +393271188993
-
-
-
-- URL: https://spasenie.eu/churches/europe/italy/venice-slovo-zhizni/
-
-
-
-
-#### Aversa — Евангельская церковь (ЕХБ) Аверса
-- Description: Evangelical Baptist Church Aversa
-- Address: Via Raffael Musto 117, 81031 Aversa, Italy
-- Coordinates: 40.969957, 14.204987
-- Phone: +39 329 225 3360
-- Email: splisov@gmail.com
-
-- Schedule: Воскресенье 10:00 (Воскресное богослужение); Среда 19:30 (Изучение Библии);
-- URL: https://spasenie.eu/churches/europe/italy/aversa-ehb/
-
-
-
-
-#### Bergamo — Евангельская Церковь «Слово Веры» (ХВЕ) Бергамо
-- Description: Word of Faith Church Bergamo
-- Address: Via Carlo Serassi 6B, 24125 Bergamo, Italy
-- Coordinates: 45.696771, 9.686303
-- Phone: +39 327 222 90 54
-- Email: pastorbergamo@gmail.com
-
-- Schedule: Воскресенье 14:00 (Воскресное богослужение); Среда 19:00 (Служение);
-- URL: https://spasenie.eu/churches/europe/italy/bergamo-slovo-very/
-
-
-
-
-#### Bologna — Евангельская церковь Bologna
-- Description: Evangelical Church Bologna
-- Address: Via del Pallone 4, 40126 Bologna, Italy
-- Coordinates: 44.501227, 11.347546
-- Phone: +39 380 435 2559
-
-
-- Schedule: Воскресенье 14:30 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/italy/bologna-ehb/
-
-
-
-
-#### Firenze — Церковь ЕХБ «Слово жизни» Флоренция
-- Description: Word of Life Baptist Church Florence
-- Address: Via Aleardo Aleardi 13, 50018 Scandicci, Italy
-- Coordinates: 43.754774, 11.188364
-- Phone: +39 320 935 9997
-
-
-- Schedule: Четверг 15:00 (Служение); Воскресенье 15:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/italy/firenze-slovo-zhizni/
-
-
-
-
-#### Genova — Церковь «Преображение» Генуя
-- Description: Transfiguration Church Genova
-- Address: Via Ettore Vernazza 14, 16121 Genova, Italy
-- Coordinates: 44.406986, 8.936937
-- Phone: +39 328 956 9316
-- Email: kiyash.v.m@mail.ru
-
-- Schedule: Воскресенье 13:00 (Воскресное богослужение); Четверг 17:00 (Разбор слова);
-- URL: https://spasenie.eu/churches/europe/italy/genova-preobrazhenie/
-
-
-
-
-#### Milano — Евангельская церковь (ЕХБ) «Слово жизни» Милан
-- Description: Word of Life Baptist Church Milan
-- Address: Via Monte Nero 1C, 20098 San Giuliano Milanese (Milan), Italy
-- Coordinates: 45.394994, 9.294058
-- Phone: +39 327 118 8993
-
-
-- Schedule: Воскресенье 11:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/italy/milano-slovo-zhizni/
-
-
-
-
-#### Napoli — Евангельская баптистская церковь «Слово Жизни» (ЕХБ) в Неаполе
-- Description: Word of Life Baptist Church Naples
-- Address: Via Foria 93, 80137 Napoli, Italy
-- Coordinates: 40.856584, 14.258352
-- Phone: +39 388 588 6711
-
-
-- Schedule: Четверг 17:00 (Служение); Воскресенье 15:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/italy/napoli-slovo-zhizni/
-
-
-
-
-#### Perugia — Евангельская церковь «Благодать Христова» Перуджа
-- Description: Grace of Christ Church Perugia
-- Address: Via Cino da Pistoia 46, 06126 Perugia, Italy
-- Coordinates: 43.096233, 12.387685
-- Phone: +39 329 181 2707
-- Email: proshakroman@live.it
-
-- Schedule: Воскресенье 15:00 (Воскресное богослужение); Суббота 15:30 (Разбор слова);
-- URL: https://spasenie.eu/churches/europe/italy/perugia-blagodat/
-
-
-
-
-#### Piacenza — Домашняя група Piacenza
-- Description: Home Group Piacenza
-- Address: Piacenza, Italy
-- Coordinates: 44.847635, 9.666531
-- Phone: +39 339 331 3946
-
-
-- Schedule: Пятница 18:30 (Группа);
-- URL: https://spasenie.eu/churches/europe/italy/piacenza-gruppa/
-
-
-
-
-#### Rimini — Баптистская церковь «Слово Жизни» (ЕХБ) Римини
-- Description: Word of Life Baptist Church Rimini
-- Address: Via dei Forzieri 45, 47922 Rimini, Italy
-- Coordinates: 44.065212, 12.564332
-- Phone: +39 351 518 5695
-- Email: viorel11470@gmail.com
-
-- Schedule: Воскресенье 15:30 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/italy/rimini-slovo-zhizni/
-
-
-
-
-#### Roma — Евангельская церковь «Слово Жизни» (ЕХБ) в Риме
-- Description: Word of Life Baptist Church Rome
-- Address: Via del Teatro Valle 27, 00186 Roma, Italy
-- Coordinates: 41.897623, 12.475085
-- Phone: +39 370 720 8510
-
-- Website: https://www.slavicebc.org/ru/
-- Schedule: Четверг 17:00 (Служение); Воскресенье 14:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/italy/roma-slovo-zhizni/
-
-
-
-
-#### Sanremo — Церковь ЕХБ «Слово Жизни» в Сан Ремо
-- Description: Word of Life Baptist Church San Remo
-- Address: Via Roma 14, 18038 San Remo, Italy
-- Coordinates: 43.816533, 7.777347
-- Phone: +39 346 390 6640
-- Email: battistasanremo@gmail.com
-
-- Schedule: Воскресенье 11:00 (Воскресное богослужение); Вторник 20:00 (Библейский урок); Среда 20:00 (Молитвенное); Суббота 12:00 (Детская школа «Премудрости»);
-- URL: https://spasenie.eu/churches/europe/italy/sanremo-slovo-zhizni/
-
-
-
-
-
-
-**Евангельские церкви в Польше — адреса и расписание**
-
-
-#### Krakow - Евангельская церковь Свет Евангелия в Кракове – Краков
-- Description: Light of the Gospel Evangelical Church
-- Address: Stanisława Wyspiańskiego 4, Kraków, Poland
-- Coordinates: 50.072211, 19.924801
-- Phone: +48 500 710 182
-- Email: gospel.light.kr@gmail.com
-
-- Schedule: Воскресенье 14:00 (Богослужение);
-- URL: https://spasenie.eu/churches/europe/poland/krakow-light-gospel/
-
-
-
-
-#### Wroclaw - Церковь христиан баптистов Слово Христа во Вроцлаве – Вроцлав
-- Description: Word of Christ baptist church in Wroclaw
-- Address: Metalowcow 25, Wroclaw, Poland
-- Coordinates: 51.127997, 16.953464
-- Phone: +48 699 862 727
-- Email: contact@slovochrista.pl
-- Website: https://slovochrista.pl/
-- Schedule: Воскресенье 12:00 (Богослужение); Суббота 18:00 (Молодежка); Четверг Время в телеграм (Домашнаяя группа);
-- URL: https://spasenie.eu/churches/europe/poland/wroclaw-slovochrista/
-
-
-
-
-#### Bydgoszcz — Христианская церковь в Быдгощи
-- Description: Christian Church Bydgoszcz
-- Address: ul. Unii Lubelskiej 8, Bydgoszcz, Poland
-- Coordinates: 53.133734, 17.994264
-- Phone: +48 516 721 112
-- Email: glavnikk@gmail.com
-
-- Schedule: Воскресенье 13:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/poland/bydgoszcz-ehb/
-
-
-
-
-#### Chociwel — Церква в Хоцівелі
-- Description: Ukrainian Church Chociwel
-
-- Coordinates: 53.4667, 15.3167
-- Phone: +48 725365809
-- Email: suleymanov.aleksey77@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/chociwel-ukr/
-
-
-
-
-#### Chrzanow — Церква в Хшануві
-- Description: Ukrainian Church Chrzanów
-
-- Coordinates: 50.1356, 19.4025
-- Phone: +48 786485343
-
-
-
-- URL: https://spasenie.eu/churches/europe/poland/chrzanow-ukr/
-
-
-
-
-#### Gdansk — Церковь «Благодать» в Гданьске (ЕХБ)
-- Description: Grace Church Gdańsk
-- Address: Jana Kilińskiego 4, 80-266 Gdańsk, Poland
-- Coordinates: 54.382831, 18.605218
-- Phone: +48 883 039 708
-- Email: alex.kostiuk79@gmail.com
-- Website: https://grace-church.pl
-- Schedule: Воскресенье 15:00 (Воскресное богослужение); Четверг 19:00 (Малая группа); Суббота 19:00 (Молодёжное служение);
-- URL: https://spasenie.eu/churches/europe/poland/gdansk-blagodat/
-
-
-
-
-#### Gdansk — Четвёртая баптистская церковь Гданьска
-- Description: Fourth Baptist Church Gdańsk
-- Address: ul. Dąbrowskiego 11, 80-153 Gdańsk, Poland
-- Coordinates: 54.35418, 18.633788
-- Phone: +48 570 253 151
-
-
-- Schedule: Воскресенье 14:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/poland/gdansk-chetvertaya/
-
-
-
-
-#### Gdynia — Церковь «Причал» ЕХБ в Гдыне
-- Description: Pier Baptist Church Gdynia
-- Address: Ul. Oficerska 15, Gdynia, Poland
-- Coordinates: 54.476134, 18.541712
-- Phone: +48 575 077 680
-- Email: kozubovsky.uets@gmail.com
-
-- Schedule: Воскресенье 16:00 (Недільні богослужіння);
-- URL: https://spasenie.eu/churches/europe/poland/gdynia-prichal/
-
-
-
-
-#### Gorzow — Вторая Баптистская Церковь в Гожуве-Велькопольском
-- Description: Drugi Zbór Kościoła Chrześcijan Baptystów w Gorzowie Wielkopolskim
-- Address: Kosynierów Gdyńskich 64, Gorzów Wielkopolski, Poland
-- Coordinates: 52.739842, 15.228507
-- Phone: +48 579 113 995
-
-
-- Schedule: Воскресенье 13:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/poland/gorzow-vtoraya/
-
-
-
-
-#### Katowice — Церква в Катовіце (Давидюк)
-- Description: Ukrainian Church Katowice
-
-- Coordinates: 50.2649, 19.0238
-- Phone: +380 967478948
-- Email: Yu.Davidyuk@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/katowice-davidyuk/
-
-
-
-
-#### Katowice — Церква в Катовіце (Куценко)
-- Description: Ukrainian Church Katowice
-
-- Coordinates: 50.2649, 19.0238
-- Phone: +48 799984586
-- Email: taras.kutsenko@hotmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/katowice-kutsenko/
-
-
-
-
-#### Klodzko — Церква в Клодзко
-- Description: Ukrainian Church Kłodzko
-
-- Coordinates: 50.4352, 16.6598
-- Phone: +420 776509727
-
-
-
-- URL: https://spasenie.eu/churches/europe/poland/klodzko-ukr/
-
-
-
-
-#### Krakow — Biblijny Zbór KChB в Кракові
-- Description: Bible Church Kraków
-- Address: Biezanowska 23 E, 30-812 Kraków, Poland
-- Coordinates: 50.02565, 19.985024
-- Phone: +48 787 760 020
-- Email: biblijnyzbor5@op.pl
-
-
-- URL: https://spasenie.eu/churches/europe/poland/krakow-biblijna/
-
-
-
-
-#### Lodz — Церква в Лодзі
-- Description: Ukrainian Church Łódź
-- Address: Navrot 27, Łódź, Poland
-- Coordinates: 51.768732, 19.456991
-- Phone: +380 536071432
-- Email: bogunbogdan579@gmail.com
-
-- Schedule: Неділя 14:00-16:00 (Богослужіння);
-- URL: https://spasenie.eu/churches/europe/poland/lodz-ukr/
-
-
-
-
-#### Lublin — Баптистська церква в Любліні
-- Description: Baptist Church Lublin
-
-- Coordinates: 51.2465, 22.5684
-- Phone: +48 665 074 583
-- Email: baptysci.lublin@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/lublin-baptist/
-
-
-
-
-#### Olawa — Церква в Олаві
-- Description: Ukrainian Church Oława
-- Address: Oławska 46, 55-220 Jelcz-Laskowice, Poland
-- Coordinates: 51.030915, 17.337131
-- Phone: +48 729365582
-- Email: machalex@ukr.net
-
-
-- URL: https://spasenie.eu/churches/europe/poland/olawa-ukr/
-
-
-
-
-#### Poznan — Українська Біблійна Церква в Познані
-- Description: Ukrainian Bible Church Poznań
-- Address: Osiedle Polan 100, 61-253 Poznań, Poland
-- Coordinates: 52.383783, 16.960103
-- Phone: +48 694 013 519
-- Email: bidaoleg1982@gmail.com
-
-- Schedule: Неділя 14:00 (Недільне богослужіння);
-- URL: https://spasenie.eu/churches/europe/poland/poznan-biblijna/
-
-
-
-
-#### Radzyn — Церква в Радині
-- Description: Ukrainian Church Radzyń
-
-- Coordinates: 51.7833, 22.6167
-- Phone: +380 977417299
-- Email: volodia.tkachuk@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/radzyn-ukr/
-
-
-
-
-#### Szczecin — Церковь ЕХБ «Новая жизнь» г. Щецин
-- Description: New Life Baptist Church Szczecin
-- Address: Wita Stwosza 1A, 71-173 Szczecin, Poland
-- Coordinates: 53.436414, 14.505831
-- Phone: +48 516 834 860
-
-
-- Schedule: Воскресенье 15:00 (Воскресное богослужение); Среда 19:00 (Молитвенное служение);
-- URL: https://spasenie.eu/churches/europe/poland/szczecin-novaya-zhizn/
-
-
-
-
-#### Tomaszow — Церква в Томашуві-Мазовецькому
-- Description: Ukrainian Church Tomaszów Mazowiecki
-
-- Coordinates: 51.5308, 20.0083
-- Phone: +47 88427959
-- Email: matseyka@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/tomaszow-mazowiecki-ukr/
-
-
-
-
-#### Warszawa — Баптистская церковь «Божья благодать» Варшава
-- Description: God's Grace Baptist Church Warsaw
-- Address: Stanisławowska 14, 03-832 Warszawa, Poland
-- Coordinates: 52.250627, 21.069275
-- Phone: +48 886 320 979
-- Email: illin.slw@gmail.com
-
-- Schedule: Воскресенье 14:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-bozhya-blagodat/
-
-
-
-
-#### Warszawa — Библейская церковь в Варшаве
-- Description: Bible Church Warsaw
-- Address: Grzybowska 32, 00-863 Warszawa, Poland
-- Coordinates: 52.235936, 20.994868
-
-- Email: baptistpl.info@gmail.com
-- Website: https://www.baptist.pl/
-- Schedule: Воскресенье 11:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-biblijna/
-
-
-
-
-#### Warszawa — Христианская Церковь «Спасение» в Варшаве
-- Description: Salvation Church Warsaw / Kościół Chrześcijan Baptystów w RP
-- Address: ul. Mińska 48, 03-193 Warszawa, Poland
-- Coordinates: 52.249323, 21.06505
-- Phone: +48 794 309 158
-- Email: spasenie.wawa@gmail.com
-- Website: https://spasenie.pl/
-- Schedule: Воскресенье 11:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-spasenie/
-
-
-
-
-#### Warszawa — Христианская церковь (ХВЕП) в Варшаве «Дом Божий»
-- Description: House of God Pentecostal Church Warsaw
-- Address: ул. Клопотовскего 11, Варшава, Poland
-- Coordinates: 52.233374, 21.071149
-- Phone: +48 575 701 718
-- Email: viktor11-75@mail.ru
-
-- Schedule: Воскресенье 14:00 (Воскресное служение); Суббота 18:00 (Молодежное служение); Среда 19:00 (Молитвенное собрание);
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-dom-bozhiy/
-
-
-
-
-#### Warszawa — Церква Логос в Варшаві
-- Description: Logos Church Warsaw
-- Address: ul.Goździków 29/31, 04-231 Warszawa, Poland
-- Coordinates: 52.238589, 21.1372
-- Phone: +48 577773391
-- Email: logoswarszawa010418@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/warszawa-logos/
-
-
-
-
-#### Wroclaw — Церква у Вроцлаві (Харибін)
-- Description: Ukrainian Church Wrocław
-
-- Coordinates: 51.1079, 17.0385
-- Phone: +380 956807047
-- Email: dimaharibin@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/poland/wroclaw-haribin/
-
-
-
-
-
-
-**Евангельские церкви в России — адреса и расписание**
-
-
-#### Rybinsk — Церковь ЕХБ Дом молитвы - Рыбинск – Рыбинск
-- Description: Baptist Church House of Prayer in Rybinsk, Russia
-- Address: Россия, Рыбинск, улица Ломоносова 15А
-- Coordinates: 58.047384, 38.849515
-- Phone: +79092798454
-- Email: kravtsov1003@gmail.com
-
-- Schedule: Воскресенье 10:00 (Богослужение); Четверг 18:00 (Богослужение);
-- URL: https://spasenie.eu/churches/europe/russia/rybinsk-baptist/
-
-
-
-
-#### Moscow — Церковь ЕХБ Свобода - Москва
-- Description: Baptist church Freedom in Moscow
-- Address: Москва, Россия
-- Coordinates: 55.625578, 37.606392
-- Phone: +7 916 175 1163
-- Email: vitaliyzanin@gmail.com
-- Website: https://church.moscow/
-
-- URL: https://spasenie.eu/churches/europe/russia/moscow-freedom/
-
-
-
-
-#### Dzerzhinskiy — Церковь «Новый Завет» – Дзержинский
-- Description: Церковь Христиан Веры Евангельской (ХВЕ)
-- Address: ул. Зелёная 8а, г. Дзержинский, Московская область, Россия
-- Coordinates: 55.504316, 38.035393
-
-
-
-- Schedule: Воскресенье 11:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/russia/dzerzhinskiy-novyy-zavet/
-
-
-
-
-#### Moscow — Церковь большого города – Москва
-- Description: Церковь Христиан Веры Евангельской (ХВЕ)
-- Address: ул. 1-я Хуторская 5а, м. Дмитровская, Москва, Россия
-- Coordinates: 55.625578, 37.606392
-
-
-
-- Schedule: Суббота 18:00 (Субботнее богослужение (CMCHURCH)); Воскресенье 14:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/russia/moscow-bolshoy-gorod/
-
-
-
-
-
-
-**Евангельские церкви в Чехии — адреса и расписание**
-
-
-#### Dolni — Церковь ЕХБ – Dolní Dvůr
-- Description: Baptist church in Dolni Dvur
-- Address: Dolní dvůr 78, 543 42, Czechia
-- Coordinates: 50.65249, 15.655276
-- Phone: +420 776 789 119
-
-
-- Schedule: Воскресенье 9:00 (Богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/dolni-dvur-baptist/
-
-
-
-
-#### Mlada — Церковь ЕХБ Виноградная Лоза – Млада-Болеслав
-- Description: Stanice sboru Vinný Kmen Mladá Boleslav
-- Address: Dukelská 1443/31, Mladá Boleslav, Czechia
-- Coordinates: 50.414345, 14.915934
-- Phone: +420 730 585 743
-
-
-- Schedule: Воскресенье 13:30 (Богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/mlada-boleslav-vloza/
-
-
-
-
-#### Plzen — Церковь Евангельских Христиан Баптистов – Пльзень
-- Description: Baptist Church in Pilsen
-- Address: Sladkovského 28, Plzeň, Czechia
-- Coordinates: 49.738559, 13.390586
-- Phone: +420 725 848 888
-
-- Website: https://www.sobranieplzen.cz/
-- Schedule: Воскресенье 10:00 (Богослужение); Воскресенье 9:00 (Молитвенная группа); Вторник 19:00 (Молодежное служение); Пятница 19:00 (Разбор Библии);
-- URL: https://spasenie.eu/churches/europe/czech-republic/plzen-baptist/
-
-
-
-
-#### Cheb — Христианская церковь ЕХБ Джерело життя – Хеб
-- Description: Křesťanský sbor baptistů Pramen života v Cheb
-- Address: Libušina 328/4, Cheb, Czechia
-- Coordinates: 50.075942, 12.365945
-- Phone: +420 721 879 245
-
-
-- Schedule: Воскресенье 10:00 (Богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/cheb-pramen/
-
-
-
-
-#### Kolin — Группа Евангельских Христиан Баптистов – Колин
-- Description: Baptist group at Kolin
-- Address: Královská cesta 226, 280 02 Kolín IV, Czechia
-- Coordinates: 50.019838, 15.21074
-- Phone: +420 774 074 796
-
-
-- Schedule: Четверг 19:00 (Изучение Библии);
-- URL: https://spasenie.eu/churches/europe/czech-republic/kolin-baptist/
-
-
-
-
-#### Prague — Украинская Библейская Церковь – Прага
-- Description: Ukrainian Bible Church in Prague
-- Address: Korunovační 103/6, Praha 7, Czechia
-- Coordinates: 50.100381, 14.420547
-- Phone: +420 736 693 501
-- Email: meleshko.a@gmail.com
-
-- Schedule: Воскресенье 13:00 (Богослужение на украинском);
-- URL: https://spasenie.eu/churches/europe/czech-republic/prague-ubc/
-
-
-
-
-#### Prague — Церковь Евангельских Христиан Баптистов (МСЦ) – Прага
-- Description: Baptist Church in Prague (MSC)
-- Address: U pošty 1098/6, Praha 8, Czechia
-- Coordinates: 50.102487, 14.47741
-- Phone: +420 771 241 711
-
-
-- Schedule: Воскресенье 13:00 (Богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/prague-msc/
-
-
-
-
-#### Prague — Церковь Евангельских Христиан Баптистов (Фриденштимме) – Прага
-- Description: Baptist Church in Prague (Friedensstimme)
-- Address: Žateckých 1169/11, Praha, Czechia
-- Coordinates: 50.061234, 14.434766
-- Phone: +420 775 213 159
-
-- Website: https://www.baptist-praha.info
-- Schedule: Воскресенье 12:00 (Богослужение); Воскресенье 13:00 (Детские часы); Пятница 19:00 (Молитвенное собрание и библейский час); Суббота 19:00 (Молодежное общение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/prague-baptist-fs/
-
-
-
-
-#### Brno — Дочерняя церковь «Виноградная лоза» (ЕХБ) Брно
-- Description: Vinný Kmen Brno
-- Address: Dominikánská 264/2, 602 00 Brno-střed, Czech Republic
-- Coordinates: 49.1933, 16.6083
-- Phone: +420 737 371 141
-- Email: Demkovskyigor@gmail.com
-
-- Schedule: Воскресенье 11:00 (Воскресное богослужение); Воскресенье 17:00 (Молодежное служение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/brno-vloza/
-
-
-
-
-#### Brno — Церковь Евангельских христиан (ЕХБ) Скала - Брно
-- Description: Sbor Bratrské jednoty baptistů v Brně - Scála
-- Address: Smetanova 20, 602 00 Brno, Czech Republic
-- Coordinates: 49.202969, 16.605148
-- Phone: +420 734 682 371
-- Email: skala.church.brno@gmail.com
-- Website: https://www.skalachurchbrno.cz
-- Schedule: Воскресенье 12:30 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/brno-ehb/
-
-
-
-
-#### Ceske — Церковь ЕХБ «Спасение» Ческе-Будеевице
-- Description: Salvation Baptist Church České Budějovice
-- Address: Fráni Šrámka 1353/34, 370 01 České Budějovice, Czech Republic
-- Coordinates: 48.981636, 14.4786
-- Phone: +420 775 913 803
-- Email: agavrilov.cb@gmail.com
-
-- Schedule: Воскресенье 10:00 (Воскресное богослужение); Пятница 17:00 (Изучение Писания);
-- URL: https://spasenie.eu/churches/europe/czech-republic/ceske-budejovice-spasenie/
-
-
-
-
-#### Karlovy — Международная евангельская церковь «Источник» (ЕХБ) Карловы Вары
-- Description: Source International Evangelical Church Karlovy Vary
-- Address: Závodu míru 42/112, 360 17 Karlovy Vary 17-Stará Role, Czech Republic
-- Coordinates: 50.2333, 12.8667
-- Phone: +420 731 618 116
-
-
-- Schedule: Воскресенье 14:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/karlovy-vary-istochnik/
-
-
-
-
-#### Liberec — Церква «Нове Життя» Ліберець
-- Description: New Life Church Liberec
-- Address: Puchmajerova 359/4, 460 01 Liberec, Czech Republic
-- Coordinates: 50.769623, 15.04791
-- Phone: +420 731 177 801
-- Email: olekshanna@gmail.com
-
-- Schedule: Воскресенье 16:00 (Недільне богослужіння);
-- URL: https://spasenie.eu/churches/europe/czech-republic/liberec-nove-zhyttia/
-
-
-
-
-#### Pardubice — Евангельская церковь (ЕХБ) Пардубице
-- Description: Evangelical Baptist Church Pardubice
-- Address: Sladkovského 521, 530 02 Pardubice, Czech Republic
-- Coordinates: 50.033271, 15.774483
-- Phone: +420 776 549 721
-
-
-- Schedule: Воскресенье 13:00 (Воскресное богослужение); Четверг 19:00 (Изучение Писания);
-- URL: https://spasenie.eu/churches/europe/czech-republic/pardubice-ehb/
-
-
-
-
-#### Plzen — Международная Евангельская Церковь «Agape» (ЕХБ) Плзень
-- Description: International Evangelical Church Agape Plzeň
-- Address: Husova 314/1, 301 00 Plzeň 3-Jižní Předměstí, Czech Republic
-- Coordinates: 49.745066, 13.372096
-- Phone: +420 776 360 117
-- Email: preacherlev@mail.ru
-
-- Schedule: Воскресенье 16:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/plzen-agape/
-
-
-
-
-#### Praha — Перша Церква ЄХБ в Празі
-- Description: 1st Baptist Church Prague
-- Address: Soukenická 15, 110 00 Praha, Czech Republic
-- Coordinates: 50.091219, 14.43004
-- Phone: +420 773 784 691
-- Email: rusnakov@seznam.cz
-- Website: https://www.sobraniepraha.cz
-- Schedule: Воскресенье 13:00 (Воскресное богослужение); Понедельник 19:00 (Молодежное общение); Среда 19:00 (Изучение Библии); Пятница 19:00 (Хоровая спевка); Суббота 19:00 (Молитвенная группа);
-- URL: https://spasenie.eu/churches/europe/czech-republic/praha-ehb-soukenicka/
-
-
-
-
-#### Praha — Церковь «XXI век» (ЕХБ) в Праге
-- Description: Sbor Bratrské jednoty baptistů v Praze církev XXI Století
-- Address: Holýšovská 4, Praha 13, 155 00, Czech Republic
-- Coordinates: 50.041115, 14.319854
-- Phone: +420 774 117 031
-- Email: eleos4u@gmail.com
-- Website: https://www.xxi.cz
-- Schedule: Воскресенье 10:00 (Воскресное богослужение на русском);
-- URL: https://spasenie.eu/churches/europe/czech-republic/praha-xxi-vek/
-
-
-
-
-#### Slany — Евангельская церковь (ЕХБ) в Сланах
-- Description: Evangelical Baptist Church Slaný
-- Address: Vepřkova 1087/14, 274 01 Slaný 1, Czech Republic
-- Coordinates: 50.2333, 14.0833
-- Phone: +420 774 117 031
-
-
-- Schedule: Воскресенье 16:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/slany-ehb/
-
-
-
-
-#### Vsetin — Евангельская Украинская Церковь «Маяк» Всетин
-- Description: Lighthouse Evangelical Ukrainian Church Vsetín
-- Address: Havlíčkova 1627, 755 01 Vsetín 1, Czech Republic
-- Coordinates: 49.3333, 17.9833
-- Phone: +420 605 237 824
-
-
-- Schedule: Воскресенье 16:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/vsetin-mayak/
-
-
-
-
-#### Zatec — Христианская церковь в городе Žatec
-- Description: Christian Church Žatec - Station of BJB XXI Století
-- Address: Lva Tolstého 1249, Žatec, Czech Republic
-- Coordinates: 50.320572, 13.548099
-- Phone: +420 734 640 052
-- Email: m.gricyk1@gmail.com
-
-- Schedule: Воскресенье 16:00 (Воскресное богослужение); Среда 17:00 (Изучение Библии);
-- URL: https://spasenie.eu/churches/europe/czech-republic/zatec-ehb/
-
-
-
-
-#### Zlin — Баптисты г. Злин (домашняя группа)
-- Description: Baptist Home Group Zlín
-- Address: SNP 1180, 76502 Otrokovice, Zlínský kraj, Czech Republic
-- Coordinates: 49.201953, 17.544767
-- Phone: +420 603 276 705
-- Email: ewens_den@mail.ru
-
-- Schedule: Воскресенье 17:30 (Группа);
-- URL: https://spasenie.eu/churches/europe/czech-republic/zlin-gruppa/
-
-
-
-
-#### Kladno — Церковь Евангельских христиан баптистов в Кладно
-- Description: Sbor Bratrské jednoty baptistů v Kladně
-- Address: Osvoboz.pol.věznů 341, Kladno 27201, Чехия
-- Coordinates: 50.145081, 14.099776
-- Phone: +420 602 171 613
-- Email: info@sborkladno.cz
-- Website: https://sborkladno.cz
-- Schedule: Воскресенье 11:00 (Воскресное богослужение); Четверг 18:00 (Изучение Библии и молитва); Суббота 17:00 (Молодежное служение);
-- URL: https://spasenie.eu/churches/europe/czech-republic/kladno/
-
-
-
-
-#### Prague — Церковь «Виноградная Лоза» в Праге
-- Description: Sbor Bratrské jednoty baptistů v Praze — Vinný Kmen
-- Address: Peroutkova 2482/57, Praha 5 - Smíchov, 150 00, Чехия
-- Coordinates: 50.062203, 14.384085
-- Phone: +420 776 866 385
-- Email: ggracengv@gmail.com
-- Website: https://vloza.eu
-- Schedule: Воскресенье 16:00 (Воскресное богослужение); Понедельник 19:30 (Общая молитва); Воскресенье 14:30 (Подготовка к крещению);
-- URL: https://spasenie.eu/churches/europe/czech-republic/prague-vloza/
-
-
-
-
-
-
-**Евангельские церкви в Украине — адреса и расписание**
-
-
-#### Odesa — Церква Євангельських християн Любов Христа – Одесса
-- Description: Ebangelical Christian Church Love of Christ in Odessa
-- Address: Ukraine, Odesa, Stepova 23/25
-- Coordinates: 46.462097, 30.713911
-
-- Email: dev@lc.org.ua
-- Website: lc.org.ua
-- Schedule: Неділя 11:00 (Богослужение); Понеділок 18:00 (для братів); Середа 18:00 (Богослужение); П'ятниця 18:00 (Богослужение);
-- URL: https://spasenie.eu/churches/europe/ukraine/odesa-love-christ/
-
-
-
-
-
-
-**Евангельские церкви в Беларуси — адреса и расписание**
-
-
-#### Borovlyany — Церковь ЕХБ – Боровляны
-- Description: Церковь евангельских христиан-баптистов
-- Address: ул. Интернациональная, 15, Боровляны, Минский район, Беларусь
-- Coordinates: 53.983685, 27.660685
-- Phone: +375 29 104-48-84
-- Email: mikhovichl@gmail.com
-
-- Schedule: Воскресенье 11:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/belarus/borovlyany-ehb/
-
-
-
-
-
-
-**Евангельские церкви в Латвии — адреса и расписание**
-
-
-#### Ogre — Баптистская церковь «Трисвиенибас» – OGRE, LATVIA
-
-- Address: 15 Vidus prospekts, Ogre, Ogres novads LV-5001, Latvijas Republika
-- Coordinates: 56.822024, 24.588194
-- Phone: +371 65021415
-- Email: otbdraudze@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/latvia/ogre-trisvienibas/
-
-
-
-
-#### Kraslava — Библейская церковь Краслава
-- Description: Krāslavas baptistu draudze
-- Address: Rīgas iela 112, LV-5601 Krāslava, Latgale, Latvia
-- Coordinates: 55.935497, 26.542843
-- Phone: +371 297 81183
-- Email: pastorslava@inbox.lv
-
-- Schedule: Воскресенье 14:00 (Воскресное богослужение); Четверг 10:00 (Служение);
-- URL: https://spasenie.eu/churches/europe/latvia/kraslava-biblijna/
-
-
-
-
-#### Olaine — Церковь христиан-баптистов города Олайне
-- Description: Olaines baptistu draudze
-- Address: Zemgales 4a - 1, LV-2114 Olaine, Rīgas rajons, Latvia
-- Coordinates: 56.948036, 24.044116
-- Phone: +371 259 03425
-- Email: golos@inbox.lv
-
-- Schedule: Воскресенье 10:00 (Воскресное богослужение (на русском)); Воскресенье 12:00 (Исследование Библии (на русском));
-- URL: https://spasenie.eu/churches/europe/latvia/olaine-baptist/
-
-
-
-
-
-
-**Евангельские церкви в Португалии — адреса и расписание**
-
-
-#### Lisbon — Евангельская церковь – Луреш, Лиссабон
-- Description: Igreja Evangélica / Евангельская церковь
-- Address: Alameda Salgueiro Maia, 15 A, 2660-329, Santo António de Cavaleiros, Loures, Portugal
-- Coordinates: 38.807932, -9.157569
-
-- Email: veriga28@gmail.com
-
-- Schedule: Воскресенье 10:30 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/portugal/lisbon-lures-evangelical/
-
-
-
-
-#### Albufeira — Славянская евангельская церковь Albufeira
-- Description: Slavic Evangelical Church Albufeira
-- Address: R. Manuel Teixeira Gomes, 8200-291 Albufeira, Portugal
-- Coordinates: 37.102399, -8.226314
-- Phone: +351 960 460 577
-- Email: hlebinator2000@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/portugal/albufeira-slavyanska/
-
-
-
-
-#### Coimbra — Евангельская Церковь Коимбра
-- Description: Evangelical Church Coimbra
-- Address: Av. Emídio Navarro 54, 3000-210 Coimbra, Portugal
-- Coordinates: 40.206424, -8.428587
-- Phone: +351 968 618 107
-
-
-
-- URL: https://spasenie.eu/churches/europe/portugal/coimbra-ehb/
-
-
-
-
-#### Faro — Евангельская баптистская церковь Фару
-- Description: Evangelical Baptist Church Faro
-- Address: Estr. da Sra. da Saúde 8B, 8000-197 Faro, Portugal
-- Coordinates: 37.038925, -7.939825
-- Phone: +351 963 703 798
-
-
-- Schedule: Воскресенье 14:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/europe/portugal/faro-ehb/
-
-
-
-
-#### Lisboa — Посольство Христа Лиссабон
-- Description: Embassy of Christ Lisbon
-- Address: R. Portugal Durão 24, 1600-022 Lisboa, Portugal
-- Coordinates: 38.743344, -9.158395
-- Phone: +351 969 797 077
-
-
-
-- URL: https://spasenie.eu/churches/europe/portugal/lisboa-posolstvo/
-
-
-
-
-#### Porto — Евангельская Баптистская Церковь Порту
-- Description: Igreja Evangélica Baptista Cedofeita
-- Address: R. de Cedofeita 16, 94050-173 Porto, Portugal
-- Coordinates: 41.149051, -8.616267
-- Phone: +351 969 922 170
-- Email: iebaptista.cedofeita@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/portugal/porto-ehb/
-
-
-
-
-#### Queluz — Церква в Келуші
-- Description: Church Queluz
-- Address: R. 9 de Abril 19A, 2745-155 Queluz, Portugal
-- Coordinates: 38.756584, -9.254523
-- Phone: +351 967545198
-- Email: colorlite1919@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/portugal/queluz-ukr/
-
-
-
-
-#### Viseu — Церква в Візеу
-- Description: Church Viseu
-- Address: R. Combatentes da Grande Guerra, Viseu, Portugal
-- Coordinates: 40.656961, -7.912433
-- Phone: +351 911090115
-- Email: colorlite1919@gmail.com
-
-
-- URL: https://spasenie.eu/churches/europe/portugal/viseu-ukr/
-
-
-
-
-
-
 **Евангельские церкви в Австрии — адреса и расписание**
 
 
@@ -1176,6 +96,44 @@ Each church entry contains:
 
 - Schedule: Воскресенье 13:00 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/austria/wien-elim/
+
+
+
+
+
+
+**Евангельские церкви в Азербайджане — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Албании — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Андорре — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Армении — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Беларуси — адреса и расписание**
+
+
+#### Borovlyany — Церковь ЕХБ – Боровляны
+- Description: Церковь евангельских христиан-баптистов
+- Address: ул. Интернациональная, 15, Боровляны, Минский район, Беларусь
+- Coordinates: 53.983685, 27.660685
+- Phone: +375 29 104-48-84
+- Email: mikhovichl@gmail.com
+
+- Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/belarus/borovlyany-ehb/
 
 
 
@@ -1248,6 +206,21 @@ Each church entry contains:
 - URL: https://spasenie.eu/churches/europe/belgium/kortrijk-gorod-istiny/
 
 
+
+
+
+
+**Евангельские церкви в Болгарии — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Боснии и Герцеговине — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Ватикане — адреса и расписание**
 
 
 
@@ -2431,6 +1404,11 @@ Each church entry contains:
 
 
 
+**Евангельские церкви в Исландии — адреса и расписание**
+
+
+
+
 **Евангельские церкви в Испании — адреса и расписание**
 
 
@@ -2618,6 +1596,237 @@ Each church entry contains:
 
 
 
+**Евангельские церкви в Италии — адреса и расписание**
+
+
+#### Brescia - Церковь ЕХБ «Слово Жизни» в Брешия
+- Description: Word of Life Baptist Church in Brescia
+- Address: Via della Volta 44, Brescia, Italy
+- Coordinates: 45.515335, 10.224643
+- Phone: +39 329 295 0548
+
+
+- Schedule: Воскресенье 10:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/brescia-slovo-zhizni/
+
+
+
+
+#### Venezia - Церковь ЕХБ «Слово Жизни» в Венеции
+- Description: Word of Life Baptist Church in Venezia
+- Address: venezia
+- Coordinates: 45.404617, 12.310523
+- Phone: +393271188993
+
+
+
+- URL: https://spasenie.eu/churches/europe/italy/venice-slovo-zhizni/
+
+
+
+
+#### Aversa — Евангельская церковь (ЕХБ) Аверса
+- Description: Evangelical Baptist Church Aversa
+- Address: Via Raffael Musto 117, 81031 Aversa, Italy
+- Coordinates: 40.969957, 14.204987
+- Phone: +39 329 225 3360
+- Email: splisov@gmail.com
+
+- Schedule: Воскресенье 10:00 (Воскресное богослужение); Среда 19:30 (Изучение Библии);
+- URL: https://spasenie.eu/churches/europe/italy/aversa-ehb/
+
+
+
+
+#### Bergamo — Евангельская Церковь «Слово Веры» (ХВЕ) Бергамо
+- Description: Word of Faith Church Bergamo
+- Address: Via Carlo Serassi 6B, 24125 Bergamo, Italy
+- Coordinates: 45.696771, 9.686303
+- Phone: +39 327 222 90 54
+- Email: pastorbergamo@gmail.com
+
+- Schedule: Воскресенье 14:00 (Воскресное богослужение); Среда 19:00 (Служение);
+- URL: https://spasenie.eu/churches/europe/italy/bergamo-slovo-very/
+
+
+
+
+#### Bologna — Евангельская церковь Bologna
+- Description: Evangelical Church Bologna
+- Address: Via del Pallone 4, 40126 Bologna, Italy
+- Coordinates: 44.501227, 11.347546
+- Phone: +39 380 435 2559
+
+
+- Schedule: Воскресенье 14:30 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/bologna-ehb/
+
+
+
+
+#### Firenze — Церковь ЕХБ «Слово жизни» Флоренция
+- Description: Word of Life Baptist Church Florence
+- Address: Via Aleardo Aleardi 13, 50018 Scandicci, Italy
+- Coordinates: 43.754774, 11.188364
+- Phone: +39 320 935 9997
+
+
+- Schedule: Четверг 15:00 (Служение); Воскресенье 15:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/firenze-slovo-zhizni/
+
+
+
+
+#### Genova — Церковь «Преображение» Генуя
+- Description: Transfiguration Church Genova
+- Address: Via Ettore Vernazza 14, 16121 Genova, Italy
+- Coordinates: 44.406986, 8.936937
+- Phone: +39 328 956 9316
+- Email: kiyash.v.m@mail.ru
+
+- Schedule: Воскресенье 13:00 (Воскресное богослужение); Четверг 17:00 (Разбор слова);
+- URL: https://spasenie.eu/churches/europe/italy/genova-preobrazhenie/
+
+
+
+
+#### Milano — Евангельская церковь (ЕХБ) «Слово жизни» Милан
+- Description: Word of Life Baptist Church Milan
+- Address: Via Monte Nero 1C, 20098 San Giuliano Milanese (Milan), Italy
+- Coordinates: 45.394994, 9.294058
+- Phone: +39 327 118 8993
+
+
+- Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/milano-slovo-zhizni/
+
+
+
+
+#### Napoli — Евангельская баптистская церковь «Слово Жизни» (ЕХБ) в Неаполе
+- Description: Word of Life Baptist Church Naples
+- Address: Via Foria 93, 80137 Napoli, Italy
+- Coordinates: 40.856584, 14.258352
+- Phone: +39 388 588 6711
+
+
+- Schedule: Четверг 17:00 (Служение); Воскресенье 15:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/napoli-slovo-zhizni/
+
+
+
+
+#### Perugia — Евангельская церковь «Благодать Христова» Перуджа
+- Description: Grace of Christ Church Perugia
+- Address: Via Cino da Pistoia 46, 06126 Perugia, Italy
+- Coordinates: 43.096233, 12.387685
+- Phone: +39 329 181 2707
+- Email: proshakroman@live.it
+
+- Schedule: Воскресенье 15:00 (Воскресное богослужение); Суббота 15:30 (Разбор слова);
+- URL: https://spasenie.eu/churches/europe/italy/perugia-blagodat/
+
+
+
+
+#### Piacenza — Домашняя група Piacenza
+- Description: Home Group Piacenza
+- Address: Piacenza, Italy
+- Coordinates: 44.847635, 9.666531
+- Phone: +39 339 331 3946
+
+
+- Schedule: Пятница 18:30 (Группа);
+- URL: https://spasenie.eu/churches/europe/italy/piacenza-gruppa/
+
+
+
+
+#### Rimini — Баптистская церковь «Слово Жизни» (ЕХБ) Римини
+- Description: Word of Life Baptist Church Rimini
+- Address: Via dei Forzieri 45, 47922 Rimini, Italy
+- Coordinates: 44.065212, 12.564332
+- Phone: +39 351 518 5695
+- Email: viorel11470@gmail.com
+
+- Schedule: Воскресенье 15:30 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/rimini-slovo-zhizni/
+
+
+
+
+#### Roma — Евангельская церковь «Слово Жизни» (ЕХБ) в Риме
+- Description: Word of Life Baptist Church Rome
+- Address: Via del Teatro Valle 27, 00186 Roma, Italy
+- Coordinates: 41.897623, 12.475085
+- Phone: +39 370 720 8510
+
+- Website: https://www.slavicebc.org/ru/
+- Schedule: Четверг 17:00 (Служение); Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/italy/roma-slovo-zhizni/
+
+
+
+
+#### Sanremo — Церковь ЕХБ «Слово Жизни» в Сан Ремо
+- Description: Word of Life Baptist Church San Remo
+- Address: Via Roma 14, 18038 San Remo, Italy
+- Coordinates: 43.816533, 7.777347
+- Phone: +39 346 390 6640
+- Email: battistasanremo@gmail.com
+
+- Schedule: Воскресенье 11:00 (Воскресное богослужение); Вторник 20:00 (Библейский урок); Среда 20:00 (Молитвенное); Суббота 12:00 (Детская школа «Премудрости»);
+- URL: https://spasenie.eu/churches/europe/italy/sanremo-slovo-zhizni/
+
+
+
+
+
+
+**Евангельские церкви в Латвии — адреса и расписание**
+
+
+#### Ogre — Баптистская церковь «Трисвиенибас» – OGRE, LATVIA
+
+- Address: 15 Vidus prospekts, Ogre, Ogres novads LV-5001, Latvijas Republika
+- Coordinates: 56.822024, 24.588194
+- Phone: +371 65021415
+- Email: otbdraudze@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/latvia/ogre-trisvienibas/
+
+
+
+
+#### Kraslava — Библейская церковь Краслава
+- Description: Krāslavas baptistu draudze
+- Address: Rīgas iela 112, LV-5601 Krāslava, Latgale, Latvia
+- Coordinates: 55.935497, 26.542843
+- Phone: +371 297 81183
+- Email: pastorslava@inbox.lv
+
+- Schedule: Воскресенье 14:00 (Воскресное богослужение); Четверг 10:00 (Служение);
+- URL: https://spasenie.eu/churches/europe/latvia/kraslava-biblijna/
+
+
+
+
+#### Olaine — Церковь христиан-баптистов города Олайне
+- Description: Olaines baptistu draudze
+- Address: Zemgales 4a - 1, LV-2114 Olaine, Rīgas rajons, Latvia
+- Coordinates: 56.948036, 24.044116
+- Phone: +371 259 03425
+- Email: golos@inbox.lv
+
+- Schedule: Воскресенье 10:00 (Воскресное богослужение (на русском)); Воскресенье 12:00 (Исследование Библии (на русском));
+- URL: https://spasenie.eu/churches/europe/latvia/olaine-baptist/
+
+
+
+
+
+
 **Евангельские церкви в Литве — адреса и расписание**
 
 
@@ -2723,6 +1932,26 @@ Each church entry contains:
 - URL: https://spasenie.eu/churches/europe/lithuania/ylakiai-ehb/
 
 
+
+
+
+
+**Евангельские церкви в Лихтенштейне — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Люксембурге — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Молдове — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Монако — адреса и расписание**
 
 
 
@@ -2854,6 +2083,515 @@ Each church entry contains:
 
 
 
+**Евангельские церкви в Польше — адреса и расписание**
+
+
+#### Krakow - Евангельская церковь Свет Евангелия в Кракове – Краков
+- Description: Light of the Gospel Evangelical Church
+- Address: Stanisława Wyspiańskiego 4, Kraków, Poland
+- Coordinates: 50.072211, 19.924801
+- Phone: +48 500 710 182
+- Email: gospel.light.kr@gmail.com
+
+- Schedule: Воскресенье 14:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/krakow-light-gospel/
+
+
+
+
+#### Wroclaw - Церковь христиан баптистов Слово Христа во Вроцлаве – Вроцлав
+- Description: Word of Christ baptist church in Wroclaw
+- Address: Metalowcow 25, Wroclaw, Poland
+- Coordinates: 51.127997, 16.953464
+- Phone: +48 699 862 727
+- Email: contact@slovochrista.pl
+- Website: https://slovochrista.pl/
+- Schedule: Воскресенье 12:00 (Богослужение); Суббота 18:00 (Молодежка); Четверг Время в телеграм (Домашнаяя группа);
+- URL: https://spasenie.eu/churches/europe/poland/wroclaw-slovochrista/
+
+
+
+
+#### Bydgoszcz — Христианская церковь в Быдгощи
+- Description: Christian Church Bydgoszcz
+- Address: ul. Unii Lubelskiej 8, Bydgoszcz, Poland
+- Coordinates: 53.133734, 17.994264
+- Phone: +48 516 721 112
+- Email: glavnikk@gmail.com
+
+- Schedule: Воскресенье 13:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/bydgoszcz-ehb/
+
+
+
+
+#### Chociwel — Церква в Хоцівелі
+- Description: Ukrainian Church Chociwel
+
+- Coordinates: 53.4667, 15.3167
+- Phone: +48 725365809
+- Email: suleymanov.aleksey77@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/chociwel-ukr/
+
+
+
+
+#### Chrzanow — Церква в Хшануві
+- Description: Ukrainian Church Chrzanów
+
+- Coordinates: 50.1356, 19.4025
+- Phone: +48 786485343
+
+
+
+- URL: https://spasenie.eu/churches/europe/poland/chrzanow-ukr/
+
+
+
+
+#### Gdansk — Церковь «Благодать» в Гданьске (ЕХБ)
+- Description: Grace Church Gdańsk
+- Address: Jana Kilińskiego 4, 80-266 Gdańsk, Poland
+- Coordinates: 54.382831, 18.605218
+- Phone: +48 883 039 708
+- Email: alex.kostiuk79@gmail.com
+- Website: https://grace-church.pl
+- Schedule: Воскресенье 15:00 (Воскресное богослужение); Четверг 19:00 (Малая группа); Суббота 19:00 (Молодёжное служение);
+- URL: https://spasenie.eu/churches/europe/poland/gdansk-blagodat/
+
+
+
+
+#### Gdansk — Четвёртая баптистская церковь Гданьска
+- Description: Fourth Baptist Church Gdańsk
+- Address: ul. Dąbrowskiego 11, 80-153 Gdańsk, Poland
+- Coordinates: 54.35418, 18.633788
+- Phone: +48 570 253 151
+
+
+- Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/gdansk-chetvertaya/
+
+
+
+
+#### Gdynia — Церковь «Причал» ЕХБ в Гдыне
+- Description: Pier Baptist Church Gdynia
+- Address: Ul. Oficerska 15, Gdynia, Poland
+- Coordinates: 54.476134, 18.541712
+- Phone: +48 575 077 680
+- Email: kozubovsky.uets@gmail.com
+
+- Schedule: Воскресенье 16:00 (Недільні богослужіння);
+- URL: https://spasenie.eu/churches/europe/poland/gdynia-prichal/
+
+
+
+
+#### Gorzow — Вторая Баптистская Церковь в Гожуве-Велькопольском
+- Description: Drugi Zbór Kościoła Chrześcijan Baptystów w Gorzowie Wielkopolskim
+- Address: Kosynierów Gdyńskich 64, Gorzów Wielkopolski, Poland
+- Coordinates: 52.739842, 15.228507
+- Phone: +48 579 113 995
+
+
+- Schedule: Воскресенье 13:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/gorzow-vtoraya/
+
+
+
+
+#### Katowice — Церква в Катовіце (Давидюк)
+- Description: Ukrainian Church Katowice
+
+- Coordinates: 50.2649, 19.0238
+- Phone: +380 967478948
+- Email: Yu.Davidyuk@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/katowice-davidyuk/
+
+
+
+
+#### Katowice — Церква в Катовіце (Куценко)
+- Description: Ukrainian Church Katowice
+
+- Coordinates: 50.2649, 19.0238
+- Phone: +48 799984586
+- Email: taras.kutsenko@hotmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/katowice-kutsenko/
+
+
+
+
+#### Klodzko — Церква в Клодзко
+- Description: Ukrainian Church Kłodzko
+
+- Coordinates: 50.4352, 16.6598
+- Phone: +420 776509727
+
+
+
+- URL: https://spasenie.eu/churches/europe/poland/klodzko-ukr/
+
+
+
+
+#### Krakow — Biblijny Zbór KChB в Кракові
+- Description: Bible Church Kraków
+- Address: Biezanowska 23 E, 30-812 Kraków, Poland
+- Coordinates: 50.02565, 19.985024
+- Phone: +48 787 760 020
+- Email: biblijnyzbor5@op.pl
+
+
+- URL: https://spasenie.eu/churches/europe/poland/krakow-biblijna/
+
+
+
+
+#### Lodz — Церква в Лодзі
+- Description: Ukrainian Church Łódź
+- Address: Navrot 27, Łódź, Poland
+- Coordinates: 51.768732, 19.456991
+- Phone: +380 536071432
+- Email: bogunbogdan579@gmail.com
+
+- Schedule: Неділя 14:00-16:00 (Богослужіння);
+- URL: https://spasenie.eu/churches/europe/poland/lodz-ukr/
+
+
+
+
+#### Lublin — Баптистська церква в Любліні
+- Description: Baptist Church Lublin
+
+- Coordinates: 51.2465, 22.5684
+- Phone: +48 665 074 583
+- Email: baptysci.lublin@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/lublin-baptist/
+
+
+
+
+#### Olawa — Церква в Олаві
+- Description: Ukrainian Church Oława
+- Address: Oławska 46, 55-220 Jelcz-Laskowice, Poland
+- Coordinates: 51.030915, 17.337131
+- Phone: +48 729365582
+- Email: machalex@ukr.net
+
+
+- URL: https://spasenie.eu/churches/europe/poland/olawa-ukr/
+
+
+
+
+#### Poznan — Українська Біблійна Церква в Познані
+- Description: Ukrainian Bible Church Poznań
+- Address: Osiedle Polan 100, 61-253 Poznań, Poland
+- Coordinates: 52.383783, 16.960103
+- Phone: +48 694 013 519
+- Email: bidaoleg1982@gmail.com
+
+- Schedule: Неділя 14:00 (Недільне богослужіння);
+- URL: https://spasenie.eu/churches/europe/poland/poznan-biblijna/
+
+
+
+
+#### Radzyn — Церква в Радині
+- Description: Ukrainian Church Radzyń
+
+- Coordinates: 51.7833, 22.6167
+- Phone: +380 977417299
+- Email: volodia.tkachuk@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/radzyn-ukr/
+
+
+
+
+#### Szczecin — Церковь ЕХБ «Новая жизнь» г. Щецин
+- Description: New Life Baptist Church Szczecin
+- Address: Wita Stwosza 1A, 71-173 Szczecin, Poland
+- Coordinates: 53.436414, 14.505831
+- Phone: +48 516 834 860
+
+
+- Schedule: Воскресенье 15:00 (Воскресное богослужение); Среда 19:00 (Молитвенное служение);
+- URL: https://spasenie.eu/churches/europe/poland/szczecin-novaya-zhizn/
+
+
+
+
+#### Tomaszow — Церква в Томашуві-Мазовецькому
+- Description: Ukrainian Church Tomaszów Mazowiecki
+
+- Coordinates: 51.5308, 20.0083
+- Phone: +47 88427959
+- Email: matseyka@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/tomaszow-mazowiecki-ukr/
+
+
+
+
+#### Warszawa — Баптистская церковь «Божья благодать» Варшава
+- Description: God's Grace Baptist Church Warsaw
+- Address: Stanisławowska 14, 03-832 Warszawa, Poland
+- Coordinates: 52.250627, 21.069275
+- Phone: +48 886 320 979
+- Email: illin.slw@gmail.com
+
+- Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/warszawa-bozhya-blagodat/
+
+
+
+
+#### Warszawa — Библейская церковь в Варшаве
+- Description: Bible Church Warsaw
+- Address: Grzybowska 32, 00-863 Warszawa, Poland
+- Coordinates: 52.235936, 20.994868
+
+- Email: baptistpl.info@gmail.com
+- Website: https://www.baptist.pl/
+- Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/warszawa-biblijna/
+
+
+
+
+#### Warszawa — Христианская Церковь «Спасение» в Варшаве
+- Description: Salvation Church Warsaw / Kościół Chrześcijan Baptystów w RP
+- Address: ul. Mińska 48, 03-193 Warszawa, Poland
+- Coordinates: 52.249323, 21.06505
+- Phone: +48 794 309 158
+- Email: spasenie.wawa@gmail.com
+- Website: https://spasenie.pl/
+- Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/poland/warszawa-spasenie/
+
+
+
+
+#### Warszawa — Христианская церковь (ХВЕП) в Варшаве «Дом Божий»
+- Description: House of God Pentecostal Church Warsaw
+- Address: ул. Клопотовскего 11, Варшава, Poland
+- Coordinates: 52.233374, 21.071149
+- Phone: +48 575 701 718
+- Email: viktor11-75@mail.ru
+
+- Schedule: Воскресенье 14:00 (Воскресное служение); Суббота 18:00 (Молодежное служение); Среда 19:00 (Молитвенное собрание);
+- URL: https://spasenie.eu/churches/europe/poland/warszawa-dom-bozhiy/
+
+
+
+
+#### Warszawa — Церква Логос в Варшаві
+- Description: Logos Church Warsaw
+- Address: ul.Goździków 29/31, 04-231 Warszawa, Poland
+- Coordinates: 52.238589, 21.1372
+- Phone: +48 577773391
+- Email: logoswarszawa010418@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/warszawa-logos/
+
+
+
+
+#### Wroclaw — Церква у Вроцлаві (Харибін)
+- Description: Ukrainian Church Wrocław
+
+- Coordinates: 51.1079, 17.0385
+- Phone: +380 956807047
+- Email: dimaharibin@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/poland/wroclaw-haribin/
+
+
+
+
+
+
+**Евангельские церкви в Португалии — адреса и расписание**
+
+
+#### Lisbon — Евангельская церковь – Луреш, Лиссабон
+- Description: Igreja Evangélica / Евангельская церковь
+- Address: Alameda Salgueiro Maia, 15 A, 2660-329, Santo António de Cavaleiros, Loures, Portugal
+- Coordinates: 38.807932, -9.157569
+
+- Email: veriga28@gmail.com
+
+- Schedule: Воскресенье 10:30 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/portugal/lisbon-lures-evangelical/
+
+
+
+
+#### Albufeira — Славянская евангельская церковь Albufeira
+- Description: Slavic Evangelical Church Albufeira
+- Address: R. Manuel Teixeira Gomes, 8200-291 Albufeira, Portugal
+- Coordinates: 37.102399, -8.226314
+- Phone: +351 960 460 577
+- Email: hlebinator2000@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/portugal/albufeira-slavyanska/
+
+
+
+
+#### Coimbra — Евангельская Церковь Коимбра
+- Description: Evangelical Church Coimbra
+- Address: Av. Emídio Navarro 54, 3000-210 Coimbra, Portugal
+- Coordinates: 40.206424, -8.428587
+- Phone: +351 968 618 107
+
+
+
+- URL: https://spasenie.eu/churches/europe/portugal/coimbra-ehb/
+
+
+
+
+#### Faro — Евангельская баптистская церковь Фару
+- Description: Evangelical Baptist Church Faro
+- Address: Estr. da Sra. da Saúde 8B, 8000-197 Faro, Portugal
+- Coordinates: 37.038925, -7.939825
+- Phone: +351 963 703 798
+
+
+- Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/portugal/faro-ehb/
+
+
+
+
+#### Lisboa — Посольство Христа Лиссабон
+- Description: Embassy of Christ Lisbon
+- Address: R. Portugal Durão 24, 1600-022 Lisboa, Portugal
+- Coordinates: 38.743344, -9.158395
+- Phone: +351 969 797 077
+
+
+
+- URL: https://spasenie.eu/churches/europe/portugal/lisboa-posolstvo/
+
+
+
+
+#### Porto — Евангельская Баптистская Церковь Порту
+- Description: Igreja Evangélica Baptista Cedofeita
+- Address: R. de Cedofeita 16, 94050-173 Porto, Portugal
+- Coordinates: 41.149051, -8.616267
+- Phone: +351 969 922 170
+- Email: iebaptista.cedofeita@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/portugal/porto-ehb/
+
+
+
+
+#### Queluz — Церква в Келуші
+- Description: Church Queluz
+- Address: R. 9 de Abril 19A, 2745-155 Queluz, Portugal
+- Coordinates: 38.756584, -9.254523
+- Phone: +351 967545198
+- Email: colorlite1919@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/portugal/queluz-ukr/
+
+
+
+
+#### Viseu — Церква в Візеу
+- Description: Church Viseu
+- Address: R. Combatentes da Grande Guerra, Viseu, Portugal
+- Coordinates: 40.656961, -7.912433
+- Phone: +351 911090115
+- Email: colorlite1919@gmail.com
+
+
+- URL: https://spasenie.eu/churches/europe/portugal/viseu-ukr/
+
+
+
+
+
+
+**Евангельские церкви в России — адреса и расписание**
+
+
+#### Rybinsk — Церковь ЕХБ Дом молитвы - Рыбинск – Рыбинск
+- Description: Baptist Church House of Prayer in Rybinsk, Russia
+- Address: Россия, Рыбинск, улица Ломоносова 15А
+- Coordinates: 58.047384, 38.849515
+- Phone: +79092798454
+- Email: kravtsov1003@gmail.com
+
+- Schedule: Воскресенье 10:00 (Богослужение); Четверг 18:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/russia/rybinsk-baptist/
+
+
+
+
+#### Moscow — Церковь ЕХБ Свобода - Москва
+- Description: Baptist church Freedom in Moscow
+- Address: Москва, Россия
+- Coordinates: 55.625578, 37.606392
+- Phone: +7 916 175 1163
+- Email: vitaliyzanin@gmail.com
+- Website: https://church.moscow/
+
+- URL: https://spasenie.eu/churches/europe/russia/moscow-freedom/
+
+
+
+
+#### Dzerzhinskiy — Церковь «Новый Завет» – Дзержинский
+- Description: Церковь Христиан Веры Евангельской (ХВЕ)
+- Address: ул. Зелёная 8а, г. Дзержинский, Московская область, Россия
+- Coordinates: 55.504316, 38.035393
+
+
+
+- Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/russia/dzerzhinskiy-novyy-zavet/
+
+
+
+
+#### Moscow — Церковь большого города – Москва
+- Description: Церковь Христиан Веры Евангельской (ХВЕ)
+- Address: ул. 1-я Хуторская 5а, м. Дмитровская, Москва, Россия
+- Coordinates: 55.625578, 37.606392
+
+
+
+- Schedule: Суббота 18:00 (Субботнее богослужение (CMCHURCH)); Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/russia/moscow-bolshoy-gorod/
+
+
+
+
+
+
 **Евангельские церкви в Румынии — адреса и расписание**
 
 
@@ -2868,6 +2606,21 @@ Each church entry contains:
 - URL: https://spasenie.eu/churches/europe/romania/danes-ukr/
 
 
+
+
+
+
+**Евангельские церкви в Сан-Марино — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Северной Македонии — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Сербии — адреса и расписание**
 
 
 
@@ -2910,6 +2663,29 @@ Each church entry contains:
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
 - URL: https://spasenie.eu/churches/europe/slovakia/bratislava-hve/
+
+
+
+
+
+
+**Евангельские церкви в Словении — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Украине — адреса и расписание**
+
+
+#### Odesa — Церква Євангельських християн Любов Христа – Одесса
+- Description: Ebangelical Christian Church Love of Christ in Odessa
+- Address: Ukraine, Odesa, Stepova 23/25
+- Coordinates: 46.462097, 30.713911
+
+- Email: dev@lc.org.ua
+- Website: lc.org.ua
+- Schedule: Неділя 11:00 (Богослужение); Понеділок 18:00 (для братів); Середа 18:00 (Богослужение); П'ятниця 18:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/ukraine/odesa-love-christ/
 
 
 
@@ -2986,6 +2762,11 @@ Each church entry contains:
 
 
 
+**Евангельские церкви в Хорватии — адреса и расписание**
+
+
+
+
 **Евангельские церкви в Черногории — адреса и расписание**
 
 
@@ -3052,6 +2833,320 @@ Each church entry contains:
 - URL: https://spasenie.eu/churches/europe/montenegro/budva-hve/
 
 
+
+
+
+
+**Евангельские церкви в Чехии — адреса и расписание**
+
+
+#### Dolni — Церковь ЕХБ – Dolní Dvůr
+- Description: Baptist church in Dolni Dvur
+- Address: Dolní dvůr 78, 543 42, Czechia
+- Coordinates: 50.65249, 15.655276
+- Phone: +420 776 789 119
+
+
+- Schedule: Воскресенье 9:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/dolni-dvur-baptist/
+
+
+
+
+#### Mlada — Церковь ЕХБ Виноградная Лоза – Млада-Болеслав
+- Description: Stanice sboru Vinný Kmen Mladá Boleslav
+- Address: Dukelská 1443/31, Mladá Boleslav, Czechia
+- Coordinates: 50.414345, 14.915934
+- Phone: +420 730 585 743
+
+
+- Schedule: Воскресенье 13:30 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/mlada-boleslav-vloza/
+
+
+
+
+#### Plzen — Церковь Евангельских Христиан Баптистов – Пльзень
+- Description: Baptist Church in Pilsen
+- Address: Sladkovského 28, Plzeň, Czechia
+- Coordinates: 49.738559, 13.390586
+- Phone: +420 725 848 888
+
+- Website: https://www.sobranieplzen.cz/
+- Schedule: Воскресенье 10:00 (Богослужение); Воскресенье 9:00 (Молитвенная группа); Вторник 19:00 (Молодежное служение); Пятница 19:00 (Разбор Библии);
+- URL: https://spasenie.eu/churches/europe/czech-republic/plzen-baptist/
+
+
+
+
+#### Cheb — Христианская церковь ЕХБ Джерело життя – Хеб
+- Description: Křesťanský sbor baptistů Pramen života v Cheb
+- Address: Libušina 328/4, Cheb, Czechia
+- Coordinates: 50.075942, 12.365945
+- Phone: +420 721 879 245
+
+
+- Schedule: Воскресенье 10:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/cheb-pramen/
+
+
+
+
+#### Kolin — Группа Евангельских Христиан Баптистов – Колин
+- Description: Baptist group at Kolin
+- Address: Královská cesta 226, 280 02 Kolín IV, Czechia
+- Coordinates: 50.019838, 15.21074
+- Phone: +420 774 074 796
+
+
+- Schedule: Четверг 19:00 (Изучение Библии);
+- URL: https://spasenie.eu/churches/europe/czech-republic/kolin-baptist/
+
+
+
+
+#### Prague — Украинская Библейская Церковь – Прага
+- Description: Ukrainian Bible Church in Prague
+- Address: Korunovační 103/6, Praha 7, Czechia
+- Coordinates: 50.100381, 14.420547
+- Phone: +420 736 693 501
+- Email: meleshko.a@gmail.com
+
+- Schedule: Воскресенье 13:00 (Богослужение на украинском);
+- URL: https://spasenie.eu/churches/europe/czech-republic/prague-ubc/
+
+
+
+
+#### Prague — Церковь Евангельских Христиан Баптистов (МСЦ) – Прага
+- Description: Baptist Church in Prague (MSC)
+- Address: U pošty 1098/6, Praha 8, Czechia
+- Coordinates: 50.102487, 14.47741
+- Phone: +420 771 241 711
+
+
+- Schedule: Воскресенье 13:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/prague-msc/
+
+
+
+
+#### Prague — Церковь Евангельских Христиан Баптистов (Фриденштимме) – Прага
+- Description: Baptist Church in Prague (Friedensstimme)
+- Address: Žateckých 1169/11, Praha, Czechia
+- Coordinates: 50.061234, 14.434766
+- Phone: +420 775 213 159
+
+- Website: https://www.baptist-praha.info
+- Schedule: Воскресенье 12:00 (Богослужение); Воскресенье 13:00 (Детские часы); Пятница 19:00 (Молитвенное собрание и библейский час); Суббота 19:00 (Молодежное общение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/prague-baptist-fs/
+
+
+
+
+#### Brno — Дочерняя церковь «Виноградная лоза» (ЕХБ) Брно
+- Description: Vinný Kmen Brno
+- Address: Dominikánská 264/2, 602 00 Brno-střed, Czech Republic
+- Coordinates: 49.1933, 16.6083
+- Phone: +420 737 371 141
+- Email: Demkovskyigor@gmail.com
+
+- Schedule: Воскресенье 11:00 (Воскресное богослужение); Воскресенье 17:00 (Молодежное служение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/brno-vloza/
+
+
+
+
+#### Brno — Церковь Евангельских христиан (ЕХБ) Скала - Брно
+- Description: Sbor Bratrské jednoty baptistů v Brně - Scála
+- Address: Smetanova 20, 602 00 Brno, Czech Republic
+- Coordinates: 49.202969, 16.605148
+- Phone: +420 734 682 371
+- Email: skala.church.brno@gmail.com
+- Website: https://www.skalachurchbrno.cz
+- Schedule: Воскресенье 12:30 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/brno-ehb/
+
+
+
+
+#### Ceske — Церковь ЕХБ «Спасение» Ческе-Будеевице
+- Description: Salvation Baptist Church České Budějovice
+- Address: Fráni Šrámka 1353/34, 370 01 České Budějovice, Czech Republic
+- Coordinates: 48.981636, 14.4786
+- Phone: +420 775 913 803
+- Email: agavrilov.cb@gmail.com
+
+- Schedule: Воскресенье 10:00 (Воскресное богослужение); Пятница 17:00 (Изучение Писания);
+- URL: https://spasenie.eu/churches/europe/czech-republic/ceske-budejovice-spasenie/
+
+
+
+
+#### Karlovy — Международная евангельская церковь «Источник» (ЕХБ) Карловы Вары
+- Description: Source International Evangelical Church Karlovy Vary
+- Address: Závodu míru 42/112, 360 17 Karlovy Vary 17-Stará Role, Czech Republic
+- Coordinates: 50.2333, 12.8667
+- Phone: +420 731 618 116
+
+
+- Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/karlovy-vary-istochnik/
+
+
+
+
+#### Liberec — Церква «Нове Життя» Ліберець
+- Description: New Life Church Liberec
+- Address: Puchmajerova 359/4, 460 01 Liberec, Czech Republic
+- Coordinates: 50.769623, 15.04791
+- Phone: +420 731 177 801
+- Email: olekshanna@gmail.com
+
+- Schedule: Воскресенье 16:00 (Недільне богослужіння);
+- URL: https://spasenie.eu/churches/europe/czech-republic/liberec-nove-zhyttia/
+
+
+
+
+#### Pardubice — Евангельская церковь (ЕХБ) Пардубице
+- Description: Evangelical Baptist Church Pardubice
+- Address: Sladkovského 521, 530 02 Pardubice, Czech Republic
+- Coordinates: 50.033271, 15.774483
+- Phone: +420 776 549 721
+
+
+- Schedule: Воскресенье 13:00 (Воскресное богослужение); Четверг 19:00 (Изучение Писания);
+- URL: https://spasenie.eu/churches/europe/czech-republic/pardubice-ehb/
+
+
+
+
+#### Plzen — Международная Евангельская Церковь «Agape» (ЕХБ) Плзень
+- Description: International Evangelical Church Agape Plzeň
+- Address: Husova 314/1, 301 00 Plzeň 3-Jižní Předměstí, Czech Republic
+- Coordinates: 49.745066, 13.372096
+- Phone: +420 776 360 117
+- Email: preacherlev@mail.ru
+
+- Schedule: Воскресенье 16:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/plzen-agape/
+
+
+
+
+#### Praha — Перша Церква ЄХБ в Празі
+- Description: 1st Baptist Church Prague
+- Address: Soukenická 15, 110 00 Praha, Czech Republic
+- Coordinates: 50.091219, 14.43004
+- Phone: +420 773 784 691
+- Email: rusnakov@seznam.cz
+- Website: https://www.sobraniepraha.cz
+- Schedule: Воскресенье 13:00 (Воскресное богослужение); Понедельник 19:00 (Молодежное общение); Среда 19:00 (Изучение Библии); Пятница 19:00 (Хоровая спевка); Суббота 19:00 (Молитвенная группа);
+- URL: https://spasenie.eu/churches/europe/czech-republic/praha-ehb-soukenicka/
+
+
+
+
+#### Praha — Церковь «XXI век» (ЕХБ) в Праге
+- Description: Sbor Bratrské jednoty baptistů v Praze církev XXI Století
+- Address: Holýšovská 4, Praha 13, 155 00, Czech Republic
+- Coordinates: 50.041115, 14.319854
+- Phone: +420 774 117 031
+- Email: eleos4u@gmail.com
+- Website: https://www.xxi.cz
+- Schedule: Воскресенье 10:00 (Воскресное богослужение на русском);
+- URL: https://spasenie.eu/churches/europe/czech-republic/praha-xxi-vek/
+
+
+
+
+#### Slany — Евангельская церковь (ЕХБ) в Сланах
+- Description: Evangelical Baptist Church Slaný
+- Address: Vepřkova 1087/14, 274 01 Slaný 1, Czech Republic
+- Coordinates: 50.2333, 14.0833
+- Phone: +420 774 117 031
+
+
+- Schedule: Воскресенье 16:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/slany-ehb/
+
+
+
+
+#### Vsetin — Евангельская Украинская Церковь «Маяк» Всетин
+- Description: Lighthouse Evangelical Ukrainian Church Vsetín
+- Address: Havlíčkova 1627, 755 01 Vsetín 1, Czech Republic
+- Coordinates: 49.3333, 17.9833
+- Phone: +420 605 237 824
+
+
+- Schedule: Воскресенье 16:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/vsetin-mayak/
+
+
+
+
+#### Zatec — Христианская церковь в городе Žatec
+- Description: Christian Church Žatec - Station of BJB XXI Století
+- Address: Lva Tolstého 1249, Žatec, Czech Republic
+- Coordinates: 50.320572, 13.548099
+- Phone: +420 734 640 052
+- Email: m.gricyk1@gmail.com
+
+- Schedule: Воскресенье 16:00 (Воскресное богослужение); Среда 17:00 (Изучение Библии);
+- URL: https://spasenie.eu/churches/europe/czech-republic/zatec-ehb/
+
+
+
+
+#### Zlin — Баптисты г. Злин (домашняя группа)
+- Description: Baptist Home Group Zlín
+- Address: SNP 1180, 76502 Otrokovice, Zlínský kraj, Czech Republic
+- Coordinates: 49.201953, 17.544767
+- Phone: +420 603 276 705
+- Email: ewens_den@mail.ru
+
+- Schedule: Воскресенье 17:30 (Группа);
+- URL: https://spasenie.eu/churches/europe/czech-republic/zlin-gruppa/
+
+
+
+
+#### Kladno — Церковь Евангельских христиан баптистов в Кладно
+- Description: Sbor Bratrské jednoty baptistů v Kladně
+- Address: Osvoboz.pol.věznů 341, Kladno 27201, Чехия
+- Coordinates: 50.145081, 14.099776
+- Phone: +420 602 171 613
+- Email: info@sborkladno.cz
+- Website: https://sborkladno.cz
+- Schedule: Воскресенье 11:00 (Воскресное богослужение); Четверг 18:00 (Изучение Библии и молитва); Суббота 17:00 (Молодежное служение);
+- URL: https://spasenie.eu/churches/europe/czech-republic/kladno/
+
+
+
+
+#### Prague — Церковь «Виноградная Лоза» в Праге
+- Description: Sbor Bratrské jednoty baptistů v Praze — Vinný Kmen
+- Address: Peroutkova 2482/57, Praha 5 - Smíchov, 150 00, Чехия
+- Coordinates: 50.062203, 14.384085
+- Phone: +420 776 866 385
+- Email: ggracengv@gmail.com
+- Website: https://vloza.eu
+- Schedule: Воскресенье 16:00 (Воскресное богослужение); Понедельник 19:30 (Общая молитва); Воскресенье 14:30 (Подготовка к крещению);
+- URL: https://spasenie.eu/churches/europe/czech-republic/prague-vloza/
+
+
+
+
+
+
+**Евангельские церкви в Швейцарии — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Швеции — адреса и расписание**
 
 
 
@@ -3274,101 +3369,6 @@ Each church entry contains:
 
 
 
-**Евангельские церкви в Азербайджане — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Албании — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Андорре — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Армении — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Болгарии — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Боснии и Герцеговине — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Ватикане — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Исландии — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Лихтенштейне — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Люксембурге — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Молдове — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Монако — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Сан-Марино — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Северной Македонии — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Сербии — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Словении — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Хорватии — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Швейцарии — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Швеции — адреса и расписание**
-
-
-
-
 **Евангельские церкви на Кипре — адреса и расписание**
 
 
@@ -3381,24 +3381,6 @@ Each church entry contains:
 
 
 ### ASIA
-
-
-
-
-**Евангельские церкви в Турции — адреса и расписание**
-
-
-#### Mersin — Христианская Церковь в Турции, Мерсин
-- Description: Christian Church Mersin Turkey
-- Address: Deniz, 49268. Sk. NO: 11A, Mavi event organizasyon, 33000 Mezitli, Mersin, Turkey
-- Coordinates: 36.797838, 34.629839
-- Phone: +90 506 248 19 26
-
-
-- Schedule: Воскресенье 11:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/asia/turkey/mersin-hristianskaya/
-
-
 
 
 
@@ -3579,6 +3561,24 @@ Each church entry contains:
 
 
 **Евангельские церкви в Туркменистане — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Турции — адреса и расписание**
+
+
+#### Mersin — Христианская Церковь в Турции, Мерсин
+- Description: Christian Church Mersin Turkey
+- Address: Deniz, 49268. Sk. NO: 11A, Mavi event organizasyon, 33000 Mezitli, Mersin, Turkey
+- Coordinates: 36.797838, 34.629839
+- Phone: +90 506 248 19 26
+
+
+- Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/asia/turkey/mersin-hristianskaya/
+
+
 
 
 
@@ -3900,6 +3900,36 @@ Each church entry contains:
 
 
 
+**Евангельские церкви в Антигуа и Барбуде — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Белизе — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Гватемале — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Гондурасе — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Гренаде — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Доминиканской Республике — адреса и расписание**
+
+
+
+
 **Евангельские церкви в Канаде — адреса и расписание**
 
 
@@ -3966,6 +3996,36 @@ Each church entry contains:
 - URL: https://spasenie.eu/churches/north-america/canada/edmonton-istochnik-zhizni/
 
 
+
+
+
+
+**Евангельские церкви в Коста-Рике — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Мексике — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Никарагуа — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Панаме — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Сальвадоре — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Сент-Винсенте и Гренадинах — адреса и расписание**
 
 
 
@@ -5860,66 +5920,6 @@ Each church entry contains:
 
 
 
-**Евангельские церкви в Антигуа и Барбуде — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Белизе — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Гватемале — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Гондурасе — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Гренаде — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Доминиканской Республике — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Коста-Рике — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Мексике — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Никарагуа — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Панаме — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Сальвадоре — адреса и расписание**
-
-
-
-
-**Евангельские церкви в Сент-Винсенте и Гренадинах — адреса и расписание**
-
-
-
-
 **Евангельские церкви в Тринидаде и Тобаго — адреса и расписание**
 
 
@@ -6120,24 +6120,6 @@ Each church entry contains:
 
 
 
-**Евангельские церкви в Новой Зеландии — адреса и расписание**
-
-
-#### Auckland — Церковь «Свет» Окленд
-- Description: Auckland Slavic Baptist Church Svet / Славянская Баптистская Церковь
-- Address: 96 Kupe Street, Orakei, Auckland
-- Coordinates: -36.856911, 174.823493
-- Phone: +64 21 146 4498
-
-- Website: https://rusbaptist.nz
-- Schedule: Воскресенье 14:00 (Воскресное богослужение);
-- URL: https://spasenie.eu/churches/oceania/new-zealand/auckland-svet/
-
-
-
-
-
-
 **Евангельские церкви в Вануату — адреса и расписание**
 
 
@@ -6154,6 +6136,24 @@ Each church entry contains:
 
 
 **Евангельские церкви в Науру — адреса и расписание**
+
+
+
+
+**Евангельские церкви в Новой Зеландии — адреса и расписание**
+
+
+#### Auckland — Церковь «Свет» Окленд
+- Description: Auckland Slavic Baptist Church Svet / Славянская Баптистская Церковь
+- Address: 96 Kupe Street, Orakei, Auckland
+- Coordinates: -36.856911, 174.823493
+- Phone: +64 21 146 4498
+
+- Website: https://rusbaptist.nz
+- Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- URL: https://spasenie.eu/churches/oceania/new-zealand/auckland-svet/
+
+
 
 
 
