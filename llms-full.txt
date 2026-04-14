@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 405
+Total churches: 403
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -2727,6 +2727,19 @@ Each church entry contains:
 
 
 
+#### Евангельские церкви в Сербии — адреса и расписание
+- Description: Каталог евангельских церквей (ЕХБ) и баптистов в Сербии. Адреса, расписание богослужений, контакты.
+
+
+
+
+
+
+- URL: https://spasenie.eu/churches/europe/serbia/_index-old2/
+
+
+
+
 
 
 **Евангельские церкви в Словакии — адреса и расписание**
@@ -2874,67 +2887,28 @@ Each church entry contains:
 **Евангельские церкви в Черногории — адреса и расписание**
 
 
-#### Bar — Бар – Балканская Евангельская Церковь
-- Description: Balkanian Evangelical Church Bar
-- Address: Гипермаркет Воли на кольце, Bar, Montenegro
-- Coordinates: 42.097974, 19.095453
-- Phone: +382 67 452 678
-- Email: olek.velychko@gmail.com
+#### Мозаик
+- Description: Евангелическая церковь в Баре
+- Address: ul. Kralice Jelene Anžujske 15, Bar
+- Coordinates: 42.09462632946229, 19.099690171693254
 
 
-- URL: https://spasenie.eu/churches/europe/montenegro/bar-balkanian/
-
-
-
-
-#### Bar — Церковь «Мозаик» Бар
-- Description: Mozaik Church Bar
-
-- Coordinates: 42.0833, 19.1
-
-
-
-
+- Website: https://church-mozaik.me/
+- Schedule: Воскресенье 10:00 (Богослужение); Среда 18:30 (Домашняя группа); Четверг 19:00 (Молитвенное служение);
 - URL: https://spasenie.eu/churches/europe/montenegro/bar-mozaik/
 
 
 
 
-#### Budva — Будва SPE Lovchen Family
-- Description: SPE Lovchen Community Center Budva
-- Address: Mainski put 58, Budva, Montenegro
-- Coordinates: 42.293055, 18.843579
-- Phone: +382 68 616 636
+#### Слово Божие
+- Description: Община Христиан Веры Евангельской в Будве
+- Address: Budva, 13 Jul / 21 Jadranski put (за TQ Plaza)
+- Coordinates: 42.28436474118468, 18.836056418937567
 
 
-- Schedule: Воскресенье 10:00 (Воскресное богослужение); Четверг 18:40 (Разбор Библии);
-- URL: https://spasenie.eu/churches/europe/montenegro/budva-spe-lovchen/
-
-
-
-
-#### Budva — Церковь «Слово Божие» Будва
-- Description: Word of God Church Budva
-
-- Coordinates: 42.2864, 18.84
-
-
-
-
-- URL: https://spasenie.eu/churches/europe/montenegro/budva-slovo-bozhie/
-
-
-
-
-#### Budva — Церковь христиан веры евангельской в Будве (ХВЕ)
-- Description: Evangelical Christian Church Budva
-- Address: 13. Jula 1, 85310 Budva, Montenegro
-- Coordinates: 42.288566, 18.84195
-- Phone: +382 68 344694
-
-
-- Schedule: Воскресенье 11:00 (Воскресное богослужение); Суббота 12:00 (Детское служение); Среда 12:00 (Разбор Библии);
-- URL: https://spasenie.eu/churches/europe/montenegro/budva-hve/
+- Website: https://wordofgod.me/
+- Schedule: Воскресенье 11:00 (Богослужение); Среда, Пятница 17:00 (Молитвенное служение); Среда 18:30 (Изучение Библии); Суббота 12:00 (уточняйте) (Библейский кружок (воскресная школа));
+- URL: https://spasenie.eu/churches/europe/montenegro/budva-wordofgod/
 
 
 
