@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 397
+Total churches: 405
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -2621,6 +2621,110 @@ Each church entry contains:
 
 
 **Евангельские церкви в Сербии — адреса и расписание**
+
+
+#### International Christian Fellowship
+- Description: Англоязычная межконфессиональная церковь в Белграде, также известная, как ICF
+- Address: Moxy Belgrade Hotel – Ньегошева 2
+- Coordinates: 44.805145, 20.466203
+
+- Email: contact@icfbelgrade.rs
+- Website: https://icfbelgrade.rs/
+- Schedule: Воскресенье 10:00 - 12:00 (Богослужение); Среда 19:00 (Домашние группы);
+- URL: https://spasenie.eu/churches/europe/serbia/belgrade-icf/
+
+
+
+
+#### New Territory
+- Description: Русскоязычное евангельское сообщество в Нови Саде.
+- Address: Bulevar Evrope 30, Novi Sad
+- Coordinates: 45.24596935414466, 19.818712647847985
+
+
+
+- Schedule: Воскресенье 11:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/serbia/novi-sad-new-territory/
+
+
+
+
+#### Protestantska Hrišćanska zajednica
+- Description: Одна из самых больших протестантский церквей Нового Сада.
+- Address: Bulevar Evrope 30, Novi Sad
+- Coordinates: 45.24596935414466, 19.818712647847985
+
+- Email: office@cfns.org.rs
+- Website: https://phz.rs/
+- Schedule: Воскресенье 18:00 - 20:00 (Богослужение); Пятница 20:00 (Молодежное богослужение);
+- URL: https://spasenie.eu/churches/europe/serbia/novi-sad-protestant/
+
+
+
+
+#### МСЦ ЕХБ
+- Description: Международный Союз Церквей Евангельских Христиан-Баптистов
+- Address: Клисански пут 94, Нови Сад
+- Coordinates: 45.290875699332915, 19.819664868103867
+
+
+
+- Schedule: Воскресенье 11:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/serbia/novi-sad-msc-ehb/
+
+
+
+
+#### Хришћанска баптистичка црква
+- Description: Центральная баптисткая церковь в Белграде.
+- Address: Слободанке Данке Савић 33, Београд
+- Coordinates: 44.79442182090517, 20.49971860493185
+
+- Email: info@baptistickacrkva.rs
+- Website: https://baptistickacrkva.rs/
+- Schedule: Воскресенье 10:00 - 12:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/serbia/belgrade-baptisti/
+
+
+
+
+#### Хришћанска баптистичка црква Нови Сад
+- Description: Баптистская церковь в Новом Саде.
+- Address: Kolo srpskih sestara 24, Novi Sad
+- Coordinates: 45.2406806988117, 19.826965476563938
+
+
+- Website: https://nsbaptisti.org.rs/
+- Schedule: Воскресенье 10:00 (Богослужение); Среда 19:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/serbia/novi-sad-baptisti/
+
+
+
+
+#### Центар Црква
+- Description: Сербская межконфессиональная церковь в Белграде
+- Address: Зрењанински пут 127б, Белград (возле Wobby Haus-a)
+- Coordinates: 44.870859, 20.471467
+
+
+- Website: https://centarcrkva.rs/
+- Schedule: Воскресенье 18:00 - 19:00 (Богослужение); Суббота 9:00 - 10:00 (Молитвенное); Среда 19:00 (Домашние группы);
+- URL: https://spasenie.eu/churches/europe/serbia/belgrade-centarcrkva/
+
+
+
+
+#### Церковь Назарянина
+- Description: Русскоязычная церковь в Белграде
+- Address: Краљице Наталије, 28 &mdash; Помещении благотворительной организации &laquo;Дела Любви&raquo; (первый высокий этаж)
+- Coordinates: 44.812044, 20.458651
+
+
+- Website: https://nazarene.org/
+- Schedule: Воскресенье 16:00 (Богослужение); Вторник 19:00 (Размышление о Библии);
+- URL: https://spasenie.eu/churches/europe/serbia/serbija-nazarene/
+
+
 
 
 
