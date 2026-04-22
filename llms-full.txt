@@ -2429,7 +2429,7 @@ Each church entry contains:
 **Евангельские церкви в Португалии — адреса и расписание**
 
 
-#### Carregado - Евангельские Христиане в Каррегадо – Каррегадо
+#### Carregado - Евангельские Христиане в Каррегадо
 - Description: Evangelical Church in Carregado Portugal
 - Address: R. Castelo Melhor 9A, 2580-603 Carregado, Portugal
 - Coordinates: 39.024808, -8.977257
@@ -2442,8 +2442,8 @@ Each church entry contains:
 
 
 
-#### Montijo - Евангельская Христианская Баптистская церковь в Монтио – Монтио
-- Description: Evangelical cChristian Baptist Church in Montijo
+#### Montijo - Евангельская Христианская Баптистская церковь в Монтио
+- Description: Evangelical Christian Baptist Church in Montijo
 - Address: Rua Santos Oliveira 15 B, 2870-362 Montijo, Portugal
 - Coordinates: 38.704895, -8.973024
 - Phone: +351938857732
