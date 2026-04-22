@@ -1,0 +1,7 @@
+{
+  "resource": "https://spasenie.eu/",
+  "authorization_servers": [],
+  "bearer_methods_supported": [],
+  "resource_documentation": "https://spasenie.eu/llms.txt",
+  "resource_signing_alg_values_supported": []
+}

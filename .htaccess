@@ -4,6 +4,7 @@
   Header add Link "</.well-known/api-catalog>; rel=\"api-catalog\""
   Header add Link "</.well-known/mcp/server-card.json>; rel=\"mcp-server-card\""
   Header add Link "</.well-known/agent-skills/index.json>; rel=\"agent-skills\""
+  Header add Link "</.well-known/oauth-protected-resource>; rel=\"oauth-protected-resource\""
 </IfModule>
 
 <Files "index.json">
@@ -19,6 +20,12 @@
 <Files "api-catalog">
   ForceType application/linkset+json
   Header set Content-Type "application/linkset+json"
+  Header set Access-Control-Allow-Origin "*"
+</Files>
+
+<Files "oauth-protected-resource">
+  ForceType application/json
+  Header set Content-Type "application/json"
   Header set Access-Control-Allow-Origin "*"
 </Files>
 
