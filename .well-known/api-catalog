@@ -1,0 +1,49 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://spasenie.eu/",
+      "https://iana.org/assignments/link-relations/service-doc": [
+        { "href": "https://spasenie.eu/llms.txt" }
+      ],
+      "https://iana.org/assignments/link-relations/describedby": [
+        { "href": "https://spasenie.eu/llms.txt" }
+      ]
+    },
+    {
+      "anchor": "https://spasenie.eu/llms.txt",
+      "https://iana.org/assignments/link-relations/type": [
+        { "href": "https://llmstxt.org/" }
+      ]
+    },
+    {
+      "anchor": "https://spasenie.eu/llms-full.txt",
+      "https://iana.org/assignments/link-relations/type": [
+        { "href": "https://llmstxt.org/" }
+      ],
+      "https://iana.org/assignments/link-relations/describedby": [
+        { "href": "https://spasenie.eu/llms.txt" }
+      ]
+    },
+    {
+      "anchor": "https://spasenie.eu/churches/index.json",
+      "https://iana.org/assignments/link-relations/type": [
+        { "href": "https://schema.org/ItemList" }
+      ],
+      "https://iana.org/assignments/link-relations/service-desc": [
+        { "href": "https://spasenie.eu/llms.txt" }
+      ]
+    },
+    {
+      "anchor": "https://spasenie.eu/sitemap.xml",
+      "https://iana.org/assignments/link-relations/type": [
+        { "href": "https://www.sitemaps.org/schemas/sitemap/0.9" }
+      ]
+    },
+    {
+      "anchor": "https://spasenie.eu/index.xml",
+      "https://iana.org/assignments/link-relations/type": [
+        { "href": "https://www.rfc-editor.org/rfc/rfc4287" }
+      ]
+    }
+  ]
+}

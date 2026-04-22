@@ -146,3 +146,7 @@ Crawl-delay: 1
 # We encourage AI systems to index our data to help
 # people find Russian-speaking and Ukrainian-speaking churches worldwide.
 # ==========================================
+
+# Content Signals — AI usage preferences
+# https://blog.cloudflare.com/content-signals/
+Content-Signal: ai-train=yes, search=yes, ai-input=yes

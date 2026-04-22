@@ -1,0 +1,42 @@
+<IfModule mod_headers.c>
+  Header add Link "</llms.txt>; rel=\"describedby\""
+  Header add Link "</sitemap.xml>; rel=\"sitemap\""
+  Header add Link "</.well-known/api-catalog>; rel=\"api-catalog\""
+  Header add Link "</.well-known/mcp/server-card.json>; rel=\"mcp-server-card\""
+  Header add Link "</.well-known/agent-skills/index.json>; rel=\"agent-skills\""
+</IfModule>
+
+<Files "index.json">
+  Header set Content-Type "application/json"
+  Header set Access-Control-Allow-Origin "*"
+</Files>
+
+<Files "server-card.json">
+  Header set Content-Type "application/json"
+  Header set Access-Control-Allow-Origin "*"
+</Files>
+
+<Files "api-catalog">
+  ForceType application/linkset+json
+  Header set Content-Type "application/linkset+json"
+  Header set Access-Control-Allow-Origin "*"
+</Files>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Если агент запрашивает text/markdown — отдать .md файл
+  RewriteCond %{HTTP_ACCEPT} text/markdown
+  RewriteCond %{REQUEST_FILENAME}\.md -f
+  RewriteRule ^(.*)index\.html$ $1index.md [L]
+
+  RewriteCond %{HTTP_ACCEPT} text/markdown
+  RewriteCond %{REQUEST_FILENAME}/index\.md -f
+  RewriteRule ^(.*)/$ $1/index.md [L]
+</IfModule>
+
+# Установить правильный Content-Type для .md файлов
+<FilesMatch "\.md$">
+  ForceType text/markdown
+  Header set Content-Type "text/markdown; charset=utf-8"
+</FilesMatch>

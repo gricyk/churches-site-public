@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0",
+  "serverInfo": {
+    "name": "spasenie.eu",
+    "version": "1.0.0",
+    "description": "Самый полный каталог русскоязычных и украиноязычных евангельских церквей (ЕХБ) и баптистов в мире. 450+ церквей в 180+ странах на 6 континентах с адресами, расписанием богослужений, контактами и картами.",
+    "homepage": "https://spasenie.eu",
+    "contact": {
+      "email": "info@spasenie.eu",
+      "url": "https://spasenie.eu/add-church"
+    }
+  },
+  "transport": {
+    "type": "http",
+    "endpoint": "https://spasenie.eu"
+  },
+  "capabilities": {
+    "resources": {
+      "description": "Страницы сайта доступны в markdown формате при запросе с заголовком Accept: text/markdown. JSON-каталог всех церквей доступен по /churches/index.json.",
+      "formats": ["text/html", "text/markdown", "application/json"]
+    },
+    "discovery": {
+      "llmsTxt": "https://spasenie.eu/llms.txt",
+      "llmsFullTxt": "https://spasenie.eu/llms-full.txt",
+      "sitemap": "https://spasenie.eu/sitemap.xml",
+      "apiCatalog": "https://spasenie.eu/.well-known/api-catalog",
+      "churchesJson": "https://spasenie.eu/churches/index.json"
+    }
+  },
+  "humanReadableInfo": {
+    "primaryLanguage": "ru",
+    "topics": [
+      "евангельские церкви",
+      "баптисты",
+      "русскоязычная диаспора",
+      "украиноязычная диаспора",
+      "каталог церквей",
+      "расписание богослужений",
+      "Европа",
+      "Северная Америка",
+      "Азия",
+      "Африка",
+      "Океания",
+      "Южная Америка"
+    ],
+    "coverage": "450+ churches in 180+ countries on 6 continents",
+    "license": "CC0 (Public Domain)"
+  }
+}
