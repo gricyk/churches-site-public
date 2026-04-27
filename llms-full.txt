@@ -3,7 +3,7 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-04-22
+# Generated: 2026-04-27
 
 ## OVERVIEW
 
@@ -2449,7 +2449,7 @@ Each church entry contains:
 - Phone: +351938857732
 
 
-
+- Schedule: Воскресенье 10:00 (Богослужение);
 - URL: https://spasenie.eu/churches/europe/portugal/montijo/
 
 
