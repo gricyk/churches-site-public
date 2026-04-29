@@ -3,13 +3,13 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-04-27
+# Generated: 2026-04-29
 
 ## OVERVIEW
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 405
+Total churches: 417
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -3258,12 +3258,168 @@ Each church entry contains:
 **Евангельские церкви в Эстонии — адреса и расписание**
 
 
+#### Кивиыли — Церковь ЕХБ
+- Description: Kiviõli EKB Kogudus — евангельская церковь ЕХБ в Кивиыли, Эстония
+- Address: Koidu 15, 43125 Kiviõli, Estonia
+
+- Phone: +372 55612317
+- Email: ekbkivioli@hotmail.com
+
+- Schedule: Воскресенье 10:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/estonia/kivioli-ekb/
+
+
+
+
+#### Кохтла-Ярве — Церковь «Вефиль»
+- Description: Kohtla-Järve Peeteli Kogudus — евангельская церковь ЕХБ в Кохтла-Ярве
+- Address: Hobuseraua 10, 31027 Kohtla-Järve, Estonia
+
+- Phone: +372 3355841
+- Email: kj.peeteli@gmail.com
+
+- Schedule: Воскресенье 10:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/estonia/kohtla-jarve-vefil/
+
+
+
+
+#### Кохтла-Ярве — Церковь «Надежда»
+- Description: Kohtla-Järve Evangeeliumi Kristlaste Kogudus Lootus — евангельская церковь в Кохтла-Ярве
+- Address: Lehola 13, 31026 Kohtla-Järve, Estonia
+
+- Phone: +372 56919423
+- Email: lgs.sunseed@gmail.com
+
+- Schedule: Воскресенье 11:00 (Богослужение); Воскресенье 17:00 (Вечернее богослужение);
+- URL: https://spasenie.eu/churches/europe/estonia/kohtla-jarve-nadezhda/
+
+
+
+
+#### Кохтла-Ярве — Церковь ЕХБ «Голгофа»
+- Description: Kohtla-Järve Evangeeliumi Kristlaste ja Baptistide Vene Kogudus Kolgata — евангельская церковь в Кохтла-Ярве
+- Address: Lille 14, 30221 Kohtla-Järve, Estonia
+
+- Phone: +372 55548405
+- Email: petr.shuparski@mail.ru
+
+- Schedule: Воскресенье 13:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/estonia/kohtla-jarve-golgota/
+
+
+
+
+#### Локса — Церковь ЕХБ
+- Description: Loksa Baptisti Kogudus — евангельская баптистская церковь в Локсе, Эстония
+- Address: Ranna 4, 74806 Loksa, Estonia
+
+- Phone: +372 6075299
+- Email: avo.valk@mail.ee
+
+- Schedule: Воскресенье 11:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/estonia/loksa-ekb/
+
+
+
+
+#### Нарва — Церковь ЕХБ
+- Description: Narva EKB Kogudus — евангельская церковь ЕХБ в Нарве, Эстония
+- Address: Rakvere 13, 20609 Narva, Estonia
+
+- Phone: +372 55940319
+- Email: polnarv@yandex.ru
+
+- Schedule: Воскресенье 10:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/estonia/narva-ekb/
+
+
+
+
+#### Нарва-Йыэсуу — Церковь «Возрождение»
+- Description: Narva-Jõesuu EKB Kogudus Taassünd — евангельская церковь в Нарва-Йыэсуу, Эстония
+- Address: Vabaduse 31a, 29023 Narva-Jõesuu, Estonia
+
+- Phone: +372 5036635
+- Email: taassund@gmail.com
+- Website: https://taassund.ee
+- Schedule: Воскресенье 11:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/estonia/narva-joesuu-vozrozhdenie/
+
+
+
+
+#### Пярну — Церковь «Вефиль»
+- Description: Pärnu Vene EKB Kogudus Peetel — евангельская церковь ЕХБ в Пярну, Эстония
+- Address: Havi 5, 80032 Pärnu, Estonia
+
+- Phone: +372 5184136
+- Email: vitalivecherkovski@gmail.com
+
+- Schedule: Воскресенье 11:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/estonia/parnu-vefil/
+
+
+
+
+#### Силламяэ — Церковь «Благодать»
+- Description: Sillamäe EKB Kogudus Issanda Arm — евангельская церковь ЕХБ в Силламяэ, Эстония
+- Address: Gagarini 10, 40232 Sillamäe, Estonia
+
+- Phone: +372 55614177
+- Email: gerassimovs@mail.ru
+
+- Schedule: Воскресенье 10:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/estonia/sillamae-blagodat/
+
+
+
+
+#### Таллинн — Церковь «Вифания»
+- Description: EEKBKL Tallinna Vene EKB Kogudus Betaania — евангельская церковь ЕХБ в Таллинне
+- Address: Kalju 1, 10414 Tallinn, Estonia
+
+- Phone: +372 55524895
+- Email: betaaniakogudus@gmail.com
+- Website: https://www.vifania.ee
+- Schedule: Воскресенье 14:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/estonia/tallinn-vifania/
+
+
+
+
+#### Тапа — Церковь ЕХБ
+- Description: Tapa Evangeeliumi Kristlaste ja Baptistide Kogudus — евангельская церковь ЕХБ в Тапа, Эстония
+- Address: Kooli 1, 45106 Tapa, Estonia
+
+- Phone: +372 58515576
+- Email: artur_k@mail.ru
+
+- Schedule: Воскресенье 11:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/estonia/tapa-ekb/
+
+
+
+
+#### Тарту — Церковь «Голгофа»
+- Description: Tartu Kolgata baptistikogudus — евангельская церковь ЕХБ в Тарту, Эстония
+- Address: Veski 40, 50409 Tartu, Estonia
+
+- Phone: +372 57190454
+- Email: vladimir@kolgata.ee
+- Website: http://golgofa.ee
+- Schedule: Воскресенье 13:00 (Богослужение);
+- URL: https://spasenie.eu/churches/europe/estonia/tartu-golgota/
+
+
+
+
 #### Valga — Церковь «Надежда» г. Валга
 - Description: Valga EKBK Lootus
 - Address: Aia 13, 68204 Valga, Estonia
 - Coordinates: 57.775466, 26.03674
 - Phone: +372 546 29436
-- Email: rraud@narod.ru
+- Email: rraud@yandex.ru
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Четверг 18:00 (Изучение Библии и молитвенное); Суббота 14:00 (Подростковая и детская ВШ);
 - URL: https://spasenie.eu/churches/europe/estonia/valga-nadezhda/
