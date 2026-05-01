@@ -3261,7 +3261,7 @@ Each church entry contains:
 #### Кивиыли — Церковь ЕХБ
 - Description: Kiviõli EKB Kogudus — евангельская церковь ЕХБ в Кивиыли, Эстония
 - Address: Koidu 15, 43125 Kiviõli, Estonia
-
+- Coordinates: 59.354, 26.969
 - Phone: +372 55612317
 - Email: ekbkivioli@hotmail.com
 
@@ -3274,7 +3274,7 @@ Each church entry contains:
 #### Кохтла-Ярве — Церковь «Вефиль»
 - Description: Kohtla-Järve Peeteli Kogudus — евангельская церковь ЕХБ в Кохтла-Ярве
 - Address: Hobuseraua 10, 31027 Kohtla-Järve, Estonia
-
+- Coordinates: 59.3137, 27.453
 - Phone: +372 3355841
 - Email: kj.peeteli@gmail.com
 
@@ -3287,7 +3287,7 @@ Each church entry contains:
 #### Кохтла-Ярве — Церковь «Надежда»
 - Description: Kohtla-Järve Evangeeliumi Kristlaste Kogudus Lootus — евангельская церковь в Кохтла-Ярве
 - Address: Lehola 13, 31026 Kohtla-Järve, Estonia
-
+- Coordinates: 59.3247, 27.4135
 - Phone: +372 56919423
 - Email: lgs.sunseed@gmail.com
 
@@ -3300,7 +3300,7 @@ Each church entry contains:
 #### Кохтла-Ярве — Церковь ЕХБ «Голгофа»
 - Description: Kohtla-Järve Evangeeliumi Kristlaste ja Baptistide Vene Kogudus Kolgata — евангельская церковь в Кохтла-Ярве
 - Address: Lille 14, 30221 Kohtla-Järve, Estonia
-
+- Coordinates: 59.399, 27.271
 - Phone: +372 55548405
 - Email: petr.shuparski@mail.ru
 
@@ -3313,7 +3313,7 @@ Each church entry contains:
 #### Локса — Церковь ЕХБ
 - Description: Loksa Baptisti Kogudus — евангельская баптистская церковь в Локсе, Эстония
 - Address: Ranna 4, 74806 Loksa, Estonia
-
+- Coordinates: 59.591, 25.712
 - Phone: +372 6075299
 - Email: avo.valk@mail.ee
 
@@ -3326,7 +3326,7 @@ Each church entry contains:
 #### Нарва — Церковь ЕХБ
 - Description: Narva EKB Kogudus — евангельская церковь ЕХБ в Нарве, Эстония
 - Address: Rakvere 13, 20609 Narva, Estonia
-
+- Coordinates: 59.387, 28.1998
 - Phone: +372 55940319
 - Email: polnarv@yandex.ru
 
@@ -3339,7 +3339,7 @@ Each church entry contains:
 #### Нарва-Йыэсуу — Церковь «Возрождение»
 - Description: Narva-Jõesuu EKB Kogudus Taassünd — евангельская церковь в Нарва-Йыэсуу, Эстония
 - Address: Vabaduse 31a, 29023 Narva-Jõesuu, Estonia
-
+- Coordinates: 59.4606, 28.0384
 - Phone: +372 5036635
 - Email: taassund@gmail.com
 - Website: https://taassund.ee
@@ -3352,7 +3352,7 @@ Each church entry contains:
 #### Пярну — Церковь «Вефиль»
 - Description: Pärnu Vene EKB Kogudus Peetel — евангельская церковь ЕХБ в Пярну, Эстония
 - Address: Havi 5, 80032 Pärnu, Estonia
-
+- Coordinates: 58.3921, 24.4857
 - Phone: +372 5184136
 - Email: vitalivecherkovski@gmail.com
 
@@ -3365,7 +3365,7 @@ Each church entry contains:
 #### Силламяэ — Церковь «Благодать»
 - Description: Sillamäe EKB Kogudus Issanda Arm — евангельская церковь ЕХБ в Силламяэ, Эстония
 - Address: Gagarini 10, 40232 Sillamäe, Estonia
-
+- Coordinates: 59.3946, 27.7796
 - Phone: +372 55614177
 - Email: gerassimovs@mail.ru
 
@@ -3378,7 +3378,7 @@ Each church entry contains:
 #### Таллинн — Церковь «Вифания»
 - Description: EEKBKL Tallinna Vene EKB Kogudus Betaania — евангельская церковь ЕХБ в Таллинне
 - Address: Kalju 1, 10414 Tallinn, Estonia
-
+- Coordinates: 59.4462, 24.7359
 - Phone: +372 55524895
 - Email: betaaniakogudus@gmail.com
 - Website: https://www.vifania.ee
@@ -3391,7 +3391,7 @@ Each church entry contains:
 #### Тапа — Церковь ЕХБ
 - Description: Tapa Evangeeliumi Kristlaste ja Baptistide Kogudus — евангельская церковь ЕХБ в Тапа, Эстония
 - Address: Kooli 1, 45106 Tapa, Estonia
-
+- Coordinates: 59.262, 25.958
 - Phone: +372 58515576
 - Email: artur_k@mail.ru
 
@@ -3404,7 +3404,7 @@ Each church entry contains:
 #### Тарту — Церковь «Голгофа»
 - Description: Tartu Kolgata baptistikogudus — евангельская церковь ЕХБ в Тарту, Эстония
 - Address: Veski 40, 50409 Tartu, Estonia
-
+- Coordinates: 58.3773, 26.7116
 - Phone: +372 57190454
 - Email: vladimir@kolgata.ee
 - Website: http://golgofa.ee
