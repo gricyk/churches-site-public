@@ -3,13 +3,13 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-05-01
+# Generated: 2026-05-02
 
 ## OVERVIEW
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 417
+Total churches: 426
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -3246,6 +3246,123 @@ Each church entry contains:
 
 
 **Евангельские церкви в Швейцарии — адреса и расписание**
+
+
+#### Basel — Українська євангельська церква (ЄХБ)
+- Description: Українська євангельська церква в Базелі (Швейцарія). Богослужіння щонеділі о 10:00.
+- Address: St.Johanns-Ring 122, 4056 Basel, Switzerland
+- Coordinates: 47.5665, 7.5783
+- Phone: +41794557832
+- Email: Roman.dybinets@baptisten-basel.ch
+
+- Schedule: Неділя 10:00 (Богослужіння);
+- URL: https://spasenie.eu/churches/europe/switzerland/basel-ukr/
+
+
+
+
+#### Bern — Українська євангельська церква (Holenackerstrasse)
+- Description: Українська євангельська церква в Берні (Швейцарія). Богослужіння у суботу о 18:00.
+- Address: Holenackerstrasse 32, 3027 Bern, Switzerland
+- Coordinates: 46.9383, 7.3731
+- Phone: +41795994589
+- Email: edyardchernenko@gmail.com
+
+- Schedule: Субота 18:00 (Богослужіння);
+- URL: https://spasenie.eu/churches/europe/switzerland/bern-holenacker-ukr/
+
+
+
+
+#### Bern / Ostermundigen — Українська євангельська церква
+- Description: Українська євангельська церква в Остермундігені біля Берна (Швейцарія). Богослужіння щонеділі о 12:00.
+- Address: Bahnhofstrasse 39, 3072 Ostermundigen, Switzerland
+- Coordinates: 46.9573, 7.4942
+- Phone: +41797929184
+- Email: nazarova.yuliya77@gmail.com
+
+- Schedule: Неділя 12:00 (Богослужіння);
+- URL: https://spasenie.eu/churches/europe/switzerland/ostermundigen-ukr/
+
+
+
+
+#### Biel — Українська євангельська церква
+- Description: Українська євангельська церква в Білі (Швейцарія). Богослужіння щонеділі о 15:15.
+- Address: Poststrasse 16, 2502 Biel, Switzerland
+- Coordinates: 47.1372, 7.2461
+- Phone: +41798276049
+
+
+- Schedule: Неділя 15:15 (Богослужіння);
+- URL: https://spasenie.eu/churches/europe/switzerland/biel-ukr/
+
+
+
+
+#### Bischofszell — Upgrade Українська ЄХБ церква
+- Description: Українська євангельська церква Upgrade у Бішофсцелі (Швейцарія). Богослужіння щонеділі о 14:00.
+- Address: Poststrasse 8, 9220 Bischofszell, Switzerland
+- Coordinates: 47.4901, 9.247
+- Phone: +41764554484
+- Email: kornuta81@icloud.com
+
+- Schedule: Неділя 14:00 (Богослужіння);
+- URL: https://spasenie.eu/churches/europe/switzerland/bischofszell-upgrade/
+
+
+
+
+#### Burgdorf — Українська Євангельська Церква
+- Description: Українська євангельська церква у Бурдорфі (Швейцарія). Богослужіння щонеділі о 17:30.
+- Address: Lyssachstrasse 33, 3400 Burgdorf, Switzerland
+- Coordinates: 47.0616, 7.6103
+
+- Email: edyardcherhenko@gmail.com
+
+- Schedule: Неділя 17:30 (Богослужіння);
+- URL: https://spasenie.eu/churches/europe/switzerland/burgdorf-ukr/
+
+
+
+
+#### Frauenfeld — Upgrade Українська ЄХБ церква
+- Description: Українська ЄХБ церква Upgrade у Фрауенфельді (Швейцарія). Богослужіння щонеділі о 10:00.
+- Address: Häberlinstrasse 50, 8500 Frauenfeld, Switzerland
+- Coordinates: 47.5564, 8.8984
+- Phone: +41764554484
+- Email: kornuta81@icloud.com
+
+- Schedule: Неділя 10:00 (Богослужіння);
+- URL: https://spasenie.eu/churches/europe/switzerland/frauenfeld-upgrade/
+
+
+
+
+#### Genève / Carouge — Євангельська церква
+- Description: Євангельська церква в Каружі біля Женеви (Швейцарія). Богослужіння щонеділі о 13:45.
+- Address: Bd Des Promenades 3, 1227 Carouge, Switzerland
+- Coordinates: 46.1849, 6.1459
+
+
+- Website: https://www.ebcg.ch/smallgroups.html
+- Schedule: Неділя 13:45 (Богослужіння);
+- URL: https://spasenie.eu/churches/europe/switzerland/carouge-geneve-ukr/
+
+
+
+
+#### Zofingen — Українська церква у Цофінгені
+- Description: Українська євангельська церква у Цофінгені (Швейцарія). Богослужіння щонеділі та щоп'ятниці.
+- Address: Frikartstrasse 6, 4800 Zofingen, Switzerland
+- Coordinates: 47.2882, 7.9464
+- Phone: +41765411622
+- Email: melit.vk655@gmail.com
+
+- Schedule: Неділя 10:00 (Богослужіння); П'ятниця 16:00 (Зустріч);
+- URL: https://spasenie.eu/churches/europe/switzerland/zofingen-ukr/
+
+
 
 
 
