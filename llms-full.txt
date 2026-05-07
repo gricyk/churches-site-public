@@ -3,13 +3,13 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-05-02
+# Generated: 2026-05-07
 
 ## OVERVIEW
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 426
+Total churches: 427
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -2942,6 +2942,19 @@ Each church entry contains:
 
 
 **Евангельские церкви в Чехии — адреса и расписание**
+
+
+#### Beroun — Библейская церковь
+- Description: Біблійна церква Бероун — украиноязычная евангельская церковь в Бероуне (Чехия)
+- Address: Tylova 8, 266 01 Beroun, Czech Republic
+
+- Phone: +420602171613
+
+- Website: https://sborberoun.cz
+- Schedule: Воскресенье 16:00 (Богослужение и проповедь);
+- URL: https://spasenie.eu/churches/europe/czech-republic/beroun-biblicka/
+
+
 
 
 #### Dolni — Церковь ЕХБ – Dolní Dvůr
