@@ -2947,7 +2947,7 @@ Each church entry contains:
 #### Beroun — Библейская церковь
 - Description: Біблійна церква Бероун — украиноязычная евангельская церковь в Бероуне (Чехия)
 - Address: Tylova 8, 266 01 Beroun, Czech Republic
-
+- Coordinates: 49.9681802, 14.082416
 - Phone: +420602171613
 
 - Website: https://sborberoun.cz
