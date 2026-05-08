@@ -3,7 +3,7 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-05-07
+# Generated: 2026-05-08
 
 ## OVERVIEW
 
@@ -2945,7 +2945,7 @@ Each church entry contains:
 
 
 #### Beroun — Библейская церковь
-- Description: Біблійна церква Бероун — украиноязычная евангельская церковь в Бероуне (Чехия)
+- Description: Біблійна церква Бероун — евангельская церковь в Бероуне (Чехия)
 - Address: Tylova 8, 266 01 Beroun, Czech Republic
 - Coordinates: 49.9681802, 14.082416
 - Phone: +420602171613
