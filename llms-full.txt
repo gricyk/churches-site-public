@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 427
+Total churches: 428
 Coverage: 6 continents, 180+ countries
 
 ## DATA FORMAT
@@ -3846,6 +3846,19 @@ Each church entry contains:
 
 
 **Евангельские церкви в Камбодже — адреса и расписание**
+
+
+#### Battambang — Баптистская церковь «Свет Христа»
+- Description: Баптистская церковь «Свет Христа» в Баттамбанге, Камбоджа
+- Address: #085, road 5, Chrey Thmei Village, Chrey Commune, Thma Koul District, Battambang Province, Cambodia
+
+- Phone: +855 86 567 013
+- Email: evvgen@ukr.net
+- Website: https://www.okovam.net
+- Schedule: Воскресенье 16:00 (Богослужение); Четверг 12:00 (Разбор Слова);
+- URL: https://spasenie.eu/churches/asia/cambodia/battambang-svet-hrista/
+
+
 
 
 
