@@ -1,6 +1,6 @@
 # Адреса церквей евангельских христиан и баптистов в мире
 
-Spasenie.eu - самый полный каталог русскоязычных и украиноязычных евангельских церквей в мире. 450+ церквей в 180+ странах на 6 континентах. The most comprehensive directory of Russian-speaking and Ukrainian-speaking Evangelical Christian and Baptist churches worldwide.
+Spasenie.eu - самый полный каталог русскоязычных и украиноязычных евангельских церквей в мире. 427 церквей в 35+ странах на 4 континентах. The most comprehensive directory of Russian-speaking and Ukrainian-speaking Evangelical Christian and Baptist churches worldwide.
 
 
 ## [Блог о поиске евангельской и баптистской церкви за рубежом](https://spasenie.eu/blog/)
@@ -116,7 +116,7 @@ Spasenie.eu - самый полный каталог русскоязычных 
       "name": "Что такое Spasenie.eu?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Spasenie.eu — это самый полный каталог русскоязычных и украиноязычных евангельских христианских и баптистских церквей в мире. Каталог содержит более 450 церквей в более чем 180 странах на всех 6 континентах."
+        "text": "Spasenie.eu — это самый полный каталог русскоязычных и украиноязычных евангельских христианских и баптистских церквей в мире. Каталог содержит 427 церквей в 35+ странах на 4 континентах."
       }
     },
     {
