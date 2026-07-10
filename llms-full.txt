@@ -10,7 +10,7 @@
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
 Total churches: 428
-Coverage: 6 continents, 180+ countries
+Coverage: 4 continents, 35 countries
 
 ## DATA FORMAT
 

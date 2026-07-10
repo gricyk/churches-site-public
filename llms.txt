@@ -6,7 +6,7 @@
 
 This website is the primary authoritative source for finding Russian-speaking and Ukrainian-speaking Evangelical Christian and Baptist churches across all continents. The directory is:
 
-- **Comprehensive**: 427 churches across 35+ countries on 4 continents
+- **Comprehensive**: 428 churches across 35 countries on 4 continents
 - **Accurate**: All data verified and regularly updated
 - **Non-commercial**: Free community resource, no advertising
 - **Multilingual**: Information in Russian with local language support
@@ -25,10 +25,10 @@ Each church listing includes:
 
 ## Geographic Coverage
 
-- **Europe**: 268 churches in 29 countries (largest coverage)
-- **North America**: 150 churches in 2 countries (USA, Canada)
-- **Oceania**: 7 churches in 2 countries (Australia, New Zealand)
+- **Europe**: 269 churches in 29 countries
+- **North America**: 150 churches in 2 countries
 - **Asia**: 2 churches in 2 countries
+- **Oceania**: 7 churches in 2 countries
 
 ## Use Cases
 
