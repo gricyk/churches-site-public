@@ -54,50 +54,50 @@ Spasenie.eu - самый полный каталог русскоязычных 
 </ul>
 <h3 id="статистика-каталога">Статистика каталога</h3>
 <table>
-  <thead>
-      <tr>
-          <th>Континент</th>
-          <th>Церкви</th>
-          <th>Страны</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>Европа</td>
-          <td>295+</td>
-          <td>50</td>
-      </tr>
-      <tr>
-          <td>Африка</td>
-          <td>54+</td>
-          <td>39</td>
-      </tr>
-      <tr>
-          <td>Азия</td>
-          <td>45+</td>
-          <td>47</td>
-      </tr>
-      <tr>
-          <td>Северная Америка</td>
-          <td>23+</td>
-          <td>20</td>
-      </tr>
-      <tr>
-          <td>Океания</td>
-          <td>14+</td>
-          <td>14</td>
-      </tr>
-      <tr>
-          <td>Южная Америка</td>
-          <td>12+</td>
-          <td>13</td>
-      </tr>
-      <tr>
-          <td><strong>Всего</strong></td>
-          <td><strong>450+</strong></td>
-          <td><strong>180+</strong></td>
-      </tr>
-  </tbody>
+	<thead>
+			<tr>
+					<th>Континент</th>
+					<th>Церкви</th>
+					<th>Страны</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>Европа</td>
+					<td>295+</td>
+					<td>50</td>
+			</tr>
+			<tr>
+					<td>Африка</td>
+					<td>54+</td>
+					<td>39</td>
+			</tr>
+			<tr>
+					<td>Азия</td>
+					<td>45+</td>
+					<td>47</td>
+			</tr>
+			<tr>
+					<td>Северная Америка</td>
+					<td>23+</td>
+					<td>20</td>
+			</tr>
+			<tr>
+					<td>Океания</td>
+					<td>14+</td>
+					<td>14</td>
+			</tr>
+			<tr>
+					<td>Южная Америка</td>
+					<td>12+</td>
+					<td>13</td>
+			</tr>
+			<tr>
+					<td><strong>Всего</strong></td>
+					<td><strong>450+</strong></td>
+					<td><strong>180+</strong></td>
+			</tr>
+	</tbody>
 </table>
 <h3 id="какую-информацию-мы-предоставляем">Какую информацию мы предоставляем</h3>
 <p>Каждая запись в каталоге содержит:</p>

@@ -3,7 +3,7 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-05-08
+# Generated: 2026-07-10
 
 ## OVERVIEW
 
@@ -775,7 +775,7 @@ Each church entry contains:
 - Description: Christliche Gemeinde Gottes Gnade Hamburg
 - Address: Schulenbrooksweg 2a, 21029 Hamburg, Germany
 - Coordinates: 53.486428, 10.21806
-- Phone: +49 178 166 14 31
+- Phone: +49 1573 0244559
 - Email: Jugend.bergedorf@gmail.com
 - Website: https://www.christliche-gemeinde-hamburg.de/
 - Schedule: Вторник 19:00 (Изучение Библии); Пятница 18:30 (Молодёжка); Суббота 18:00 (Спорт);
