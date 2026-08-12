@@ -7,6 +7,13 @@
       ],
       "https://iana.org/assignments/link-relations/describedby": [
         { "href": "https://spasenie.eu/llms.txt" }
+      ],
+      "https://iana.org/assignments/link-relations/service-desc": [
+        { "href": "https://spasenie.eu/.well-known/mcp/server-card.json" },
+        { "href": "https://spasenie.eu/.well-known/agent-skills/index.json" }
+      ],
+      "https://iana.org/assignments/link-relations/oauth-protected-resource": [
+        { "href": "https://spasenie.eu/.well-known/oauth-protected-resource" }
       ]
     },
     {
@@ -31,6 +38,24 @@
       ],
       "https://iana.org/assignments/link-relations/service-desc": [
         { "href": "https://spasenie.eu/llms.txt" }
+      ]
+    },
+    {
+      "anchor": "https://spasenie.eu/.well-known/mcp/server-card.json",
+      "https://iana.org/assignments/link-relations/service-desc": [
+        { "href": "https://spasenie.eu/llms.txt" }
+      ]
+    },
+    {
+      "anchor": "https://spasenie.eu/.well-known/agent-skills/index.json",
+      "https://iana.org/assignments/link-relations/type": [
+        { "href": "https://agentskills.io/schema/v0.2.0/index.json" }
+      ]
+    },
+    {
+      "anchor": "https://spasenie.eu/.well-known/oauth-protected-resource",
+      "https://iana.org/assignments/link-relations/type": [
+        { "href": "https://www.rfc-editor.org/rfc/rfc9728" }
       ]
     },
     {
