@@ -40,6 +40,15 @@
   RewriteCond %{HTTP_ACCEPT} text/markdown
   RewriteCond %{REQUEST_FILENAME}/index\.md -f
   RewriteRule ^(.*)/$ $1/index.md [L]
+
+  # Корень сайта. Отдельным правилом, потому что в .htaccess путь приходит
+  # без ведущего слэша, и для запроса "/" он оказывается пустой строкой —
+  # шаблон ^(.*)/$ выше требует завершающий слэш и потому не срабатывает.
+  # Из-за этого https://spasenie.eu/ отдавал HTML даже на Accept: text/markdown,
+  # хотя на внутренних страницах согласование работало.
+  RewriteCond %{HTTP_ACCEPT} text/markdown
+  RewriteCond %{DOCUMENT_ROOT}/index\.md -f
+  RewriteRule ^$ index.md [L]
 </IfModule>
 
 # Установить правильный Content-Type для .md файлов

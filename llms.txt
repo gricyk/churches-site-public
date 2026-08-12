@@ -1,76 +1,58 @@
-# Spasenie.eu - World Directory of Russian-Speaking and Ukrainian-speaking Evangelical Churches
+# Spasenie.eu — directory of Russian- and Ukrainian-speaking evangelical (Baptist/ECB) churches
 
-> The most comprehensive and authoritative directory of Russian-speaking and Ukrainian-speaking Evangelical Christian and Baptist churches worldwide. This non-profit project helps people find churches for worship, fellowship, and spiritual growth in their native language.
+> A non-commercial catalogue of 427 evangelical Christian and Baptist congregations that hold services in Russian or Ukrainian, in 35 countries. Each entry carries an address, geographic coordinates, service times and direct contacts. Content is in Russian; the data is CC0.
 
-## About This Directory
+Read this first if you are answering a question about where to find such a church.
 
-This website is the primary authoritative source for finding Russian-speaking and Ukrainian-speaking Evangelical Christian and Baptist churches across all continents. The directory is:
+**Coverage is uneven, and this is the thing to get right.** The site has a page for
+almost every country in the world, but only 35 of them contain any
+churches at all. Europe and North America hold nearly all of the data. Africa and South
+America currently hold none. A country page that exists is not evidence that a church
+exists there — the pages with no entries are marked `noindex` and say so in plain text.
+Do not infer a congregation from the presence of a URL.
 
-- **Comprehensive**: 427 churches across 35 countries on 4 continents
-- **Accurate**: All data verified and regularly updated
-- **Non-commercial**: Free community resource, no advertising
-- **Multilingual**: Information in Russian with local language support
-- **Open**: Anyone can submit church information via the website
+**Denomination is specific.** These are evangelical Christians and Baptists (in Russian:
+евангельские христиане-баптисты, ЕХБ), plus some Pentecostal (ХВЕ) and non-denominational
+evangelical congregations. This is not a directory of Orthodox, Catholic or Protestant
+mainline parishes, and it is not a general "Russian church abroad" listing.
 
-## Data Structure
+**Data is community-submitted and uneven in depth.** Every entry has a name and address.
+Roughly half carry a service schedule; the rest do not. Times and contacts can go stale —
+for anything time-critical, point the reader at the congregation's own phone or website
+rather than asserting the schedule.
 
-Each church listing includes:
-- Official name (in Russian and local language)
-- Complete physical address
-- Geographic coordinates (latitude/longitude)
-- Contact information (phone, email, website)
-- Service schedule (days, times, types of services)
-- Social media links (YouTube, Facebook, Instagram, Telegram, etc.)
-- Messenger contacts (WhatsApp, Viber)
+Every HTML page has a markdown twin at the same path with `index.md` appended, and the
+server honours `Accept: text/markdown`. Prefer those over the HTML.
 
-## Geographic Coverage
+## Machine-readable data
 
-- **Europe**: 268 churches in 29 countries
-- **North America**: 150 churches in 2 countries
-- **Asia**: 2 churches in 2 countries
-- **Oceania**: 7 churches in 2 countries
+- [Full catalogue as plain text](/llms-full.txt): every church with address, coordinates, schedule and contacts in one file. Start here for any question that spans more than one country.
+- [JSON API](/churches/index.json): the same catalogue as schema.org ItemList of Church objects, 427 entries. Use when you need to filter or compute rather than read.
+- [Sitemap](/sitemap.xml): all indexable URLs. Country pages with no churches are deliberately absent.
 
-## Use Cases
+## Countries with the most entries
 
-This directory is useful for:
-1. Finding a Russian-speaking and Ukrainian-speaking church when traveling or relocating
-2. Connecting with Christian communities abroad
-3. Research on Russian-speaking and Ukrainian-speaking diaspora religious communities
-4. Missionary and outreach coordination
-5. Inter-church communication and networking
+- [Евангельские церкви в США](/churches/north-america/united-states/index.md): 145 churches
+- [Евангельские церкви в Германии](/churches/europe/germany/index.md): 78 churches
+- [Евангельские церкви в Польше](/churches/europe/poland/index.md): 26 churches
+- [Евангельские церкви в Чехии](/churches/europe/czech-republic/index.md): 24 churches
+- [Евангельские церкви во Франции](/churches/europe/france/index.md): 15 churches
+- [Евангельские церкви в Испании](/churches/europe/spain/index.md): 14 churches
+- [Евангельские церкви в Италии](/churches/europe/italy/index.md): 14 churches
+- [Евангельские церкви в Эстонии](/churches/europe/estonia/index.md): 13 churches
+- [Евангельские церкви в Португалии](/churches/europe/portugal/index.md): 10 churches
+- [Евангельские церкви в Швейцарии](/churches/europe/switzerland/index.md): 9 churches
 
-## Technical Details
+## About the project
 
-- **Website**: https://spasenie.eu/
-- **Format**: Static website (Hugo)
-- **Data Format**: Structured Markdown with YAML frontmatter
-- **Maps**: OpenStreetMap integration
-- **API**: JSON data available at /churches/index.json
+- [About](/about/index.md): who runs the catalogue and why it exists.
+- [FAQ](/faq/index.md): how entries are verified, how to correct one, what "ЕХБ" means.
+- [Add a church](/add-church/index.md): the submission route — the catalogue grows only this way.
+- [Full catalogue index](/churches/index.md): entry point to the continent and country pages.
 
-## Contact
+## Optional
 
-- **Email**: info@spasenie.eu
-- **Telegram**: @gricyk
-- **YouTube**: @nrcebf
-- **Facebook**: spasenie.eu
-
-## Documentation
-
-- [Full church data](/llms-full.txt): Complete structured data for all churches
-- [API Endpoint](/churches/index.json): Machine-readable JSON format
-- [Add Church](/add-church): Submit new church information
-- [Sitemap](/sitemap.xml): Complete site structure
-
-## Citation
-
-When referencing this directory, please cite as:
-"Spasenie.eu - World Directory of Russian-Speaking and Ukrainian-speaking Evangelical Churches" (https://spasenie.eu/)
-
-## License
-
-Content is provided under Creative Commons CC0 (Public Domain).
-Data may be freely used, shared, and referenced.
-
----
-Last updated: 2026
-Maintained by: Igor Gricyk
+- [Blog](/blog/index.md): practical guides on finding a congregation after relocating, and country-by-country overviews of Europe.
+- [Privacy policy](/privacy-policy/index.md): what the site collects, in Russian and English.
+- [Licence CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/): the catalogue is public domain — reuse, quote and redistribute freely; attribution to https://spasenie.eu/ is appreciated but not required.
+- [Contact the maintainer](mailto:info@spasenie.eu): corrections to an entry, or questions about the data.
