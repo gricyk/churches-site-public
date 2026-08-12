@@ -6,26 +6,33 @@
 # add_header уровня server в «Additional nginx directives» домена.
 # Если вернуть блок сюда, на HEAD-запросах каждый rel придёт дважды.
 
+# Access-Control-Allow-Origin отсюда тоже убран (2026-08-12) и задаётся в
+# nginx — по той же причине, что и Link: на GET заголовок терялся на переходе
+# через X-Accel-Redirect, и агент с другого домена не читал эти файлы.
+#
+# Content-Type ниже ОСТАВЛЕН: он переход переживает (nginx берёт его из ответа
+# upstream), а для файлов без расширения — api-catalog, oauth-protected-resource
+# — сам nginx правильный тип не подберёт.
+#
+# Не возвращать сюда ACAO: два заголовка Access-Control-Allow-Origin в одном
+# ответе браузер считает ошибкой и режет запрос целиком — хуже, чем ни одного.
+
 <Files "index.json">
   Header set Content-Type "application/json"
-  Header set Access-Control-Allow-Origin "*"
 </Files>
 
 <Files "server-card.json">
   Header set Content-Type "application/json"
-  Header set Access-Control-Allow-Origin "*"
 </Files>
 
 <Files "api-catalog">
   ForceType application/linkset+json
   Header set Content-Type "application/linkset+json"
-  Header set Access-Control-Allow-Origin "*"
 </Files>
 
 <Files "oauth-protected-resource">
   ForceType application/json
   Header set Content-Type "application/json"
-  Header set Access-Control-Allow-Origin "*"
 </Files>
 
 <IfModule mod_rewrite.c>
