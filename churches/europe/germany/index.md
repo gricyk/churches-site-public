@@ -2,319 +2,396 @@
 
 Каталог евангельских церквей (ЕХБ) и баптистов в Германии. Адреса, расписание богослужений, контакты. 78 церквей в каталоге.
 
-
 ## [Aachen — FEC Aachen](https://spasenie.eu/churches/europe/germany/aachen-fec/)
-<p>FEC Церковь в Аахене.</p>
-<p>Служитель: Voth Dmitri</p>
+
+FEC Церковь в Аахене.
+Служитель: Voth Dmitri
 
 ## [Aachen — Церковь «Новая Жизнь» Aachen](https://spasenie.eu/churches/europe/germany/aachen-neues-leben/)
-<p>Церковь «Новая Жизнь» в Аахене (ХВЕ).</p>
-<p>Пастор: Виктор Шмидт</p>
+
+Церковь «Новая Жизнь» в Аахене (ХВЕ).
+Пастор: Виктор Шмидт
 
 ## [Andernach — Евангельская церковь в Андернахе (ЕХБ)](https://spasenie.eu/churches/europe/germany/andernach-ehb/)
-<p>Евангельская церковь в Андернахе (ЕХБ).</p>
-<p>Пастор: Waldemar Lehman</p>
+
+Евангельская церковь в Андернахе (ЕХБ).
+Пастор: Waldemar Lehman
 
 ## [Attendorn — Украинская церковь в Аттендорне](https://spasenie.eu/churches/europe/germany/attendorn-ukr/)
-<p>Украинская церковь в Аттендорне.</p>
-<p>Служитель: Хитрук Андрій Вікторович</p>
+
+Украинская церковь в Аттендорне.
+Служитель: Хитрук Андрій Вікторович
 
 ## [Bad — Церковь евангельских христиан в Мариенберге (ЕХБ)](https://spasenie.eu/churches/europe/germany/bad-marienberg-ehb/)
-<p>Церковь евангельских христиан в Мариенберге (ЕХБ).</p>
-<p>Пастор: Сергей Бекер</p>
+
+Церковь евангельских христиан в Мариенберге (ЕХБ).
+Пастор: Сергей Бекер
 
 ## [Bebra — Украинская церковь в Бебре](https://spasenie.eu/churches/europe/germany/bebra-ukr/)
-<p>Украинская церковь в Бебре с сурдопереводом.</p>
-<p>Служитель: Кісленко Олег</p>
+
+Украинская церковь в Бебре с сурдопереводом.
+Служитель: Кісленко Олег
 
 ## [Berlin — Евангельские Христиане Берлин-Вартенберг](https://spasenie.eu/churches/europe/germany/berlin-wartenberg-ecg/)
-<p>Евангельские христиане баптисты Berlin-Wartenberg (ЕХБ).</p>
+
+Евангельские христиане баптисты Berlin-Wartenberg (ЕХБ).
 
 ## [Berlin — Евангельские Христиане Берлин-Лихтенберг (баптисты)](https://spasenie.eu/churches/europe/germany/berlin-lichtenberg-ecg/)
-<p>ECG Berlin-Lichtenberg (ЕХБ).</p>
-<p>Расписание служений: <a href="https://lichtenberg.ecg-berlin.de/kalender/">https://lichtenberg.ecg-berlin.de/kalender/</a></p>
+
+ECG Berlin-Lichtenberg (ЕХБ).
+Расписание служений: https://lichtenberg.ecg-berlin.de/kalender/
 
 ## [Berlin — Евангельские Христиане Берлин-Хеллерсдорф](https://spasenie.eu/churches/europe/germany/berlin-hellersdorf-ecg/)
-<p>Евангельские Христиане Берлин (ЕХБ).</p>
-<p>Пасторы: Александр Арцер, Иван Фризин</p>
+
+Евангельские Христиане Берлин (ЕХБ).
+Пасторы: Александр Арцер, Иван Фризин
 
 ## [Berlin — Евангельские Христиане Берлин-Шпандау](https://spasenie.eu/churches/europe/germany/berlin-spandau-ecg/)
-<p>ECG Berlin-Spandau (ЕХБ).</p>
-<p>Расписание служений: <a href="https://spandau.ecg-berlin.de/kalender/">https://spandau.ecg-berlin.de/kalender/</a></p>
+
+ECG Berlin-Spandau (ЕХБ).
+Расписание служений: https://spandau.ecg-berlin.de/kalender/
 
 ## [Berlin — Мессианская община «Алеф» в Берлине](https://spasenie.eu/churches/europe/germany/berlin-alef/)
-<p>Мессианская община «Алеф» в Берлине (ЕХБ).</p>
-<p>Пастор: Леонид Крутер</p>
+
+Мессианская община «Алеф» в Берлине (ЕХБ).
+Пастор: Леонид Крутер
 
 ## [Bielefeld — Украинская церковь в Билефельде](https://spasenie.eu/churches/europe/germany/bielefeld-ukr/)
-<p>Украинская церковь в Билефельде.</p>
-<p>Служители: Дуднік Василь, Сухий Андрій</p>
+
+Украинская церковь в Билефельде.
+Служители: Дуднік Василь, Сухий Андрій
 
 ## [Birkenfeld — ЕХБ церковь «Свет этого мира» в Биркенфельде](https://spasenie.eu/churches/europe/germany/birkenfeld-licht/)
-<p>Evangelisch Freikirchliche Gemeinde «Licht dieser Welt» в Биркенфельде (ЕХБ).</p>
-<p>Пастор: Андреас Патц</p>
+
+Evangelisch Freikirchliche Gemeinde «Licht dieser Welt» в Биркенфельде (ЕХБ).
+Пастор: Андреас Патц
 
 ## [Bonn — Украинская церковь в Бонне](https://spasenie.eu/churches/europe/germany/bonn-ukr/)
-<p>Украинская церковь в Бонне.</p>
-<p>Служитель: Ігор Дудка</p>
+
+Украинская церковь в Бонне.
+Служитель: Ігор Дудка
 
 ## [Braunschweig — Библейская церковь г. Брауншвайг](https://spasenie.eu/churches/europe/germany/braunschweig-bibelgemeinde/)
-<p>Библейская церковь в Брауншвайге.</p>
+
+Библейская церковь в Брауншвайге.
 
 ## [Diepholz — Церковь евангельских христиан в Дипхольце (ЕХБ)](https://spasenie.eu/churches/europe/germany/diepholz-ehb/)
-<p>Церковь евангельских христиан в Дипхольце (ЕХБ).</p>
-<p>Пастор: Юра Зайферт</p>
+
+Церковь евангельских христиан в Дипхольце (ЕХБ).
+Пастор: Юра Зайферт
 
 ## [Dietzholztal — Украинская церковь в Дитцхёльцтале](https://spasenie.eu/churches/europe/germany/dietzholztal-ukr/)
-<p>Украинская церковь в Дитцхёльцтале (FBG Dillenburg).</p>
-<p>Служители: Віталій, Олена</p>
+
+Украинская церковь в Дитцхёльцтале (FBG Dillenburg).
+Служители: Віталій, Олена
 
 ## [Dinslaken — Церковь ЕХБ в Динслакене](https://spasenie.eu/churches/europe/germany/dinslaken-ehb/)
-<p>Церковь ЕХБ в Динслакене.</p>
-<p>Пастор: Виктор Гаврилов</p>
-<p>Служитель: Виктор Хайдэ</p>
+
+Церковь ЕХБ в Динслакене.
+Пастор: Виктор Гаврилов
+Служитель: Виктор Хайдэ
 
 ## [Dortmund — Евангельская христианская церковь в Дортмунде](https://spasenie.eu/churches/europe/germany/dortmund-fecg/)
-<p>Евангельская христианская церковь в Дортмунде (ЕХБ).</p>
-<p>Пастор: Peter Dick</p>
+
+Евангельская христианская церковь в Дортмунде (ЕХБ).
+Пастор: Peter Dick
 
 ## [Dortmund — Церковь евангельских христиан в Дортмунде «Evangeliumslicht»](https://spasenie.eu/churches/europe/germany/dortmund-evangeliumslicht/)
-<p>Церковь евангельских христиан в Дортмунде «Evangeliumslicht» (ЕХБ).</p>
-<p>Пастор: Виктор Иванов</p>
+
+Церковь евангельских христиан в Дортмунде «Evangeliumslicht» (ЕХБ).
+Пастор: Виктор Иванов
 
 ## [Dresden — Евангельские Христиане-баптисты, город Дрезден](https://spasenie.eu/churches/europe/germany/dresden-ehb/)
-<p>Евангельские Христиане-баптисты в Дрездене (ЕХБ).</p>
-<p>Пастор: Пётр Икс (Peter Iks)</p>
+
+Евангельские Христиане-баптисты в Дрездене (ЕХБ).
+Пастор: Пётр Икс (Peter Iks)
 
 ## [Duisburg — Евангельская Церковь в городе Дуйсбург](https://spasenie.eu/churches/europe/germany/duisburg-ehb/)
-<p>Евангельская Церковь в городе Дуйсбург (ЕХБ).</p>
-<p>Пастор: Алексей Бедаш</p>
-<p>Служители: Александр Мовчан (+49175 4418441), Сергей Лобанков (+49173 7467656)</p>
+
+Евангельская Церковь в городе Дуйсбург (ЕХБ).
+Пастор: Алексей Бедаш
+Служители: Александр Мовчан (+49175 4418441), Сергей Лобанков (+49173 7467656)
 
 ## [Duren — Украинская церковь в Дюрене](https://spasenie.eu/churches/europe/germany/duren-ukr/)
-<p>Украинская церковь в Дюрене.</p>
-<p>Служители: Сінкевич Володимир, Руденко Владислав</p>
+
+Украинская церковь в Дюрене.
+Служители: Сінкевич Володимир, Руденко Владислав
 
 ## [Dusseldorf — Христианская Церковь «Источник» Дюссельдорф](https://spasenie.eu/churches/europe/germany/dusseldorf-istochnik/)
-<p>Христианская Церковь «Источник» в Дюссельдорфе.</p>
-<p>Пастор: Юрий Славуцкий</p>
+
+Христианская Церковь «Источник» в Дюссельдорфе.
+Пастор: Юрий Славуцкий
 
 ## [Eisenhuettenstadt — Евангельские христиане баптисты Eisenhüttenstadt](https://spasenie.eu/churches/europe/germany/eisenhuettenstadt-ehb/)
-<p>Евангельские христиане баптисты в Eisenhüttenstadt (ЕХБ).</p>
-<p>Пастор: Виталий Янке</p>
+
+Евангельские христиане баптисты в Eisenhüttenstadt (ЕХБ).
+Пастор: Виталий Янке
 
 ## [Erkrath — Церковь евангельских христиан в Эркрате (ЕХБ)](https://spasenie.eu/churches/europe/germany/erkrath-ehb/)
-<p>Церковь евангельских христиан в Эркрате (ЕХБ).</p>
-<p>Пастор: Юра Мороз</p>
+
+Церковь евангельских христиан в Эркрате (ЕХБ).
+Пастор: Юра Мороз
 
 ## [Essen — Украинская церковь в Эссене](https://spasenie.eu/churches/europe/germany/essen-ukr/)
-<p>Украинская церковь в Эссене.</p>
-<p>Служитель: Бойко Олександр</p>
+
+Украинская церковь в Эссене.
+Служитель: Бойко Олександр
 
 ## [Ewersbach — Евангельская церковь в Эверсбахе](https://spasenie.eu/churches/europe/germany/ewersbach-feg/)
-<p>Евангельская церковь в Эверсбахе (ЕХБ).</p>
-<p>Служители: Альберт, Богдан</p>
-<p>Расписание: <a href="https://fegewersbach.de/termine-2/">https://fegewersbach.de/termine-2/</a></p>
+
+Евангельская церковь в Эверсбахе (ЕХБ).
+Служители: Альберт, Богдан
+Расписание: https://fegewersbach.de/termine-2/
 
 ## [Frankfurt — Церковь Евангельских Христиан Баптистов во Франкфурте на Майне](https://spasenie.eu/churches/europe/germany/frankfurt-ehb/)
-<p>Церковь Евангельских Христиан Баптистов во Франкфурте на Майне (ЕХБ).</p>
+
+Церковь Евангельских Христиан Баптистов во Франкфурте на Майне (ЕХБ).
 
 ## [Freiburg — Украинская церковь во Фрайбурге](https://spasenie.eu/churches/europe/germany/freiburg-ukr/)
-<p>Украинская церковь во Фрайбурге.</p>
-<p>Служитель: Моргун Сергій</p>
+
+Украинская церковь во Фрайбурге.
+Служитель: Моргун Сергій
 
 ## [Freiburg — Христианский центр «Источник жизни» (ХВЕ) Фрайбург](https://spasenie.eu/churches/europe/germany/freiburg-istochnik/)
-<p>Христианский центр «Источник жизни» во Фрайбурге (ХВЕ).</p>
-<p>Пастор: Николай Шмидт</p>
+
+Христианский центр «Источник жизни» во Фрайбурге (ХВЕ).
+Пастор: Николай Шмидт
 
 ## [Freudenstadt — Церковь «Новая Жизнь» Freudenstadt](https://spasenie.eu/churches/europe/germany/freudenstadt-neues-leben/)
-<p>Церковь «Новая Жизнь» во Фройденштадте (ЕХБ).</p>
-<p>Пастор: Viacheslav Voronin</p>
+
+Церковь «Новая Жизнь» во Фройденштадте (ЕХБ).
+Пастор: Viacheslav Voronin
 
 ## [Gensingen — Украинская церковь в Гензингене](https://spasenie.eu/churches/europe/germany/gensingen-ukr/)
-<p>Украинская церковь в Гензингене.</p>
-<p>Служитель: Хистов Павло</p>
+
+Украинская церковь в Гензингене.
+Служитель: Хистов Павло
 
 ## [Gummersbach — Украинская церковь в Гуммерсбахе](https://spasenie.eu/churches/europe/germany/gummersbach-ukr/)
-<p>Украинская церковь в Гуммерсбахе.</p>
-<p>Служитель: Скопич Микола</p>
+
+Украинская церковь в Гуммерсбахе.
+Служитель: Скопич Микола
 
 ## [Hamburg — Библейская церковь христиан баптистов Гамбург](https://spasenie.eu/churches/europe/germany/hamburg-bbg/)
-<p>Bibel Baptisten Gemeinde (Библейская церковь христиан баптистов) в Гамбурге (ЕХБ).</p>
+
+Bibel Baptisten Gemeinde (Библейская церковь христиан баптистов) в Гамбурге (ЕХБ).
 
 ## [Hamburg — Украинская церковь в Гамбурге](https://spasenie.eu/churches/europe/germany/hamburg-ukr/)
-<p>Украинская церковь в Гамбурге.</p>
-<p>Служитель: Ігор Регер</p>
+
+Украинская церковь в Гамбурге.
+Служитель: Ігор Регер
 
 ## [Hamburg — Церковь «Слово Истины» Гамбург (баптисты)](https://spasenie.eu/churches/europe/germany/hamburg-slovo-istiny/)
-<p>Frei evangelische Gemeinde «Wort der Wahrheit» (Слово Истины - баптисты) в Гамбурге (ЕХБ).</p>
-<p>Пастор: Игорь Регер</p>
+
+Frei evangelische Gemeinde «Wort der Wahrheit» (Слово Истины - баптисты) в Гамбурге (ЕХБ).
+Пастор: Игорь Регер
 
 ## [Hamburg — Церковь ЕХБ «Божия Благодать» Гамбург](https://spasenie.eu/churches/europe/germany/hamburg-bozhia-blagodat/)
-<p>Церковь ЕХБ «Божия Благодать» в Гамбурге.</p>
-<p>Пастор: Виктор Буб</p>
-<p>Служители: Andrey Reiswich</p>
+
+Церковь ЕХБ «Божия Благодать» в Гамбурге.
+Пастор: Виктор Буб
+Служители: Andrey Reiswich
 
 ## [Hameln — Украинская церковь в Хамельне](https://spasenie.eu/churches/europe/germany/hameln-ukr/)
-<p>Украинская церковь в Хамельне.</p>
-<p>Служитель: Румянцев Геннадій</p>
+
+Украинская церковь в Хамельне.
+Служитель: Румянцев Геннадій
 
 ## [Hannover — «Вифания» — Дом молитвы для всех народов, Ганновер](https://spasenie.eu/churches/europe/germany/hannover-vifania/)
-<p>«Вифания» — Дом молитвы для всех народов в Ганновере (ЕХБ).</p>
+
+«Вифания» — Дом молитвы для всех народов в Ганновере (ЕХБ).
 
 ## [Hannover — Украинская церковь в Ганновере](https://spasenie.eu/churches/europe/germany/hannover-ukr/)
-<p>Украинская церковь в Ганновере.</p>
-<p>Служитель: Мархель Андрій</p>
+
+Украинская церковь в Ганновере.
+Служитель: Мархель Андрій
 
 ## [Hannover — Украинские встречи в Ганновере](https://spasenie.eu/churches/europe/germany/hannover-ukr-2/)
-<p>Украинские христианские встречи в Ганновере.</p>
-<p>Служитель: Бондаркова Маріанна</p>
+
+Украинские христианские встречи в Ганновере.
+Служитель: Бондаркова Маріанна
 
 ## [Herford — Украинская церковь в Херфорде](https://spasenie.eu/churches/europe/germany/herford-ukr/)
-<p>Украинская церковь в Херфорде.</p>
-<p>Служитель: Сташко Назар</p>
+
+Украинская церковь в Херфорде.
+Служитель: Сташко Назар
 
 ## [Karlsruhe — Украинская церковь в Карлсруэ](https://spasenie.eu/churches/europe/germany/karlsruhe-ukr/)
-<p>Украинская церковь в Карлсруэ.</p>
-<p>Служитель: Куза Анатолій</p>
+
+Украинская церковь в Карлсруэ.
+Служитель: Куза Анатолій
 
 ## [Kehl — Евангельская церковь (ЕХБ) Kehl](https://spasenie.eu/churches/europe/germany/kehl-ehb/)
-<p>Евангельская церковь (ЕХБ) в Kehl.</p>
-<p>Пастор: Тимофей Монюк</p>
+
+Евангельская церковь (ЕХБ) в Kehl.
+Пастор: Тимофей Монюк
 
 ## [Kempten — Украинская церковь в Кемптене](https://spasenie.eu/churches/europe/germany/kempten-ukr/)
-<p>Украинская церковь в Кемптене.</p>
-<p>Служитель: Олійник Роман</p>
+
+Украинская церковь в Кемптене.
+Служитель: Олійник Роман
 
 ## [Koblenz — Русскоязычная свободная евангельская община Кобленц-Нойендорф](https://spasenie.eu/churches/europe/germany/koblenz-feg/)
-<p>Русскоязычная свободная евангельская община в Кобленц-Нойендорф (ЕХБ).</p>
-<p>Пастор: Александр Кабуло</p>
+
+Русскоязычная свободная евангельская община в Кобленц-Нойендорф (ЕХБ).
+Пастор: Александр Кабуло
 
 ## [Koblenz — Украинская церковь в Кобленце](https://spasenie.eu/churches/europe/germany/koblenz-ukr/)
-<p>Украинская церковь в Кобленце.</p>
-<p>Служитель: Mykhailo Tanchinets</p>
+
+Украинская церковь в Кобленце.
+Служитель: Mykhailo Tanchinets
 
 ## [Koln — Oxygenkirche Köln](https://spasenie.eu/churches/europe/germany/koln-oxygenkirche/)
-<p>Oxygenkirche Köln - украинская церковь в Кёльне.</p>
-<p>Также проводятся підліткові зустрічі.</p>
-<p>Служитель: Савчук Максим</p>
+
+Oxygenkirche Köln - украинская церковь в Кёльне.
+Также проводятся підліткові зустрічі.
+Служитель: Савчук Максим
 
 ## [Koln — Евангельская свободная церковь в Кёльне Хорвайлер](https://spasenie.eu/churches/europe/germany/koln-chorweiler/)
-<p>Evangelische Freikirche Köln Chorweiler (ЕХБ).</p>
-<p>Пастор: Andreas Ackermann</p>
+
+Evangelische Freikirche Köln Chorweiler (ЕХБ).
+Пастор: Andreas Ackermann
 
 ## [Lage — Баптистская церковь в Лаге (Gedison)](https://spasenie.eu/churches/europe/germany/lage-baptist/)
-<p>Fr.ev. Baptistengemeinde Lage (Gedison) - Баптистская церковь.</p>
+
+Fr.ev. Baptistengemeinde Lage (Gedison) - Баптистская церковь.
 
 ## [Lage — Украинская церковь в Лаге](https://spasenie.eu/churches/europe/germany/lage-ukr/)
-<p>Украинская церковь в Лаге.</p>
-<p>Служители: Іванюк Віктор, Лазарів Михайло</p>
+
+Украинская церковь в Лаге.
+Служители: Іванюк Віктор, Лазарів Михайло
 
 ## [Lahr — Христианский Центр «Агапе» (ХВЕ-BFP) Лар](https://spasenie.eu/churches/europe/germany/lahr-agape/)
-<p>Христианский Центр «Агапе» в Ларе (ХВЕ-BFP).</p>
-<p>Пастор: Георгий Динкель</p>
+
+Христианский Центр «Агапе» в Ларе (ХВЕ-BFP).
+Пастор: Георгий Динкель
 
 ## [Landstuhl — Українська Біблійна Церква «Рема» Ландштуль](https://spasenie.eu/churches/europe/germany/landstuhl-rema/)
-<p>Українська Біблійна Церква «Рема» в Ландштуле.</p>
-<p>Служитель: Чайка Ілля</p>
+
+Українська Біблійна Церква «Рема» в Ландштуле.
+Служитель: Чайка Ілля
 
 ## [Leipzig — Церковь евангельских христиан «Агапе» в Лейпциге](https://spasenie.eu/churches/europe/germany/leipzig-agape/)
-<p>Церковь евангельских христиан «Агапе» в Лейпциге (Evangeliums-Christen Gemeinde Leipzig).</p>
+
+Церковь евангельских христиан «Агапе» в Лейпциге (Evangeliums-Christen Gemeinde Leipzig).
 
 ## [Morsbach — Украинская Евангельская Церковь в Морсбахе](https://spasenie.eu/churches/europe/germany/morsbach-ukrainische/)
-<p>Ukrainisch Frei Evangelisch Gemeinde (Украинская Евангельская Церковь) в Морсбахе.</p>
-<p>Богослужения проходят на украинском и русском языках.</p>
-<p>Служитель: Денис Швец</p>
+
+Ukrainisch Frei Evangelisch Gemeinde (Украинская Евангельская Церковь) в Морсбахе.
+Богослужения проходят на украинском и русском языках.
+Служитель: Денис Швец
 
 ## [Munchen — New Generation Мюнхен](https://spasenie.eu/churches/europe/germany/munchen-new-generation/)
-<p>New Generation - украинская церковь в Мюнхене.</p>
-<p>Служитель: Миронюк Сергій</p>
+
+New Generation - украинская церковь в Мюнхене.
+Служитель: Миронюк Сергій
 
 ## [Munchen — Славянская Церковь ЕХБ г. Мюнхен](https://spasenie.eu/churches/europe/germany/munchen-ehb/)
-<p>Славянская Церковь ЕХБ г. Мюнхен.</p>
-<p>Пастор: Роман Игнатов</p>
+
+Славянская Церковь ЕХБ г. Мюнхен.
+Пастор: Роман Игнатов
 
 ## [Munchen — Украинская церковь в Мюнхене](https://spasenie.eu/churches/europe/germany/munchen-ukr/)
-<p>Украинская церковь в Мюнхене.</p>
-<p>Служитель: Ігнатов Олександр</p>
+
+Украинская церковь в Мюнхене.
+Служитель: Ігнатов Олександр
 
 ## [Munster — Украинская церковь в Мюнстере](https://spasenie.eu/churches/europe/germany/munster-ukr/)
-<p>Украинская церковь в Мюнстере (Dieburg).</p>
-<p>Служитель: Солотковський Роман</p>
+
+Украинская церковь в Мюнстере (Dieburg).
+Служитель: Солотковський Роман
 
 ## [Nordhorn — ЕХБ Джерело Життя Нордхорн](https://spasenie.eu/churches/europe/germany/nordhorn-baptist/)
-<p>ЕХБ Джерело Життя в Nordhorn.</p>
-<p>Служители: Михаил (+4917621653804), Анатолий (+4915120417309)</p>
+
+ЕХБ Джерело Життя в Nordhorn.
+Служители: Михаил (+4917621653804), Анатолий (+4915120417309)
 
 ## [Nurnberg — Христианская Церковь «Невеста Христа» (ХВЕ) Нюрнберг](https://spasenie.eu/churches/europe/germany/nurnberg-nevesta/)
-<p>Христианская Церковь «Невеста Христа» в Нюрнберге (ХВЕ).</p>
-<p>Пастор: Алискер Сулейманов</p>
+
+Христианская Церковь «Невеста Христа» в Нюрнберге (ХВЕ).
+Пастор: Алискер Сулейманов
 
 ## [Nurtingen — Украинская церковь в Нюртингене](https://spasenie.eu/churches/europe/germany/nurtingen-ukr/)
-<p>Украинская церковь в Нюртингене.</p>
-<p>Служитель: Редькін Юрій</p>
+
+Украинская церковь в Нюртингене.
+Служитель: Редькін Юрій
 
 ## [Offenburg — Украинская церковь в Оффенбурге](https://spasenie.eu/churches/europe/germany/offenburg-ukr/)
-<p>Украинская церковь в Оффенбурге.</p>
-<p>Служитель: Монюк Тимофій</p>
+
+Украинская церковь в Оффенбурге.
+Служитель: Монюк Тимофій
 
 ## [Recklinghausen — Группа по изучению Библии на русском в Реклингхаузене](https://spasenie.eu/churches/europe/germany/recklinghausen-gruppe/)
-<p>Группа по изучению Библии на русском в Реклингхаузене (ЕХБ).</p>
-<p>Лидер: Bergman Viktor</p>
+
+Группа по изучению Библии на русском в Реклингхаузене (ЕХБ).
+Лидер: Bergman Viktor
 
 ## [Regensburg — Христианская община в Регенсбурге](https://spasenie.eu/churches/europe/germany/regensburg-christliche/)
-<p>Christliche Gemeinde в Регенсбурге (ЕХБ).</p>
-<p>Пастор: Вигель Влад</p>
+
+Christliche Gemeinde в Регенсбурге (ЕХБ).
+Пастор: Вигель Влад
 
 ## [Rengsdorf — Украинская церковь в Ренгсдорфе](https://spasenie.eu/churches/europe/germany/rengsdorf-ukr/)
-<p>Украинская церковь в Ренгсдорфе (Kreis Neuwied).</p>
-<p>Служители: Агоштин Валерій, Кумпан Сергій</p>
+
+Украинская церковь в Ренгсдорфе (Kreis Neuwied).
+Служители: Агоштин Валерій, Кумпан Сергій
 
 ## [Rostock — Церковь баптистов Росток](https://spasenie.eu/churches/europe/germany/rostock-baptist/)
-<p>Церковь баптистов в Ростоке (ЕХБ).</p>
-<p>Пастор: Сергей Толмач</p>
-<p>Обратите внимание, что время проведения богослужений может измениться в августе. Следите за обновлениями в группе.</p>
+
+Церковь баптистов в Ростоке (ЕХБ).
+Пастор: Сергей Толмач
+Обратите внимание, что время проведения богослужений может измениться в августе. Следите за обновлениями в группе.
 
 ## [Salzwedel — Украинская Христианская Церковь ЕХБ Salzwedel](https://spasenie.eu/churches/europe/germany/salzwedel-ukrainische/)
-<p>Украинская Христианская Церковь ЕХБ в Salzwedel.</p>
-<p>Пастор: Валерий Носачёв</p>
-<p>Служитель: Иван Носачёв</p>
+
+Украинская Христианская Церковь ЕХБ в Salzwedel.
+Пастор: Валерий Носачёв
+Служитель: Иван Носачёв
 
 ## [Schwabisch — Украинская церковь в Швебиш-Гмюнде](https://spasenie.eu/churches/europe/germany/schwabisch-gmund-ukr/)
-<p>Украинская церковь в Швебиш-Гмюнде.</p>
-<p>Служитель: Мельницький Вʼячеслав</p>
+
+Украинская церковь в Швебиш-Гмюнде.
+Служитель: Мельницький Вʼячеслав
 
 ## [Schwedt — Церковь Христа Спасителя Schwedt](https://spasenie.eu/churches/europe/germany/schwedt-christus/)
-<p>Церковь Христа Спасителя в Schwedt (Zweiggemeinde der EFG Eberswalde).</p>
-<p>Пастор: Владимир Атапин</p>
-<p>Служитель: Константин Щарипов</p>
-<p>Пятница и суббота - различные служения, смотри календарь церкви.</p>
+
+Церковь Христа Спасителя в Schwedt (Zweiggemeinde der EFG Eberswalde).
+Пастор: Владимир Атапин
+Служитель: Константин Щарипов
+Пятница и суббота - различные служения, смотри календарь церкви.
 
 ## [Sehnde — Украинская церковь в Зенде](https://spasenie.eu/churches/europe/germany/sehnde-ukr/)
-<p>Украинская церковь в Зенде.</p>
-<p>Служитель: Янченко Геннадій</p>
+
+Украинская церковь в Зенде.
+Служитель: Янченко Геннадій
 
 ## [Siegburg — Евангельская свободная церковь в Зигбурге](https://spasenie.eu/churches/europe/germany/siegburg-ef/)
-<p>Evangelische Freikirche Siegburg.</p>
-<p>Пастор: Петер Крёкер</p>
+
+Evangelische Freikirche Siegburg.
+Пастор: Петер Крёкер
 
 ## [Singen — Украинская церковь в Зингене](https://spasenie.eu/churches/europe/germany/singen-ukr/)
-<p>Украинская церковь в Зингене.</p>
-<p>Служитель: Корнута Іван</p>
+
+Украинская церковь в Зингене.
+Служитель: Корнута Іван
 
 ## [Trier — Украинская церковь в Трире](https://spasenie.eu/churches/europe/germany/trier-ukr/)
-<p>Украинская церковь в Трире.</p>
-<p>Служитель: Микола Кононенко</p>
+
+Украинская церковь в Трире.
+Служитель: Микола Кононенко
 
 ## [Walldorf — Украинская церковь в Вальдорфе](https://spasenie.eu/churches/europe/germany/walldorf-ukr/)
-<p>Украинская церковь в Вальдорфе.</p>
-<p>Служитель: Гереженко Александр</p>
+
+Украинская церковь в Вальдорфе.
+Служитель: Гереженко Александр
 
 ## [Wissen — Украинская церковь в Виссене](https://spasenie.eu/churches/europe/germany/wissen-ukr/)
-<p>Украинская церковь в Виссене.</p>
-<p>Служитель: Бокоч Федір</p>
+
+Украинская церковь в Виссене.
+Служитель: Бокоч Федір
 
 ## [Wuppertal — Украинская церковь в Вуппертале](https://spasenie.eu/churches/europe/germany/wuppertal-ukr/)
-<p>Украинская церковь в Вуппертале.</p>
-<p>Служитель: Ільченко Олександр</p>
+
+Украинская церковь в Вуппертале.
+Служитель: Ільченко Олександр
 

@@ -1,8 +1,24 @@
 ---
-title: Церковь Назарянина
-description: Русскоязычная церковь в Белграде
-url: https://spasenie.eu/churches/europe/serbia/serbija-nazarene/
+title: "Церковь Назарянина"
+description: "Русскоязычная церковь в Белграде"
+url: "https://spasenie.eu/churches/europe/serbia/serbija-nazarene/"
 date: 2026-04-14
+address: "Краљице Наталије, 28; Помещении благотворительной организации; Дела Любви; (первый высокий этаж)"
+coordinates:
+  lat: 44.812044
+  lon: 20.458651
+website: "https://nazarene.org/"
+schedule:
+  - day: "Воскресенье"
+    time: "16:00"
+    name: "Богослужение"
+    note: "Язык: Русский"
+  - day: "Вторник"
+    time: "19:00"
+    name: "Размышление о Библии"
+    note: "Язык: Русский"
+social:
+  instagram: "https://www.instagram.com/eurasiaregion"
 ---
 
 

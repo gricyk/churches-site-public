@@ -1,8 +1,21 @@
 ---
-title: МСЦ ЕХБ
-description: Международный Союз Церквей Евангельских Христиан-Баптистов
-url: https://spasenie.eu/churches/europe/serbia/novi-sad-msc-ehb/
+title: "МСЦ ЕХБ"
+description: "Международный Союз Церквей Евангельских Христиан-Баптистов"
+url: "https://spasenie.eu/churches/europe/serbia/novi-sad-msc-ehb/"
 date: 2026-04-14
+address: "Клисански пут 94, Нови Сад"
+coordinates:
+  lat: 45.290875699332915
+  lon: 19.819664868103867
+schedule:
+  - day: "Воскресенье"
+    time: "11:00"
+    name: "Богослужение"
+    note: "Язык: Русский"
+social:
+  facebook: "https://www.facebook.com/profile.php?id=61556961841374"
+telegram:
+  channel: "https://t.me/ehbserbia"
 ---
 
 

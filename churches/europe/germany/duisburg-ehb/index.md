@@ -1,8 +1,15 @@
 ---
-title: Duisburg — Евангельская Церковь в городе Дуйсбург
-description: Evangelische Kirche Duisburg
-url: https://spasenie.eu/churches/europe/germany/duisburg-ehb/
+title: "Duisburg — Евангельская Церковь в городе Дуйсбург"
+description: "Evangelische Kirche Duisburg"
+url: "https://spasenie.eu/churches/europe/germany/duisburg-ehb/"
 date: 2025-02-04
+address: "Sandmüllersweg 33, 47259 Duisburg, Germany"
+coordinates:
+  lat: 51.357674
+  lon: 6.730411
+phone: "+49 176 36369690"
+messengers:
+  whatsapp: "4917636369690"
 ---
 
 

@@ -1,8 +1,27 @@
 ---
-title: International Christian Fellowship
-description: Англоязычная межконфессиональная церковь в Белграде, также известная, как ICF
-url: https://spasenie.eu/churches/europe/serbia/belgrade-icf/
+title: "International Christian Fellowship"
+description: "Англоязычная межконфессиональная церковь в Белграде, также известная, как ICF"
+url: "https://spasenie.eu/churches/europe/serbia/belgrade-icf/"
 date: 2026-04-14
+address: "Moxy Belgrade Hotel – Ньегошева 2"
+coordinates:
+  lat: 44.805145
+  lon: 20.466203
+email: "contact@icfbelgrade.rs"
+website: "https://icfbelgrade.rs/"
+schedule:
+  - day: "Воскресенье"
+    time: "10:00 - 12:00"
+    name: "Богослужение"
+    note: "Язык: Английский; Перевод: Русский"
+  - day: "Среда"
+    time: "19:00"
+    name: "Домашние группы"
+    note: "Язык: Английский"
+social:
+  facebook: "https://www.facebook.com/BelgradeICF"
+  instagram: "https://www.instagram.com/icf.belgrade/"
+  youtube: "https://www.youtube.com/channel/UC7w-vJ7OPDriDwA03WEF9yQ"
 ---
 
 

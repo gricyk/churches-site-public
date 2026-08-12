@@ -1,8 +1,21 @@
 ---
-title: Moscow — Церковь ЕХБ Свобода - Москва
-description: Baptist church Freedom in Moscow
-url: https://spasenie.eu/churches/europe/russia/moscow-freedom/
+title: "Moscow — Церковь ЕХБ Свобода - Москва"
+description: "Baptist church Freedom in Moscow"
+url: "https://spasenie.eu/churches/europe/russia/moscow-freedom/"
 date: 2026-02-06
+address: "Москва, Россия"
+coordinates:
+  lat: 55.625578
+  lon: 37.606392
+phone: "+7 916 175 1163"
+email: "vitaliyzanin@gmail.com"
+website: "https://church.moscow/"
+social:
+  instagram: "https://instagram.com/svobodamoscow"
+  vk: "http://vk.com/svobodamoscow"
+  vkvideo: "https://vkvideo.ru/@svobodamoscow"
+telegram:
+  channel: "https://t.me/svobodamoscow"
 ---
 
 

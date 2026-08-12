@@ -1,8 +1,33 @@
 ---
-title: Prague — Церковь Евангельских Христиан Баптистов (Фриденштимме) – Прага
-description: Baptist Church in Prague (Friedensstimme)
-url: https://spasenie.eu/churches/europe/czech-republic/prague-baptist-fs/
+title: "Prague — Церковь Евангельских Христиан Баптистов (Фриденштимме) – Прага"
+description: "Baptist Church in Prague (Friedensstimme)"
+url: "https://spasenie.eu/churches/europe/czech-republic/prague-baptist-fs/"
 date: 2026-02-05
+address: "Žateckých 1169/11, Praha, Czechia"
+coordinates:
+  lat: 50.061234
+  lon: 14.434766
+phone: "+420 775 213 159"
+phone2: "+420 608 316 445"
+website: "https://www.baptist-praha.info"
+schedule:
+  - day: "Воскресенье"
+    time: "12:00"
+    name: "Богослужение"
+  - day: "Воскресенье"
+    time: "13:00"
+    name: "Детские часы"
+  - day: "Пятница"
+    time: "19:00"
+    name: "Молитвенное собрание и библейский час"
+  - day: "Суббота"
+    time: "19:00"
+    name: "Молодежное общение"
+social:
+  facebook: "https://www.facebook.com/cerkovrbaptistov"
+  youtube: "https://www.youtube.com/channel/UCbfDmzg1-NkkH5nTeht2WBA"
+telegram:
+  channel: "https://t.me/evangelievsemnarodam"
 ---
 
 

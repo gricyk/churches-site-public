@@ -1,8 +1,26 @@
 ---
-title: Хришћанска баптистичка црква Нови Сад
-description: Баптистская церковь в Новом Саде.
-url: https://spasenie.eu/churches/europe/serbia/novi-sad-baptisti/
+title: "Хришћанска баптистичка црква Нови Сад"
+description: "Баптистская церковь в Новом Саде."
+url: "https://spasenie.eu/churches/europe/serbia/novi-sad-baptisti/"
 date: 2026-04-14
+address: "Kolo srpskih sestara 24, Novi Sad"
+coordinates:
+  lat: 45.2406806988117
+  lon: 19.826965476563938
+website: "https://nsbaptisti.org.rs/"
+schedule:
+  - day: "Воскресенье"
+    time: "10:00"
+    name: "Богослужение"
+    note: "Язык: Сербский; Перевод: Английский"
+  - day: "Среда"
+    time: "19:00"
+    name: "Богослужение"
+    note: "Язык: Сербский"
+social:
+  facebook: "https://www.facebook.com/nsbaptisti"
+  instagram: "https://www.instagram.com/hbc.ns"
+  youtube: "https://www.youtube.com/@hriscanskabaptistickacrkva6115"
 ---
 
 

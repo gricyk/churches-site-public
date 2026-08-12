@@ -1,8 +1,26 @@
 ---
-title: Protestantska Hrišćanska zajednica
-description: Одна из самых больших протестантский церквей Нового Сада.
-url: https://spasenie.eu/churches/europe/serbia/novi-sad-protestant/
+title: "Protestantska Hrišćanska zajednica"
+description: "Одна из самых больших протестантский церквей Нового Сада."
+url: "https://spasenie.eu/churches/europe/serbia/novi-sad-protestant/"
 date: 2026-04-14
+address: "Bulevar Evrope 30, Novi Sad"
+coordinates:
+  lat: 45.24596935414466
+  lon: 19.818712647847985
+email: "office@cfns.org.rs"
+website: "https://phz.rs/"
+schedule:
+  - day: "Воскресенье"
+    time: "18:00 - 20:00"
+    name: "Богослужение"
+    note: "Язык: Сербский"
+  - day: "Пятница"
+    time: "20:00"
+    name: "Молодежное богослужение"
+    note: "Язык: Сербский"
+social:
+  facebook: "https://www.facebook.com/protestantskahriscanskazajednica.zajednica"
+  youtube: "https://www.youtube.com/@protestantskahriscanskazaj2418"
 ---
 
 

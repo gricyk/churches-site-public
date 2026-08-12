@@ -1,8 +1,24 @@
 ---
-title: Barneveld — Українська Біблійна Церква у Нідерландах
-description: Ukrainian Bible Church Netherlands
-url: https://spasenie.eu/churches/europe/netherlands/barneveld-ukrainska/
+title: "Barneveld — Українська Біблійна Церква у Нідерландах"
+description: "Ukrainian Bible Church Netherlands"
+url: "https://spasenie.eu/churches/europe/netherlands/barneveld-ukrainska/"
 date: 2025-02-04
+address: "Gasthuisstraat 5, 3771 HE Barneveld, Netherlands"
+coordinates:
+  lat: 52.141406
+  lon: 5.584372
+phone: "+380 938 768826"
+email: "valery.kiba@gmail.com"
+schedule:
+  - day: "Воскресенье"
+    time: "14:00"
+    name: "Недільне богослужіння"
+    note: "14:00-16:30"
+social:
+  instagram: "https://instagram.com/ukrainian_church_netherlands"
+  youtube: "https://www.youtube.com/@ukrainianbiblechurch-nl"
+messengers:
+  whatsapp: "380938768826"
 ---
 
 
