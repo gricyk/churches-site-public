@@ -9,7 +9,7 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 428
+Total churches: 427
 Coverage: 4 continents, 35 countries
 
 ## DATA FORMAT
@@ -2749,19 +2749,6 @@ Each church entry contains:
 - Website: https://nazarene.org/
 - Schedule: Воскресенье 16:00 (Богослужение); Вторник 19:00 (Размышление о Библии);
 - URL: https://spasenie.eu/churches/europe/serbia/serbija-nazarene/
-
-
-
-
-#### Евангельские церкви в Сербии — адреса и расписание
-- Description: Каталог евангельских церквей (ЕХБ) и баптистов в Сербии. Адреса, расписание богослужений, контакты.
-
-
-
-
-
-
-- URL: https://spasenie.eu/churches/europe/serbia/_index-old2/
 
 
 

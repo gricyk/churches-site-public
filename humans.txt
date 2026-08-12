@@ -9,7 +9,7 @@ Community: Russian-speaking and Ukrainian-speaking Christian churches worldwide
 Purpose: Connecting believers across the globe
 
 /* THANKS */
-Churches: To all 428 churches that shared their information
+Churches: To all 427 churches that shared their information
 Community: To the Russian-speaking and Ukrainian-speaking Christian diaspora
 Technology: Hugo, OpenStreetMap, Leaflet, GitHub
 
@@ -33,7 +33,7 @@ Vision: Connect every Russian-speaking and Ukrainian-speaking believer with a lo
 Values: Accuracy, Accessibility, Community, Faith
 
 /* DATA */
-Churches Listed: 428
+Churches Listed: 427
 Countries Covered: 35
 Continents: 4 (Europe, North America, Asia, Oceania)
 Data Format: Structured (Markdown + YAML)
