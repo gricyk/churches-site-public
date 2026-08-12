@@ -3,5 +3,8 @@
   "authorization_servers": [],
   "bearer_methods_supported": [],
   "resource_documentation": "https://spasenie.eu/llms.txt",
-  "resource_signing_alg_values_supported": []
+  "resource_signing_alg_values_supported": [],
+  "authentication_required": false,
+  "access_policy": "public",
+  "comment": "This site is a static, read-only catalogue. Every page and machine-readable endpoint (/llms.txt, /llms-full.txt, /churches/index.json, /sitemap.xml) is served anonymously under CC0. There is no authorization server, no OpenID Connect provider, no API keys and no tokens: /.well-known/openid-configuration and /.well-known/oauth-authorization-server are absent by design, not by omission. Do not attempt an OAuth flow — request the resources directly."
 }

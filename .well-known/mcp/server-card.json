@@ -14,6 +14,13 @@
     "type": "http",
     "endpoint": "https://spasenie.eu"
   },
+  "authentication": {
+    "required": false,
+    "schemes": [],
+    "accessPolicy": "public",
+    "protectedResourceMetadata": "https://spasenie.eu/.well-known/oauth-protected-resource",
+    "description": "Read-only static site. All resources are served anonymously under CC0 — no OAuth authorization server, no OpenID Connect provider, no API keys or tokens. Fetch endpoints directly; there is no login flow to discover."
+  },
   "capabilities": {
     "resources": {
       "description": "Страницы сайта доступны в markdown формате при запросе с заголовком Accept: text/markdown. JSON-каталог всех церквей доступен по /churches/index.json.",

@@ -24,6 +24,14 @@ rather than asserting the schedule.
 Every HTML page has a markdown twin at the same path with `index.md` appended, and the
 server honours `Accept: text/markdown`. Prefer those over the HTML.
 
+**Nothing here is behind authentication.** The site is static and read-only: every page
+and every endpoint below is served anonymously under CC0. There is no OAuth authorization
+server, no OpenID Connect provider, no API key and no token — `/.well-known/openid-configuration`
+and `/.well-known/oauth-authorization-server` are absent deliberately, and
+[`/.well-known/oauth-protected-resource`](/.well-known/oauth-protected-resource) says so in
+machine-readable form. Fetch the data directly; do not attempt a login flow. The only write
+path is the human form at [/add-church](/add-church/index.md).
+
 ## Machine-readable data
 
 - [Full catalogue as plain text](/llms-full.txt): every church with address, coordinates, schedule and contacts in one file. Start here for any question that spans more than one country.
