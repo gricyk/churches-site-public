@@ -1,11 +1,10 @@
-<IfModule mod_headers.c>
-  Header add Link "</llms.txt>; rel=\"describedby\""
-  Header add Link "</sitemap.xml>; rel=\"sitemap\""
-  Header add Link "</.well-known/api-catalog>; rel=\"api-catalog\""
-  Header add Link "</.well-known/mcp/server-card.json>; rel=\"mcp-server-card\""
-  Header add Link "</.well-known/agent-skills/index.json>; rel=\"agent-skills\""
-  Header add Link "</.well-known/oauth-protected-resource>; rel=\"oauth-protected-resource\""
-</IfModule>
+# Link-заголовки (RFC 8288) задаются в nginx, а НЕ здесь — см. deploy/README.md.
+#
+# Отсюда они были удалены 2026-08-12. Причина: nginx отдаёт статику через
+# X-Accel-Redirect, и заголовки ответа Apache на этом переходе теряются —
+# на обычных GET клиент не получал ни одного Link. Теперь их добавляет
+# add_header уровня server в «Additional nginx directives» домена.
+# Если вернуть блок сюда, на HEAD-запросах каждый rel придёт дважды.
 
 <Files "index.json">
   Header set Content-Type "application/json"
