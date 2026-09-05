@@ -3,10 +3,10 @@ title: "Lodz — Біблійна церква «Alfa»"
 description: "Біблійна церква «Alfa» — українська євангельська церква в Лодзі"
 url: "https://spasenie.eu/churches/europe/poland/lodz-ukr/"
 date: 2026-09-05
-address: "Navrot 27, Łódź, Poland"
+address: "Mikołaja Kopernika 36b, 90-552 Łódź, Poland"
 coordinates:
-  lat: 51.768732
-  lon: 19.456991
+  lat: 51.7606757
+  lon: 19.4453941
 phone: "+48 536 071 432"
 email: "bogunbogdan579@gmail.com"
 schedule:

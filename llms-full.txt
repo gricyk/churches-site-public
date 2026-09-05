@@ -2101,8 +2101,8 @@ Each church entry contains:
 
 #### Lodz — Біблійна церква «Alfa»
 - Description: Біблійна церква «Alfa» — українська євангельська церква в Лодзі
-- Address: Navrot 27, Łódź, Poland
-- Coordinates: 51.768732, 19.456991
+- Address: Mikołaja Kopernika 36b, 90-552 Łódź, Poland
+- Coordinates: 51.7606757, 19.4453941
 - Phone: +48 536 071 432
 - Email: bogunbogdan579@gmail.com
 
