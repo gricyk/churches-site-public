@@ -3,7 +3,7 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-08-12
+# Generated: 2026-09-05
 
 ## OVERVIEW
 
@@ -2086,6 +2086,19 @@ Each church entry contains:
 **Евангельские церкви в Польше — адреса и расписание**
 
 
+#### Lodz — Біблійна церква «Alfa»
+- Description: Біблійна церква «Alfa» — українська євангельська церква в Лодзі
+- Address: Navrot 27, Łódź, Poland
+- Coordinates: 51.768732, 19.456991
+- Phone: +48 536 071 432
+- Email: bogunbogdan579@gmail.com
+
+- Schedule: Неділя 11:00 (Богослужіння); П'ятниця 18:00 (Молодіжне служіння);
+- URL: https://spasenie.eu/churches/europe/poland/lodz-ukr/
+
+
+
+
 #### Krakow - Евангельская церковь Свет Евангелия в Кракове – Краков
 - Description: Light of the Gospel Evangelical Church
 - Address: Stanisława Wyspiańskiego 4, Kraków, Poland
@@ -2251,19 +2264,6 @@ Each church entry contains:
 
 
 - URL: https://spasenie.eu/churches/europe/poland/krakow-biblijna/
-
-
-
-
-#### Lodz — Церква в Лодзі
-- Description: Ukrainian Church Łódź
-- Address: Navrot 27, Łódź, Poland
-- Coordinates: 51.768732, 19.456991
-- Phone: +380 536071432
-- Email: bogunbogdan579@gmail.com
-
-- Schedule: Неділя 14:00-16:00 (Богослужіння);
-- URL: https://spasenie.eu/churches/europe/poland/lodz-ukr/
 
 
 

@@ -2,6 +2,12 @@
 
 Каталог евангельских церквей (ЕХБ) и баптистов в Польше. Адреса, расписание богослужений, контакты. 26 церквей в каталоге.
 
+## [Lodz — Біблійна церква «Alfa»](https://spasenie.eu/churches/europe/poland/lodz-ukr/)
+
+Біблійна церква «Alfa» — українська євангельська церква в Лодзі.
+Богослужіння відбуваються щонеділі об 11:00, молодіжне служіння — у п&rsquo;ятницю о 18:00.
+Служитель: Богдан Богун
+
 ## [Krakow - Евангельская церковь Свет Евангелия в Кракове – Краков](https://spasenie.eu/churches/europe/poland/krakow-light-gospel/)
 
 Євангельська церква «Світло Євангелія» / Kościół ewangelicki „Światło Ewangelii”
@@ -67,11 +73,6 @@
 
 Biblijny Zbór KChB - Біблійна церква в Кракові.
 Служитель: Василь Куриленко
-
-## [Lodz — Церква в Лодзі](https://spasenie.eu/churches/europe/poland/lodz-ukr/)
-
-Українська церква в Лодзі.
-Служитель: Богун Богдан
 
 ## [Lublin — Баптистська церква в Любліні](https://spasenie.eu/churches/europe/poland/lublin-baptist/)
 
