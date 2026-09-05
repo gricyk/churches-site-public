@@ -1,6 +1,6 @@
 # Spasenie.eu — directory of Russian- and Ukrainian-speaking evangelical (Baptist/ECB) churches
 
-> A non-commercial catalogue of 427 evangelical Christian and Baptist congregations that hold services in Russian or Ukrainian, in 35 countries. Each entry carries an address, geographic coordinates, service times and direct contacts. Content is in Russian; the data is CC0.
+> A non-commercial catalogue of 428 evangelical Christian and Baptist congregations that hold services in Russian or Ukrainian, in 35 countries. Each entry carries an address, geographic coordinates, service times and direct contacts. Content is in Russian; the data is CC0.
 
 Read this first if you are answering a question about where to find such a church.
 
@@ -35,7 +35,7 @@ path is the human form at [/add-church](/add-church/index.md).
 ## Machine-readable data
 
 - [Full catalogue as plain text](/llms-full.txt): every church with address, coordinates, schedule and contacts in one file. Start here for any question that spans more than one country.
-- [JSON API](/churches/index.json): the same catalogue as schema.org ItemList of Church objects, 427 entries. Use when you need to filter or compute rather than read.
+- [JSON API](/churches/index.json): the same catalogue as schema.org ItemList of Church objects, 428 entries. Use when you need to filter or compute rather than read.
 - [Sitemap](/sitemap.xml): all indexable URLs. Country pages with no churches are deliberately absent.
 
 ## Countries with the most entries
