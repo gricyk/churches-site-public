@@ -9,8 +9,8 @@
 
 This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
 
-Total churches: 428
-Coverage: 4 continents, 35 countries
+Total churches: 445
+Coverage: 5 continents, 38 countries
 
 ## DATA FORMAT
 
@@ -6377,6 +6377,58 @@ Each church entry contains:
 **Евангельские церкви в Аргентине — адреса и расписание**
 
 
+#### Buenos Aires — Вторая славянская баптистская церковь «Вефиль»
+- Description: Segunda Iglesia Bautista Eslava «Bethel» — славянская баптистская церковь в районе Велес-Сарсфилд
+- Address: Martínez Castro 249, C1407 Vélez Sarsfield, Ciudad Autónoma de Buenos Aires, Argentina
+- Coordinates: -34.63708, -58.480754
+- Phone: +54 11 4671-2153
+
+
+
+- URL: https://spasenie.eu/churches/south-america/argentina/buenos-aires-segunda-eslava-bethel/
+
+
+
+
+#### Buenos Aires — Первая славянская евангельская церковь
+- Description: Iglesia Cristiana Evangélica Eslava («Primera Eslava») — старейшая славянская баптистская церковь Буэнос-Айреса
+- Address: Saavedra 1281-1283, C1247ACA Ciudad Autónoma de Buenos Aires, Argentina
+- Coordinates: -34.62475, -58.401147
+- Phone: +54 11 4942-1013
+- Email: info@iglesiadesaavedra.com
+- Website: https://iglesiadesaavedra.com/
+- Schedule: Воскресенье 11:00 (Богослужение); Пятница 19:30 (Служение); Суббота 20:00 (Служение);
+- URL: https://spasenie.eu/churches/south-america/argentina/buenos-aires-primera-eslava/
+
+
+
+
+#### Buenos Aires — Славянская церковь «Свободные братья»
+- Description: Iglesia Eslava (Hermanos Libres) — славянская община свободных братьев в районе Велес-Сарсфилд
+- Address: Avenida Dr. J. F. Aranguren 4525, C1407 Vélez Sarsfield, Ciudad Autónoma de Buenos Aires, Argentina
+- Coordinates: -34.631149, -58.491781
+
+
+
+
+- URL: https://spasenie.eu/churches/south-america/argentina/buenos-aires-eslava-hermanos-libres/
+
+
+
+
+#### La Plata — Славянская евангельская баптистская церковь
+- Description: Iglesia Bautista Evangélica Eslava — славянская баптистская церковь в Вилья-Лисандро-Ольмос под Ла-Платой
+- Address: Calle 200 s/n, entre calles 40 y 41, Villa Lisandro Olmos, B1901 La Plata, Provincia de Buenos Aires, Argentina
+- Coordinates: -34.9956, -58.05478
+- Phone: +54 221 496-3674
+- Email: jibo_200@hotmail.com
+- Website: https://www.bautistas.org.ar
+
+- URL: https://spasenie.eu/churches/south-america/argentina/la-plata-eslava/
+
+
+
+
 
 
 **Евангельские церкви в Боливии — адреса и расписание**
@@ -6385,6 +6437,110 @@ Each church entry contains:
 
 
 **Евангельские церкви в Бразилии — адреса и расписание**
+
+
+#### Apucarana — Русская пятидесятническая Ассамблея Бога
+- Description: Igreja Evangélica Assembleia de Deus Pentecostal Russa do Brasil в Апукаране — община русской пятидесятнической деноминации Бразилии
+- Address: Rua Miguel Simião 580, Centro, Apucarana - PR, 86800-260, Brasil
+- Coordinates: -23.5551385, -51.4632132
+
+
+
+
+- URL: https://spasenie.eu/churches/south-america/brazil/apucarana-ad-russa/
+
+
+
+
+#### Curitiba — Баптистская церковь «Агуа-Верде»
+- Description: Igreja Batista Água Verde — бывшая Первая славянская евангельская баптистская церковь Куритибы
+- Address: Rua Coronel Dulcídio 1906, Água Verde, Curitiba - PR, 80250-100, Brasil
+- Coordinates: -25.4496583, -49.2781864
+- Phone: +55 41 8807-3366
+
+- Website: https://ibavcuritiba.wordpress.com
+
+- URL: https://spasenie.eu/churches/south-america/brazil/curitiba-agua-verde/
+
+
+
+
+#### Curitiba — Русская пятидесятническая Ассамблея Бога
+- Description: Igreja Evangélica Assembleia de Deus Pentecostal Russa do Brasil в Куритибе — община русской пятидесятнической деноминации Бразилии
+- Address: Rua Bom Jesus de Iguape 1572, Hauer, Curitiba - PR, 81610-040, Brasil
+- Coordinates: -25.4745155, -49.2481255
+
+
+
+
+- URL: https://spasenie.eu/churches/south-america/brazil/curitiba-ad-russa/
+
+
+
+
+#### Erechim — Русская пятидесятническая Ассамблея Бога
+- Description: Igreja Evangélica Assembleia de Deus Pentecostal Russa do Brasil в Эрешине — община русской пятидесятнической деноминации Бразилии
+- Address: Rua Elisa Wacchi 102, Três Vendas, Erechim - RS, Brasil
+- Coordinates: -27.6429356, -52.2997419
+
+
+
+
+- URL: https://spasenie.eu/churches/south-america/brazil/erechim-ad-russa/
+
+
+
+
+#### General Câmara — Русская пятидесятническая Ассамблея Бога
+- Description: Igreja Evangélica Assembleia de Deus Pentecostal Russa do Brasil в колонии Мандурин — сельская община русской пятидесятнической деноминации
+- Address: Colônia Mandurin, General Câmara - RS, 95820-000, Brasil
+- Coordinates: -29.9059611, -51.7626198
+
+
+
+
+- URL: https://spasenie.eu/churches/south-america/brazil/general-camara-ad-russa/
+
+
+
+
+#### São Caetano do Sul — Баптистская церковь «Новая жизнь»
+- Description: Igreja Batista Nova Vida — бывшая Первая украинская баптистская церковь Сан-Паулу, основана в 1955 году
+- Address: Rua São Francisco de Assis 107, Santa Maria, São Caetano do Sul - SP, 09560-520, Brasil
+- Coordinates: -23.6347853, -46.5521753
+- Phone: +55 11 4220-5832
+- Email: secretariaibnovavidascs@gmail.com
+- Website: https://igrejabatistanovavida.com.br/
+- Schedule: Воскресенье 10:00 (Утреннее богослужение); Воскресенье 18:30 (Вечернее богослужение); Понедельник 19:30 (Молитвенное служение); Среда 20:00 (Изучение Библии);
+- URL: https://spasenie.eu/churches/south-america/brazil/sao-caetano-do-sul-nova-vida/
+
+
+
+
+#### São Paulo — Евангельская баптистская церковь «Свет»
+- Description: Igreja Evangélica Batista Luz — бывшая Первая русская баптистская церковь Сан-Паулу, основана в 1926 году
+- Address: Rua Prates 399, Bom Retiro, São Paulo - SP, 01121-000, Brasil
+- Coordinates: -23.5304256, -46.6363352
+
+- Email: contato@ibluz.teo.br
+- Website: https://ibluz.teo.br/
+
+- URL: https://spasenie.eu/churches/south-america/brazil/sao-paulo-batista-luz/
+
+
+
+
+#### São Paulo — Русская пятидесятническая Ассамблея Бога Бразилии
+- Description: Igreja Evangélica Assembleia de Deus Pentecostal Russa do Brasil — головная церковь русской пятидесятнической деноминации Бразилии, основана в 1936 году
+- Address: Rua Pitinga 116, Vila Lúcia, São Paulo - SP, 03146-030, Brasil
+- Coordinates: -23.59324, -46.57797
+- Phone: +55 11 2346-2380
+
+
+
+- URL: https://spasenie.eu/churches/south-america/brazil/sao-paulo-ad-russa/
+
+
 
 
 
@@ -6405,6 +6561,71 @@ Each church entry contains:
 
 
 **Евангельские церкви в Парагвае — адреса и расписание**
+
+
+#### Carmen del Paraná — Славянская баптистская церковь «Калье 7»
+- Description: Iglesia Bautista Eslava de Calle 7 — славянская баптистская церковь в Кармен-дель-Парана, основана в 1930 году
+- Address: Calle 7, Carmen del Paraná, Departamento de Itapúa, Paraguay
+- Coordinates: -27.2209064, -56.1479269
+
+
+
+
+- URL: https://spasenie.eu/churches/south-america/paraguay/carmen-del-parana-eslava-calle-7/
+
+
+
+
+#### Fram — Первая славянская баптистская церковь Парагвая
+- Description: Iglesia Cristiana Evangélica y Bautista Eslava в колонии Фрам — старейшая славянская баптистская церковь Парагвая, основана в 1930 году
+- Address: Fram, Departamento de Itapúa, Paraguay
+- Coordinates: -27.0953017, -56.0190012
+
+
+
+
+- URL: https://spasenie.eu/churches/south-america/paraguay/fram-eslava/
+
+
+
+
+#### Nueva Alborada — Славянская баптистская церковь
+- Description: Iglesia Bautista Eslava в Нуэва-Альборада — славянская баптистская община в департаменте Итапуа
+- Address: Nueva Alborada, Departamento de Itapúa, Paraguay
+- Coordinates: -27.2699648, -55.682709
+
+
+
+
+- URL: https://spasenie.eu/churches/south-america/paraguay/nueva-alborada-bautista-eslava/
+
+
+
+
+#### Nueva Alborada — Славянская пятидесятническая церковь
+- Description: Iglesia Pentecostal Eslava в Нуэва-Альборада — славянская пятидесятническая община в департаменте Итапуа
+- Address: Nueva Alborada, Departamento de Itapúa, Paraguay
+- Coordinates: -27.2696145, -55.6796227
+
+
+
+
+- URL: https://spasenie.eu/churches/south-america/paraguay/nueva-alborada-pentecostal-eslava/
+
+
+
+
+#### San Juan del Paraná — Славянская евангельская баптистская церковь
+- Description: Iglesia Evangélica Bautista Eslava en San Luis del Paraná — славянская баптистская община в департаменте Итапуа
+- Address: San Luis del Paraná, San Juan del Paraná, Departamento de Itapúa, Paraguay
+- Coordinates: -27.3028924, -55.9638696
+
+
+
+
+- URL: https://spasenie.eu/churches/south-america/paraguay/san-juan-del-parana-eslava/
+
+
 
 
 
