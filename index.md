@@ -153,3 +153,16 @@ Spasenie.eu — самый полный каталог русскоязычны�
 ## [Complete Church Directory Data](https://spasenie.eu/llms-full.txt)
 
 
+## [Поддержать служение](https://spasenie.eu/support/)
+<p>Каталог бесплатный и таким останется. Если он вам пригодился и есть возможность, поддержите, пожалуйста, моё служение: деньги пойдут на оплату сервера и на разработку других христианских проектов, таких как этот каталог и <a href="https://dary.spasenie.eu/">«Духовные дары: самоанализ»</a>. Благодарен любой сумме, даже небольшой.</p>
+<div class="support-methods">
+<ul>
+<li><a href="https://paypal.me/IgorGricyk">PayPal</a></li>
+<li><a href="https://revolut.me/igorlnvj5">Revolut</a></li>
+<li><a href="https://buy.stripe.com/bJe4gz2Gxd6M7j7c1ebfO00">Картой</a> (через Stripe)</li>
+</ul>
+</div>
+<p class="support-note">Сумму вы указываете сами. Оплата проходит на стороне платёжной системы — этот сайт не получает и не хранит ваши платёжные данные.</p>
+<p>Да благословит вас Господь!</p>
+<p>С уважением, пастор Igor Gricyk</p>
+
