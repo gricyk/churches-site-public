@@ -10,16 +10,11 @@ coordinates:
 phone: "+34 611 270 755"
 schedule:
   - day: "Воскресенье"
-    time: "14:00"
-    name: "Воскресное служение"
-  - day: "Вторник"
-    time: "07:00"
-    name: "Молитвенное служение"
-    note: "7:00 - 10:00"
-  - day: "Четверг"
-    time: "10:00"
-    name: "Изучение Библии"
-    note: "10:00 - 12:00"
+    time: "11:00"
+    name: "Воскресное богослужение"
+  - day: "Среда"
+    time: "19:00"
+    name: "Изучение Библии и молитвенное служение"
 social:
   youtube: "https://youtube.com/@baptistchurchtorreviejaluz4187"
 messengers:
@@ -30,3 +25,4 @@ messengers:
 Baptist Church of Torrevieja (ЕХБ).
 
 Пастор: Виктор Ковба
+

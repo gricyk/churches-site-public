@@ -3,7 +3,7 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-09-11
+# Generated: 2026-09-17
 
 ## OVERVIEW
 
@@ -1588,7 +1588,7 @@ Each church entry contains:
 - Phone: +34 611 270 755
 
 
-- Schedule: Воскресенье 14:00 (Воскресное служение); Вторник 07:00 (Молитвенное служение); Четверг 10:00 (Изучение Библии);
+- Schedule: Воскресенье 11:00 (Воскресное богослужение); Среда 19:00 (Изучение Библии и молитвенное служение);
 - URL: https://spasenie.eu/churches/europe/spain/torrevieja-baptist/
 
 
