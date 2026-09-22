@@ -3,7 +3,7 @@ title: "Ostfold — Церковь ЕХБ Østfold"
 description: "Baptist Church Østfold"
 url: "https://spasenie.eu/churches/europe/norway/ostfold-ehb/"
 date: 2025-02-04
-lastmod: 2025-02-04
+lastmod: 2026-02-05
 address: "Solbakken 3C, 1640 Råde, Norway"
 coordinates:
   lat: 59.365646

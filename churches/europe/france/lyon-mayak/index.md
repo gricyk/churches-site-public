@@ -3,7 +3,7 @@ title: "Lyon — Евангельские христиане баптисты в
 description: "Lighthouse of Hope Baptist Church Lyon"
 url: "https://spasenie.eu/churches/europe/france/lyon-mayak/"
 date: 2025-02-04
-lastmod: 2025-02-04
+lastmod: 2026-02-05
 address: "44 Rue Paul Bert, 69200 Vénissieux, France"
 coordinates:
   lat: 45.701093

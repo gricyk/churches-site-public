@@ -186,7 +186,7 @@ Each church entry contains:
 - Email: Kudrinietskii@gmail.com
 - Website: https://ibcbrussels.com/2024/02/04/християнська-церква-благодать-christian-church-grace/
 - Schedule: Воскресенье 14:00 (Воскресное богослужение); Пятница 18:30 (Домашняя группа); Среда  (Благовестие);
-- Updated: 2025-02-04
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/europe/belgium/brussels-blagodat/
 
 
@@ -636,7 +636,7 @@ Each church entry contains:
 - Email: info@istotschnik.org
 - Website: https://www.istotschnik.org/
 - Schedule: Воскресенье 13:00 (Воскресное богослужение); Вторник 17:30 (Служение); Четверг 18:00 (Служение); Суббота 14:30 (Братское общение);
-- Updated: 2025-02-04
+- Updated: 2026-02-05
 - URL: https://spasenie.eu/churches/europe/germany/dusseldorf-istochnik/
 
 
@@ -832,7 +832,7 @@ Each church entry contains:
 - Email: Jugend.bergedorf@gmail.com
 - Website: https://www.christliche-gemeinde-hamburg.de/
 - Schedule: Вторник 19:00 (Изучение Библии); Пятница 18:30 (Молодёжка); Суббота 18:00 (Спорт);
-- Updated: 2025-02-04
+- Updated: 2026-07-10
 - URL: https://spasenie.eu/churches/europe/germany/hamburg-bozhia-blagodat/
 
 
@@ -1154,7 +1154,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение); Воскресенье 17:30 (Молодёжка и подростковые);
-- Updated: 2025-02-04
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/europe/germany/nordhorn-baptist/
 
 
@@ -1411,7 +1411,7 @@ Each church entry contains:
 - Email: ecg.athen@gmail.com
 - Website: https://baptists.gr
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
-- Updated: 2025-02-04
+- Updated: 2026-04-09
 - URL: https://spasenie.eu/churches/europe/greece/athina-ehb/
 
 
@@ -2237,7 +2237,7 @@ Each church entry contains:
 - Email: ruslan_kr@inbox.lv
 
 - Schedule: Воскресенье 16:00 (Воскресное богослужение);
-- Updated: 2025-02-04
+- Updated: 2026-02-05
 - URL: https://spasenie.eu/churches/europe/norway/ostfold-ehb/
 
 
@@ -2298,7 +2298,7 @@ Each church entry contains:
 - Email: glavnikk@gmail.com
 
 - Schedule: Воскресенье 13:00 (Воскресное богослужение);
-- Updated: 2025-02-04
+- Updated: 2026-02-05
 - URL: https://spasenie.eu/churches/europe/poland/bydgoszcz-ehb/
 
 
@@ -2639,7 +2639,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 10:00 (Богослужение);
-- Updated: 2026-04-22
+- Updated: 2026-04-27
 - URL: https://spasenie.eu/churches/europe/portugal/montijo/
 
 
@@ -3301,7 +3301,7 @@ Each church entry contains:
 - Email: skala.church.brno@gmail.com
 - Website: https://www.skalachurchbrno.cz
 - Schedule: Воскресенье 12:30 (Воскресное богослужение);
-- Updated: 2025-02-04
+- Updated: 2026-02-05
 - URL: https://spasenie.eu/churches/europe/czech-republic/brno-ehb/
 
 
@@ -3385,7 +3385,7 @@ Each church entry contains:
 - Email: rusnakov@seznam.cz
 - Website: https://www.sobraniepraha.cz
 - Schedule: Воскресенье 13:00 (Воскресное богослужение); Понедельник 19:00 (Молодежное общение); Среда 19:00 (Изучение Библии); Пятница 19:00 (Хоровая спевка); Суббота 19:00 (Молитвенная группа);
-- Updated: 2025-02-04
+- Updated: 2026-02-05
 - URL: https://spasenie.eu/churches/europe/czech-republic/praha-ehb-soukenicka/
 
 
@@ -3806,7 +3806,7 @@ Each church entry contains:
 - Email: rraud@yandex.ru
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Четверг 18:00 (Изучение Библии и молитвенное); Суббота 14:00 (Подростковая и детская ВШ);
-- Updated: 2025-02-04
+- Updated: 2026-04-29
 - URL: https://spasenie.eu/churches/europe/estonia/valga-nadezhda/
 
 
@@ -3895,7 +3895,7 @@ Each church entry contains:
 - Email: lyonchurchfr@gmail.com
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение);
-- Updated: 2025-02-04
+- Updated: 2026-02-05
 - URL: https://spasenie.eu/churches/europe/france/lyon-mayak/
 
 
@@ -3965,7 +3965,7 @@ Each church entry contains:
 - Email: contact@ioppie.fr
 - Website: https://ioppie.fr/
 
-- Updated: 2025-02-04
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/europe/france/paris-svyataya-ioppia/
 
 

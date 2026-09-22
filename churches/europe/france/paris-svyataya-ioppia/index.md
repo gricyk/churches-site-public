@@ -3,7 +3,7 @@ title: "Paris — Церковь «Святая Иоппия» в Париже (
 description: "Holy Joppa Church Paris"
 url: "https://spasenie.eu/churches/europe/france/paris-svyataya-ioppia/"
 date: 2025-02-04
-lastmod: 2025-02-04
+lastmod: 2026-02-04
 address: "177 Avenue André Maginot, 94400 Vitry-sur-Seine, France"
 coordinates:
   lat: 48.794146

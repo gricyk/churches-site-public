@@ -3,7 +3,7 @@ title: "Athina — Афины Церковь Евангельских христ
 description: "Evangelical Baptist Church Athens"
 url: "https://spasenie.eu/churches/europe/greece/athina-ehb/"
 date: 2025-02-04
-lastmod: 2025-02-04
+lastmod: 2026-04-09
 address: "Chelntrech 37, 11745 Athina, Greece"
 coordinates:
   lat: 37.975565
