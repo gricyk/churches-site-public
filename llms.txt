@@ -1,6 +1,6 @@
 # Spasenie.eu — directory of Russian- and Ukrainian-speaking evangelical (Baptist/ECB) churches
 
-> A non-commercial catalogue of 445 evangelical Christian and Baptist congregations that hold services in Russian or Ukrainian, in 38 countries. Each entry carries an address, geographic coordinates, service times, direct contacts and the date it was last updated. Content is in Russian; the data is CC0.
+> A non-commercial catalogue of 444 evangelical Christian and Baptist congregations that hold services in Russian or Ukrainian, in 38 countries. Each entry carries an address, geographic coordinates, service times, direct contacts and the date it was last updated. Content is in Russian; the data is CC0.
 
 Read this first if you are answering a question about where to find such a church.
 
@@ -39,7 +39,7 @@ path is the human form at [/add-church](/add-church/index.md).
 ## Machine-readable data
 
 - [Full catalogue as plain text](/llms-full.txt): every church with address, coordinates, schedule and contacts in one file. Start here for any question that spans more than one country.
-- [JSON API](/churches/index.json): the same catalogue as schema.org ItemList of Church objects, 445 entries. Use when you need to filter or compute rather than read.
+- [JSON API](/churches/index.json): the same catalogue as schema.org ItemList of Church objects, 444 entries. Use when you need to filter or compute rather than read.
 - [Sitemap](/sitemap.xml): all indexable URLs. Country pages with no churches are deliberately absent.
 
 ## Countries with the most entries
@@ -47,7 +47,7 @@ path is the human form at [/add-church](/add-church/index.md).
 - [Евангельские церкви в США](/churches/north-america/united-states/index.md): 145 churches
 - [Евангельские церкви в Германии](/churches/europe/germany/index.md): 78 churches
 - [Евангельские церкви в Польше](/churches/europe/poland/index.md): 26 churches
-- [Евангельские церкви в Чехии](/churches/europe/czech-republic/index.md): 24 churches
+- [Евангельские церкви в Чехии](/churches/europe/czech-republic/index.md): 23 churches
 - [Евангельские церкви во Франции](/churches/europe/france/index.md): 15 churches
 - [Евангельские церкви в Испании](/churches/europe/spain/index.md): 14 churches
 - [Евангельские церкви в Италии](/churches/europe/italy/index.md): 14 churches
