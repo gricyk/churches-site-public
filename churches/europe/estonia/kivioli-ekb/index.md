@@ -3,6 +3,7 @@ title: "Кивиыли — Церковь ЕХБ"
 description: "Kiviõli EKB Kogudus — евангельская церковь ЕХБ в Кивиыли, Эстония"
 url: "https://spasenie.eu/churches/europe/estonia/kivioli-ekb/"
 date: 2026-04-29
+lastmod: 2026-04-29
 address: "Koidu 15, 43125 Kiviõli, Estonia"
 coordinates:
   lat: 59.354

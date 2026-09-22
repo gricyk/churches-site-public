@@ -3,14 +3,15 @@
 # Website: https://spasenie.eu/
 # Contact: info@spasenie.eu
 # License: CC0 (Public Domain)
-# Generated: 2026-09-17
+# Generated: 2026-09-22
 
 ## OVERVIEW
 
-This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. This is the most comprehensive directory of its kind worldwide.
+This file contains the complete structured database of all Russian-speaking Evangelical Christian and Baptist churches listed on spasenie.eu. The catalogue is maintained for currency rather than size: every entry below carries the date its data was last updated. Check that date before relying on a schedule or a phone number.
 
 Total churches: 445
 Coverage: 5 continents, 38 countries
+Catalogue last updated: 2026-09-17
 
 ## DATA FORMAT
 
@@ -43,6 +44,7 @@ Each church entry contains:
 - Email: fam.schmidt@mail.ru
 - Website: https://nrc-ebf.eu/
 - Schedule: Воскресенье 12:30 (Воскресное богослужение); Пятница 17:00 (Молитвенное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/austria/linz-biblische/
 
 
@@ -56,6 +58,7 @@ Each church entry contains:
 - Email: gwp.vienna@gmail.com
 - Website: https://www.gwprovide.org/
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Пятница 18:00 (Молитвенное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/austria/wien-gwp/
 
 
@@ -69,6 +72,7 @@ Each church entry contains:
 - Email: info@evangelie.at
 - Website: http://www.evangelie.at
 - Schedule: Воскресенье 15:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/austria/wien-put-zhizni/
 
 
@@ -82,6 +86,7 @@ Each church entry contains:
 - Email: info@sobranie.at
 - Website: https://www.sobranie.at
 - Schedule: Воскресенье 12:30 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/austria/wien-ekklesia/
 
 
@@ -95,6 +100,7 @@ Each church entry contains:
 - Email: elim.chvew@gmail.com
 
 - Schedule: Воскресенье 13:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/austria/wien-elim/
 
 
@@ -133,6 +139,7 @@ Each church entry contains:
 - Email: mikhovichl@gmail.com
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/europe/belarus/borovlyany-ehb/
 
 
@@ -151,6 +158,7 @@ Each church entry contains:
 - Email: dimadianaarslan@hotmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/belgium/antwerpen-filadelfia/
 
 
@@ -164,6 +172,7 @@ Each church entry contains:
 - Email: slovo.zhyttia.be@gmail.com
 
 - Schedule: Среда 19:00 (Служение); Воскресенье 19:00 (Воскресное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/belgium/brussels-slovo-zhyttia/
 
 
@@ -177,6 +186,7 @@ Each church entry contains:
 - Email: Kudrinietskii@gmail.com
 - Website: https://ibcbrussels.com/2024/02/04/християнська-церква-благодать-christian-church-grace/
 - Schedule: Воскресенье 14:00 (Воскресное богослужение); Пятница 18:30 (Домашняя группа); Среда  (Благовестие);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/belgium/brussels-blagodat/
 
 
@@ -190,6 +200,7 @@ Each church entry contains:
 - Email: domboga.be@outlook.com
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Пятница 20:00 (Воскресная школа и богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/belgium/gent-dom-bozhiy/
 
 
@@ -203,6 +214,7 @@ Each church entry contains:
 - Email: stadvanwaarheid@gmail.com
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Среда 18:30 (Библейская школа); Пятница 18:30 (Общецерковная молитва);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/belgium/kortrijk-gorod-istiny/
 
 
@@ -236,6 +248,7 @@ Each church entry contains:
 - Email: jurigb@hotmail.com
 
 - Schedule: Пятница 20:00 (Разбор Библии и молитвенное служение); Суббота 17:00 (Богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/united-kingdom/blackburn-new-life/
 
 
@@ -249,6 +262,7 @@ Each church entry contains:
 - Email: starmihail@gmail.com
 
 - Schedule: Воскресенье 14:15 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/united-kingdom/london-bible-church/
 
 
@@ -262,6 +276,7 @@ Each church entry contains:
 - Email: slavic.christian.uk@gmail.com
 
 - Schedule: Воскресенье 16:00 (Интернациональное служение); Воскресенье 17:30 (Чаепитие и общение); Воскресенье 16:30 (Детско-подростковое служение); Воскресенье 18:30 (Молодежное служение); Вторник 19:00 (Молитва в Zoom); Среда 19:00 (Библейская группа);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/united-kingdom/london-slavic-christian/
 
 
@@ -280,6 +295,7 @@ Each church entry contains:
 - Email: sasha.tsyfrynets@gmail.com
 
 - Schedule: Воскресенье 13:30 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/hungary/budapest-novaya-zhizn/
 
 
@@ -298,6 +314,7 @@ Each church entry contains:
 - Email: Info@fec-aachen.com
 
 - Schedule: Неділя 11:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/aachen-fec/
 
 
@@ -311,6 +328,7 @@ Each church entry contains:
 - Email: info@nl-ac.de
 - Website: https://www.nl-ac.de/ru/
 - Schedule: Воскресенье 11:00 (Воскресное служение); Пятница 18:00 (Молитвенное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/aachen-neues-leben/
 
 
@@ -324,6 +342,7 @@ Each church entry contains:
 - Email: info@evangelischefreikirche.de
 
 - Schedule: Воскресенье 16:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/andernach-ehb/
 
 
@@ -337,6 +356,7 @@ Each church entry contains:
 
 
 - Schedule: Неділя 09:30 (Хліболамання); Неділя 10:30 (Загальне служіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/attendorn-ukr/
 
 
@@ -350,6 +370,7 @@ Each church entry contains:
 - Email: Sergejbecker@gmx.net
 
 - Schedule: Воскресенье 10:30 (Воскресное богослужение); Среда 19:00 (Молитвенное собрание);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/bad-marienberg-ehb/
 
 
@@ -363,6 +384,7 @@ Each church entry contains:
 - Email: surdoperevod77777@gmail.com
 
 - Schedule: Неділя 14:00 (Недільне богослужіння (з сурдоперекладом));
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/bebra-ukr/
 
 
@@ -376,6 +398,7 @@ Each church entry contains:
 - Email: wartenberg@ecg-berlin.de
 
 - Schedule: Воскресенье 10:30 (Воскресное богослужение); Вторник 18:00 (Библейский час); Пятница 17:30 (Молитвенное собрание);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/berlin-wartenberg-ecg/
 
 
@@ -389,6 +412,7 @@ Each church entry contains:
 - Email: lichtenberg@ecg-berlin.de
 - Website: https://lichtenberg.ecg-berlin.de/
 - Schedule: Воскресенье 11:30 (Воскресное богослужение); Четверг 18:00 (Библейский час, общение); Пятница 18:00 (Молитвенное собрание);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/berlin-lichtenberg-ecg/
 
 
@@ -402,6 +426,7 @@ Each church entry contains:
 - Email: info@ecg.berlin
 - Website: https://ecg.berlin
 - Schedule: Воскресенье 09:00 (Богослужение на русском); Воскресенье 09:00 (Богослужение на немецком);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/berlin-hellersdorf-ecg/
 
 
@@ -415,6 +440,7 @@ Each church entry contains:
 - Email: ra@ecg-berlin.de
 - Website: https://spandau.ecg-berlin.de/
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Вторник 18:00 (Библейский час); Пятница 18:00 (Молитвенное собрание);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/berlin-spandau-ecg/
 
 
@@ -428,6 +454,7 @@ Each church entry contains:
 
 
 - Schedule: Суббота 16:00 (Субботнее богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/berlin-alef/
 
 
@@ -441,6 +468,7 @@ Each church entry contains:
 - Email: igor187@ukr.net
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/bielefeld-ukr/
 
 
@@ -454,6 +482,7 @@ Each church entry contains:
 - Email: info@lichtdieserwelt.de
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Среда 19:00 (Молитвенное собрание и разбор Слова);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/birkenfeld-licht/
 
 
@@ -467,6 +496,7 @@ Each church entry contains:
 - Email: ukr-evanfrkr@ukr.net
 
 - Schedule: Неділя 14:30 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/bonn-ukr/
 
 
@@ -480,6 +510,7 @@ Each church entry contains:
 - Email: bibelgemeinde.bs@gmail.com
 
 - Schedule: Воскресенье 10:30 (Воскресное богослужение); Пятница 18:00 (Молитвенное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/braunschweig-bibelgemeinde/
 
 
@@ -493,6 +524,7 @@ Each church entry contains:
 - Email: juri-seifert@gmx.de
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Пятница 18:30 (Разбор слова и молитвенное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/diepholz-ehb/
 
 
@@ -506,6 +538,7 @@ Each church entry contains:
 
 
 - Schedule: Неділя 17:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/dietzholztal-ukr/
 
 
@@ -519,6 +552,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Среда 19:00 (Библейский час); Пятница 19:00 (Молодежное собрание);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/dinslaken-ehb/
 
 
@@ -532,6 +566,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 16:00 (Воскресное богослужение); Понедельник 16:00 (Молитвенное); Четверг 16:00 (Разбор Слова);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/dortmund-fecg/
 
 
@@ -545,6 +580,7 @@ Each church entry contains:
 - Email: evangeliumslicht@gmail.com
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Пятница 18:00 (Разбор слова);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/dortmund-evangeliumslicht/
 
 
@@ -558,6 +594,7 @@ Each church entry contains:
 - Email: info@propovednik.my1.ru
 - Website: https://propovednik.my1.ru/
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Среда 18:00 (Молитвенное служение); Пятница 18:00 (Изучение Библии); Суббота 14:00 (Молодёжное общение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/dresden-ehb/
 
 
@@ -571,6 +608,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/duisburg-ehb/
 
 
@@ -584,6 +622,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/duren-ukr/
 
 
@@ -597,6 +636,7 @@ Each church entry contains:
 - Email: info@istotschnik.org
 - Website: https://www.istotschnik.org/
 - Schedule: Воскресенье 13:00 (Воскресное богослужение); Вторник 17:30 (Служение); Четверг 18:00 (Служение); Суббота 14:30 (Братское общение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/dusseldorf-istochnik/
 
 
@@ -610,6 +650,7 @@ Each church entry contains:
 - Email: info@ecg-eisenhuettenstadt.de
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Четверг 17:00 (Служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/eisenhuettenstadt-ehb/
 
 
@@ -623,6 +664,7 @@ Each church entry contains:
 - Email: j.Moros@gmx.de
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/erkrath-ehb/
 
 
@@ -636,6 +678,7 @@ Each church entry contains:
 - Email: fireoffriendship@gmail.com
 
 - Schedule: Неділя 15:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/essen-ukr/
 
 
@@ -649,6 +692,7 @@ Each church entry contains:
 - Email: pastor@feg-ewersbach.de
 - Website: https://fegewersbach.de/
 - Schedule: Воскресенье 17:00 (Воскресное богослужение); Суббота 16:00 (Молодежное общение); Пятница 19:00 (Изучение Библии); Воскресенье 18:30 (Помощь с документами);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/ewersbach-feg/
 
 
@@ -662,6 +706,7 @@ Each church entry contains:
 - Email: info@christen-frankfurt.de
 - Website: https://www.christen-frankfurt.de/ru/
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Воскресенье 17:00 (Вечернее богослужение); Воскресенье 18:30 (Молодежное служение); Пятница 19:00 (Молитва);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/frankfurt-ehb/
 
 
@@ -675,6 +720,7 @@ Each church entry contains:
 - Email: morgunserg1@gmail.com
 
 - Schedule: Неділя 15:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/freiburg-ukr/
 
 
@@ -688,6 +734,7 @@ Each church entry contains:
 - Email: pastor@ifchurch.de
 
 - Schedule: Воскресенье 14:30 (Воскресное богослужение); Суббота 19:00 (Служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/freiburg-istochnik/
 
 
@@ -701,6 +748,7 @@ Each church entry contains:
 - Email: newlifechurchfds@gmail.com
 
 - Schedule: Воскресенье 16:00 (Воскресное богослужение); Суббота 14:00 (Молодежное); Суббота 15:00 (Подростковое);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/freudenstadt-neues-leben/
 
 
@@ -714,6 +762,7 @@ Each church entry contains:
 - Email: pasha1histov@gmail.com
 
 - Schedule: Неділя 10:00 (Німецьке богослужіння); Субота 17:00 (Українське богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/gensingen-ukr/
 
 
@@ -727,6 +776,7 @@ Each church entry contains:
 - Email: almaz.mission@gmail.com
 
 - Schedule: Неділя 13:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/gummersbach-ukr/
 
 
@@ -740,6 +790,7 @@ Each church entry contains:
 - Email: bbghamburg@gmail.com
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Среда 19:00 (Разбор слова);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/hamburg-bbg/
 
 
@@ -753,6 +804,7 @@ Each church entry contains:
 - Email: igorreger@icloud.com
 
 - Schedule: Неділя 10:00 (Недільне богослужіння); Вівторок 19:00 (Зустріч);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/hamburg-ukr/
 
 
@@ -766,6 +818,7 @@ Each church entry contains:
 - Email: gwortderwahrheit@gmail.com
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Воскресенье 19:00 (Разбор слова);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/hamburg-slovo-istiny/
 
 
@@ -779,6 +832,7 @@ Each church entry contains:
 - Email: Jugend.bergedorf@gmail.com
 - Website: https://www.christliche-gemeinde-hamburg.de/
 - Schedule: Вторник 19:00 (Изучение Библии); Пятница 18:30 (Молодёжка); Суббота 18:00 (Спорт);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/hamburg-bozhia-blagodat/
 
 
@@ -792,6 +846,7 @@ Each church entry contains:
 - Email: genarumiancev@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/hameln-ukr/
 
 
@@ -805,6 +860,7 @@ Each church entry contains:
 - Email: info@ev-aktuell.de
 
 - Schedule: Воскресенье 11:00 (Воскресное служение); Будни 19:00 (Разбор Слова);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/hannover-vifania/
 
 
@@ -818,6 +874,7 @@ Each church entry contains:
 
 
 - Schedule: Неділя 14:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/hannover-ukr/
 
 
@@ -831,6 +888,7 @@ Each church entry contains:
 - Email: marianna.bondarkova@gmail.com
 
 - Schedule: Вівторок 18:30 (Українські зустрічі);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/hannover-ukr-2/
 
 
@@ -844,6 +902,7 @@ Each church entry contains:
 - Email: nstashko@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/herford-ukr/
 
 
@@ -857,6 +916,7 @@ Each church entry contains:
 
 
 - Schedule: Неділя 16:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/karlsruhe-ukr/
 
 
@@ -870,6 +930,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/kehl-ehb/
 
 
@@ -883,6 +944,7 @@ Each church entry contains:
 - Email: Romanoliinykgerm@gmail.com
 
 - Schedule: Неділя 14:00 (Недільне богослужіння (час іноді змінюється));
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/kempten-ukr/
 
 
@@ -896,6 +958,7 @@ Each church entry contains:
 - Email: kirche-koblenz@t-online.de
 
 - Schedule: Воскресенье 12:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/koblenz-feg/
 
 
@@ -909,6 +972,7 @@ Each church entry contains:
 
 
 - Schedule: Неділя 12:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/koblenz-ukr/
 
 
@@ -922,6 +986,7 @@ Each church entry contains:
 - Email: maxim2293@yahoo.com
 
 - Schedule: Субота 12:00 (Богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/koln-oxygenkirche/
 
 
@@ -935,6 +1000,7 @@ Each church entry contains:
 - Email: a.ackermann@freikirche.koeln
 
 - Schedule: Воскресенье 12:00 (Воскресное богослужение); Среда 19:00 (Служение); Четверг 19:00 (Служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/koln-chorweiler/
 
 
@@ -948,6 +1014,7 @@ Each church entry contains:
 - Email: rudiguse66@gmail.com
 - Website: https://gedison.de/
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/lage-baptist/
 
 
@@ -961,6 +1028,7 @@ Each church entry contains:
 - Email: lajoriv.micha@gmail.com
 
 - Schedule: Неділя 12:30 (Недільне богослужіння); Четвер 19:00 (Зустріч);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/lage-ukr/
 
 
@@ -974,6 +1042,7 @@ Each church entry contains:
 - Email: g.dinkel@gz-agape.de
 
 - Schedule: Воскресенье 12:00 (Воскресное богослужение); Пятница 18:30 (Молодежное служение); Понедельник 19:00 (Молитвенное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/lahr-agape/
 
 
@@ -987,6 +1056,7 @@ Each church entry contains:
 
 
 - Schedule: Неділя 17:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/landstuhl-rema/
 
 
@@ -1000,6 +1070,7 @@ Each church entry contains:
 - Email: info@evcg-leipzig.de
 - Website: https://ru.evcg-leipzig.de
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/leipzig-agape/
 
 
@@ -1013,6 +1084,7 @@ Each church entry contains:
 - Email: denysschvets@gmail.com
 
 - Schedule: Воскресенье 13:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/morsbach-ukrainische/
 
 
@@ -1026,6 +1098,7 @@ Each church entry contains:
 
 
 - Schedule: Неділя 17:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/munchen-new-generation/
 
 
@@ -1039,6 +1112,7 @@ Each church entry contains:
 - Email: info@ehb-munich.de
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/munchen-ehb/
 
 
@@ -1052,6 +1126,7 @@ Each church entry contains:
 
 
 - Schedule: Неділя 10:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/munchen-ukr/
 
 
@@ -1065,6 +1140,7 @@ Each church entry contains:
 - Email: srsroman80@gmail.com
 
 - Schedule: Неділя 14:30 (Недільне богослужіння); Вівторок 18:00 (Групи);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/munster-ukr/
 
 
@@ -1078,6 +1154,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение); Воскресенье 17:30 (Молодёжка и подростковые);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/nordhorn-baptist/
 
 
@@ -1091,6 +1168,7 @@ Each church entry contains:
 - Email: brautchristi@yahoo.com
 
 - Schedule: Воскресенье 12:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/nurnberg-nevesta/
 
 
@@ -1104,6 +1182,7 @@ Each church entry contains:
 - Email: yriy.redkin@gmail.com
 
 - Schedule: Неділя 09:30 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/nurtingen-ukr/
 
 
@@ -1117,6 +1196,7 @@ Each church entry contains:
 - Email: tim260376@gmail.com
 
 - Schedule: Неділя 14:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/offenburg-ukr/
 
 
@@ -1130,6 +1210,7 @@ Each church entry contains:
 - Email: info@ecg-re.de
 - Website: https://ecg-re.de/
 - Schedule: Вторник 18:00 (Группа);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/recklinghausen-gruppe/
 
 
@@ -1143,6 +1224,7 @@ Each church entry contains:
 - Email: christ.gem.Rgbg@mail.ru
 
 - Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/regensburg-christliche/
 
 
@@ -1156,6 +1238,7 @@ Each church entry contains:
 
 
 - Schedule: Неділя 14:30 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/rengsdorf-ukr/
 
 
@@ -1169,6 +1252,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/rostock-baptist/
 
 
@@ -1182,6 +1266,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Четверг 18:30 (Молитвенное и разбор Слова Божьего);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/salzwedel-ukrainische/
 
 
@@ -1195,6 +1280,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/schwabisch-gmund-ukr/
 
 
@@ -1208,6 +1294,7 @@ Each church entry contains:
 - Email: ich.glaube@christen-schwedt.de
 - Website: https://christen-schwedt.de
 - Schedule: Воскресенье 14:00 (Богослужение на русском/украинском); Среда 19:00 (Чтение Библии);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/schwedt-christus/
 
 
@@ -1221,6 +1308,7 @@ Each church entry contains:
 
 
 - Schedule: Неділя 16:00 (Недільне богослужіння); Вівторок 17:00 (Молитва);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/sehnde-ukr/
 
 
@@ -1234,6 +1322,7 @@ Each church entry contains:
 - Email: info@ef-siegburg.de
 
 - Schedule: Пятница 17:00 (Служение); Воскресенье 18:30 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/siegburg-ef/
 
 
@@ -1247,6 +1336,7 @@ Each church entry contains:
 - Email: kornuta81@icloud.com
 
 - Schedule: П'ятниця 19:00 (Богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/singen-ukr/
 
 
@@ -1260,6 +1350,7 @@ Each church entry contains:
 
 
 - Schedule: Неділя 17:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/trier-ukr/
 
 
@@ -1273,6 +1364,7 @@ Each church entry contains:
 - Email: sgerezhenko1907@gmail.com
 
 - Schedule: Субота 17:00 (Богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/walldorf-ukr/
 
 
@@ -1286,6 +1378,7 @@ Each church entry contains:
 - Email: fbokoc@gmail.com
 
 - Schedule: Неділя 13:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/wissen-ukr/
 
 
@@ -1299,6 +1392,7 @@ Each church entry contains:
 - Email: ilchenko.olex@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/germany/wuppertal-ukr/
 
 
@@ -1317,6 +1411,7 @@ Each church entry contains:
 - Email: ecg.athen@gmail.com
 - Website: https://baptists.gr
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/greece/athina-ehb/
 
 
@@ -1330,6 +1425,7 @@ Each church entry contains:
 - Email: fominworld@gmail.com
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/greece/athina-blagodat/
 
 
@@ -1343,6 +1439,7 @@ Each church entry contains:
 - Email: georgiosrw@mail.ru
 
 - Schedule: Воскресенье 18:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/greece/thessaloniki-ehb/
 
 
@@ -1361,6 +1458,7 @@ Each church entry contains:
 - Email: merab.gaprindashvili@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/georgia/tbilisi-baptist/
 
 
@@ -1379,6 +1477,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/europe/denmark/vejle-youthlife/
 
 
@@ -1392,6 +1491,7 @@ Each church entry contains:
 - Email: anohinaludmila82@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/denmark/tune-ukr/
 
 
@@ -1410,6 +1510,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/ireland/dublin-ukr/
 
 
@@ -1433,6 +1534,7 @@ Each church entry contains:
 
 - Website: https://istok.life
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/spain/barcelona-istok-life/
 
 
@@ -1446,6 +1548,7 @@ Each church entry contains:
 - Email: dommolitvibcn@gmail.com
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/spain/barcelona-msc-ehb/
 
 
@@ -1459,6 +1562,7 @@ Each church entry contains:
 - Email: pdvbarcelona@gmail.com
 
 - Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/spain/barcelona-slovo-zhizni/
 
 
@@ -1472,6 +1576,7 @@ Each church entry contains:
 - Email: iglesiavefil@gmail.com
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Вторник 20:00 (Молитвенное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/spain/barcelona-vefil/
 
 
@@ -1485,6 +1590,7 @@ Each church entry contains:
 - Email: taxtaulov@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/spain/daroca-ukr/
 
 
@@ -1498,6 +1604,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/spain/ferrol-ukr/
 
 
@@ -1511,6 +1618,7 @@ Each church entry contains:
 - Email: shelss@mail.ru
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/spain/girona-gruppa/
 
 
@@ -1524,6 +1632,7 @@ Each church entry contains:
 - Email: blagayavest.es@gmail.com
 
 - Schedule: Воскресенье 12:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/spain/madrid-blagaya-vest/
 
 
@@ -1537,6 +1646,7 @@ Each church entry contains:
 - Email: salvaciondedios2005@hotmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/spain/madrid-hve/
 
 
@@ -1550,6 +1660,7 @@ Each church entry contains:
 - Email: alexandr-kindcat@mail.ru
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Вторник 19:30 (Разбор слова); Пятница 19:00 (Молитвенное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/spain/murcia-ehb-1/
 
 
@@ -1563,6 +1674,7 @@ Each church entry contains:
 - Email: bsa21992@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/spain/murcia-ehb-2/
 
 
@@ -1576,6 +1688,7 @@ Each church entry contains:
 - Email: pamplona.salvacion.de.dios@gmail.com
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Среда 19:00 (Разбор слова); Понедельник 19:00 (Молитвенное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/spain/pamplona-spasenie-bozhe/
 
 
@@ -1589,6 +1702,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Среда 19:00 (Изучение Библии и молитвенное служение);
+- Updated: 2026-09-17
 - URL: https://spasenie.eu/churches/europe/spain/torrevieja-baptist/
 
 
@@ -1602,6 +1716,7 @@ Each church entry contains:
 - Email: vlcerkov@gmail.com
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/spain/valencia-ehb/
 
 
@@ -1620,6 +1735,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 10:00 (Богослужение);
+- Updated: 2026-04-08
 - URL: https://spasenie.eu/churches/europe/italy/brescia-slovo-zhizni/
 
 
@@ -1633,6 +1749,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-04-08
 - URL: https://spasenie.eu/churches/europe/italy/venice-slovo-zhizni/
 
 
@@ -1646,6 +1763,7 @@ Each church entry contains:
 - Email: splisov@gmail.com
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Среда 19:30 (Изучение Библии);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/italy/aversa-ehb/
 
 
@@ -1659,6 +1777,7 @@ Each church entry contains:
 - Email: pastorbergamo@gmail.com
 
 - Schedule: Воскресенье 14:00 (Воскресное богослужение); Среда 19:00 (Служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/italy/bergamo-slovo-very/
 
 
@@ -1672,6 +1791,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 14:30 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/italy/bologna-ehb/
 
 
@@ -1685,6 +1805,7 @@ Each church entry contains:
 
 
 - Schedule: Четверг 15:00 (Служение); Воскресенье 15:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/italy/firenze-slovo-zhizni/
 
 
@@ -1698,6 +1819,7 @@ Each church entry contains:
 - Email: kiyash.v.m@mail.ru
 
 - Schedule: Воскресенье 13:00 (Воскресное богослужение); Четверг 17:00 (Разбор слова);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/italy/genova-preobrazhenie/
 
 
@@ -1711,6 +1833,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/italy/milano-slovo-zhizni/
 
 
@@ -1724,6 +1847,7 @@ Each church entry contains:
 
 
 - Schedule: Четверг 17:00 (Служение); Воскресенье 15:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/italy/napoli-slovo-zhizni/
 
 
@@ -1737,6 +1861,7 @@ Each church entry contains:
 - Email: proshakroman@live.it
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение); Суббота 15:30 (Разбор слова);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/italy/perugia-blagodat/
 
 
@@ -1750,6 +1875,7 @@ Each church entry contains:
 
 
 - Schedule: Пятница 18:30 (Группа);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/italy/piacenza-gruppa/
 
 
@@ -1763,6 +1889,7 @@ Each church entry contains:
 - Email: viorel11470@gmail.com
 
 - Schedule: Воскресенье 15:30 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/italy/rimini-slovo-zhizni/
 
 
@@ -1776,6 +1903,7 @@ Each church entry contains:
 
 - Website: https://www.slavicebc.org/ru/
 - Schedule: Четверг 17:00 (Служение); Воскресенье 14:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/italy/roma-slovo-zhizni/
 
 
@@ -1789,6 +1917,7 @@ Each church entry contains:
 - Email: battistasanremo@gmail.com
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Вторник 20:00 (Библейский урок); Среда 20:00 (Молитвенное); Суббота 12:00 (Детская школа «Премудрости»);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/italy/sanremo-slovo-zhizni/
 
 
@@ -1807,6 +1936,7 @@ Each church entry contains:
 - Email: otbdraudze@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/europe/latvia/ogre-trisvienibas/
 
 
@@ -1820,6 +1950,7 @@ Each church entry contains:
 - Email: pastorslava@inbox.lv
 
 - Schedule: Воскресенье 14:00 (Воскресное богослужение); Четверг 10:00 (Служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/latvia/kraslava-biblijna/
 
 
@@ -1833,6 +1964,7 @@ Each church entry contains:
 - Email: golos@inbox.lv
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение (на русском)); Воскресенье 12:00 (Исследование Библии (на русском));
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/latvia/olaine-baptist/
 
 
@@ -1851,6 +1983,7 @@ Each church entry contains:
 - Email: krantobbb@takas.lt
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Четверг 18:30 (Разбор слова); Пятница 18:30 (Молодёжное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/lithuania/kaunas-ehb/
 
 
@@ -1864,6 +1997,7 @@ Each church entry contains:
 - Email: klaipeda@baptist.lt
 
 - Schedule: Воскресенье 09:30 (Воскресное богослужение); Среда 11:00 (Разбор слова);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/lithuania/klaipeda-ehb/
 
 
@@ -1877,6 +2011,7 @@ Each church entry contains:
 - Email: antanas52@gmail.com
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/lithuania/mazeikiai-ehb/
 
 
@@ -1890,6 +2025,7 @@ Each church entry contains:
 - Email: narnijec@yandex.ru
 
 - Schedule: Воскресенье 14:00 (Воскресное богослужение); Вторник 17:00 (Разбор Слова Божьего);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/lithuania/panevezys-bozhey-milosti/
 
 
@@ -1903,6 +2039,7 @@ Each church entry contains:
 - Email: fandorin3584755@gmail.com
 - Website: https://evangelie.lt/
 - Schedule: Воскресенье 16:00 (Воскресное богослужение); Четверг 19:00 (Изучение Библии);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/lithuania/vilnius-piligrim/
 
 
@@ -1916,6 +2053,7 @@ Each church entry contains:
 - Email: vilnius@baptist.lt
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Среда 18:00 (Разбор Слова Божьего и Молитвенное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/lithuania/vilnius-novogo-zaveta/
 
 
@@ -1929,6 +2067,7 @@ Each church entry contains:
 - Email: vladis_n@dkd.lt
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Среда 19:00 (Изучение Библии); Пятница 12:00 (Молитвенное служение); Суббота 18:00 (Молодежное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/lithuania/visaginas-ehb/
 
 
@@ -1942,6 +2081,7 @@ Each church entry contains:
 - Email: solvita_siksne@yahoo.com
 
 - Schedule: Воскресенье 11:00 (Богослужение); Воскресенье 13:00 (Богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/lithuania/ylakiai-ehb/
 
 
@@ -1980,6 +2120,7 @@ Each church entry contains:
 - Email: valery.kiba@gmail.com
 
 - Schedule: Воскресенье 14:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/netherlands/barneveld-ukrainska/
 
 
@@ -1993,6 +2134,7 @@ Each church entry contains:
 
 
 - Schedule: Неділя 16:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/netherlands/hendrik-ido-ambacht-ukr/
 
 
@@ -2006,6 +2148,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/netherlands/rijssen-ukr/
 
 
@@ -2019,6 +2162,7 @@ Each church entry contains:
 - Email: kuzmin4ukdavid@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/netherlands/sint-maartensdijk-david/
 
 
@@ -2032,6 +2176,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 12:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/netherlands/waddinxveen-dim-ottsa/
 
 
@@ -2050,6 +2195,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/norway/alvdal-ukr/
 
 
@@ -2063,6 +2209,7 @@ Each church entry contains:
 - Email: bondarenkoprk2@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/norway/kristiansand-ukr/
 
 
@@ -2076,6 +2223,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/norway/moss-ukr/
 
 
@@ -2089,6 +2237,7 @@ Each church entry contains:
 - Email: ruslan_kr@inbox.lv
 
 - Schedule: Воскресенье 16:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/norway/ostfold-ehb/
 
 
@@ -2107,6 +2256,7 @@ Each church entry contains:
 - Email: bogunbogdan579@gmail.com
 
 - Schedule: Неділя 11:00 (Богослужіння); П'ятниця 18:00 (Молодіжне служіння);
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/europe/poland/lodz-ukr/
 
 
@@ -2120,6 +2270,7 @@ Each church entry contains:
 - Email: gospel.light.kr@gmail.com
 
 - Schedule: Воскресенье 14:00 (Богослужение);
+- Updated: 2026-03-18
 - URL: https://spasenie.eu/churches/europe/poland/krakow-light-gospel/
 
 
@@ -2133,6 +2284,7 @@ Each church entry contains:
 - Email: contact@slovochrista.pl
 - Website: https://slovochrista.pl/
 - Schedule: Воскресенье 12:00 (Богослужение); Суббота 18:00 (Молодежка); Четверг Время в телеграм (Домашнаяя группа);
+- Updated: 2026-03-18
 - URL: https://spasenie.eu/churches/europe/poland/wroclaw-slovochrista/
 
 
@@ -2146,6 +2298,7 @@ Each church entry contains:
 - Email: glavnikk@gmail.com
 
 - Schedule: Воскресенье 13:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/bydgoszcz-ehb/
 
 
@@ -2159,6 +2312,7 @@ Each church entry contains:
 - Email: suleymanov.aleksey77@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/chociwel-ukr/
 
 
@@ -2172,6 +2326,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/chrzanow-ukr/
 
 
@@ -2185,6 +2340,7 @@ Each church entry contains:
 - Email: alex.kostiuk79@gmail.com
 - Website: https://grace-church.pl
 - Schedule: Воскресенье 15:00 (Воскресное богослужение); Четверг 19:00 (Малая группа); Суббота 19:00 (Молодёжное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/gdansk-blagodat/
 
 
@@ -2198,6 +2354,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/gdansk-chetvertaya/
 
 
@@ -2211,6 +2368,7 @@ Each church entry contains:
 - Email: kozubovsky.uets@gmail.com
 
 - Schedule: Воскресенье 16:00 (Недільні богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/gdynia-prichal/
 
 
@@ -2224,6 +2382,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 13:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/gorzow-vtoraya/
 
 
@@ -2237,6 +2396,7 @@ Each church entry contains:
 - Email: Yu.Davidyuk@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/katowice-davidyuk/
 
 
@@ -2250,6 +2410,7 @@ Each church entry contains:
 - Email: taras.kutsenko@hotmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/katowice-kutsenko/
 
 
@@ -2263,6 +2424,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/klodzko-ukr/
 
 
@@ -2276,6 +2438,7 @@ Each church entry contains:
 - Email: biblijnyzbor5@op.pl
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/krakow-biblijna/
 
 
@@ -2289,6 +2452,7 @@ Each church entry contains:
 - Email: baptysci.lublin@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/lublin-baptist/
 
 
@@ -2302,6 +2466,7 @@ Each church entry contains:
 - Email: machalex@ukr.net
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/olawa-ukr/
 
 
@@ -2315,6 +2480,7 @@ Each church entry contains:
 - Email: bidaoleg1982@gmail.com
 
 - Schedule: Неділя 14:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/poznan-biblijna/
 
 
@@ -2328,6 +2494,7 @@ Each church entry contains:
 - Email: volodia.tkachuk@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/radzyn-ukr/
 
 
@@ -2341,6 +2508,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение); Среда 19:00 (Молитвенное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/szczecin-novaya-zhizn/
 
 
@@ -2354,6 +2522,7 @@ Each church entry contains:
 - Email: matseyka@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/tomaszow-mazowiecki-ukr/
 
 
@@ -2367,6 +2536,7 @@ Each church entry contains:
 - Email: illin.slw@gmail.com
 
 - Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/warszawa-bozhya-blagodat/
 
 
@@ -2380,6 +2550,7 @@ Each church entry contains:
 - Email: baptistpl.info@gmail.com
 - Website: https://www.baptist.pl/
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/warszawa-biblijna/
 
 
@@ -2393,6 +2564,7 @@ Each church entry contains:
 - Email: spasenie.wawa@gmail.com
 - Website: https://spasenie.pl/
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/warszawa-spasenie/
 
 
@@ -2406,6 +2578,7 @@ Each church entry contains:
 - Email: viktor11-75@mail.ru
 
 - Schedule: Воскресенье 14:00 (Воскресное служение); Суббота 18:00 (Молодежное служение); Среда 19:00 (Молитвенное собрание);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/warszawa-dom-bozhiy/
 
 
@@ -2419,6 +2592,7 @@ Each church entry contains:
 - Email: logoswarszawa010418@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/warszawa-logos/
 
 
@@ -2432,6 +2606,7 @@ Each church entry contains:
 - Email: dimaharibin@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/poland/wroclaw-haribin/
 
 
@@ -2450,6 +2625,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 13:30 (Богослужение);
+- Updated: 2026-04-22
 - URL: https://spasenie.eu/churches/europe/portugal/carregado/
 
 
@@ -2463,6 +2639,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 10:00 (Богослужение);
+- Updated: 2026-04-22
 - URL: https://spasenie.eu/churches/europe/portugal/montijo/
 
 
@@ -2476,6 +2653,7 @@ Each church entry contains:
 - Email: veriga28@gmail.com
 
 - Schedule: Воскресенье 10:30 (Воскресное богослужение);
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/europe/portugal/lisbon-lures-evangelical/
 
 
@@ -2489,6 +2667,7 @@ Each church entry contains:
 - Email: hlebinator2000@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/portugal/albufeira-slavyanska/
 
 
@@ -2502,6 +2681,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/portugal/coimbra-ehb/
 
 
@@ -2515,6 +2695,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/portugal/faro-ehb/
 
 
@@ -2528,6 +2709,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/portugal/lisboa-posolstvo/
 
 
@@ -2541,6 +2723,7 @@ Each church entry contains:
 - Email: iebaptista.cedofeita@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/portugal/porto-ehb/
 
 
@@ -2554,6 +2737,7 @@ Each church entry contains:
 - Email: colorlite1919@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/portugal/queluz-ukr/
 
 
@@ -2567,6 +2751,7 @@ Each church entry contains:
 - Email: colorlite1919@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/portugal/viseu-ukr/
 
 
@@ -2585,6 +2770,7 @@ Each church entry contains:
 - Email: kravtsov1003@gmail.com
 
 - Schedule: Воскресенье 10:00 (Богослужение); Четверг 18:00 (Богослужение);
+- Updated: 2026-02-08
 - URL: https://spasenie.eu/churches/europe/russia/rybinsk-baptist/
 
 
@@ -2598,6 +2784,7 @@ Each church entry contains:
 - Email: vitaliyzanin@gmail.com
 - Website: https://church.moscow/
 
+- Updated: 2026-02-06
 - URL: https://spasenie.eu/churches/europe/russia/moscow-freedom/
 
 
@@ -2611,6 +2798,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/europe/russia/dzerzhinskiy-novyy-zavet/
 
 
@@ -2624,6 +2812,7 @@ Each church entry contains:
 
 
 - Schedule: Суббота 18:00 (Субботнее богослужение (CMCHURCH)); Воскресенье 14:00 (Воскресное богослужение);
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/europe/russia/moscow-bolshoy-gorod/
 
 
@@ -2642,6 +2831,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/romania/danes-ukr/
 
 
@@ -2670,6 +2860,7 @@ Each church entry contains:
 - Email: contact@icfbelgrade.rs
 - Website: https://icfbelgrade.rs/
 - Schedule: Воскресенье 10:00 - 12:00 (Богослужение); Среда 19:00 (Домашние группы);
+- Updated: 2026-04-14
 - URL: https://spasenie.eu/churches/europe/serbia/belgrade-icf/
 
 
@@ -2683,6 +2874,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 11:00 (Богослужение);
+- Updated: 2026-04-14
 - URL: https://spasenie.eu/churches/europe/serbia/novi-sad-new-territory/
 
 
@@ -2696,6 +2888,7 @@ Each church entry contains:
 - Email: office@cfns.org.rs
 - Website: https://phz.rs/
 - Schedule: Воскресенье 18:00 - 20:00 (Богослужение); Пятница 20:00 (Молодежное богослужение);
+- Updated: 2026-04-14
 - URL: https://spasenie.eu/churches/europe/serbia/novi-sad-protestant/
 
 
@@ -2709,6 +2902,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 11:00 (Богослужение);
+- Updated: 2026-04-14
 - URL: https://spasenie.eu/churches/europe/serbia/novi-sad-msc-ehb/
 
 
@@ -2722,6 +2916,7 @@ Each church entry contains:
 - Email: info@baptistickacrkva.rs
 - Website: https://baptistickacrkva.rs/
 - Schedule: Воскресенье 10:00 - 12:00 (Богослужение);
+- Updated: 2026-04-14
 - URL: https://spasenie.eu/churches/europe/serbia/belgrade-baptisti/
 
 
@@ -2735,6 +2930,7 @@ Each church entry contains:
 
 - Website: https://nsbaptisti.org.rs/
 - Schedule: Воскресенье 10:00 (Богослужение); Среда 19:00 (Богослужение);
+- Updated: 2026-04-14
 - URL: https://spasenie.eu/churches/europe/serbia/novi-sad-baptisti/
 
 
@@ -2748,6 +2944,7 @@ Each church entry contains:
 
 - Website: https://centarcrkva.rs/
 - Schedule: Воскресенье 18:00 - 19:00 (Богослужение); Суббота 9:00 - 10:00 (Молитвенное); Среда 19:00 (Домашние группы);
+- Updated: 2026-04-14
 - URL: https://spasenie.eu/churches/europe/serbia/belgrade-centarcrkva/
 
 
@@ -2761,6 +2958,7 @@ Each church entry contains:
 
 - Website: https://nazarene.org/
 - Schedule: Воскресенье 16:00 (Богослужение); Вторник 19:00 (Размышление о Библии);
+- Updated: 2026-04-14
 - URL: https://spasenie.eu/churches/europe/serbia/serbija-nazarene/
 
 
@@ -2779,6 +2977,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 13:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/slovakia/bratislava-nadezhda/
 
 
@@ -2792,6 +2991,7 @@ Each church entry contains:
 - Email: markoborodovartem75@gmail.com
 
 - Schedule: Неділя 10:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/slovakia/bratislava-markoborodov/
 
 
@@ -2805,6 +3005,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/slovakia/bratislava-hve/
 
 
@@ -2828,6 +3029,7 @@ Each church entry contains:
 - Email: dev@lc.org.ua
 - Website: lc.org.ua
 - Schedule: Неділя 11:00 (Богослужение); Понеділок 18:00 (для братів); Середа 18:00 (Богослужение); П'ятниця 18:00 (Богослужение);
+- Updated: 2026-02-05
 - URL: https://spasenie.eu/churches/europe/ukraine/odesa-love-christ/
 
 
@@ -2846,6 +3048,7 @@ Each church entry contains:
 - Email: info@vifania.fi
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/finland/helsinki-vifania/
 
 
@@ -2859,6 +3062,7 @@ Each church entry contains:
 - Email: voevoda62@gmail.com
 
 - Schedule: Неділя 10:00 (Недільне богослужіння); Середа 18:00 (Середа);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/finland/joensuu-ukr/
 
 
@@ -2872,6 +3076,7 @@ Each church entry contains:
 - Email: 1istina@mail.com
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Четверг 17:00 (Изучение Библии);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/finland/lappeenranta-put-istina/
 
 
@@ -2885,6 +3090,7 @@ Each church entry contains:
 - Email: pokasaleksandr@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/finland/nykarleby-ukr/
 
 
@@ -2898,6 +3104,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/finland/pori-novaya-zhizn/
 
 
@@ -2921,6 +3128,7 @@ Each church entry contains:
 
 - Website: https://church-mozaik.me/
 - Schedule: Воскресенье 10:00 (Богослужение); Среда 18:30 (Домашняя группа); Четверг 19:00 (Молитвенное служение);
+- Updated: 2026-04-14
 - URL: https://spasenie.eu/churches/europe/montenegro/bar-mozaik/
 
 
@@ -2934,6 +3142,7 @@ Each church entry contains:
 
 - Website: https://wordofgod.me/
 - Schedule: Воскресенье 11:00 (Богослужение); Среда, Пятница 17:00 (Молитвенное служение); Среда 18:30 (Изучение Библии); Суббота 12:00 (уточняйте) (Библейский кружок (воскресная школа));
+- Updated: 2026-04-14
 - URL: https://spasenie.eu/churches/europe/montenegro/budva-wordofgod/
 
 
@@ -2952,6 +3161,7 @@ Each church entry contains:
 
 - Website: https://sborberoun.cz
 - Schedule: Воскресенье 16:00 (Богослужение и проповедь);
+- Updated: 2026-05-07
 - URL: https://spasenie.eu/churches/europe/czech-republic/beroun-biblicka/
 
 
@@ -2965,6 +3175,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 9:00 (Богослужение);
+- Updated: 2026-02-06
 - URL: https://spasenie.eu/churches/europe/czech-republic/dolni-dvur-baptist/
 
 
@@ -2978,6 +3189,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 13:30 (Богослужение);
+- Updated: 2026-02-06
 - URL: https://spasenie.eu/churches/europe/czech-republic/mlada-boleslav-vloza/
 
 
@@ -2991,6 +3203,7 @@ Each church entry contains:
 
 - Website: https://www.sobranieplzen.cz/
 - Schedule: Воскресенье 10:00 (Богослужение); Воскресенье 9:00 (Молитвенная группа); Вторник 19:00 (Молодежное служение); Пятница 19:00 (Разбор Библии);
+- Updated: 2026-02-06
 - URL: https://spasenie.eu/churches/europe/czech-republic/plzen-baptist/
 
 
@@ -3004,6 +3217,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 10:00 (Богослужение);
+- Updated: 2026-02-05
 - URL: https://spasenie.eu/churches/europe/czech-republic/cheb-pramen/
 
 
@@ -3017,6 +3231,7 @@ Each church entry contains:
 
 
 - Schedule: Четверг 19:00 (Изучение Библии);
+- Updated: 2026-02-05
 - URL: https://spasenie.eu/churches/europe/czech-republic/kolin-baptist/
 
 
@@ -3030,6 +3245,7 @@ Each church entry contains:
 - Email: meleshko.a@gmail.com
 
 - Schedule: Воскресенье 13:00 (Богослужение на украинском);
+- Updated: 2026-02-05
 - URL: https://spasenie.eu/churches/europe/czech-republic/prague-ubc/
 
 
@@ -3043,6 +3259,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 13:00 (Богослужение);
+- Updated: 2026-02-05
 - URL: https://spasenie.eu/churches/europe/czech-republic/prague-msc/
 
 
@@ -3056,6 +3273,7 @@ Each church entry contains:
 
 - Website: https://www.baptist-praha.info
 - Schedule: Воскресенье 12:00 (Богослужение); Воскресенье 13:00 (Детские часы); Пятница 19:00 (Молитвенное собрание и библейский час); Суббота 19:00 (Молодежное общение);
+- Updated: 2026-02-05
 - URL: https://spasenie.eu/churches/europe/czech-republic/prague-baptist-fs/
 
 
@@ -3069,6 +3287,7 @@ Each church entry contains:
 - Email: Demkovskyigor@gmail.com
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Воскресенье 17:00 (Молодежное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/czech-republic/brno-vloza/
 
 
@@ -3082,6 +3301,7 @@ Each church entry contains:
 - Email: skala.church.brno@gmail.com
 - Website: https://www.skalachurchbrno.cz
 - Schedule: Воскресенье 12:30 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/czech-republic/brno-ehb/
 
 
@@ -3095,6 +3315,7 @@ Each church entry contains:
 - Email: agavrilov.cb@gmail.com
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Пятница 17:00 (Изучение Писания);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/czech-republic/ceske-budejovice-spasenie/
 
 
@@ -3108,6 +3329,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/czech-republic/karlovy-vary-istochnik/
 
 
@@ -3121,6 +3343,7 @@ Each church entry contains:
 - Email: olekshanna@gmail.com
 
 - Schedule: Воскресенье 16:00 (Недільне богослужіння);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/czech-republic/liberec-nove-zhyttia/
 
 
@@ -3134,6 +3357,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 13:00 (Воскресное богослужение); Четверг 19:00 (Изучение Писания);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/czech-republic/pardubice-ehb/
 
 
@@ -3147,6 +3371,7 @@ Each church entry contains:
 - Email: preacherlev@mail.ru
 
 - Schedule: Воскресенье 16:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/czech-republic/plzen-agape/
 
 
@@ -3160,6 +3385,7 @@ Each church entry contains:
 - Email: rusnakov@seznam.cz
 - Website: https://www.sobraniepraha.cz
 - Schedule: Воскресенье 13:00 (Воскресное богослужение); Понедельник 19:00 (Молодежное общение); Среда 19:00 (Изучение Библии); Пятница 19:00 (Хоровая спевка); Суббота 19:00 (Молитвенная группа);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/czech-republic/praha-ehb-soukenicka/
 
 
@@ -3173,6 +3399,7 @@ Each church entry contains:
 - Email: eleos4u@gmail.com
 - Website: https://www.xxi.cz
 - Schedule: Воскресенье 10:00 (Воскресное богослужение на русском);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/czech-republic/praha-xxi-vek/
 
 
@@ -3186,6 +3413,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 16:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/czech-republic/slany-ehb/
 
 
@@ -3199,6 +3427,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 16:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/czech-republic/vsetin-mayak/
 
 
@@ -3212,6 +3441,7 @@ Each church entry contains:
 - Email: m.gricyk1@gmail.com
 
 - Schedule: Воскресенье 16:00 (Воскресное богослужение); Среда 17:00 (Изучение Библии);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/czech-republic/zatec-ehb/
 
 
@@ -3225,6 +3455,7 @@ Each church entry contains:
 - Email: ewens_den@mail.ru
 
 - Schedule: Воскресенье 17:30 (Группа);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/czech-republic/zlin-gruppa/
 
 
@@ -3238,6 +3469,7 @@ Each church entry contains:
 - Email: info@sborkladno.cz
 - Website: https://sborkladno.cz
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Четверг 18:00 (Изучение Библии и молитва); Суббота 17:00 (Молодежное служение);
+- Updated: 2025-01-15
 - URL: https://spasenie.eu/churches/europe/czech-republic/kladno/
 
 
@@ -3251,6 +3483,7 @@ Each church entry contains:
 - Email: ggracengv@gmail.com
 - Website: https://vloza.eu
 - Schedule: Воскресенье 16:00 (Воскресное богослужение); Понедельник 19:30 (Общая молитва); Воскресенье 14:30 (Подготовка к крещению);
+- Updated: 2025-01-15
 - URL: https://spasenie.eu/churches/europe/czech-republic/prague-vloza/
 
 
@@ -3269,6 +3502,7 @@ Each church entry contains:
 - Email: Roman.dybinets@baptisten-basel.ch
 
 - Schedule: Неділя 10:00 (Богослужіння);
+- Updated: 2026-05-02
 - URL: https://spasenie.eu/churches/europe/switzerland/basel-ukr/
 
 
@@ -3282,6 +3516,7 @@ Each church entry contains:
 - Email: edyardchernenko@gmail.com
 
 - Schedule: Субота 18:00 (Богослужіння);
+- Updated: 2026-05-02
 - URL: https://spasenie.eu/churches/europe/switzerland/bern-holenacker-ukr/
 
 
@@ -3295,6 +3530,7 @@ Each church entry contains:
 - Email: nazarova.yuliya77@gmail.com
 
 - Schedule: Неділя 12:00 (Богослужіння);
+- Updated: 2026-05-02
 - URL: https://spasenie.eu/churches/europe/switzerland/ostermundigen-ukr/
 
 
@@ -3308,6 +3544,7 @@ Each church entry contains:
 
 
 - Schedule: Неділя 15:15 (Богослужіння);
+- Updated: 2026-05-02
 - URL: https://spasenie.eu/churches/europe/switzerland/biel-ukr/
 
 
@@ -3321,6 +3558,7 @@ Each church entry contains:
 - Email: kornuta81@icloud.com
 
 - Schedule: Неділя 14:00 (Богослужіння);
+- Updated: 2026-05-02
 - URL: https://spasenie.eu/churches/europe/switzerland/bischofszell-upgrade/
 
 
@@ -3334,6 +3572,7 @@ Each church entry contains:
 - Email: edyardcherhenko@gmail.com
 
 - Schedule: Неділя 17:30 (Богослужіння);
+- Updated: 2026-05-02
 - URL: https://spasenie.eu/churches/europe/switzerland/burgdorf-ukr/
 
 
@@ -3347,6 +3586,7 @@ Each church entry contains:
 - Email: kornuta81@icloud.com
 
 - Schedule: Неділя 10:00 (Богослужіння);
+- Updated: 2026-05-02
 - URL: https://spasenie.eu/churches/europe/switzerland/frauenfeld-upgrade/
 
 
@@ -3360,6 +3600,7 @@ Each church entry contains:
 
 - Website: https://www.ebcg.ch/smallgroups.html
 - Schedule: Неділя 13:45 (Богослужіння);
+- Updated: 2026-05-02
 - URL: https://spasenie.eu/churches/europe/switzerland/carouge-geneve-ukr/
 
 
@@ -3373,6 +3614,7 @@ Each church entry contains:
 - Email: melit.vk655@gmail.com
 
 - Schedule: Неділя 10:00 (Богослужіння); П'ятниця 16:00 (Зустріч);
+- Updated: 2026-05-02
 - URL: https://spasenie.eu/churches/europe/switzerland/zofingen-ukr/
 
 
@@ -3396,6 +3638,7 @@ Each church entry contains:
 - Email: ekbkivioli@hotmail.com
 
 - Schedule: Воскресенье 10:00 (Богослужение);
+- Updated: 2026-04-29
 - URL: https://spasenie.eu/churches/europe/estonia/kivioli-ekb/
 
 
@@ -3409,6 +3652,7 @@ Each church entry contains:
 - Email: kj.peeteli@gmail.com
 
 - Schedule: Воскресенье 10:00 (Богослужение);
+- Updated: 2026-04-29
 - URL: https://spasenie.eu/churches/europe/estonia/kohtla-jarve-vefil/
 
 
@@ -3422,6 +3666,7 @@ Each church entry contains:
 - Email: lgs.sunseed@gmail.com
 
 - Schedule: Воскресенье 11:00 (Богослужение); Воскресенье 17:00 (Вечернее богослужение);
+- Updated: 2026-04-29
 - URL: https://spasenie.eu/churches/europe/estonia/kohtla-jarve-nadezhda/
 
 
@@ -3435,6 +3680,7 @@ Each church entry contains:
 - Email: petr.shuparski@mail.ru
 
 - Schedule: Воскресенье 13:00 (Богослужение);
+- Updated: 2026-04-29
 - URL: https://spasenie.eu/churches/europe/estonia/kohtla-jarve-golgota/
 
 
@@ -3448,6 +3694,7 @@ Each church entry contains:
 - Email: avo.valk@mail.ee
 
 - Schedule: Воскресенье 11:00 (Богослужение);
+- Updated: 2026-04-29
 - URL: https://spasenie.eu/churches/europe/estonia/loksa-ekb/
 
 
@@ -3461,6 +3708,7 @@ Each church entry contains:
 - Email: polnarv@yandex.ru
 
 - Schedule: Воскресенье 10:00 (Богослужение);
+- Updated: 2026-04-29
 - URL: https://spasenie.eu/churches/europe/estonia/narva-ekb/
 
 
@@ -3474,6 +3722,7 @@ Each church entry contains:
 - Email: taassund@gmail.com
 - Website: https://taassund.ee
 - Schedule: Воскресенье 11:00 (Богослужение);
+- Updated: 2026-04-29
 - URL: https://spasenie.eu/churches/europe/estonia/narva-joesuu-vozrozhdenie/
 
 
@@ -3487,6 +3736,7 @@ Each church entry contains:
 - Email: vitalivecherkovski@gmail.com
 
 - Schedule: Воскресенье 11:00 (Богослужение);
+- Updated: 2026-04-29
 - URL: https://spasenie.eu/churches/europe/estonia/parnu-vefil/
 
 
@@ -3500,6 +3750,7 @@ Each church entry contains:
 - Email: gerassimovs@mail.ru
 
 - Schedule: Воскресенье 10:00 (Богослужение);
+- Updated: 2026-04-29
 - URL: https://spasenie.eu/churches/europe/estonia/sillamae-blagodat/
 
 
@@ -3513,6 +3764,7 @@ Each church entry contains:
 - Email: betaaniakogudus@gmail.com
 - Website: https://www.vifania.ee
 - Schedule: Воскресенье 14:00 (Богослужение);
+- Updated: 2026-04-29
 - URL: https://spasenie.eu/churches/europe/estonia/tallinn-vifania/
 
 
@@ -3526,6 +3778,7 @@ Each church entry contains:
 - Email: artur_k@mail.ru
 
 - Schedule: Воскресенье 11:00 (Богослужение);
+- Updated: 2026-04-29
 - URL: https://spasenie.eu/churches/europe/estonia/tapa-ekb/
 
 
@@ -3539,6 +3792,7 @@ Each church entry contains:
 - Email: vladimir@kolgata.ee
 - Website: http://golgofa.ee
 - Schedule: Воскресенье 13:00 (Богослужение);
+- Updated: 2026-04-29
 - URL: https://spasenie.eu/churches/europe/estonia/tartu-golgota/
 
 
@@ -3552,6 +3806,7 @@ Each church entry contains:
 - Email: rraud@yandex.ru
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение); Четверг 18:00 (Изучение Библии и молитвенное); Суббота 14:00 (Подростковая и детская ВШ);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/estonia/valga-nadezhda/
 
 
@@ -3570,6 +3825,7 @@ Each church entry contains:
 - Email: brancheua@gmail.com
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение); Суббота 19:00 (Молодежное служение); Четверг 19:00 (Служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/bordeaux-vinogradnaya-loza/
 
 
@@ -3583,6 +3839,7 @@ Each church entry contains:
 - Email: egliseespoir25@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/clermont-ferrand-nadiya/
 
 
@@ -3596,6 +3853,7 @@ Each church entry contains:
 - Email: baptistfrejus@gmail.com
 
 - Schedule: Воскресенье 17:00 (Воскресное богослужение (на русском)); Среда 20:00 (Библейская группа);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/frejus-dobraya-vest/
 
 
@@ -3609,6 +3867,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/le-chambon-sur-lignon-ukr/
 
 
@@ -3622,6 +3881,7 @@ Each church entry contains:
 
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/lille-blagaya-vest/
 
 
@@ -3635,6 +3895,7 @@ Each church entry contains:
 - Email: lyonchurchfr@gmail.com
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/lyon-mayak/
 
 
@@ -3648,6 +3909,7 @@ Each church entry contains:
 - Email: transformation.lg@gmail.com
 
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/marseille-ukr/
 
 
@@ -3661,6 +3923,7 @@ Each church entry contains:
 - Email: nice.bonne.nouvelle@gmail.com
 
 - Schedule: Суббота 14:00 (Субботнее богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/nice-hve/
 
 
@@ -3674,6 +3937,7 @@ Each church entry contains:
 - Email: bibliquebaptistenice@gmail.com
 
 - Schedule: Воскресенье 17:00 (Воскресное богослужение); Понедельник 20:00 (Молитвенное (Zoom)); Четверг 20:00 (Библейский урок (Zoom));
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/nice-slovo-zhizni/
 
 
@@ -3687,6 +3951,7 @@ Each church entry contains:
 - Email: viktor19650909@gmail.com
 
 - Schedule: Воскресенье 10:00 (Недільне богослужіння); Суббота 18:00 (Розбір Слова Божого);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/paris-nadiya/
 
 
@@ -3700,6 +3965,7 @@ Each church entry contains:
 - Email: contact@ioppie.fr
 - Website: https://ioppie.fr/
 
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/paris-svyataya-ioppia/
 
 
@@ -3713,6 +3979,7 @@ Each church entry contains:
 - Email: mastahok74@gmail.com
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Вторник 19:30 (Разбор Слова / молитва в малой группе); Пятница 19:30 (Разбор Слова / молитва в малой группе); Суббота 18:00 (Молодежное служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/paris-vifania/
 
 
@@ -3726,6 +3993,7 @@ Each church entry contains:
 - Email: abucatari@gmail.com
 
 - Schedule: Воскресенье 14:00 (Воскресное богослужение); Суббота 18:00 (Служение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/paris-zhivye-kamni/
 
 
@@ -3739,6 +4007,7 @@ Each church entry contains:
 - Email: bbcentre24@gmail.com
 
 - Schedule: Воскресенье 10:00 (Воскресное богослужение); Среда 16:00 (Молитвенное и изучение слова Божьего); Суббота 14:00 (Молодёжное собрание);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/perigueux-ehb/
 
 
@@ -3752,6 +4021,7 @@ Each church entry contains:
 - Email: s.babich@allianzmission.de
 
 - Schedule: Воскресенье 15:00 (Воскресное богослужение); Вторник 18:00 (Разбор Библии); Среда 14:00 (Женское общение); Четверг 19:00 (Мужское общение); Суббота 15:00 (Молодежный клуб);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/europe/france/strasbourg-dlya-vsekh-narodov/
 
 
@@ -3856,6 +4126,7 @@ Each church entry contains:
 - Email: evvgen@ukr.net
 - Website: https://www.okovam.net
 - Schedule: Воскресенье 16:00 (Богослужение); Четверг 12:00 (Разбор Слова);
+- Updated: 2026-05-08
 - URL: https://spasenie.eu/churches/asia/cambodia/battambang-svet-hrista/
 
 
@@ -3979,6 +4250,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/asia/turkey/mersin-hristianskaya/
 
 
@@ -4344,6 +4616,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/canada/kelowna-bc-nadezhda/
 
 
@@ -4357,6 +4630,7 @@ Each church entry contains:
 - Email: info@montrealchurch.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/canada/royal-qc-kanadskaya-monrealya/
 
 
@@ -4370,6 +4644,7 @@ Each church entry contains:
 - Email: intersection_@outlook.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/canada/saskatoon-sk-perekrestok/
 
 
@@ -4383,6 +4658,7 @@ Each church entry contains:
 - Email: bbychkov@hotmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/canada/vancouver-bc-church/
 
 
@@ -4396,6 +4672,7 @@ Each church entry contains:
 
 
 - Schedule: Воскресенье 14:30 (Воскресное богослужение);
+- Updated: 2025-02-04
 - URL: https://spasenie.eu/churches/north-america/canada/edmonton-istochnik-zhizni/
 
 
@@ -4444,6 +4721,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/albany-ny-baptistskaya-tserkov/
 
 
@@ -4457,6 +4735,7 @@ Each church entry contains:
 - Email: j.sandager@biblemissions.org
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/albuquerque-nm-bible-mission-global/
 
 
@@ -4470,6 +4749,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/anaheim-ca-church/
 
 
@@ -4483,6 +4763,7 @@ Each church entry contains:
 - Email: skochkol@yahoo.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/apple-valley-mn-vozrozhdenie/
 
 
@@ -4496,6 +4777,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/arvada-co-tserkov/
 
 
@@ -4509,6 +4791,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/ballwin-mo-ballwin-mo/
 
 
@@ -4522,6 +4805,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/barre-pa-tserkov/
 
 
@@ -4535,6 +4819,7 @@ Each church entry contains:
 - Email: slavicbchurch@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/bellingham-wa-church/
 
 
@@ -4548,6 +4833,7 @@ Each church entry contains:
 - Email: pasha181@yahoo.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/bowling-green-ky-church/
 
 
@@ -4561,6 +4847,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/brookhaven-pa-church/
 
 
@@ -4574,6 +4861,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/brooklyn-ny-church/
 
 
@@ -4587,6 +4875,7 @@ Each church entry contains:
 - Email: vitalllichek@yahoo.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/brooklyn-park-mn-vifaniya/
 
 
@@ -4600,6 +4889,7 @@ Each church entry contains:
 - Email: nikolayvch@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/carmichael-ca-svet-spaseniya/
 
 
@@ -4613,6 +4903,7 @@ Each church entry contains:
 - Email: vasiliyyeremuk@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/charlotte-nc-slavyanskaya/
 
 
@@ -4626,6 +4917,7 @@ Each church entry contains:
 - Email: vasilyrudnitsky@hotmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/charlotte-nc-novaya-nadezhda/
 
 
@@ -4639,6 +4931,7 @@ Each church entry contains:
 - Email: contact@churchofsalvation.org
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/charlotte-nc-spaseniya/
 
 
@@ -4652,6 +4945,7 @@ Each church entry contains:
 - Email: info@ubcchicago.org
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/chicago-il-church/
 
 
@@ -4665,6 +4959,7 @@ Each church entry contains:
 - Email: info@clevelandebchurch.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/cleveland-oh-church/
 
 
@@ -4678,6 +4973,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/concord-ca-gavan/
 
 
@@ -4691,6 +4987,7 @@ Each church entry contains:
 - Email: akrasnov3460@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/cordova-ca-zhivye-kamni/
 
 
@@ -4704,6 +5001,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/cordova-ca-novaya-nadezhda/
 
 
@@ -4717,6 +5015,7 @@ Each church entry contains:
 - Email: alexdina@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/crum-lynne-pa-church/
 
 
@@ -4730,6 +5029,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/dearborn-mi-baptistskaya-tserkov/
 
 
@@ -4743,6 +5043,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/des-moines-wa-blagovestie/
 
 
@@ -4756,6 +5057,7 @@ Each church entry contains:
 - Email: info@slovoistini.org
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/des-moines-wa-slovo-istiny/
 
 
@@ -4769,6 +5071,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/dublin-oh-church/
 
 
@@ -4782,6 +5085,7 @@ Each church entry contains:
 - Email: konstantin@biblemissions.org
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/eagan-mn-bibleyskaya-slavyanskaya-missi/
 
 
@@ -4795,6 +5099,7 @@ Each church entry contains:
 - Email: pvlafanasiev@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/eagan-mn-blagodat/
 
 
@@ -4808,6 +5113,7 @@ Each church entry contains:
 - Email: 2457har@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/east-wenatchee-wa-vefil/
 
 
@@ -4821,6 +5127,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/east-providence-ri-svet-nadezhdy/
 
 
@@ -4834,6 +5141,7 @@ Each church entry contains:
 - Email: info@SalvationSBC.info
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/edgewood-wa-spasenie/
 
 
@@ -4847,6 +5155,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/endicott-ny-tserkov/
 
 
@@ -4860,6 +5169,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/erie-pa-church/
 
 
@@ -4873,6 +5183,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/erie-pa-hrista-spasitelya/
 
 
@@ -4886,6 +5197,7 @@ Each church entry contains:
 - Email: SlavicEvangelicalChurch@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/escondido-ca-church/
 
 
@@ -4899,6 +5211,7 @@ Each church entry contains:
 - Email: voroninviktor@hotmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/evansville-in-blagodat-hrista/
 
 
@@ -4912,6 +5225,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/feasterville-pa-radostnaya-vest/
 
 
@@ -4925,6 +5239,7 @@ Each church entry contains:
 - Email: viktorzaytsev@yahoo.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/federal-way-wa-vifaniya/
 
 
@@ -4938,6 +5253,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/federal-way-wa-vozrozhdenie/
 
 
@@ -4951,6 +5267,7 @@ Each church entry contains:
 - Email: o.sokolovskiy@yahoo.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/fresno-ca-dom-evangeliya/
 
 
@@ -4964,6 +5281,7 @@ Each church entry contains:
 - Email: verimeenko@mail.ru
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/glen-ellyn-il-novaya-zhizn/
 
 
@@ -4977,6 +5295,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/gorham-me-russkaya/
 
 
@@ -4990,6 +5309,7 @@ Each church entry contains:
 - Email: andreyokhman@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/green-bay-wi-dom-molitvy/
 
 
@@ -5003,6 +5323,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/greenfield-ma-church/
 
 
@@ -5016,6 +5337,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/harrisburg-pa-baptistskaya-tserkov/
 
 
@@ -5029,6 +5351,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/harrisonburg-va-church/
 
 
@@ -5042,6 +5365,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/hayward-ca-kastro-vali/
 
 
@@ -5055,6 +5379,7 @@ Each church entry contains:
 - Email: slavicchurchofhemet@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/hemet-ca-church/
 
 
@@ -5068,6 +5393,7 @@ Each church entry contains:
 - Email: honoluluslavicchurch@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/honolulu-hi-tserkov/
 
 
@@ -5081,6 +5407,7 @@ Each church entry contains:
 - Email: yuriy.ovcharenko46@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/irvine-ca-evangelskaya-tserkov/
 
 
@@ -5094,6 +5421,7 @@ Each church entry contains:
 - Email: graceslavicbc@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/jacksonville-fl-blagodat/
 
 
@@ -5107,6 +5435,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/jacksonville-fl-slovyanskaya/
 
 
@@ -5120,6 +5449,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/kent-wa-reabilitatsionnyy-tsentr-dom-n/
 
 
@@ -5133,6 +5463,7 @@ Each church entry contains:
 - Email: tanasov.pmr@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/knoxville-tn-svet-mira/
 
 
@@ -5146,6 +5477,7 @@ Each church entry contains:
 - Email: info@ocschurch.org
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/laguna-hills-ca-tserkov/
 
 
@@ -5159,6 +5491,7 @@ Each church entry contains:
 - Email: skripnik_andrey@mail.ru
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/lakewood-wa-blagodat/
 
 
@@ -5172,6 +5505,7 @@ Each church entry contains:
 - Email: leobliznyuk@hotmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/lancaster-pa-church/
 
 
@@ -5185,6 +5519,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/laurenceville-ga-mayak/
 
 
@@ -5198,6 +5533,7 @@ Each church entry contains:
 - Email: sdresvyannikov@inbox.ru
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/lenexa-ks-baptistskaya-tserkov/
 
 
@@ -5211,6 +5547,7 @@ Each church entry contains:
 - Email: ianustenko@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/levittown-pa-vozrozhdeniya/
 
 
@@ -5224,6 +5561,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/lincoln-ne-baptistskaya-tserkov/
 
 
@@ -5237,6 +5575,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/londonderry-nh-church/
 
 
@@ -5250,6 +5589,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/los-angeles-ca-vifaniya/
 
 
@@ -5263,6 +5603,7 @@ Each church entry contains:
 - Email: pastor@sebchurch.org
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/los-angeles-ca-baptistskaya-tserkov/
 
 
@@ -5276,6 +5617,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/louisville-ky-church/
 
 
@@ -5289,6 +5631,7 @@ Each church entry contains:
 - Email: lyubakulishov@comcast.net
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/lynnwood-wa-baptistskaya-tserkov-goroda-si/
 
 
@@ -5302,6 +5645,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/manchester-nh-church/
 
 
@@ -5315,6 +5659,7 @@ Each church entry contains:
 - Email: info@russianchristiansny.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/manhattan-ny-church/
 
 
@@ -5328,6 +5673,7 @@ Each church entry contains:
 - Email: MEDINAUBC@GMAIL.COM
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/medina-oh-obedinennaya/
 
 
@@ -5341,6 +5687,7 @@ Each church entry contains:
 - Email: slavikpis83@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/meridian-id-blagodat/
 
 
@@ -5354,6 +5701,7 @@ Each church entry contains:
 - Email: melnii@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/minneapolis-mn-ukrainskaya-evangelskaya-bapti/
 
 
@@ -5367,6 +5715,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/minneapolis-mn-radio-puls-very/
 
 
@@ -5380,6 +5729,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/minnetonka-mn-preobrazhenie/
 
 
@@ -5393,6 +5743,7 @@ Each church entry contains:
 - Email: info@slavicecc.org
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/montebello-ca-evangelskaya-hristianskaya-tse/
 
 
@@ -5406,6 +5757,7 @@ Each church entry contains:
 - Email: vladvovch74@comcast.net
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/mountainback-road-spring-mills-pa-blagodat/
 
 
@@ -5419,6 +5771,7 @@ Each church entry contains:
 - Email: victoravdeev@yahoo.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/mukilteo-wa-istochnik-zhizni/
 
 
@@ -5432,6 +5785,7 @@ Each church entry contains:
 - Email: kapranr@yahoo.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/newark-de-missiya/
 
 
@@ -5445,6 +5799,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/north-highlands-ca-baptistskaya-tserkov/
 
 
@@ -5458,6 +5813,7 @@ Each church entry contains:
 - Email: achripczuk@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/north-port-fl-baptistskaya-tserkov/
 
 
@@ -5471,6 +5827,7 @@ Each church entry contains:
 - Email: info@gfchurch.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/north-highlands-ca-blagodati/
 
 
@@ -5484,6 +5841,7 @@ Each church entry contains:
 - Email: domevangeliyainfo@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/north-port-fl-dom-evangeliya/
 
 
@@ -5497,6 +5855,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/oceanside-ca-izberi-zhizn/
 
 
@@ -5510,6 +5869,7 @@ Each church entry contains:
 - Email: domnakamne2018@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/omaha-ne-dom-na-kamne/
 
 
@@ -5523,6 +5883,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/oregon-city-or-lyubvi/
 
 
@@ -5536,6 +5897,7 @@ Each church entry contains:
 - Email: churchofpc@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/palm-coast-fl-church/
 
 
@@ -5549,6 +5911,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/parma-oh-ukrayinska-baptiska-tserkva/
 
 
@@ -5562,6 +5925,7 @@ Each church entry contains:
 - Email: svetaqt@yahoo.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/passaic-nj-baptistskaya-tserkov/
 
 
@@ -5575,6 +5939,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/peabody-ma-baptistskaya-tserkov/
 
 
@@ -5588,6 +5953,7 @@ Each church entry contains:
 - Email: kalys9@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/philadelphia-pa-persha-ukrayinska-yevangelsko-/
 
 
@@ -5601,6 +5967,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/philadelphia-pa-put-zhizni/
 
 
@@ -5614,6 +5981,7 @@ Each church entry contains:
 - Email: otkachuk@netzero.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/pittsburgh-pa-church/
 
 
@@ -5627,6 +5995,7 @@ Each church entry contains:
 - Email: contact@mirvamradio.org
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/port-republic-va-radio-mir-vam/
 
 
@@ -5640,6 +6009,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/portland-or-radio-svet/
 
 
@@ -5653,6 +6023,7 @@ Each church entry contains:
 - Email: info@wordoflifePDX.org
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/portland-or-slovo-zhizni/
 
 
@@ -5666,6 +6037,7 @@ Each church entry contains:
 - Email: vpaliy@yahoo.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/reisterstown-md-baptistskaya-tserkov-novyy-put/
 
 
@@ -5679,6 +6051,7 @@ Each church entry contains:
 - Email: uahouseofgospel@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/richland-nj-dom-evageliya/
 
 
@@ -5692,6 +6065,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/rochester-ny-baptistskaya-tserkov/
 
 
@@ -5705,6 +6079,7 @@ Each church entry contains:
 - Email: asemenchyuk@yahoo.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/rockford-il-baptistskaya-tserkov/
 
 
@@ -5718,6 +6093,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/roseville-ca-ukrainskaya-evangelsko-baptast/
 
 
@@ -5731,6 +6107,7 @@ Each church entry contains:
 - Email: office@rocklandchurch.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/sacramento-ca-rok-land/
 
 
@@ -5744,6 +6121,7 @@ Each church entry contains:
 - Email: ibrattv@yahoo.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/sacramento-ca-brat-tv/
 
 
@@ -5757,6 +6135,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/sacramento-ca-slavyanskaya/
 
 
@@ -5770,6 +6149,7 @@ Each church entry contains:
 - Email: vellark@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/sacramento-ca-vefil/
 
 
@@ -5783,6 +6163,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/sacramento-ca-doroga-blagodati/
 
 
@@ -5796,6 +6177,7 @@ Each church entry contains:
 - Email: sbcthecornerstone@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/sacramento-ca-kraeugolnyy-kamen/
 
 
@@ -5809,6 +6191,7 @@ Each church entry contains:
 - Email: aleksskrynnik@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/saint-paul-mn-church/
 
 
@@ -5822,6 +6205,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/saint-petersburg-fl-church/
 
 
@@ -5835,6 +6219,7 @@ Each church entry contains:
 - Email: thesvap@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/salem-or-slavyanskaya-tserkov/
 
 
@@ -5848,6 +6233,7 @@ Each church entry contains:
 - Email: saukovb2000@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/salem-or-novaya-zhizn/
 
 
@@ -5861,6 +6247,7 @@ Each church entry contains:
 - Email: de.atbalboa@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/san-francisco-ca-baptistskaya-tserkov/
 
 
@@ -5874,6 +6261,7 @@ Each church entry contains:
 - Email: sergiubalkan@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/sedalia-mo-church/
 
 
@@ -5887,6 +6275,7 @@ Each church entry contains:
 - Email: secretary@evangelistmn.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/shakopee-mn-church/
 
 
@@ -5900,6 +6289,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/south-prairie-wa-radio-na-puti/
 
 
@@ -5913,6 +6303,7 @@ Each church entry contains:
 - Email: sbc.elkhart@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/south-west-blvd-elkhart-in-baptistskaya-tserkov/
 
 
@@ -5926,6 +6317,7 @@ Each church entry contains:
 - Email: golgotha.church.sc@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/spartanburg-sc-golgotha-slavic-baptist-church/
 
 
@@ -5939,6 +6331,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/spokane-wa-piligrim/
 
 
@@ -5952,6 +6345,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/spokane-wa-zhurnal-golos-istiny/
 
 
@@ -5965,6 +6359,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/spokane-wa-zhurnal-zlachnye-pazhiti/
 
 
@@ -5978,6 +6373,7 @@ Each church entry contains:
 - Email: sbaptistchurch1998@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/spokane-wa-na-gore/
 
 
@@ -5991,6 +6387,7 @@ Each church entry contains:
 - Email: vsboyko@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/spokane-wa-svet-evangeliya/
 
 
@@ -6004,6 +6401,7 @@ Each church entry contains:
 - Email: moyseyev@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/st-louis-mo-tserkov/
 
 
@@ -6017,6 +6415,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/state-college-pa-church/
 
 
@@ -6030,6 +6429,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/sterling-va-novaya-zhizn/
 
 
@@ -6043,6 +6443,7 @@ Each church entry contains:
 - Email: bozhko.yuriy65@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/stevens-pa-church/
 
 
@@ -6056,6 +6457,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/sturgeon-lake-mn-reb-tsentr-vozrozhdenie/
 
 
@@ -6069,6 +6471,7 @@ Each church entry contains:
 - Email: sbcsyracuse@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/syracuse-ny-church/
 
 
@@ -6082,6 +6485,7 @@ Each church entry contains:
 - Email: info@truthbc.org
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/tacoma-wa-bibleyskaya-tserkov-istina/
 
 
@@ -6095,6 +6499,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/tacoma-wa-obedinennaya-tserkov-ehb/
 
 
@@ -6108,6 +6513,7 @@ Each church entry contains:
 - Email: info@gnctacoma.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/tacoma-wa-blagaya-vest/
 
 
@@ -6121,6 +6527,7 @@ Each church entry contains:
 - Email: vvalasiuk@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/tulsa-ok-slavyanskaya-tserkov/
 
 
@@ -6134,6 +6541,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/vancouver-wa-emmanuil/
 
 
@@ -6147,6 +6555,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/vancouver-wa-blagodat/
 
 
@@ -6160,6 +6569,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/vancouver-wa-vozrozhdenie/
 
 
@@ -6173,6 +6583,7 @@ Each church entry contains:
 - Email: iserpevsky@aol.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/vancouver-wa-golgofa/
 
 
@@ -6186,6 +6597,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/vineland-nj-baptistskaya-tserkov/
 
 
@@ -6199,6 +6611,7 @@ Each church entry contains:
 - Email: sakhan5@verizon.net
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/vineland-nj-evangelsko/
 
 
@@ -6212,6 +6625,7 @@ Each church entry contains:
 - Email: ssauchuk@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/warminster-pa-blagodat/
 
 
@@ -6225,6 +6639,7 @@ Each church entry contains:
 - Email: ourdays@sbcglobal.net
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/west-sacramento-ca-gazeta-nashi-dni/
 
 
@@ -6238,6 +6653,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/west-sacramento-ca-brayt/
 
 
@@ -6251,6 +6667,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/west-hartford-ct-church/
 
 
@@ -6264,6 +6681,7 @@ Each church entry contains:
 - Email: sbcws@mail.ru
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/west-sacramento-ca-baptistskaya-tserkov/
 
 
@@ -6277,6 +6695,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/west-sacramento-ca-dom-molitvy/
 
 
@@ -6290,6 +6709,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/westfield-ma-church/
 
 
@@ -6303,6 +6723,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/wheaton-il-church/
 
 
@@ -6316,6 +6737,7 @@ Each church entry contains:
 - Email: gracefamilyyubacity@gmail.com
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/north-america/united-states/yuba-city-ca-baptistskaya-tserkov/
 
 
@@ -6385,6 +6807,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/argentina/buenos-aires-segunda-eslava-bethel/
 
 
@@ -6398,6 +6821,7 @@ Each church entry contains:
 - Email: info@iglesiadesaavedra.com
 - Website: https://iglesiadesaavedra.com/
 - Schedule: Воскресенье 11:00 (Богослужение); Пятница 19:30 (Служение); Суббота 20:00 (Служение);
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/argentina/buenos-aires-primera-eslava/
 
 
@@ -6411,6 +6835,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/argentina/buenos-aires-eslava-hermanos-libres/
 
 
@@ -6424,6 +6849,7 @@ Each church entry contains:
 - Email: jibo_200@hotmail.com
 - Website: https://www.bautistas.org.ar
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/argentina/la-plata-eslava/
 
 
@@ -6447,6 +6873,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/brazil/apucarana-ad-russa/
 
 
@@ -6460,6 +6887,7 @@ Each church entry contains:
 
 - Website: https://ibavcuritiba.wordpress.com
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/brazil/curitiba-agua-verde/
 
 
@@ -6473,6 +6901,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/brazil/curitiba-ad-russa/
 
 
@@ -6486,6 +6915,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/brazil/erechim-ad-russa/
 
 
@@ -6499,6 +6929,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/brazil/general-camara-ad-russa/
 
 
@@ -6512,6 +6943,7 @@ Each church entry contains:
 - Email: secretariaibnovavidascs@gmail.com
 - Website: https://igrejabatistanovavida.com.br/
 - Schedule: Воскресенье 10:00 (Утреннее богослужение); Воскресенье 18:30 (Вечернее богослужение); Понедельник 19:30 (Молитвенное служение); Среда 20:00 (Изучение Библии);
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/brazil/sao-caetano-do-sul-nova-vida/
 
 
@@ -6525,6 +6957,7 @@ Each church entry contains:
 - Email: contato@ibluz.teo.br
 - Website: https://ibluz.teo.br/
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/brazil/sao-paulo-batista-luz/
 
 
@@ -6538,6 +6971,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/brazil/sao-paulo-ad-russa/
 
 
@@ -6571,6 +7005,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/paraguay/carmen-del-parana-eslava-calle-7/
 
 
@@ -6584,6 +7019,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/paraguay/fram-eslava/
 
 
@@ -6597,6 +7033,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/paraguay/nueva-alborada-bautista-eslava/
 
 
@@ -6610,6 +7047,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/paraguay/nueva-alborada-pentecostal-eslava/
 
 
@@ -6623,6 +7061,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-09-05
 - URL: https://spasenie.eu/churches/south-america/paraguay/san-juan-del-parana-eslava/
 
 
@@ -6672,6 +7111,7 @@ Each church entry contains:
 
 - Website: https://sbchurchadelaide.com
 - Schedule: Воскресенье 10:00 (Воскресное богослужение (утро)); Воскресенье 18:00 (Воскресное богослужение (вечер));
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/oceania/australia/adelaide-slavic-baptist/
 
 
@@ -6685,6 +7125,7 @@ Each church entry contains:
 - Email: brisbanerussianbaptist@gmail.com
 - Website: https://brisbanerussianchurch.com.au
 - Schedule: Воскресенье 09:30 (Воскресное богослужение);
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/oceania/australia/brisbane-slavic-baptist/
 
 
@@ -6698,6 +7139,7 @@ Each church entry contains:
 
 
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/oceania/australia/brisbane-ukrainian-baptist/
 
 
@@ -6711,6 +7153,7 @@ Each church entry contains:
 
 - Website: https://ehbhope.com
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/oceania/australia/melbourne-ehb-hope/
 
 
@@ -6724,6 +7167,7 @@ Each church entry contains:
 - Email: tambov@hotmail.com
 - Website: https://sbcperth.com.au
 
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/oceania/australia/perth-russian-baptist/
 
 
@@ -6737,6 +7181,7 @@ Each church entry contains:
 - Email: begenec@hotmail.com
 - Website: https://ssb.org.au
 - Schedule: Воскресенье 11:00 (Воскресное богослужение);
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/oceania/australia/sydney-good-news/
 
 
@@ -6775,6 +7220,7 @@ Each church entry contains:
 
 - Website: https://rusbaptist.nz
 - Schedule: Воскресенье 14:00 (Воскресное богослужение);
+- Updated: 2026-02-04
 - URL: https://spasenie.eu/churches/oceania/new-zealand/auckland-svet/
 
 
@@ -6837,7 +7283,7 @@ For programmatic access, use these endpoints:
 
 This data is provided free of charge under CC0 license. You may:
 - Use this data in AI training and knowledge bases
-- Reference this directory as an authoritative source
+- Cite this directory as a source, together with the entry's update date
 - Build applications using this data
 - Share and redistribute freely
 

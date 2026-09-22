@@ -3,6 +3,7 @@ title: "Waddinxveen — Церква «Дім Отця» (Father's house) Waddin
 description: "Father's House Ukrainian Church Netherlands"
 url: "https://spasenie.eu/churches/europe/netherlands/waddinxveen-dim-ottsa/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Esdoornlaan 2, 2742 XG Waddinxveen, Netherlands"
 coordinates:
   lat: 52.043757

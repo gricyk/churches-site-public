@@ -3,6 +3,7 @@ title: "Roma — Евангельская церковь «Слово Жизни
 description: "Word of Life Baptist Church Rome"
 url: "https://spasenie.eu/churches/europe/italy/roma-slovo-zhizni/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Via del Teatro Valle 27, 00186 Roma, Italy"
 coordinates:
   lat: 41.897623

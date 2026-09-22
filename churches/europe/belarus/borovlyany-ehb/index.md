@@ -3,6 +3,7 @@ title: "Borovlyany — Церковь ЕХБ – Боровляны"
 description: "Церковь евангельских христиан-баптистов"
 url: "https://spasenie.eu/churches/europe/belarus/borovlyany-ehb/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "ул. Интернациональная, 15, Боровляны, Минский район, Беларусь"
 coordinates:
   lat: 53.983685

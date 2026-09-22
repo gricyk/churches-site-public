@@ -2,6 +2,7 @@
 title: "Erie — Церковь Христа Спасителя – Erie, PA"
 url: "https://spasenie.eu/churches/north-america/united-states/erie-pa-hrista-spasitelya/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "3503 Schaper Ave Erie, PA"
 coordinates:
   lat: 42.0876395

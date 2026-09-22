@@ -3,6 +3,7 @@ title: "Singen — Украинская церковь в Зингене"
 description: "Ukrainian Church Singen"
 url: "https://spasenie.eu/churches/europe/germany/singen-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Rielasinger 23, 78224 Singen, Germany"
 coordinates:
   lat: 47.755449

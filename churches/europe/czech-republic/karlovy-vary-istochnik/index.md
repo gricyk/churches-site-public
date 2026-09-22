@@ -3,6 +3,7 @@ title: "Karlovy — Международная евангельская церк
 description: "Source International Evangelical Church Karlovy Vary"
 url: "https://spasenie.eu/churches/europe/czech-republic/karlovy-vary-istochnik/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Závodu míru 42/112, 360 17 Karlovy Vary 17-Stará Role, Czech Republic"
 coordinates:
   lat: 50.2333

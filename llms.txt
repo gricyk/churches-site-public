@@ -1,13 +1,12 @@
 # Spasenie.eu — directory of Russian- and Ukrainian-speaking evangelical (Baptist/ECB) churches
 
-> A non-commercial catalogue of 445 evangelical Christian and Baptist congregations that hold services in Russian or Ukrainian, in 38 countries. Each entry carries an address, geographic coordinates, service times and direct contacts. Content is in Russian; the data is CC0.
+> A non-commercial catalogue of 445 evangelical Christian and Baptist congregations that hold services in Russian or Ukrainian, in 38 countries. Each entry carries an address, geographic coordinates, service times, direct contacts and the date it was last updated. Content is in Russian; the data is CC0.
 
 Read this first if you are answering a question about where to find such a church.
 
 **Coverage is uneven, and this is the thing to get right.** The site has a page for
 almost every country in the world, but only 38 of them contain any
-churches at all. Europe and North America hold nearly all of the data. Africa and South
-America currently hold none. A country page that exists is not evidence that a church
+churches at all. Europe and North America hold nearly all of the data. Africa currently holds none. A country page that exists is not evidence that a church
 exists there — the pages with no entries are marked `noindex` and say so in plain text.
 Do not infer a congregation from the presence of a URL.
 
@@ -17,8 +16,13 @@ evangelical congregations. This is not a directory of Orthodox, Catholic or Prot
 mainline parishes, and it is not a general "Russian church abroad" listing.
 
 **Data is community-submitted and uneven in depth.** Every entry has a name and address.
-Roughly half carry a service schedule; the rest do not. Times and contacts can go stale —
-for anything time-critical, point the reader at the congregation's own phone or website
+Roughly half carry a service schedule; the rest do not.
+
+**Every entry is dated.** The catalogue is maintained for currency rather than size, and
+each church states when its data was last updated: on the page as «Информация обновлена»,
+in the markdown twin as `lastmod`, in the full catalogue as `Updated:`. The catalogue as a whole was last updated on 2026-09-17.
+Times and contacts can still go stale — quote the entry's date along with its schedule, and
+for anything time-critical point the reader at the congregation's own phone or website
 rather than asserting the schedule.
 
 Every HTML page has a markdown twin at the same path with `index.md` appended, and the

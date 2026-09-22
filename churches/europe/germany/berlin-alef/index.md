@@ -3,6 +3,7 @@ title: "Berlin — Мессианская община «Алеф» в Берл�
 description: "Magen Israel Berlin"
 url: "https://spasenie.eu/churches/europe/germany/berlin-alef/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Seestraße 101, 13353 Berlin, Germany"
 coordinates:
   lat: 52.549632

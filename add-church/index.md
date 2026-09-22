@@ -3,6 +3,7 @@ title: "Добавить церковь"
 description: "Отправьте информацию о церкви для добавления в каталог"
 url: "https://spasenie.eu/add-church/"
 date: 2025-02-14
+lastmod: 2025-02-14
 ---
 
 

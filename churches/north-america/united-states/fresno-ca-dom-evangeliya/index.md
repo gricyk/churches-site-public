@@ -2,6 +2,7 @@
 title: "Fresno — Церковь Дом Евангелия – Fresno, CA"
 url: "https://spasenie.eu/churches/north-america/united-states/fresno-ca-dom-evangeliya/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "3941 East Mono Avenue, Fresno, CA 93702-2360"
 coordinates:
   lat: 36.7372977

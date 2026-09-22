@@ -3,6 +3,7 @@ title: "General Câmara — Русская пятидесятническая А
 description: "Igreja Evangélica Assembleia de Deus Pentecostal Russa do Brasil в колонии Мандурин — сельская община русской пятидесятнической деноминации"
 url: "https://spasenie.eu/churches/south-america/brazil/general-camara-ad-russa/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Colônia Mandurin, General Câmara - RS, 95820-000, Brasil"
 coordinates:
   lat: -29.9059611

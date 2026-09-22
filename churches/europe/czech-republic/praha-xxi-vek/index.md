@@ -3,6 +3,7 @@ title: "Praha — Церковь «XXI век» (ЕХБ) в Праге"
 description: "Sbor Bratrské jednoty baptistů v Praze církev XXI Století"
 url: "https://spasenie.eu/churches/europe/czech-republic/praha-xxi-vek/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Holýšovská 4, Praha 13, 155 00, Czech Republic"
 coordinates:
   lat: 50.041115

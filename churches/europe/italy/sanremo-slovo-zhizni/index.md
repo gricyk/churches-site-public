@@ -3,6 +3,7 @@ title: "Sanremo — Церковь ЕХБ «Слово Жизни» в Сан Р
 description: "Word of Life Baptist Church San Remo"
 url: "https://spasenie.eu/churches/europe/italy/sanremo-slovo-zhizni/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Via Roma 14, 18038 San Remo, Italy"
 coordinates:
   lat: 43.816533

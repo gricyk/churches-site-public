@@ -3,6 +3,7 @@ title: "Rimini — Баптистская церковь «Слово Жизни
 description: "Word of Life Baptist Church Rimini"
 url: "https://spasenie.eu/churches/europe/italy/rimini-slovo-zhizni/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Via dei Forzieri 45, 47922 Rimini, Italy"
 coordinates:
   lat: 44.065212

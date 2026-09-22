@@ -3,6 +3,7 @@ title: "Gdansk — Церковь «Благодать» в Гданьске (Е
 description: "Grace Church Gdańsk"
 url: "https://spasenie.eu/churches/europe/poland/gdansk-blagodat/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Jana Kilińskiego 4, 80-266 Gdańsk, Poland"
 coordinates:
   lat: 54.382831

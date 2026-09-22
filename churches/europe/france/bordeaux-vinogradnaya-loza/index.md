@@ -3,6 +3,7 @@ title: "Bordeaux — Церковь ХВЕ «Виноградная лоза» �
 description: "Vine Branch Church Bordeaux"
 url: "https://spasenie.eu/churches/europe/france/bordeaux-vinogradnaya-loza/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "14 Rue Soubiras, 33200 Bordeaux, France"
 coordinates:
   lat: 44.860243

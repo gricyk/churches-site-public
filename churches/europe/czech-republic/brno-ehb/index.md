@@ -3,6 +3,7 @@ title: "Brno — Церковь Евангельских христиан (ЕХ�
 description: "Sbor Bratrské jednoty baptistů v Brně - Scála"
 url: "https://spasenie.eu/churches/europe/czech-republic/brno-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Smetanova 20, 602 00 Brno, Czech Republic"
 coordinates:
   lat: 49.202969

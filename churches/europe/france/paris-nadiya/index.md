@@ -3,6 +3,7 @@ title: "Paris — Українська Церква ЄХБ «НАДІЯ» / «ES
 description: "Ukrainian Baptist Church Hope Paris"
 url: "https://spasenie.eu/churches/europe/france/paris-nadiya/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "17 Voie de Wissous, Le Centre les Cedres, 91300 Massy, France"
 coordinates:
   lat: 49.690211

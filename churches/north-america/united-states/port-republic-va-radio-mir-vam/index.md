@@ -2,6 +2,7 @@
 title: "Port — Радио Мир Вам – Port Republic, VA"
 url: "https://spasenie.eu/churches/north-america/united-states/port-republic-va-radio-mir-vam/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "Port Republic, VA"
 coordinates:
   lat: 38.2962397

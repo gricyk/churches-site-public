@@ -3,6 +3,7 @@ title: "Нарва — Церковь ЕХБ"
 description: "Narva EKB Kogudus — евангельская церковь ЕХБ в Нарве, Эстония"
 url: "https://spasenie.eu/churches/europe/estonia/narva-ekb/"
 date: 2026-04-29
+lastmod: 2026-04-29
 address: "Rakvere 13, 20609 Narva, Estonia"
 coordinates:
   lat: 59.387

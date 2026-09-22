@@ -2,6 +2,7 @@
 title: "Syracuse — Славянская Баптистская церковь – Syracuse, NY"
 url: "https://spasenie.eu/churches/north-america/united-states/syracuse-ny-church/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "4176 Split Rock Rd, Syracuse, NY 13031, United States"
 coordinates:
   lat: 43.022816

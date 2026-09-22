@@ -3,6 +3,7 @@ title: "Kortrijk — Церковь «Город Истины» Кортрик"
 description: "Stad van Waarheid Kortrijk (ХВЕ)"
 url: "https://spasenie.eu/churches/europe/belgium/kortrijk-gorod-istiny/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Hoevestraat 17, 8500 Kortrijk, Belgium"
 coordinates:
   lat: 50.831587

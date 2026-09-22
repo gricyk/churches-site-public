@@ -3,6 +3,7 @@ title: "Faro — Евангельская баптистская церковь 
 description: "Evangelical Baptist Church Faro"
 url: "https://spasenie.eu/churches/europe/portugal/faro-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Estr. da Sra. da Saúde 8B, 8000-197 Faro, Portugal"
 coordinates:
   lat: 37.038925

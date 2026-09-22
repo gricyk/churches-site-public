@@ -3,6 +3,7 @@ title: "Ylakiai — Церковь евангельских баптистов �
 description: "Evangelical Baptist Church Ylakiai"
 url: "https://spasenie.eu/churches/europe/lithuania/ylakiai-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Dariaus ir Girėno g. 38, Skuodo r. sav., 98353 Ylakiai, Lithuania"
 coordinates:
   lat: 56.279394

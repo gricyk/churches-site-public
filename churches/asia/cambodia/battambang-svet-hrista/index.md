@@ -3,6 +3,7 @@ title: "Battambang — Баптистская церковь «Свет Хрис
 description: "Баптистская церковь «Свет Христа» в Баттамбанге, Камбоджа"
 url: "https://spasenie.eu/churches/asia/cambodia/battambang-svet-hrista/"
 date: 2026-05-08
+lastmod: 2026-05-08
 address: "#085, road 5, Chrey Thmei Village, Chrey Commune, Thma Koul District, Battambang Province, Cambodia"
 phone: "+855 86 567 013"
 email: "evvgen@ukr.net"

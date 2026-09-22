@@ -3,6 +3,7 @@ title: "Zatec — Христианская церковь в городе Žatec
 description: "Christian Church Žatec - Station of BJB XXI Století"
 url: "https://spasenie.eu/churches/europe/czech-republic/zatec-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Lva Tolstého 1249, Žatec, Czech Republic"
 coordinates:
   lat: 50.320572

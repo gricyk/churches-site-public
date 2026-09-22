@@ -3,6 +3,7 @@ title: "Perigueux — Евангельская баптистская церко
 description: "Eglise evangelique baptiste de Périgueux"
 url: "https://spasenie.eu/churches/europe/france/perigueux-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "42 Cours Saint-Georges, 24660 Périgueux, Dordogne, France"
 coordinates:
   lat: 45.177662

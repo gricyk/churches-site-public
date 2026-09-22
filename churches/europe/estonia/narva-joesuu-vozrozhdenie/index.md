@@ -3,6 +3,7 @@ title: "Нарва-Йыэсуу — Церковь «Возрождение»"
 description: "Narva-Jõesuu EKB Kogudus Taassünd — евангельская церковь в Нарва-Йыэсуу, Эстония"
 url: "https://spasenie.eu/churches/europe/estonia/narva-joesuu-vozrozhdenie/"
 date: 2026-04-29
+lastmod: 2026-04-29
 address: "Vabaduse 31a, 29023 Narva-Jõesuu, Estonia"
 coordinates:
   lat: 59.4606

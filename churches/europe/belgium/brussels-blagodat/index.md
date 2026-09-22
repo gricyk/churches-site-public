@@ -3,6 +3,7 @@ title: "Brussels — Брюссель — Церква ЕХБ «Благодат
 description: "Christian Church Grace Brussels"
 url: "https://spasenie.eu/churches/europe/belgium/brussels-blagodat/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Lange Eikstraat 78, 1970 Wezembeek-Oppem, Belgium"
 coordinates:
   lat: 50.853567

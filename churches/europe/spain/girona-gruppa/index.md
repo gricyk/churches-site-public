@@ -3,6 +3,7 @@ title: "Girona — Христианская евангельская групп�
 description: "Christian Evangelical Group Girona"
 url: "https://spasenie.eu/churches/europe/spain/girona-gruppa/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Lloret de Mar, 17310 Girona, Spain"
 coordinates:
   lat: 41.69735

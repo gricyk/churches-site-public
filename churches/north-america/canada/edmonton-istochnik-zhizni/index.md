@@ -3,6 +3,7 @@ title: "Edmonton — Русскоговорящая баптистская це�
 description: "Source of Life Baptist Church Edmonton"
 url: "https://spasenie.eu/churches/north-america/canada/edmonton-istochnik-zhizni/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Parkview Park 9135 146 St NW, Edmonton, AB T5R 4L5, Canada"
 coordinates:
   lat: 53.525663

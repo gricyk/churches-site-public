@@ -3,6 +3,7 @@ title: "Eisenhuettenstadt — Евангельские христиане бап
 description: "ECG Eisenhüttenstadt"
 url: "https://spasenie.eu/churches/europe/germany/eisenhuettenstadt-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Bahnhofstr. 12, 15890 Eisenhüttenstadt, Germany"
 coordinates:
   lat: 52.144515

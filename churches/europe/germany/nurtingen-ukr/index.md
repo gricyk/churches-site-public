@@ -3,6 +3,7 @@ title: "Nurtingen — Украинская церковь в Нюртинген�
 description: "Ukrainian Church Nürtingen"
 url: "https://spasenie.eu/churches/europe/germany/nurtingen-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Schlosserstraße 4A, 72622 Nürtingen, Germany"
 coordinates:
   lat: 48.639043

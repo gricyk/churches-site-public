@@ -3,6 +3,7 @@ title: "Kehl — Евангельская церковь (ЕХБ) Kehl"
 description: "Evangelische Kirche Kehl"
 url: "https://spasenie.eu/churches/europe/germany/kehl-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Ohmstrasse 7, 77694 Kehl, Germany"
 coordinates:
   lat: 48.553911

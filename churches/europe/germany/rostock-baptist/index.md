@@ -3,6 +3,7 @@ title: "Rostock — Церковь баптистов Росток"
 description: "Baptist Church Rostock"
 url: "https://spasenie.eu/churches/europe/germany/rostock-baptist/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Robert-Schumann-Str. 25, 18069 Rostock, Germany"
 coordinates:
   lat: 54.091461

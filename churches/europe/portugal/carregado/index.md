@@ -3,6 +3,7 @@ title: "Carregado - Евангельские Христиане в Каррег�
 description: "Evangelical Church in Carregado Portugal"
 url: "https://spasenie.eu/churches/europe/portugal/carregado/"
 date: 2026-04-22
+lastmod: 2026-04-22
 address: "R. Castelo Melhor 9A, 2580-603 Carregado, Portugal"
 coordinates:
   lat: 39.024808

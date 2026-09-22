@@ -3,6 +3,7 @@ title: "Schwabisch — Украинская церковь в Швебиш-Гм�
 description: "Ukrainian Church Schwäbisch Gmünd"
 url: "https://spasenie.eu/churches/europe/germany/schwabisch-gmund-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 coordinates:
   lat: 48.7997
   lon: 9.7981

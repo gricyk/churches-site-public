@@ -2,6 +2,7 @@
 title: "Albuquerque — Bible Mission Global – Albuquerque, NM"
 url: "https://spasenie.eu/churches/north-america/united-states/albuquerque-nm-bible-mission-global/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "5600 Wyoming Blvd. NE Suite 180 Albuquerque, NM 87109"
 coordinates:
   lat: 35.1436579

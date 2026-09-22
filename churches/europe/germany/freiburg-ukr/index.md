@@ -3,6 +3,7 @@ title: "Freiburg — Украинская церковь во Фрайбурге
 description: "Ukrainian Church Freiburg"
 url: "https://spasenie.eu/churches/europe/germany/freiburg-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Kronenmattenstraße 5, 79100 Freiburg im Breisgau, Germany"
 coordinates:
   lat: 47.988115

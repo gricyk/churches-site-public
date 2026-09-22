@@ -2,6 +2,7 @@
 title: "Palm — Славянская Баптистская церковь – Palm Coast, FL"
 url: "https://spasenie.eu/churches/north-america/united-states/palm-coast-fl-church/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "205 NORTH PINE STREET, BUNNELL, FL 32110"
 coordinates:
   lat: 29.4674567

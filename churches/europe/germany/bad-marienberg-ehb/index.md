@@ -3,6 +3,7 @@ title: "Bad — Церковь евангельских христиан в Ма
 description: "Evangeliumschristen Gemeinde Bad Marienberg"
 url: "https://spasenie.eu/churches/europe/germany/bad-marienberg-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Bismarkstrasse 94, 56470 Bad Marienberg, Germany"
 coordinates:
   lat: 50.65

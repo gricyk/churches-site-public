@@ -3,6 +3,7 @@ title: "Dzerzhinskiy — Церковь «Новый Завет» – Дзерж
 description: "Церковь Христиан Веры Евангельской (ХВЕ)"
 url: "https://spasenie.eu/churches/europe/russia/dzerzhinskiy-novyy-zavet/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "ул. Зелёная 8а, г. Дзержинский, Московская область, Россия"
 coordinates:
   lat: 55.504316

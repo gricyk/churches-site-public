@@ -3,6 +3,7 @@ title: "Munchen — Славянская Церковь ЕХБ г. Мюнхен"
 description: "EHB München"
 url: "https://spasenie.eu/churches/europe/germany/munchen-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Drygalski-Allee 33/C, 81477 München, Germany"
 coordinates:
   lat: 48.082185

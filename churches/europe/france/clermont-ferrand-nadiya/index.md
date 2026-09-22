@@ -3,6 +3,7 @@ title: "Clermont — Українська євангельська церква 
 description: "Ukrainian Evangelical Church Hope Clermont-Ferrand"
 url: "https://spasenie.eu/churches/europe/france/clermont-ferrand-nadiya/"
 date: 2025-02-04
+lastmod: 2025-02-04
 coordinates:
   lat: 45.7772
   lon: 3.087

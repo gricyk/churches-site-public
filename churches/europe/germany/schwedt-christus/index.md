@@ -3,6 +3,7 @@ title: "Schwedt — Церковь Христа Спасителя Schwedt"
 description: "Evangelisch-Freikirchliche Gemeinde Schwedt"
 url: "https://spasenie.eu/churches/europe/germany/schwedt-christus/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Berkholzer Allee 10, 16303 Schwedt/Oder, Germany"
 coordinates:
   lat: 53.060195

@@ -3,6 +3,7 @@ title: "Mazeikiai — Церковь евангельских христиан �
 description: "Evangelical Baptist Church Mažeikiai"
 url: "https://spasenie.eu/churches/europe/lithuania/mazeikiai-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Tirkšlių g. 3, Mažeikių r. sav., 89235 Mažeikiai, Lithuania"
 coordinates:
   lat: 56.311048

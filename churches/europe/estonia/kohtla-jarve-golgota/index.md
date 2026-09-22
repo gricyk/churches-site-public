@@ -3,6 +3,7 @@ title: "Кохтла-Ярве — Церковь ЕХБ «Голгофа»"
 description: "Kohtla-Järve Evangeeliumi Kristlaste ja Baptistide Vene Kogudus Kolgata — евангельская церковь в Кохтла-Ярве"
 url: "https://spasenie.eu/churches/europe/estonia/kohtla-jarve-golgota/"
 date: 2026-04-29
+lastmod: 2026-04-29
 address: "Lille 14, 30221 Kohtla-Järve, Estonia"
 coordinates:
   lat: 59.399

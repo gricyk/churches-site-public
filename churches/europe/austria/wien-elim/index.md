@@ -3,6 +3,7 @@ title: "Vienna — Церковь Христиан Веры Евангельск
 description: "Собрание всех неизменно любящих Господа"
 url: "https://spasenie.eu/churches/europe/austria/wien-elim/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Maculangasse 9, 1220 Wien, Austria"
 coordinates:
   lat: 48.26248

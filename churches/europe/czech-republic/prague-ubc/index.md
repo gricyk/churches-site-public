@@ -3,6 +3,7 @@ title: "Prague — Украинская Библейская Церковь – 
 description: "Ukrainian Bible Church in Prague"
 url: "https://spasenie.eu/churches/europe/czech-republic/prague-ubc/"
 date: 2026-02-05
+lastmod: 2026-02-05
 address: "Korunovační 103/6, Praha 7, Czechia"
 coordinates:
   lat: 50.100381

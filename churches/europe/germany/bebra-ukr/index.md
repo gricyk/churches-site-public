@@ -3,6 +3,7 @@ title: "Bebra — Украинская церковь в Бебре"
 description: "Ukrainian Church Bebra"
 url: "https://spasenie.eu/churches/europe/germany/bebra-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Friedrichstraße 34, 36179 Bebra, Germany"
 coordinates:
   lat: 50.966923

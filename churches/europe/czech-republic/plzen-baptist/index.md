@@ -3,6 +3,7 @@ title: "Plzen — Церковь Евангельских Христиан Ба�
 description: "Baptist Church in Pilsen"
 url: "https://spasenie.eu/churches/europe/czech-republic/plzen-baptist/"
 date: 2026-02-06
+lastmod: 2026-02-06
 address: "Sladkovského 28, Plzeň, Czechia"
 coordinates:
   lat: 49.738559

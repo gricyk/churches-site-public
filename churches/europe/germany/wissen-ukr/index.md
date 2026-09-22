@@ -3,6 +3,7 @@ title: "Wissen — Украинская церковь в Виссене"
 description: "Ukrainian Church Wissen"
 url: "https://spasenie.eu/churches/europe/germany/wissen-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Schloßstraße 37, 57537 Wissen, Germany"
 coordinates:
   lat: 50.779123

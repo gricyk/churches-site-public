@@ -3,6 +3,7 @@ title: "Lage — Украинская церковь в Лаге"
 description: "Ukrainian Church Lage"
 url: "https://spasenie.eu/churches/europe/germany/lage-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Feldstraße 53, 32791 Lage, Germany"
 coordinates:
   lat: 51.991239

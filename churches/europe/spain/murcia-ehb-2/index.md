@@ -3,6 +3,7 @@ title: "Murcia — Церковь ЕХБ в Мурсии (2)"
 description: "Baptist Church Murcia"
 url: "https://spasenie.eu/churches/europe/spain/murcia-ehb-2/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Enrique Tierno Galvan 1, 30100 Murcia, Spain"
 coordinates:
   lat: 38.008613

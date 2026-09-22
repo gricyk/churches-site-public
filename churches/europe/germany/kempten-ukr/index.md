@@ -3,6 +3,7 @@ title: "Kempten — Украинская церковь в Кемптене"
 description: "Ukrainian Church Kempten"
 url: "https://spasenie.eu/churches/europe/germany/kempten-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Untere Eicher Str. 11, 87435 Kempten, Germany"
 coordinates:
   lat: 47.709514

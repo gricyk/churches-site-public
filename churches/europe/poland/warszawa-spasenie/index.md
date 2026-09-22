@@ -3,6 +3,7 @@ title: "Warszawa — Христианская Церковь «Спасение�
 description: "Salvation Church Warsaw / Kościół Chrześcijan Baptystów w RP"
 url: "https://spasenie.eu/churches/europe/poland/warszawa-spasenie/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "ul. Mińska 48, 03-193 Warszawa, Poland"
 coordinates:
   lat: 52.249323

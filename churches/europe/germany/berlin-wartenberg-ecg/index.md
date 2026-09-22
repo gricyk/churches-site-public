@@ -3,6 +3,7 @@ title: "Berlin — Евангельские Христиане Берлин-Ва
 description: "ECG Berlin-Wartenberg"
 url: "https://spasenie.eu/churches/europe/germany/berlin-wartenberg-ecg/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Wustrower Str. 52, 13051 Berlin, Germany"
 coordinates:
   lat: 52.571595

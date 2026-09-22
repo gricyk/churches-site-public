@@ -3,6 +3,7 @@ title: "Gent — Христианская церковь «Дом Божий» �
 description: "Dom Boga Gent (ХВЕ)"
 url: "https://spasenie.eu/churches/europe/belgium/gent-dom-bozhiy/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Afrikalaan 180, 9000 Gent, Belgium"
 coordinates:
   lat: 51.063389

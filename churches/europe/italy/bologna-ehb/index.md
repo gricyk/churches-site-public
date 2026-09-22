@@ -3,6 +3,7 @@ title: "Bologna — Евангельская церковь Bologna"
 description: "Evangelical Church Bologna"
 url: "https://spasenie.eu/churches/europe/italy/bologna-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Via del Pallone 4, 40126 Bologna, Italy"
 coordinates:
   lat: 44.501227

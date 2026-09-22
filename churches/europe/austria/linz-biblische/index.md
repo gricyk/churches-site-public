@@ -3,6 +3,7 @@ title: "Linz — Библейская церковь (ЕХБ) в Линце"
 description: "Biblische Gemeinde Linz"
 url: "https://spasenie.eu/churches/europe/austria/linz-biblische/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Im Haidland 3, 4030 Linz, Austria"
 coordinates:
   lat: 48.258093

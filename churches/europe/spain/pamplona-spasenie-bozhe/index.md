@@ -3,6 +3,7 @@ title: "Pamplona — Церковь «Спасіння Боже» (ХВЕ) Па�
 description: "Salvacion de Dios Pamplona"
 url: "https://spasenie.eu/churches/europe/spain/pamplona-spasenie-bozhe/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Calle Iruñalde 1, Berriozar, 31013 Pamplona, Spain"
 coordinates:
   lat: 42.836684

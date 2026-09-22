@@ -2,6 +2,7 @@
 title: "Vineland — Украинская Eвангельско-Баптистская Церковь – Vineland, NJ"
 url: "https://spasenie.eu/churches/north-america/united-states/vineland-nj-evangelsko/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "1462 N. Brewster Rd. \u0026 Vine St. Vineland, NJ 08360"
 coordinates:
   lat: 39.505408

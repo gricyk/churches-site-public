@@ -3,6 +3,7 @@ title: "Кохтла-Ярве — Церковь «Вефиль»"
 description: "Kohtla-Järve Peeteli Kogudus — евангельская церковь ЕХБ в Кохтла-Ярве"
 url: "https://spasenie.eu/churches/europe/estonia/kohtla-jarve-vefil/"
 date: 2026-04-29
+lastmod: 2026-04-29
 address: "Hobuseraua 10, 31027 Kohtla-Järve, Estonia"
 coordinates:
   lat: 59.3137

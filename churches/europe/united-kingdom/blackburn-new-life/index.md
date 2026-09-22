@@ -3,6 +3,7 @@ title: "Blackburn — Евангельская Церковь «Новая Жи�
 description: "New Life Church Blackburn"
 url: "https://spasenie.eu/churches/europe/united-kingdom/blackburn-new-life/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Bethesda Chapel, Shakespeare Way, BB2 1XL, UK"
 coordinates:
   lat: 53.74169

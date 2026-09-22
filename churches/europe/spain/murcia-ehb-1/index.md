@@ -3,6 +3,7 @@ title: "Murcia — Церковь евангельских христиан ба
 description: "Evangelical Baptist Church Murcia"
 url: "https://spasenie.eu/churches/europe/spain/murcia-ehb-1/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Paseo científico Gabriel Ciscar, local 22F, 30007 Murcia, Spain"
 coordinates:
   lat: 37.996315

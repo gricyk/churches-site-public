@@ -3,6 +3,7 @@ title: "Offenburg — Украинская церковь в Оффенбург�
 description: "Ukrainian Church Offenburg"
 url: "https://spasenie.eu/churches/europe/germany/offenburg-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Okenstraße 25a, 77652 Offenburg, Germany"
 coordinates:
   lat: 48.474639

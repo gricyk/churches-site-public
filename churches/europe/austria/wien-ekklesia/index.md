@@ -3,6 +3,7 @@ title: "Vienna — Церковь Ekklesia ЕХБ г. Вена"
 description: "EKKLESIA Wien Bibel Gemeinde"
 url: "https://spasenie.eu/churches/europe/austria/wien-ekklesia/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Mollardgasse 35, 1060 Wien, Austria"
 coordinates:
   lat: 48.192807

@@ -3,6 +3,7 @@ title: "Rybinsk — Церковь ЕХБ Дом молитвы - Рыбинск
 description: "Baptist Church House of Prayer in Rybinsk, Russia"
 url: "https://spasenie.eu/churches/europe/russia/rybinsk-baptist/"
 date: 2026-02-08
+lastmod: 2026-02-08
 address: "Россия, Рыбинск, улица Ломоносова 15А"
 coordinates:
   lat: 58.047384

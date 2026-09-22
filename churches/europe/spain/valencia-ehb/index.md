@@ -3,6 +3,7 @@ title: "Valencia — Церковь Евангельских Христиан Б
 description: "Evangelical Baptist Church Valencia"
 url: "https://spasenie.eu/churches/europe/spain/valencia-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Maximiliano Thous 48, 46009 Valencia, Spain"
 coordinates:
   lat: 39.488108

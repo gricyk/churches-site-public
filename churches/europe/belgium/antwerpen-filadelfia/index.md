@@ -3,6 +3,7 @@ title: "Antwerpen — Христианская церковь «Филадель
 description: "Christelijke Kerk Philadelphia Antwerpen"
 url: "https://spasenie.eu/churches/europe/belgium/antwerpen-filadelfia/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Sint Bernardsesteenweg 505, 2660 Antwerpen, Belgium"
 coordinates:
   lat: 51.178793

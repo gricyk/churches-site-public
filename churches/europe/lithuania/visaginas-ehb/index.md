@@ -3,6 +3,7 @@ title: "Visaginas — Церковь евангельских христиан �
 description: "Evangelical Baptist Church Visaginas"
 url: "https://spasenie.eu/churches/europe/lithuania/visaginas-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Jaunystės g. 21-1, Visagino sav., 31230 Visaginas, Lithuania"
 coordinates:
   lat: 55.59966

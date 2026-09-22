@@ -3,6 +3,7 @@ title: "Budapest — Библейская церковь «Новая жизнь
 description: "Új Élet Biblia Gyülekezet Budapest / New Life Bible Church Budapest"
 url: "https://spasenie.eu/churches/europe/hungary/budapest-novaya-zhizn/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Paulay Ede utca 22-24, Forum, 1061 Budapest, Hungary"
 coordinates:
   lat: 47.486771

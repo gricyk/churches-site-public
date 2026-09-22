@@ -3,6 +3,7 @@ title: "Moscow — Церковь ЕХБ Свобода - Москва"
 description: "Baptist church Freedom in Moscow"
 url: "https://spasenie.eu/churches/europe/russia/moscow-freedom/"
 date: 2026-02-06
+lastmod: 2026-02-06
 address: "Москва, Россия"
 coordinates:
   lat: 55.625578

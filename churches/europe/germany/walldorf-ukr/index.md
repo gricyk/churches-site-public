@@ -3,6 +3,7 @@ title: "Walldorf — Украинская церковь в Вальдорфе"
 description: "Ukrainian Church Walldorf"
 url: "https://spasenie.eu/churches/europe/germany/walldorf-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Hauptstraße 22, 69190 Walldorf, Germany"
 coordinates:
   lat: 49.302598

@@ -3,6 +3,7 @@ title: "Genova — Церковь «Преображение» Генуя"
 description: "Transfiguration Church Genova"
 url: "https://spasenie.eu/churches/europe/italy/genova-preobrazhenie/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Via Ettore Vernazza 14, 16121 Genova, Italy"
 coordinates:
   lat: 44.406986

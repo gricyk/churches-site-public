@@ -3,6 +3,7 @@ title: "Gdynia — Церковь «Причал» ЕХБ в Гдыне"
 description: "Pier Baptist Church Gdynia"
 url: "https://spasenie.eu/churches/europe/poland/gdynia-prichal/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Ul. Oficerska 15, Gdynia, Poland"
 coordinates:
   lat: 54.476134

@@ -2,6 +2,7 @@
 title: "Cleveland — Русско-Украинская Баптистская церковь – Cleveland, OH"
 url: "https://spasenie.eu/churches/north-america/united-states/cleveland-oh-church/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "2071 W 11th St, Cleveland, OH 44113"
 coordinates:
   lat: 41.4839365

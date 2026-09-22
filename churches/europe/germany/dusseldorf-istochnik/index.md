@@ -3,6 +3,7 @@ title: "Dusseldorf — Христианская Церковь «Источни�
 description: "Christliche Kirche Quelle Düsseldorf"
 url: "https://spasenie.eu/churches/europe/germany/dusseldorf-istochnik/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Eisenstr. 75, 40227 Düsseldorf, Germany"
 coordinates:
   lat: 51.216823

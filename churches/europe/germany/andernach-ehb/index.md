@@ -3,6 +3,7 @@ title: "Andernach — Евангельская церковь в Андерна�
 description: "Evangelische Freikirche Andernach"
 url: "https://spasenie.eu/churches/europe/germany/andernach-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Füllscheuerweg 44, 56626 Andernach, Germany"
 coordinates:
   lat: 50.434742

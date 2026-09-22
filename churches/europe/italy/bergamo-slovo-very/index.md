@@ -3,6 +3,7 @@ title: "Bergamo — Евангельская Церковь «Слово Вер�
 description: "Word of Faith Church Bergamo"
 url: "https://spasenie.eu/churches/europe/italy/bergamo-slovo-very/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Via Carlo Serassi 6B, 24125 Bergamo, Italy"
 coordinates:
   lat: 45.696771

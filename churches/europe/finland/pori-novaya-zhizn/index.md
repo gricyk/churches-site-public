@@ -3,6 +3,7 @@ title: "Pori — Церковь ЕХБ «Новая Жизнь» г. Пори"
 description: "New Life Baptist Church Pori"
 url: "https://spasenie.eu/churches/europe/finland/pori-novaya-zhizn/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Satakunnankatu 32, 28130 Pori, Finland"
 coordinates:
   lat: 61.472867

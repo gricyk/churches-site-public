@@ -3,6 +3,7 @@ title: "Napoli — Евангельская баптистская церков�
 description: "Word of Life Baptist Church Naples"
 url: "https://spasenie.eu/churches/europe/italy/napoli-slovo-zhizni/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Via Foria 93, 80137 Napoli, Italy"
 coordinates:
   lat: 40.856584

@@ -3,6 +3,7 @@ title: "Berlin — Евангельские Христиане Берлин-Хе
 description: "ECG Berlin-Hellersdorf e.V."
 url: "https://spasenie.eu/churches/europe/germany/berlin-hellersdorf-ecg/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Havelländer Ring 40, 12629 Berlin, Germany"
 coordinates:
   lat: 52.541547

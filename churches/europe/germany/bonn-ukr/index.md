@@ -3,6 +3,7 @@ title: "Bonn — Украинская церковь в Бонне"
 description: "Ukrainian Church Bonn"
 url: "https://spasenie.eu/churches/europe/germany/bonn-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Elisabethstraße 18, 53177 Bonn, Germany"
 coordinates:
   lat: 50.67525

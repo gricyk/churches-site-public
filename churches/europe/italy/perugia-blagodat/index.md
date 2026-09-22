@@ -3,6 +3,7 @@ title: "Perugia — Евангельская церковь «Благодать
 description: "Grace of Christ Church Perugia"
 url: "https://spasenie.eu/churches/europe/italy/perugia-blagodat/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Via Cino da Pistoia 46, 06126 Perugia, Italy"
 coordinates:
   lat: 43.096233

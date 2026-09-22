@@ -3,6 +3,7 @@ title: "Warszawa — Христианская церковь (ХВЕП) в Ва�
 description: "House of God Pentecostal Church Warsaw"
 url: "https://spasenie.eu/churches/europe/poland/warszawa-dom-bozhiy/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "ул. Клопотовскего 11, Варшава, Poland"
 coordinates:
   lat: 52.233374

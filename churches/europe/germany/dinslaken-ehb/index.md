@@ -3,6 +3,7 @@ title: "Dinslaken — Церковь ЕХБ в Динслакене"
 description: "Frei Evangelische Baptistengemeinde Dinslaken"
 url: "https://spasenie.eu/churches/europe/germany/dinslaken-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Drei Eichen 5, 46539 Dinslaken, Germany"
 coordinates:
   lat: 51.554228

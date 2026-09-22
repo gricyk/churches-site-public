@@ -3,6 +3,7 @@ title: "Milano — Евангельская церковь (ЕХБ) «Слово
 description: "Word of Life Baptist Church Milan"
 url: "https://spasenie.eu/churches/europe/italy/milano-slovo-zhizni/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Via Monte Nero 1C, 20098 San Giuliano Milanese (Milan), Italy"
 coordinates:
   lat: 45.394994

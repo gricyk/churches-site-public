@@ -3,6 +3,7 @@ title: "Beroun — Библейская церковь"
 description: "Біблійна церква Бероун — евангельская церковь в Бероуне (Чехия)"
 url: "https://spasenie.eu/churches/europe/czech-republic/beroun-biblicka/"
 date: 2026-05-07
+lastmod: 2026-05-07
 address: "Tylova 8, 266 01 Beroun, Czech Republic"
 coordinates:
   lat: 49.9681802

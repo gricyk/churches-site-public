@@ -3,6 +3,7 @@ title: "Gummersbach — Украинская церковь в Гуммерсб�
 description: "Ukrainian Church Gummersbach"
 url: "https://spasenie.eu/churches/europe/germany/gummersbach-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Theodor-Heuss-Straße 10, 51645 Gummersbach, Germany"
 coordinates:
   lat: 51.005148

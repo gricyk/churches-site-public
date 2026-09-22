@@ -3,6 +3,7 @@ title: "Paris — Церковь ЕХБ «Вифания» Париж"
 description: "Bethany Baptist Church Paris"
 url: "https://spasenie.eu/churches/europe/france/paris-vifania/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "36 Rue de la Division Leclerc, 91300 Massy, France"
 coordinates:
   lat: 48.730175

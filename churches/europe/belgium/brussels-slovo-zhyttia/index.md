@@ -3,6 +3,7 @@ title: "Brussels — Брюссель — Украинская баптистс�
 description: "Word of Life Baptist Church Brussels"
 url: "https://spasenie.eu/churches/europe/belgium/brussels-slovo-zhyttia/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Rue Pierre Decoster 77, 1190 Forest, Belgium"
 coordinates:
   lat: 50.823396

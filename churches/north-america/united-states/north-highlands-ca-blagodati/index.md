@@ -2,6 +2,7 @@
 title: "North — Церковь благодати – North Highlands, CA"
 url: "https://spasenie.eu/churches/north-america/united-states/north-highlands-ca-blagodati/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "7031 Watt Ave., North Highlands, CA 95660"
 coordinates:
   lat: 38.695377

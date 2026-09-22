@@ -3,6 +3,7 @@ title: "Plzen — Международная Евангельская Церко
 description: "International Evangelical Church Agape Plzeň"
 url: "https://spasenie.eu/churches/europe/czech-republic/plzen-agape/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Husova 314/1, 301 00 Plzeň 3-Jižní Předměstí, Czech Republic"
 coordinates:
   lat: 49.745066

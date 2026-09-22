@@ -3,6 +3,7 @@ title: "Vejle — Церква «YouthLife»"
 description: "Церква «YouthLife» — україномовна євангельська церква у Вейле"
 url: "https://spasenie.eu/churches/europe/denmark/vejle-youthlife/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Knud Højgaards Vej 10, 7100 Vejle, Denmark"
 coordinates:
   lat: 55.729203

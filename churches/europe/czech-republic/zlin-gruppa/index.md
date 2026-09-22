@@ -3,6 +3,7 @@ title: "Zlin — Баптисты г. Злин (домашняя группа)"
 description: "Baptist Home Group Zlín"
 url: "https://spasenie.eu/churches/europe/czech-republic/zlin-gruppa/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "SNP 1180, 76502 Otrokovice, Zlínský kraj, Czech Republic"
 coordinates:
   lat: 49.201953

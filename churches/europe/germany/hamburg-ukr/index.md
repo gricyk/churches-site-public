@@ -3,6 +3,7 @@ title: "Hamburg — Украинская церковь в Гамбурге"
 description: "Ukrainian Church Hamburg"
 url: "https://spasenie.eu/churches/europe/germany/hamburg-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Osterrade 7a, 21031 Hamburg, Germany"
 coordinates:
   lat: 53.509502

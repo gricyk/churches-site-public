@@ -3,6 +3,7 @@ title: "Центар Црква"
 description: "Сербская межконфессиональная церковь в Белграде"
 url: "https://spasenie.eu/churches/europe/serbia/belgrade-centarcrkva/"
 date: 2026-04-14
+lastmod: 2026-04-14
 address: "Зрењанински пут 127б, Белград (возле Wobby Haus-a)"
 coordinates:
   lat: 44.870859

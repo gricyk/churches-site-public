@@ -3,6 +3,7 @@ title: "Hamburg — Библейская церковь христиан бап�
 description: "Bibel Baptisten Gemeinde Hamburg"
 url: "https://spasenie.eu/churches/europe/germany/hamburg-bbg/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Kronsaalsweg 70, 22525 Hamburg-Stellingen, Germany"
 coordinates:
   lat: 53.597681

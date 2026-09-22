@@ -3,6 +3,7 @@ title: "Политика конфиденциальности / Privacy Policy"
 description: "Политика конфиденциальности сайта Spasenie.eu и мобильного приложения «Церкви в мире — Spasenie.eu»"
 url: "https://spasenie.eu/privacy-policy/"
 date: 2026-04-12
+lastmod: 2026-04-12
 ---
 
 

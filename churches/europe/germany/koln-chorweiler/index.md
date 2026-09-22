@@ -3,6 +3,7 @@ title: "Koln — Евангельская свободная церковь в �
 description: "Evangelische Freikirche Köln Chorweiler e.V."
 url: "https://spasenie.eu/churches/europe/germany/koln-chorweiler/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Stallagsbergweg 2, 50769 Köln, Germany"
 coordinates:
   lat: 51.019355

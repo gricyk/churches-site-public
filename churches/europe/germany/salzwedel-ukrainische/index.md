@@ -3,6 +3,7 @@ title: "Salzwedel — Украинская Христианская Церков
 description: "Ukrainische Christliche Kirche Salzwedel"
 url: "https://spasenie.eu/churches/europe/germany/salzwedel-ukrainische/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Neutorstraße 14, 29410 Salzwedel, Germany"
 coordinates:
   lat: 52.848539

@@ -2,6 +2,7 @@
 title: "Des — Церковь Слово истины – Des Moines, WA"
 url: "https://spasenie.eu/churches/north-america/united-states/des-moines-wa-slovo-istiny/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "22975 24th AVE S, Des Moines, WA, 98198"
 coordinates:
   lat: 47.3964475

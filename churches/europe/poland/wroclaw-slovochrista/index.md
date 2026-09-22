@@ -3,6 +3,7 @@ title: "Wroclaw - Церковь христиан баптистов Слово 
 description: "Word of Christ baptist church in Wroclaw"
 url: "https://spasenie.eu/churches/europe/poland/wroclaw-slovochrista/"
 date: 2026-03-18
+lastmod: 2026-03-18
 address: "Metalowcow 25, Wroclaw, Poland"
 coordinates:
   lat: 51.127997

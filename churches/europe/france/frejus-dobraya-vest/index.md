@@ -3,6 +3,7 @@ title: "Frejus — Церковь ЕХБ «Добрая Весть» во Фре
 description: "Good News Baptist Church Fréjus"
 url: "https://spasenie.eu/churches/europe/france/frejus-dobraya-vest/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "102 Impasse Thomas Edison Z.A., La Palud, 83600 Fréjus, France"
 coordinates:
   lat: 43.433031

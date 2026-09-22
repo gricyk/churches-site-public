@@ -3,6 +3,7 @@ title: "Bratislava — Украинская церковь евангельск�
 description: "Hope Ukrainian Baptist Church Bratislava"
 url: "https://spasenie.eu/churches/europe/slovakia/bratislava-nadezhda/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Palisády 27a, 811 06 Bratislava, Slovakia"
 coordinates:
   lat: 48.147138

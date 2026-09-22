@@ -3,6 +3,7 @@ title: "Barneveld — Українська Біблійна Церква у Ні
 description: "Ukrainian Bible Church Netherlands"
 url: "https://spasenie.eu/churches/europe/netherlands/barneveld-ukrainska/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Gasthuisstraat 5, 3771 HE Barneveld, Netherlands"
 coordinates:
   lat: 52.141406

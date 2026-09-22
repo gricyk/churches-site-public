@@ -3,6 +3,7 @@ title: "Кохтла-Ярве — Церковь «Надежда»"
 description: "Kohtla-Järve Evangeeliumi Kristlaste Kogudus Lootus — евангельская церковь в Кохтла-Ярве"
 url: "https://spasenie.eu/churches/europe/estonia/kohtla-jarve-nadezhda/"
 date: 2026-04-29
+lastmod: 2026-04-29
 address: "Lehola 13, 31026 Kohtla-Järve, Estonia"
 coordinates:
   lat: 59.3247

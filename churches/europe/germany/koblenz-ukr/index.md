@@ -3,6 +3,7 @@ title: "Koblenz — Украинская церковь в Кобленце"
 description: "Ukrainian Church Koblenz"
 url: "https://spasenie.eu/churches/europe/germany/koblenz-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Brenderweg 125, 56070 Koblenz, Germany"
 coordinates:
   lat: 50.366676

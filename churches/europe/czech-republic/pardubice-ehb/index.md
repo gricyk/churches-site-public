@@ -3,6 +3,7 @@ title: "Pardubice — Евангельская церковь (ЕХБ) Пард�
 description: "Evangelical Baptist Church Pardubice"
 url: "https://spasenie.eu/churches/europe/czech-republic/pardubice-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Sladkovského 521, 530 02 Pardubice, Czech Republic"
 coordinates:
   lat: 50.033271

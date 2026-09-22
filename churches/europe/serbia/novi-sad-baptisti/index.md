@@ -3,6 +3,7 @@ title: "Хришћанска баптистичка црква Нови Сад"
 description: "Баптистская церковь в Новом Саде."
 url: "https://spasenie.eu/churches/europe/serbia/novi-sad-baptisti/"
 date: 2026-04-14
+lastmod: 2026-04-14
 address: "Kolo srpskih sestara 24, Novi Sad"
 coordinates:
   lat: 45.2406806988117

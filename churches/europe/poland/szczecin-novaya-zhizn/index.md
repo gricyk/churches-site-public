@@ -3,6 +3,7 @@ title: "Szczecin — Церковь ЕХБ «Новая жизнь» г. Щец�
 description: "New Life Baptist Church Szczecin"
 url: "https://spasenie.eu/churches/europe/poland/szczecin-novaya-zhizn/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Wita Stwosza 1A, 71-173 Szczecin, Poland"
 coordinates:
   lat: 53.436414

@@ -3,6 +3,7 @@ title: "Curitiba — Баптистская церковь «Агуа-Верде
 description: "Igreja Batista Água Verde — бывшая Первая славянская евангельская баптистская церковь Куритибы"
 url: "https://spasenie.eu/churches/south-america/brazil/curitiba-agua-verde/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Rua Coronel Dulcídio 1906, Água Verde, Curitiba - PR, 80250-100, Brasil"
 coordinates:
   lat: -25.4496583

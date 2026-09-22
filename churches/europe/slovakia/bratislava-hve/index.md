@@ -3,6 +3,7 @@ title: "Bratislava — Церковь ХВЕ в Братиславе"
 description: "Pentecostal Church Bratislava"
 url: "https://spasenie.eu/churches/europe/slovakia/bratislava-hve/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Tajovského 3347/32, 811 04 Bratislava, Slovakia"
 coordinates:
   lat: 48.160823

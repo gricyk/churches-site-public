@@ -3,6 +3,7 @@ title: "Dietzholztal — Украинская церковь в Дитцхёль
 description: "Ukrainian Church Dietzhölztal"
 url: "https://spasenie.eu/churches/europe/germany/dietzholztal-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "FBG Dillenburg, Obere Industriestraße 1, 35684 Frohnhausen, Germany"
 coordinates:
   lat: 50.782979

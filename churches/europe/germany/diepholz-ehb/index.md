@@ -3,6 +3,7 @@ title: "Diepholz — Церковь евангельских христиан в
 description: "Frei Christliche Gemeinde Diepholz"
 url: "https://spasenie.eu/churches/europe/germany/diepholz-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Lüderstrasse 59 A, 49356 Diepholz, Germany"
 coordinates:
   lat: 52.600134

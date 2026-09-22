@@ -3,6 +3,7 @@ title: "Dortmund — Церковь евангельских христиан в
 description: "Evangeliums-Christen Gemeinde Evangeliumslicht Dortmund"
 url: "https://spasenie.eu/churches/europe/germany/dortmund-evangeliumslicht/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Wiscelusweg 12 A, 44319 Dortmund, Germany"
 coordinates:
   lat: 51.524794

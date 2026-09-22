@@ -3,6 +3,7 @@ title: "Essen — Украинская церковь в Эссене"
 description: "Ukrainian Church Essen"
 url: "https://spasenie.eu/churches/europe/germany/essen-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Weidkamp 21, 45355 Essen, Germany"
 coordinates:
   lat: 51.474068

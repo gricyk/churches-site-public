@@ -3,6 +3,7 @@ title: "Buenos Aires — Первая славянская евангельск�
 description: "Iglesia Cristiana Evangélica Eslava («Primera Eslava») — старейшая славянская баптистская церковь Буэнос-Айреса"
 url: "https://spasenie.eu/churches/south-america/argentina/buenos-aires-primera-eslava/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Saavedra 1281-1283, C1247ACA Ciudad Autónoma de Buenos Aires, Argentina"
 coordinates:
   lat: -34.62475

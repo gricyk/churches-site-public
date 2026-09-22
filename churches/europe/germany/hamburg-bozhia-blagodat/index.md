@@ -3,6 +3,7 @@ title: "Hamburg — Церковь ЕХБ «Божия Благодать» Га
 description: "Christliche Gemeinde Gottes Gnade Hamburg"
 url: "https://spasenie.eu/churches/europe/germany/hamburg-bozhia-blagodat/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Schulenbrooksweg 2a, 21029 Hamburg, Germany"
 coordinates:
   lat: 53.486428

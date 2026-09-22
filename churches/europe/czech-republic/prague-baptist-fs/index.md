@@ -3,6 +3,7 @@ title: "Prague — Церковь Евангельских Христиан Ба
 description: "Baptist Church in Prague (Friedensstimme)"
 url: "https://spasenie.eu/churches/europe/czech-republic/prague-baptist-fs/"
 date: 2026-02-05
+lastmod: 2026-02-05
 address: "Žateckých 1169/11, Praha, Czechia"
 coordinates:
   lat: 50.061234

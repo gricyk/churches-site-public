@@ -3,6 +3,7 @@ title: "Barcelona — Евангельская церковь «Источник
 description: "Source of Life Evangelical Church Barcelona"
 url: "https://spasenie.eu/churches/europe/spain/barcelona-istok-life/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Carrer de la Font d'en Canyelles 106, Barcelona, Spain"
 coordinates:
   lat: 41.441364

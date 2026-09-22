@@ -3,6 +3,7 @@ title: "Nordhorn — ЕХБ Джерело Життя Нордхорн"
 description: "Baptisten Nordhorn"
 url: "https://spasenie.eu/churches/europe/germany/nordhorn-baptist/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Paul-Gerhardt str 2, Nordhorn"
 coordinates:
   lat: 52.432642

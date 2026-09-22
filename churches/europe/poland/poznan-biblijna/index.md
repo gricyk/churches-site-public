@@ -3,6 +3,7 @@ title: "Poznan — Українська Біблійна Церква в Поз�
 description: "Ukrainian Bible Church Poznań"
 url: "https://spasenie.eu/churches/europe/poland/poznan-biblijna/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Osiedle Polan 100, 61-253 Poznań, Poland"
 coordinates:
   lat: 52.383783

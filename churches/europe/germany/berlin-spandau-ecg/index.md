@@ -3,6 +3,7 @@ title: "Berlin — Евангельские Христиане Берлин-Шп
 description: "ECG Berlin-Spandau"
 url: "https://spasenie.eu/churches/europe/germany/berlin-spandau-ecg/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Germersheimer Weg 27, 13583 Berlin, Germany"
 coordinates:
   lat: 52.543624

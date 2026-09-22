@@ -3,6 +3,7 @@ title: "Cheb — Христианская церковь ЕХБ Джерело 
 description: "Křesťanský sbor baptistů Pramen života v Cheb"
 url: "https://spasenie.eu/churches/europe/czech-republic/cheb-pramen/"
 date: 2026-02-05
+lastmod: 2026-02-05
 address: "Libušina 328/4, Cheb, Czechia"
 coordinates:
   lat: 50.075942

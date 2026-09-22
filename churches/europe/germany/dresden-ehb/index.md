@@ -3,6 +3,7 @@ title: "Dresden — Евангельские Христиане-баптисты
 description: "Freie Evangeliums-Christen-Gemeinde Dresden e.V."
 url: "https://spasenie.eu/churches/europe/germany/dresden-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Altenberger Strasse 87, 01279 Dresden, Germany"
 coordinates:
   lat: 51.029953

@@ -3,6 +3,7 @@ title: "Herford — Украинская церковь в Херфорде"
 description: "Ukrainian Church Herford"
 url: "https://spasenie.eu/churches/europe/germany/herford-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Kiebitzstraße 30, 32051 Herford, Germany"
 coordinates:
   lat: 52.127839

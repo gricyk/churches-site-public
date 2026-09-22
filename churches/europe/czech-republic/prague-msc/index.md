@@ -3,6 +3,7 @@ title: "Prague — Церковь Евангельских Христиан Ба
 description: "Baptist Church in Prague (MSC)"
 url: "https://spasenie.eu/churches/europe/czech-republic/prague-msc/"
 date: 2026-02-05
+lastmod: 2026-02-05
 address: "U pošty 1098/6, Praha 8, Czechia"
 coordinates:
   lat: 50.102487

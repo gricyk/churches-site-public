@@ -3,6 +3,7 @@ title: "London — Славянская христианская Церковь 
 description: "Slavic Christian Fellowship London"
 url: "https://spasenie.eu/churches/europe/united-kingdom/london-slavic-christian/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "St. John's Chelsea, 461-463 King's Rd, London SW10 0LU, UK"
 coordinates:
   lat: 51.500021

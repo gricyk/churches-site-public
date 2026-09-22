@@ -3,6 +3,7 @@ title: "Landstuhl — Українська Біблійна Церква «Ре�
 description: "Ukrainian Bible Church Rema Landstuhl"
 url: "https://spasenie.eu/churches/europe/germany/landstuhl-rema/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Ludwigstraße 1, 66849 Landstuhl, Germany"
 coordinates:
   lat: 49.411977

@@ -3,6 +3,7 @@ title: "Piacenza — Домашняя група Piacenza"
 description: "Home Group Piacenza"
 url: "https://spasenie.eu/churches/europe/italy/piacenza-gruppa/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Piacenza, Italy"
 coordinates:
   lat: 44.847635

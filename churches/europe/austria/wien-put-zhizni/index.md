@@ -3,6 +3,7 @@ title: "Vienna — Путь Жизни — Евангельская Церков
 description: "Союз Евангельских церквей Австрии - BEG, Евангельские Христиане и ЕХБ"
 url: "https://spasenie.eu/churches/europe/austria/wien-put-zhizni/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Gertrude-Wondrack-Platz 4, 1120 Wien, Austria"
 coordinates:
   lat: 48.166092

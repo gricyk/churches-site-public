@@ -3,6 +3,7 @@ title: "Lappeenranta — Церковь Евангельских Христиа�
 description: "Way, Truth and Life Baptist Church Lappeenranta"
 url: "https://spasenie.eu/churches/europe/finland/lappeenranta-put-istina/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Hallituskatu 35, 53300 Lappeenranta, Finland"
 coordinates:
   lat: 61.072292

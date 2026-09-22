@@ -3,6 +3,7 @@ title: "Braunschweig — Библейская церковь г. Брауншв�
 description: "Bibelgemeinde Braunschweig e.V."
 url: "https://spasenie.eu/churches/europe/germany/braunschweig-bibelgemeinde/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Dresden str. 134, 38124 Braunschweig, Germany"
 coordinates:
   lat: 52.232242

@@ -2,6 +2,7 @@
 title: "Sacramento — Брат ТВ – Sacramento, CA"
 url: "https://spasenie.eu/churches/north-america/united-states/sacramento-ca-brat-tv/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "Sacramento, CA"
 coordinates:
   lat: 38.5815719

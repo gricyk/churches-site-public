@@ -3,6 +3,7 @@ title: "Hamburg — Церковь «Слово Истины» Гамбург (�
 description: "Frei evangelische Gemeinde «Wort der Wahrheit»"
 url: "https://spasenie.eu/churches/europe/germany/hamburg-slovo-istiny/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Osterrade 7a, 21031 Hamburg-Lohbrügge, Germany"
 coordinates:
   lat: 53.509502

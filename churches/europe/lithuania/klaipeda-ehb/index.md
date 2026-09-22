@@ -3,6 +3,7 @@ title: "Klaipeda — Церковь евангельских баптистов 
 description: "Evangelical Baptist Church Klaipėda"
 url: "https://spasenie.eu/churches/europe/lithuania/klaipeda-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Vytauto g. 38, Klaipėdos m., 92127 Klaipėda, Lithuania"
 coordinates:
   lat: 55.711416

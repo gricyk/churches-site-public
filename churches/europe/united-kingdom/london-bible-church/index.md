@@ -3,6 +3,7 @@ title: "London — Библейская церковь Лондона"
 description: "London Bible Church (ЕХБ)"
 url: "https://spasenie.eu/churches/europe/united-kingdom/london-bible-church/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Burdett Road, Bow, London E3 4TU, UK"
 coordinates:
   lat: 51.518299

@@ -3,6 +3,7 @@ title: "Auckland — Церковь «Свет» Окленд"
 description: "Auckland Slavic Baptist Church Svet / Славянская Баптистская Церковь"
 url: "https://spasenie.eu/churches/oceania/new-zealand/auckland-svet/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "96 Kupe Street, Orakei, Auckland"
 coordinates:
   lat: -36.856911

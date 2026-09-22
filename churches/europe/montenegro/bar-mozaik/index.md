@@ -3,6 +3,7 @@ title: "Мозаик"
 description: "Евангелическая церковь в Баре"
 url: "https://spasenie.eu/churches/europe/montenegro/bar-mozaik/"
 date: 2026-04-14
+lastmod: 2026-04-14
 address: "ul. Kralice Jelene Anžujske 15, Bar"
 coordinates:
   lat: 42.09462632946229

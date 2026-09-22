@@ -3,6 +3,7 @@ title: "Melbourne — EHB Hope - Melbourne Slavic Baptist Church"
 description: "Славянская Баптистская Церковь «Надежда» Мельбурн"
 url: "https://spasenie.eu/churches/oceania/australia/melbourne-ehb-hope/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "65a Tooronga Rd, Malvern VIC 3144"
 coordinates:
   lat: -37.866775

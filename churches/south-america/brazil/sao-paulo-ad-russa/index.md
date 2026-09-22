@@ -3,6 +3,7 @@ title: "São Paulo — Русская пятидесятническая Асс�
 description: "Igreja Evangélica Assembleia de Deus Pentecostal Russa do Brasil — головная церковь русской пятидесятнической деноминации Бразилии, основана в 1936 году"
 url: "https://spasenie.eu/churches/south-america/brazil/sao-paulo-ad-russa/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Rua Pitinga 116, Vila Lúcia, São Paulo - SP, 03146-030, Brasil"
 coordinates:
   lat: -23.59324

@@ -3,6 +3,7 @@ title: "Apucarana — Русская пятидесятническая Асса
 description: "Igreja Evangélica Assembleia de Deus Pentecostal Russa do Brasil в Апукаране — община русской пятидесятнической деноминации Бразилии"
 url: "https://spasenie.eu/churches/south-america/brazil/apucarana-ad-russa/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Rua Miguel Simião 580, Centro, Apucarana - PR, 86800-260, Brasil"
 coordinates:
   lat: -23.5551385

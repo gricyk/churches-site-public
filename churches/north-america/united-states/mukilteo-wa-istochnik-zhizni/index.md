@@ -2,6 +2,7 @@
 title: "Mukilteo — Церковь Источник Жизни – Mukilteo, WA"
 url: "https://spasenie.eu/churches/north-america/united-states/mukilteo-wa-istochnik-zhizni/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "4711 116th St SW Mukilteo, Washington 98275"
 coordinates:
   lat: 47.8940668

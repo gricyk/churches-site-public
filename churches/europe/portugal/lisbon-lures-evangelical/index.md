@@ -3,6 +3,7 @@ title: "Lisbon — Евангельская церковь – Луреш, Ли�
 description: "Igreja Evangélica / Евангельская церковь"
 url: "https://spasenie.eu/churches/europe/portugal/lisbon-lures-evangelical/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "Alameda Salgueiro Maia, 15 A, 2660-329, Santo António de Cavaleiros, Loures, Portugal"
 coordinates:
   lat: 38.807932

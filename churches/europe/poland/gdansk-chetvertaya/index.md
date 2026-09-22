@@ -3,6 +3,7 @@ title: "Gdansk — Четвёртая баптистская церковь Гд
 description: "Fourth Baptist Church Gdańsk"
 url: "https://spasenie.eu/churches/europe/poland/gdansk-chetvertaya/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "ul. Dąbrowskiego 11, 80-153 Gdańsk, Poland"
 coordinates:
   lat: 54.35418

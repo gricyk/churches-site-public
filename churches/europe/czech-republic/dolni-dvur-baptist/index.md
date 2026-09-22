@@ -3,6 +3,7 @@ title: "Dolni — Церковь ЕХБ – Dolní Dvůr"
 description: "Baptist church in Dolni Dvur"
 url: "https://spasenie.eu/churches/europe/czech-republic/dolni-dvur-baptist/"
 date: 2026-02-06
+lastmod: 2026-02-06
 address: "Dolní dvůr 78, 543 42, Czechia"
 coordinates:
   lat: 50.65249

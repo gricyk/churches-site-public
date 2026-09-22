@@ -3,6 +3,7 @@ title: "Siegburg — Евангельская свободная церковь 
 description: "Evangelische Freikirche Siegburg"
 url: "https://spasenie.eu/churches/europe/germany/siegburg-ef/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Wahnbachtalstraße 18, 53721 Siegburg, Germany"
 coordinates:
   lat: 50.789693

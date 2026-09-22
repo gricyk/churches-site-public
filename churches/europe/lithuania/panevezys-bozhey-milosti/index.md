@@ -3,6 +3,7 @@ title: "Panevezys — Церковь «Божьей милости» г. Пан�
 description: "God's Mercy Church Panevėžys"
 url: "https://spasenie.eu/churches/europe/lithuania/panevezys-bozhey-milosti/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "A. Mackevičiaus g. 5, Panevėžio m. sav., 35169 Panevėžys, Lithuania"
 coordinates:
   lat: 55.734499

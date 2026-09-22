@@ -2,6 +2,7 @@
 title: "Sacramento — Баптистская церковь Рок-ланд – Sacramento, CA"
 url: "https://spasenie.eu/churches/north-america/united-states/sacramento-ca-rok-land/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "5132 Elkhorn Blvd, Sacramento, CA 95842-2505"
 coordinates:
   lat: 38.6844062

@@ -3,6 +3,7 @@ title: "Vienna — Евангельская Церковь и Междунаро
 description: "GWP Vienna - Христиане Веры Евангельской"
 url: "https://spasenie.eu/churches/europe/austria/wien-gwp/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Am Heidjöchl 6, 1220 Wien, Austria"
 coordinates:
   lat: 48.23791

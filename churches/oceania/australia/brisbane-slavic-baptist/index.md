@@ -3,6 +3,7 @@ title: "Brisbane — Brisbane Slavic Baptist Church"
 description: "Славянская Баптистская Церковь Брисбена / Brisbane Russian Church"
 url: "https://spasenie.eu/churches/oceania/australia/brisbane-slavic-baptist/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "346-348 Loganlea Rd, Meadowbrook QLD 4131"
 coordinates:
   lat: -27.670143

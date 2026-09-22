@@ -3,6 +3,7 @@ title: "Attendorn — Украинская церковь в Аттендорн�
 description: "Ukrainian Church Attendorn"
 url: "https://spasenie.eu/churches/europe/germany/attendorn-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Schmiedestraße 6, 57432 Attendorn, Germany"
 coordinates:
   lat: 51.132402

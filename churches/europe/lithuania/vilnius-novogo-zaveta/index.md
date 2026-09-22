@@ -3,6 +3,7 @@ title: "Vilnius — Церковь Нового Завета г. Вильнюс"
 description: "New Testament Church Vilnius"
 url: "https://spasenie.eu/churches/europe/lithuania/vilnius-novogo-zaveta/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Algirdo g. 48, Vilniaus m. sav., 03209 Vilnius, Lithuania"
 coordinates:
   lat: 54.687046

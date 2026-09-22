@@ -3,6 +3,7 @@ title: "International Christian Fellowship"
 description: "Англоязычная межконфессиональная церковь в Белграде, также известная, как ICF"
 url: "https://spasenie.eu/churches/europe/serbia/belgrade-icf/"
 date: 2026-04-14
+lastmod: 2026-04-14
 address: "Moxy Belgrade Hotel – Ньегошева 2"
 coordinates:
   lat: 44.805145

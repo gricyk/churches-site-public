@@ -3,6 +3,7 @@ title: "Madrid — Церковь Христиан Веры Евангельск
 description: "Pentecostal Church Madrid"
 url: "https://spasenie.eu/churches/europe/spain/madrid-hve/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Av. de Pablo Neruda 91, Puente de Vallecas, 28018 Madrid, Spain"
 coordinates:
   lat: 40.381186

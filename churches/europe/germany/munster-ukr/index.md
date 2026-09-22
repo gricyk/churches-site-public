@@ -3,6 +3,7 @@ title: "Munster — Украинская церковь в Мюнстере"
 description: "Ukrainian Church Münster (Dieburg)"
 url: "https://spasenie.eu/churches/europe/germany/munster-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Auf der Beune 1a, 64839 Münster, Germany"
 coordinates:
   lat: 49.927594

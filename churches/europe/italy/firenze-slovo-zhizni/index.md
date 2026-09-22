@@ -3,6 +3,7 @@ title: "Firenze — Церковь ЕХБ «Слово жизни» Флорен
 description: "Word of Life Baptist Church Florence"
 url: "https://spasenie.eu/churches/europe/italy/firenze-slovo-zhizni/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Via Aleardo Aleardi 13, 50018 Scandicci, Italy"
 coordinates:
   lat: 43.754774

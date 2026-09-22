@@ -3,6 +3,7 @@ title: "Brno — Дочерняя церковь «Виноградная лоз
 description: "Vinný Kmen Brno"
 url: "https://spasenie.eu/churches/europe/czech-republic/brno-vloza/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Dominikánská 264/2, 602 00 Brno-střed, Czech Republic"
 coordinates:
   lat: 49.1933

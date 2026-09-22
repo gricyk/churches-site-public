@@ -3,6 +3,7 @@ title: "Barcelona — Церковь «Слово Жизни» Барселон�
 description: "Palabra de la Vida Barcelona / Word of Life Barcelona"
 url: "https://spasenie.eu/churches/europe/spain/barcelona-slovo-zhizni/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Passatge dels Alps, 08940 Cornellà de Llobregat, Barcelona, Spain"
 coordinates:
   lat: 41.356002

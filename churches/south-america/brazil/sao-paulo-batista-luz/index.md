@@ -3,6 +3,7 @@ title: "São Paulo — Евангельская баптистская церк�
 description: "Igreja Evangélica Batista Luz — бывшая Первая русская баптистская церковь Сан-Паулу, основана в 1926 году"
 url: "https://spasenie.eu/churches/south-america/brazil/sao-paulo-batista-luz/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Rua Prates 399, Bom Retiro, São Paulo - SP, 01121-000, Brasil"
 coordinates:
   lat: -23.5304256

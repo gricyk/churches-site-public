@@ -3,6 +3,7 @@ title: "Wuppertal — Украинская церковь в Вуппертал�
 description: "Ukrainian Church Wuppertal"
 url: "https://spasenie.eu/churches/europe/germany/wuppertal-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 coordinates:
   lat: 51.2562
   lon: 7.1508

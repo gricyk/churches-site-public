@@ -3,6 +3,7 @@ title: "Kraslava — Библейская церковь Краслава"
 description: "Krāslavas baptistu draudze"
 url: "https://spasenie.eu/churches/europe/latvia/kraslava-biblijna/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Rīgas iela 112, LV-5601 Krāslava, Latgale, Latvia"
 coordinates:
   lat: 55.935497

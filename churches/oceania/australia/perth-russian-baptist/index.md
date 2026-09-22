@@ -3,6 +3,7 @@ title: "Perth — Russian Baptist Church Perth"
 description: "Русская Баптистская Церковь Перта"
 url: "https://spasenie.eu/churches/oceania/australia/perth-russian-baptist/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "60 Armagh St, Victoria Park WA 6100"
 coordinates:
   lat: -31.974566

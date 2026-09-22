@@ -3,6 +3,7 @@ title: "Valga — Церковь «Надежда» г. Валга"
 description: "Valga EKBK Lootus"
 url: "https://spasenie.eu/churches/europe/estonia/valga-nadezhda/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Aia 13, 68204 Valga, Estonia"
 coordinates:
   lat: 57.775466

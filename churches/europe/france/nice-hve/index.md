@@ -3,6 +3,7 @@ title: "Nice — Русскоязычная Евангельская церко�
 description: "Russian-speaking Evangelical Church Nice"
 url: "https://spasenie.eu/churches/europe/france/nice-hve/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "8 Bd de Cimiez, 06000 Nice, France"
 coordinates:
   lat: 43.706699

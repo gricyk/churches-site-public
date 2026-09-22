@@ -3,6 +3,7 @@ title: "Ewersbach — Евангельская церковь в Эверсба�
 description: "FEG Ewersbach"
 url: "https://spasenie.eu/churches/europe/germany/ewersbach-feg/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Hauptstraße 131, 35716 Dietzhölztal, Germany"
 coordinates:
   lat: 50.831947

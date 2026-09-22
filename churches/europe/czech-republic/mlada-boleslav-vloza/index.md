@@ -3,6 +3,7 @@ title: "Mlada — Церковь ЕХБ Виноградная Лоза – Мл
 description: "Stanice sboru Vinný Kmen Mladá Boleslav"
 url: "https://spasenie.eu/churches/europe/czech-republic/mlada-boleslav-vloza/"
 date: 2026-02-06
+lastmod: 2026-02-06
 address: "Dukelská 1443/31, Mladá Boleslav, Czechia"
 coordinates:
   lat: 50.414345

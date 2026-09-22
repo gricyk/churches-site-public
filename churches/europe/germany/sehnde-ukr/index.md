@@ -3,6 +3,7 @@ title: "Sehnde — Украинская церковь в Зенде"
 description: "Ukrainian Church Sehnde"
 url: "https://spasenie.eu/churches/europe/germany/sehnde-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Steinweg 1, 31319 Sehnde, Germany"
 coordinates:
   lat: 52.317622

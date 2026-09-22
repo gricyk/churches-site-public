@@ -3,6 +3,7 @@ title: "Rengsdorf — Украинская церковь в Ренгсдорф�
 description: "Ukrainian Church Rengsdorf"
 url: "https://spasenie.eu/churches/europe/germany/rengsdorf-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Westerwaldstraße 60, 56579 Rengsdorf, Germany"
 coordinates:
   lat: 50.504318

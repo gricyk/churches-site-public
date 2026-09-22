@@ -3,6 +3,7 @@ title: "Thessaloniki — Фессалоники Христианская Ева�
 description: "Χριστιανική Διακονία Thessaloniki"
 url: "https://spasenie.eu/churches/europe/greece/thessaloniki-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Afroditis 6, Vardari, 54629 Thessaloníki, Greece"
 coordinates:
   lat: 40.640317

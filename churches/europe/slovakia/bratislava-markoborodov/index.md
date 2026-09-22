@@ -3,6 +3,7 @@ title: "Bratislava — Церква в Братиславі (Маркоборо�
 description: "Church Bratislava"
 url: "https://spasenie.eu/churches/europe/slovakia/bratislava-markoborodov/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Trnavska 67, Bratislava, Slovakia"
 coordinates:
   lat: 48.16525

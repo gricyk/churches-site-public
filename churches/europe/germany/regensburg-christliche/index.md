@@ -3,6 +3,7 @@ title: "Regensburg — Христианская община в Регенсбу
 description: "Christliche Gemeinde Regensburg"
 url: "https://spasenie.eu/churches/europe/germany/regensburg-christliche/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Adalbert-Stifterstr. 33b, 93051 Regensburg, Germany"
 coordinates:
   lat: 48.998152

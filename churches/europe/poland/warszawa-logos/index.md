@@ -3,6 +3,7 @@ title: "Warszawa — Церква Логос в Варшаві"
 description: "Logos Church Warsaw"
 url: "https://spasenie.eu/churches/europe/poland/warszawa-logos/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "ul.Goździków 29/31, 04-231 Warszawa, Poland"
 coordinates:
   lat: 52.238589

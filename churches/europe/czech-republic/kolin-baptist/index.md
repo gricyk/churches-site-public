@@ -3,6 +3,7 @@ title: "Kolin — Группа Евангельских Христиан Бап�
 description: "Baptist group at Kolin"
 url: "https://spasenie.eu/churches/europe/czech-republic/kolin-baptist/"
 date: 2026-02-05
+lastmod: 2026-02-05
 address: "Královská cesta 226, 280 02 Kolín IV, Czechia"
 coordinates:
   lat: 50.019838

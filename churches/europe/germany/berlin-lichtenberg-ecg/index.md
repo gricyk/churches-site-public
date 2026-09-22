@@ -3,6 +3,7 @@ title: "Berlin — Евангельские Христиане Берлин-Ли
 description: "ECG Berlin-Lichtenberg"
 url: "https://spasenie.eu/churches/europe/germany/berlin-lichtenberg-ecg/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Rudolf-Seiffert-Str. 53, 10369 Berlin, Germany"
 coordinates:
   lat: 52.525295

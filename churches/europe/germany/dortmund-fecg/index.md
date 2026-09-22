@@ -3,6 +3,7 @@ title: "Dortmund — Евангельская христианская церк�
 description: "Freie Evangeliumschristen Gemeinde (FECG) Dortmund"
 url: "https://spasenie.eu/churches/europe/germany/dortmund-fecg/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Gildenstr. 60, 44263 Dortmund, Germany"
 coordinates:
   lat: 51.483546

@@ -3,6 +3,7 @@ title: "Bydgoszcz — Христианская церковь в Быдгощи"
 description: "Christian Church Bydgoszcz"
 url: "https://spasenie.eu/churches/europe/poland/bydgoszcz-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "ul. Unii Lubelskiej 8, Bydgoszcz, Poland"
 coordinates:
   lat: 53.133734

@@ -3,6 +3,7 @@ title: "Prague — Церковь «Виноградная Лоза» в Пра�
 description: "Sbor Bratrské jednoty baptistů v Praze — Vinný Kmen"
 url: "https://spasenie.eu/churches/europe/czech-republic/prague-vloza/"
 date: 2025-01-15
+lastmod: 2025-01-15
 address: "Peroutkova 2482/57, Praha 5 - Smíchov, 150 00, Чехия"
 coordinates:
   lat: 50.062203

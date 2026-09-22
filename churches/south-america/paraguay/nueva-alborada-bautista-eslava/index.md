@@ -3,6 +3,7 @@ title: "Nueva Alborada — Славянская баптистская церк�
 description: "Iglesia Bautista Eslava в Нуэва-Альборада — славянская баптистская община в департаменте Итапуа"
 url: "https://spasenie.eu/churches/south-america/paraguay/nueva-alborada-bautista-eslava/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Nueva Alborada, Departamento de Itapúa, Paraguay"
 coordinates:
   lat: -27.2699648

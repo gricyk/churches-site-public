@@ -3,6 +3,7 @@ title: "Zofingen — Українська церква у Цофінгені"
 description: "Українська євангельська церква у Цофінгені (Швейцарія). Богослужіння щонеділі та щоп'ятниці."
 url: "https://spasenie.eu/churches/europe/switzerland/zofingen-ukr/"
 date: 2026-05-02
+lastmod: 2026-05-02
 address: "Frikartstrasse 6, 4800 Zofingen, Switzerland"
 coordinates:
   lat: 47.2882

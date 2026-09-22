@@ -3,6 +3,7 @@ title: "Joensuu — Церква в Йоенсуу"
 description: "Ukrainian Church Joensuu"
 url: "https://spasenie.eu/churches/europe/finland/joensuu-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Leinikkitie 1B, Joensuu, Finland"
 coordinates:
   lat: 62.611164

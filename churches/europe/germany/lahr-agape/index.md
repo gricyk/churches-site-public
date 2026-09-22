@@ -3,6 +3,7 @@ title: "Lahr — Христианский Центр «Агапе» (ХВЕ-BFP)
 description: "Gemeindezentrum Agape Lahr/Schwarzwald"
 url: "https://spasenie.eu/churches/europe/germany/lahr-agape/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Schwarzwaldstr. 82, 77933 Lahr, Germany"
 coordinates:
   lat: 48.339566

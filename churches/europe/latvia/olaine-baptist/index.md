@@ -3,6 +3,7 @@ title: "Olaine — Церковь христиан-баптистов город
 description: "Olaines baptistu draudze"
 url: "https://spasenie.eu/churches/europe/latvia/olaine-baptist/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Zemgales 4a - 1, LV-2114 Olaine, Rīgas rajons, Latvia"
 coordinates:
   lat: 56.948036

@@ -17,20 +17,20 @@ Technology: Hugo, OpenStreetMap, Leaflet, GitHub
 Name: Spasenie.eu
 Full Title: World Directory of Russian-Speaking and Ukrainian-speaking Evangelical Christian and Baptist Churches
 URL: https://spasenie.eu/
-Description: The most comprehensive directory of Russian-speaking and Ukrainian-speaking Evangelical churches worldwide
+Description: The most up-to-date directory of Russian-speaking and Ukrainian-speaking Evangelical churches worldwide
 
 Standards: HTML5, CSS3, Schema.org, JSON-LD
 Components: Hugo (Static Site Generator), Leaflet.js, OpenStreetMap
 Doctype: HTML5
 IDE: Visual Studio Code, GitHub
 
-Last update: 2026
+Last update: 2026-09-17
 Language: Russian (primary), English (navigation)
 
 /* MISSION */
 Purpose: Help Russian-speaking and Ukrainian-speaking Christians find churches worldwide
 Vision: Connect every Russian-speaking and Ukrainian-speaking believer with a local community
-Values: Accuracy, Accessibility, Community, Faith
+Values: Up-to-date data, Accuracy, Accessibility, Community, Faith
 
 /* DATA */
 Churches Listed: 445

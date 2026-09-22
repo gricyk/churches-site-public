@@ -3,6 +3,7 @@ title: "La Plata — Славянская евангельская баптис�
 description: "Iglesia Bautista Evangélica Eslava — славянская баптистская церковь в Вилья-Лисандро-Ольмос под Ла-Платой"
 url: "https://spasenie.eu/churches/south-america/argentina/la-plata-eslava/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Calle 200 s/n, entre calles 40 y 41, Villa Lisandro Olmos, B1901 La Plata, Provincia de Buenos Aires, Argentina"
 coordinates:
   lat: -34.9956

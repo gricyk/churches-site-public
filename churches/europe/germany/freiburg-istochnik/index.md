@@ -3,6 +3,7 @@ title: "Freiburg — Христианский центр «Источник жи
 description: "IF Church Freiburg"
 url: "https://spasenie.eu/churches/europe/germany/freiburg-istochnik/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Ziegelhofstraße 200, 79110 Freiburg-Lehen, Germany"
 coordinates:
   lat: 48.024209

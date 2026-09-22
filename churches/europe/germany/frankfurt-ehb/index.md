@@ -3,6 +3,7 @@ title: "Frankfurt — Церковь Евангельских Христиан �
 description: "Evangeliums-Christen-Baptisten Gemeinde in Frankfurt am Main e.V."
 url: "https://spasenie.eu/churches/europe/germany/frankfurt-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Eschborner Landstraße 99, 60489 Frankfurt, Germany"
 coordinates:
   lat: 50.128294

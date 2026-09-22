@@ -3,6 +3,7 @@ title: "Fram — Первая славянская баптистская цер
 description: "Iglesia Cristiana Evangélica y Bautista Eslava в колонии Фрам — старейшая славянская баптистская церковь Парагвая, основана в 1930 году"
 url: "https://spasenie.eu/churches/south-america/paraguay/fram-eslava/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Fram, Departamento de Itapúa, Paraguay"
 coordinates:
   lat: -27.0953017

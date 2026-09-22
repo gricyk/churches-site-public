@@ -3,6 +3,7 @@ title: "Radzyn — Церква в Радині"
 description: "Ukrainian Church Radzyń"
 url: "https://spasenie.eu/churches/europe/poland/radzyn-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 coordinates:
   lat: 51.7833
   lon: 22.6167

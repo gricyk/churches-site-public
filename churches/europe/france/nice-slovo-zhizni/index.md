@@ -3,6 +3,7 @@ title: "Nice — Церковь ЕХБ «Слово Жизни» в Ницце"
 description: "Word of Life Baptist Church Nice"
 url: "https://spasenie.eu/churches/europe/france/nice-slovo-zhizni/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "32 Rue de l'Hôtel des Postes, 06000 Nice, France"
 coordinates:
   lat: 43.699344

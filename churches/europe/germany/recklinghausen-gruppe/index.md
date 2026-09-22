@@ -3,6 +3,7 @@ title: "Recklinghausen — Группа по изучению Библии на 
 description: "Evangeliums-Christen Gemeinde Recklinghausen e.V."
 url: "https://spasenie.eu/churches/europe/germany/recklinghausen-gruppe/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Hirtenstraße 37, 45665 Recklinghausen, Germany"
 coordinates:
   lat: 51.599501

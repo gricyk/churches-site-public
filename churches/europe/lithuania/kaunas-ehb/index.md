@@ -3,6 +3,7 @@ title: "Kaunas — Церковь евангельских христиан ба
 description: "Evangelical Baptist Church Kaunas"
 url: "https://spasenie.eu/churches/europe/lithuania/kaunas-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Kranto 2-oji g. 5, Kauno m., 45264 Kaunas, Lithuania"
 coordinates:
   lat: 55.286336

@@ -3,6 +3,7 @@ title: "Torrevieja — Баптистская церковь Торревьех�
 description: "Baptist Church of Torrevieja"
 url: "https://spasenie.eu/churches/europe/spain/torrevieja-baptist/"
 date: 2025-02-04
+lastmod: 2026-09-17
 address: "Calle Los Gases 34, 03182 Torrevieja (Alicante), Spain"
 coordinates:
   lat: 37.981752

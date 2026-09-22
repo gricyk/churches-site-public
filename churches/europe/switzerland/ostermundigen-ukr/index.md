@@ -3,6 +3,7 @@ title: "Bern / Ostermundigen — Українська євангельська �
 description: "Українська євангельська церква в Остермундігені біля Берна (Швейцарія). Богослужіння щонеділі о 12:00."
 url: "https://spasenie.eu/churches/europe/switzerland/ostermundigen-ukr/"
 date: 2026-05-02
+lastmod: 2026-05-02
 address: "Bahnhofstrasse 39, 3072 Ostermundigen, Switzerland"
 coordinates:
   lat: 46.9573

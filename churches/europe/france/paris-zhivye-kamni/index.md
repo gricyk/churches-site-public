@@ -3,6 +3,7 @@ title: "Paris — Церковь ЕХБ «Живые Камни» Париж"
 description: "Living Stones Baptist Church Paris"
 url: "https://spasenie.eu/churches/europe/france/paris-zhivye-kamni/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "12 Rue Guérin, 94220 Charenton-le-Pont, France"
 coordinates:
   lat: 48.823633

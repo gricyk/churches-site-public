@@ -3,6 +3,7 @@ title: "Mersin — Христианская Церковь в Турции, Ме
 description: "Christian Church Mersin Turkey"
 url: "https://spasenie.eu/churches/asia/turkey/mersin-hristianskaya/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Deniz, 49268. Sk. NO: 11A, Mavi event organizasyon, 33000 Mezitli, Mersin, Turkey"
 coordinates:
   lat: 36.797838

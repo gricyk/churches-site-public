@@ -2,6 +2,7 @@
 title: "Reisterstown — Славянская баптистская церковь Новый Путь – Reisterstown, MD"
 url: "https://spasenie.eu/churches/north-america/united-states/reisterstown-md-baptistskaya-tserkov-novyy-put/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "808 Berrymans Lane Reisterstown, MD 21136"
 coordinates:
   lat: 39.4365614

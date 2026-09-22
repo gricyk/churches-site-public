@@ -3,6 +3,7 @@ title: "Strasbourg — Христианская Евангельская цер�
 description: "For All Nations Christian Evangelical Church Strasbourg"
 url: "https://spasenie.eu/churches/europe/france/strasbourg-dlya-vsekh-narodov/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "32 Rue du Languedoc, 67100 Strasbourg, France"
 coordinates:
   lat: 48.547251

@@ -3,6 +3,7 @@ title: "Пярну — Церковь «Вефиль»"
 description: "Pärnu Vene EKB Kogudus Peetel — евангельская церковь ЕХБ в Пярну, Эстония"
 url: "https://spasenie.eu/churches/europe/estonia/parnu-vefil/"
 date: 2026-04-29
+lastmod: 2026-04-29
 address: "Havi 5, 80032 Pärnu, Estonia"
 coordinates:
   lat: 58.3921

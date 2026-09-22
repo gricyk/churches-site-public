@@ -3,6 +3,7 @@ title: "Slany — Евангельская церковь (ЕХБ) в Слана
 description: "Evangelical Baptist Church Slaný"
 url: "https://spasenie.eu/churches/europe/czech-republic/slany-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Vepřkova 1087/14, 274 01 Slaný 1, Czech Republic"
 coordinates:
   lat: 50.2333

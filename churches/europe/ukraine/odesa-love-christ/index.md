@@ -3,6 +3,7 @@ title: "Odesa — Церква Євангельських християн Лю�
 description: "Ebangelical Christian Church Love of Christ in Odessa"
 url: "https://spasenie.eu/churches/europe/ukraine/odesa-love-christ/"
 date: 2026-02-05
+lastmod: 2026-02-05
 address: "Ukraine, Odesa, Stepova 23/25"
 coordinates:
   lat: 46.462097

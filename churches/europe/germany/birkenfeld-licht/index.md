@@ -3,6 +3,7 @@ title: "Birkenfeld — ЕХБ церковь «Свет этого мира» в
 description: "Evangelisch Freikirchliche Gemeinde «Licht dieser Welt»"
 url: "https://spasenie.eu/churches/europe/germany/birkenfeld-licht/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Feckweilerhaide 19, 55765 Birkenfeld, Germany"
 coordinates:
   lat: 49.654819

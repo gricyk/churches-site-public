@@ -3,6 +3,7 @@ title: "Erkrath — Церковь евангельских христиан в 
 description: "Freie Evangeliumschristen Gemeinde Erkrath"
 url: "https://spasenie.eu/churches/europe/germany/erkrath-ehb/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Wagnerstrasse 18, 40699 Erkrath, Germany"
 coordinates:
   lat: 51.223959

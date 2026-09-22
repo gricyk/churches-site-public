@@ -3,6 +3,7 @@ title: "Morsbach — Украинская Евангельская Церков�
 description: "Ukrainisch Frei Evangelisch Gemeinde Morsbach"
 url: "https://spasenie.eu/churches/europe/germany/morsbach-ukrainische/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Flurstraße 12, 51597 Morsbach, Germany"
 coordinates:
   lat: 50.868638

@@ -3,6 +3,7 @@ title: "São Caetano do Sul — Баптистская церковь «Нова
 description: "Igreja Batista Nova Vida — бывшая Первая украинская баптистская церковь Сан-Паулу, основана в 1955 году"
 url: "https://spasenie.eu/churches/south-america/brazil/sao-caetano-do-sul-nova-vida/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Rua São Francisco de Assis 107, Santa Maria, São Caetano do Sul - SP, 09560-520, Brasil"
 coordinates:
   lat: -23.6347853

@@ -3,6 +3,7 @@ title: "Nueva Alborada — Славянская пятидесятническа
 description: "Iglesia Pentecostal Eslava в Нуэва-Альборада — славянская пятидесятническая община в департаменте Итапуа"
 url: "https://spasenie.eu/churches/south-america/paraguay/nueva-alborada-pentecostal-eslava/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Nueva Alborada, Departamento de Itapúa, Paraguay"
 coordinates:
   lat: -27.2696145

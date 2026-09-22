@@ -2,6 +2,7 @@
 title: "Spokane — Славянская Баптистская Церковь «На Горе» – Spokane, WA"
 url: "https://spasenie.eu/churches/north-america/united-states/spokane-wa-na-gore/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "8913 N Nettleton Ln., Spokane, WA, 99208, USA"
 coordinates:
   lat: 47.74037976197

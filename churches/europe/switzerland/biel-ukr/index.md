@@ -3,6 +3,7 @@ title: "Biel — Українська євангельська церква"
 description: "Українська євангельська церква в Білі (Швейцарія). Богослужіння щонеділі о 15:15."
 url: "https://spasenie.eu/churches/europe/switzerland/biel-ukr/"
 date: 2026-05-02
+lastmod: 2026-05-02
 address: "Poststrasse 16, 2502 Biel, Switzerland"
 coordinates:
   lat: 47.1372

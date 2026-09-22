@@ -3,6 +3,7 @@ title: "Warszawa — Баптистская церковь «Божья благ
 description: "God's Grace Baptist Church Warsaw"
 url: "https://spasenie.eu/churches/europe/poland/warszawa-bozhya-blagodat/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Stanisławowska 14, 03-832 Warszawa, Poland"
 coordinates:
   lat: 52.250627

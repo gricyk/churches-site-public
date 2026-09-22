@@ -3,6 +3,7 @@ title: "San Juan del Paraná — Славянская евангельская �
 description: "Iglesia Evangélica Bautista Eslava en San Luis del Paraná — славянская баптистская община в департаменте Итапуа"
 url: "https://spasenie.eu/churches/south-america/paraguay/san-juan-del-parana-eslava/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "San Luis del Paraná, San Juan del Paraná, Departamento de Itapúa, Paraguay"
 coordinates:
   lat: -27.3028924

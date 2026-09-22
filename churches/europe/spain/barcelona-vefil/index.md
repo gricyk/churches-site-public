@@ -3,6 +3,7 @@ title: "Barcelona — Церковь ЕХБ «Вефиль» Барселона"
 description: "Bethel Baptist Church Barcelona"
 url: "https://spasenie.eu/churches/europe/spain/barcelona-vefil/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Carrer de Badosa 42, 08016 Barcelona, Spain"
 coordinates:
   lat: 41.441589

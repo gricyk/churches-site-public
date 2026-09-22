@@ -3,6 +3,7 @@ title: "Buenos Aires — Славянская церковь «Свободны�
 description: "Iglesia Eslava (Hermanos Libres) — славянская община свободных братьев в районе Велес-Сарсфилд"
 url: "https://spasenie.eu/churches/south-america/argentina/buenos-aires-eslava-hermanos-libres/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Avenida Dr. J. F. Aranguren 4525, C1407 Vélez Sarsfield, Ciudad Autónoma de Buenos Aires, Argentina"
 coordinates:
   lat: -34.631149

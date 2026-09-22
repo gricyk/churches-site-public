@@ -3,6 +3,7 @@ title: "Koblenz — Русскоязычная свободная евангел
 description: "Russischsprachige freie evangelische Gemeinde Koblenz-Neuendorf"
 url: "https://spasenie.eu/churches/europe/germany/koblenz-feg/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Brenderweg 125, 56070 Koblenz, Germany"
 coordinates:
   lat: 50.366676

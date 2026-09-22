@@ -3,6 +3,7 @@ title: "Nurnberg — Христианская Церковь «Невеста Х
 description: "Braut Christi Nürnberg"
 url: "https://spasenie.eu/churches/europe/germany/nurnberg-nevesta/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Schweinauer Hauptstraße 14A, 90441 Nürnberg, Germany"
 coordinates:
   lat: 49.434361

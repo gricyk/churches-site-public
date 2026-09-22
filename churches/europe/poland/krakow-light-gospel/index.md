@@ -3,6 +3,7 @@ title: "Krakow - Евангельская церковь Свет Евангел
 description: "Light of the Gospel Evangelical Church"
 url: "https://spasenie.eu/churches/europe/poland/krakow-light-gospel/"
 date: 2026-03-18
+lastmod: 2026-03-18
 address: "Stanisława Wyspiańskiego 4, Kraków, Poland"
 coordinates:
   lat: 50.072211

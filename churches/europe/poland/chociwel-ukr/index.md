@@ -3,6 +3,7 @@ title: "Chociwel — Церква в Хоцівелі"
 description: "Ukrainian Church Chociwel"
 url: "https://spasenie.eu/churches/europe/poland/chociwel-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 coordinates:
   lat: 53.4667
   lon: 15.3167

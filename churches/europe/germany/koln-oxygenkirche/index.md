@@ -3,6 +3,7 @@ title: "Koln — Oxygenkirche Köln"
 description: "Oxygenkirche Köln"
 url: "https://spasenie.eu/churches/europe/germany/koln-oxygenkirche/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Im Weidenbruch 4, 51061 Köln, Germany"
 coordinates:
   lat: 50.979744

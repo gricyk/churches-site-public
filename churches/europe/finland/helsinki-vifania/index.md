@@ -3,6 +3,7 @@ title: "Helsinki — Церковь «Вифания» Хельсинки"
 description: "Bethany Church Helsinki"
 url: "https://spasenie.eu/churches/europe/finland/helsinki-vifania/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Annankatu 1, 00120 Helsinki, Finland"
 coordinates:
   lat: 60.162917

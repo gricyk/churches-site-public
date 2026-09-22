@@ -3,6 +3,7 @@ title: "Erechim — Русская пятидесятническая Ассам
 description: "Igreja Evangélica Assembleia de Deus Pentecostal Russa do Brasil в Эрешине — община русской пятидесятнической деноминации Бразилии"
 url: "https://spasenie.eu/churches/south-america/brazil/erechim-ad-russa/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Rua Elisa Wacchi 102, Três Vendas, Erechim - RS, Brasil"
 coordinates:
   lat: -27.6429356

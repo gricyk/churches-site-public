@@ -3,6 +3,7 @@ title: "Freudenstadt — Церковь «Новая Жизнь» Freudenstadt"
 description: "Neues Leben Freudenstadt"
 url: "https://spasenie.eu/churches/europe/germany/freudenstadt-neues-leben/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Ringstraße 27, 72250 Freudenstadt, Germany"
 coordinates:
   lat: 48.466754

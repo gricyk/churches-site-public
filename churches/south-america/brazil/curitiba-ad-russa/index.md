@@ -3,6 +3,7 @@ title: "Curitiba — Русская пятидесятническая Асса�
 description: "Igreja Evangélica Assembleia de Deus Pentecostal Russa do Brasil в Куритибе — община русской пятидесятнической деноминации Бразилии"
 url: "https://spasenie.eu/churches/south-america/brazil/curitiba-ad-russa/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Rua Bom Jesus de Iguape 1572, Hauer, Curitiba - PR, 81610-040, Brasil"
 coordinates:
   lat: -25.4745155

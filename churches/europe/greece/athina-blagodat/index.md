@@ -3,6 +3,7 @@ title: "Athina — Афины, Библейская Церковь «Благо�
 description: "Grace Bible Church Athens"
 url: "https://spasenie.eu/churches/europe/greece/athina-blagodat/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "10557 Athina, Greece"
 coordinates:
   lat: 37.978709

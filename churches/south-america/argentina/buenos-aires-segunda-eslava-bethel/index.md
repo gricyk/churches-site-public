@@ -3,6 +3,7 @@ title: "Buenos Aires — Вторая славянская баптистска�
 description: "Segunda Iglesia Bautista Eslava «Bethel» — славянская баптистская церковь в районе Велес-Сарсфилд"
 url: "https://spasenie.eu/churches/south-america/argentina/buenos-aires-segunda-eslava-bethel/"
 date: 2026-09-05
+lastmod: 2026-09-05
 address: "Martínez Castro 249, C1407 Vélez Sarsfield, Ciudad Autónoma de Buenos Aires, Argentina"
 coordinates:
   lat: -34.63708

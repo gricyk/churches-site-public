@@ -3,6 +3,7 @@ title: "Gensingen — Украинская церковь в Гензинген�
 description: "Ukrainian Church Gensingen"
 url: "https://spasenie.eu/churches/europe/germany/gensingen-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Alzeyer Straße 31, 55457 Gensingen, Germany"
 coordinates:
   lat: 49.891309

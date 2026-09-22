@@ -3,6 +3,7 @@ title: "Vsetin — Евангельская Украинская Церковь 
 description: "Lighthouse Evangelical Ukrainian Church Vsetín"
 url: "https://spasenie.eu/churches/europe/czech-republic/vsetin-mayak/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Havlíčkova 1627, 755 01 Vsetín 1, Czech Republic"
 coordinates:
   lat: 49.3333

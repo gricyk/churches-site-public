@@ -2,6 +2,7 @@
 title: "Lynnwood — Славянская баптистская церковь города Сиэтла"
 url: "https://spasenie.eu/churches/north-america/united-states/lynnwood-wa-baptistskaya-tserkov-goroda-si/"
 date: 2026-02-04
+lastmod: 2026-02-04
 address: "17319 Larch Way, Lynnwood, WA 98037"
 coordinates:
   lat: 47.8411436

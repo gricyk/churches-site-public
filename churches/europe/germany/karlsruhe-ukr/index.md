@@ -3,6 +3,7 @@ title: "Karlsruhe — Украинская церковь в Карлсруэ"
 description: "Ukrainian Church Karlsruhe"
 url: "https://spasenie.eu/churches/europe/germany/karlsruhe-ukr/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Ohiostraße 17, 76149 Karlsruhe, Germany"
 coordinates:
   lat: 49.033231

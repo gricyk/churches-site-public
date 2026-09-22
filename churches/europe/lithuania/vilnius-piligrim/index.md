@@ -3,6 +3,7 @@ title: "Vilnius — Баптистская церковь «Пилигрим» �
 description: "Pilgrim Baptist Church Vilnius"
 url: "https://spasenie.eu/churches/europe/lithuania/vilnius-piligrim/"
 date: 2025-02-04
+lastmod: 2025-02-04
 address: "Verkių g. 22, Vilniaus m. sav., 08219 Vilnius, Lithuania"
 coordinates:
   lat: 54.687046

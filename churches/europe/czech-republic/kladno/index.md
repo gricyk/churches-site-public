@@ -3,6 +3,7 @@ title: "Kladno — Церковь Евангельских христиан ба
 description: "Sbor Bratrské jednoty baptistů v Kladně"
 url: "https://spasenie.eu/churches/europe/czech-republic/kladno/"
 date: 2025-01-15
+lastmod: 2025-01-15
 address: "Osvoboz.pol.věznů 341, Kladno 27201, Чехия"
 coordinates:
   lat: 50.145081
